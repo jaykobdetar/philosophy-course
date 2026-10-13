@@ -16,10 +16,13 @@ The original source curriculum maps 15 units, but only its Introduction unit is 
 | --- | --- |
 | [Revised curriculum](Philosophy%20curriculum%20and%20writing%20foundations.docx) | Current 14-course study plan and Course 1 sequence, September 30 revision |
 | [collection/](collection/philosophy-study-collection/) | Browsable extraction of numbered packages 00–13, kept under their original shared folder |
-| [source-packages/](source-packages/) | Original numbered ZIPs 00–13, earlier standalone foundations pack, and original curriculum ZIP |
+| [source-packages/](source-packages/) | Original numbered ZIPs 00–13, earlier standalone foundations pack, original curriculum ZIP, and a separate retrieval-tool source ZIP |
 | [Access gaps](philosophy-access-gaps.txt) and [materials manifest](philosophy-materials-manifest.txt) | Edition, source, rights, and missing-reading records |
+| [research/](research/) | The two original planning research reports, preserved as their user-facing report text |
 
-The original curriculum ZIP contains additional retrieval-tool source and CI files that the collection's `source-curriculum` copy omits. It is retained as an archive under `source-packages/`; its bundled workflows are not installed as repository workflows. The standalone foundations pack is also retained in its original form. The ZIPs and the browsable collection intentionally duplicate files so both the original packages and individual course assets are available.
+The original curriculum ZIP contains additional retrieval-tool source and CI files that the collection's `source-curriculum` copy omits. It is retained as an archive under `source-packages/`. A separately saved retrieval-tool source ZIP and the standalone foundations pack are also retained in their original forms. Their bundled workflows are not installed as repository workflows. The ZIPs and the browsable collection intentionally duplicate files so both the original packages and individual course assets are available.
+
+The planning research reports are background rationale, not the current syllabus. A second Library copy of the revised DOCX was byte-identical, so one copy is kept here. The research reports retain their final report text without the surrounding session activity and search logs.
 
 ## Rights and attribution
 
