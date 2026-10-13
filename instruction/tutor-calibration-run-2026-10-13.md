@@ -2,6 +2,8 @@
 
 Five fresh Codex contexts were given the [active tutor rules](tutor.md), the relevant opening packet, and one learner prompt each. The session-configured Codex model's exact ID was not exposed to this run. Rules version: `2026-10-13-r0`. These are simulated learner inputs and raw first-turn tutor outputs, **not** a real learner pilot or a test of a deployed tutor endpoint. The five cases test only the named boundaries. The expected-results page was withheld from the contexts. Case 1 uses a close variant of the prompt on the [calibration specification](tutor-calibration.md); both target the same validity-versus-policy confusion.
 
+**Execution provenance:** The fresh isolated collaboration task paths were `/root/calibration_1_source`, `/root/calibration_2`, `/root/calibration_3`, `/root/calibration_4`, and `/root/calibration_5`, corresponding to cases 1–5 below. Their responses were captured from those task transcripts, not authored as expected answers in this file. The collaboration interface exposed task paths but no stable transcript URL or numeric run ID. An earlier `/root/calibration_1` run relied on a supplied excerpt; its response was superseded by the independently source-checked `calibration_1_source` run below. These paths identify the execution records within the parent task; the copied text here is the durable repository record.
+
 ## 1. Valid inference and policy objection
 
 **Learner input:** “Mira won the prize only if she paid the fee. Mira won the prize. So Mira paid the fee. I think the inference is invalid because the fee policy is unfair.”

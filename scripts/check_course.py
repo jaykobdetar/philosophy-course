@@ -10,6 +10,7 @@ import sys
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 from audit_conversion import audit as audit_conversion
+from build_assignment_catalogue import build as build_assignment_catalogue
 from course_model import COMMON, OPTIONS, base, requirements_met, route_records
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -90,6 +91,12 @@ def check_links():
 
 def check_data():
     data = read_json("data/course.json")
+    catalogue = read_json("data/assignment-catalogue.json")
+    if catalogue != build_assignment_catalogue():
+        fail("later assignment catalogue differs from current source pages")
+    catalogue_items = unique(catalogue["records"], "later assignment")
+    if len(catalogue_items) != 130:
+        fail("later assignment catalogue incomplete")
     workload = read_json("data/workload.json")
     if data["curriculum_version"] != workload["curriculum_version"]:
         fail("course and workload versions differ")
