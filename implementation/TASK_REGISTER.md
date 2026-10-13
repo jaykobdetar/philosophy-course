@@ -7,7 +7,7 @@ Snapshot: 2026-10-13. “Opening” means Course 1 Sessions 1–4 and the separa
 | PC-01 | Full revised DOCX converted to [current pages](../current/README.md); original and text baseline preserved. | Human review of complex original formatting. |
 | PC-02 | [Historical collection notice](../collection/README.md) and migrated HTML entry points distinguish old rules. | Keep notices current if legacy surfaces change. |
 | PC-03 | Root, current, HTML and migrated historical entry points lead to the new start. | Test all entry paths with an actual learner; archived ZIP copies remain historical. |
-| PC-04 | [Active tutor rules](../instruction/tutor.md) and opening assessment use current version and outcomes. | Calibrate the tutor actually used and revise on failure. |
+| PC-04 | [Active tutor rules](../instruction/tutor.md), opening assessment and [five-context Codex calibration record](../instruction/tutor-calibration-run-2026-10-13.md) use current version and outcomes. | Calibrate any different deployed tutor and revise on failure; this run is no learner pilot. |
 | PC-05 | [Private learner record template](../instruction/learner-record.md) holds attempt, help, revision and fresh evidence. | Populate with real learner work privately. |
 | PC-06 | [Baseline](../archive/BASELINE.md), conversion audit and [decisions](DECISIONS.md) record preservation and amendments. | Review any future correction against the saved original. |
 | PC-07 | [Structured opening data](../data/course.json) separates work, edition, asset and assignment; [later backlog](../data/reading-backlog.json) is explicit. | Normalize the full route as each module is prepared. |
@@ -48,7 +48,7 @@ Snapshot: 2026-10-13. “Opening” means Course 1 Sessions 1–4 and the separa
 | PC-42 | Private visibility checked; legacy notices corrected and originals archived. | Inspect all tracked/history surfaces and permissions before any public proposal. |
 | PC-43 | Original source packages preserved; reproducible filtered teaching ZIP available. | Deduplicate active archive bundles only after content inventory; do not alter historical ZIPs casually. |
 | PC-44 | [One check command](../scripts/check_course.py) verifies IDs, preservation, routes, links, hours, checksums and views. | Extend checks as later data enters; recheck external sources before use. |
-| PC-45 | Generated HTML has descriptive links, landmarks, skip/focus styles and was opened locally. | Actual keyboard, zoom, screen-reader and print checks remain; no conformance claim. |
+| PC-45 | Generated HTML has descriptive links, landmarks, skip/focus styles and a [bounded static inspection](DECISIONS.md). | Rendered keyboard, narrow-screen, zoom, screen-reader and print checks remain; no conformance claim. |
 | PC-46 | Problematic later scans identified in the plan; no transformation claimed. | Repair only assigned defects before relevant reading with untouched originals. |
 | PC-47 | Opening marked links lead directly to assigned passages. | Make contextual, permission-checked extracts for later difficult passages. |
 | PC-48 | [Maintenance procedure](MAINTENANCE.md), generated views, checks and scope record exist. | Update as later modules and rights decisions are made. |

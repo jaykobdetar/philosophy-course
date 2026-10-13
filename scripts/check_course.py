@@ -227,6 +227,12 @@ def check_data():
     for n in range(1, 5):
         if not (ROOT / f"instruction/course-01/sessions/{n:02d}.md").is_file():
             fail(f"missing opening session {n}")
+    c01 = (ROOT / "current/courses/01.md").read_text()
+    for n in range(1, 5):
+        if f"../../instruction/course-01/sessions/{n:02d}.md" not in c01:
+            fail(f"current Course 1 does not delegate Session {n} to its packet")
+    if "validity/soundness examples in 5.3" in c01 or "bounded deductive part of **5.4**" not in c01:
+        fail("stale Course 1 Session 3 reading summary")
 
 
 def check_baseline_and_distribution():

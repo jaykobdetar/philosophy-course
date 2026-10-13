@@ -18,6 +18,10 @@ Outcome `C01-O3`: The learner explains validity as no case of true premises and 
 
 Outcome `C01-O1` and `C01-O3`: In *Euthyphro* 5d–8b, Socrates asks what piety itself is; Euthyphro's own prosecution is offered as an instance. The response explains why one instance may not settle all cases. A strong paragraph cites a visible Stephanus range and distinguishes the text's claim from an interpretive inference. It may defend an alternative interpretation if the passage supports it. The original nonreligious independent check should preserve the instance/definition distinction without a tutor-supplied example.
 
+## Fresh and delayed forms
+
+For [fresh Form A](assessment.md), the gods' disagreement matters to the proposed criterion. Its conditional argument affirms the consequent: differing wording need not come from translation. For fresh Form B, the relevant disagreement is over just and unjust; treating every disagreement as arithmetic misses the passage's point. Its conditional argument denies the antecedent: a closed gallery might still have its lights on. For delayed Form D, the passage contrasts an offered instance with the requested general account. Its conditional argument uses modus tollens: given the conditional and absence of tracking, the conclusion follows. Credit reasoning that makes these distinctions in the learner's own terms rather than requiring these labels.
+
 ## Repair and recheck
 
 For an attribution error, reread one paragraph and paraphrase a different speaker's claim. For an inference error, construct a countercase with the same form and different subject. For a definition error, compare one example and a proposed general rule. Then use a different, unpracticed case. Mark readiness by criterion and evidence, not a percentage. Record actual focused minutes as part of the shared 120-hour source baseline.

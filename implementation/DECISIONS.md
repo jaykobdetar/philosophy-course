@@ -1,5 +1,18 @@
 # Decisions and corrections
 
+## 2026-10-13 — PC-04, PC-15–24 and PC-44 — Opening authority and assessment calibration
+
+- **Decision:** Make the four Course 1 session packets canonical by replacing duplicated course-page summaries with direct links. Keep form-specific answers in examiner notes and only neutral criteria in the learner assessment.
+- **Source:** Revised DOCX conversion and the current Session 1–4 packets; OpenStax 5.4 supplies the Session 3 validity reading. The conversion audit records four additional named summary replacements.
+- **Validation:** Local preservation and course checks pass. Five fresh Codex contexts tested bounded tutor cases; exact prompts, outputs, source access and judgments are in the [run record](../instruction/tutor-calibration-run-2026-10-13.md).
+- **Limit:** The five cases do not establish production tutor reliability or substitute for a learner pilot. Re-run against any different deployed tutor.
+
+## 2026-10-13 — PC-45 — Opening navigator accessibility check
+
+- **Scope:** Bounded static keyboard, narrow-screen, and print inspection of `current/navigation.html` only.
+- **Evidence:** All 33 anchors have `href`; none has a negative tab order. A skip link targets the unique `main` ID, and the document has one `nav` and one `main`. The page declares a viewport, visible focus styling, fluid body width with padding, and print rules; the course checker validates local links.
+- **Limit:** Chrome headless could not start in this sandbox, and browser UI policy blocked opening the local `file:` page. No rendered reflow, keyboard traversal, or print-preview result is claimed. Those manual checks remain in PC-45 before a broader accessibility claim.
+
 ## 2026-10-13 — PC-01 and PC-06 — Current source and baseline
 
 - **Decision:** Preserve the September 30 DOCX and convert its full content to linkable Markdown pages before curricular amendments. The pages in `current/` are the editable source.
