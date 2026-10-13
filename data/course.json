@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "curriculum_version": "2026-10-13-r0",
+  "authority": "current/",
+  "status_scope": "Opening four sessions verified; later course pages are converted source, not released lesson packets",
+  "courses": [
+    {"id":"C01","page":"current/courses/01.md","baseline_hours":120,"prerequisites":[]},
+    {"id":"C02","page":"current/courses/02.md","baseline_hours":150,"prerequisites":["C01:argument-modules"]},
+    {"id":"C03","page":"current/courses/03.md","baseline_hours":120,"prerequisites":["C01"]},
+    {"id":"C04","page":"current/courses/04.md","baseline_hours":100,"prerequisites":["C01"]},
+    {"id":"C05","page":"current/courses/05.md","baseline_hours":120,"prerequisites":["C01"]},
+    {"id":"C06","page":"current/courses/06.md","baseline_hours":120,"prerequisites":["C01"]},
+    {"id":"C07","page":"current/courses/07.md","baseline_hours":140,"prerequisites":["C01","C02:semantics","C05"]},
+    {"id":"C08","page":"current/courses/08.md","baseline_hours":140,"prerequisites":["C01","C06"]},
+    {"id":"C09","page":"current/courses/09.md","baseline_hours":140,"prerequisites":["C01","C05"]},
+    {"id":"C10","page":"current/courses/10.md","baseline_hours":120,"prerequisites":["C01","C02:semantics"]},
+    {"id":"C11A","page":"current/courses/11a.md","baseline_hours":140,"prerequisites":["C01","C06"]},
+    {"id":"C11B","page":"current/courses/11b.md","baseline_hours":140,"prerequisites":["C01","C08"]},
+    {"id":"C12A","page":"current/courses/12a.md","baseline_hours":140,"prerequisites":["C01","C02:semantics","C05","C07"]},
+    {"id":"C12B","page":"current/courses/12b.md","baseline_hours":120,"prerequisites":["C01","C06","C09"]},
+    {"id":"C12C","page":"current/courses/12c.md","baseline_hours":140,"prerequisites":["C01","C05","C09"]},
+    {"id":"C12D","page":"current/courses/12d.md","baseline_hours":140,"prerequisites":["C01","C06","C08"]},
+    {"id":"C13A","page":"current/courses/13a.md","baseline_hours":160,"prerequisites":["C12A"]},
+    {"id":"C13B","page":"current/courses/13b.md","baseline_hours":160,"prerequisites":["C11A"]},
+    {"id":"C13C","page":"current/courses/13c.md","baseline_hours":160,"prerequisites":["C11B","C12D"]},
+    {"id":"C14","page":"current/courses/14.md","baseline_hours":180,"prerequisites":["C13A"],"alternative_prerequisite":"a completed selected Course 13 seminar with equivalent research evidence"}
+  ],
+  "default_route": ["C01","C02","C03","C04","C05","C06","C07","C08","C09","C10","C11A","C12A","C13A","C14"],
+  "works": [
+    {"id":"W-OPENSTAX-IP","title":"Introduction to Philosophy","creator":"OpenStax","legacy_cat_ids":[]},
+    {"id":"W-PLATO-EUTH","title":"Euthyphro","creator":"Plato","legacy_cat_ids":["CAT-001"]}
+  ],
+  "editions": [
+    {"id":"E-OPENSTAX-2022","work_id":"W-OPENSTAX-IP","description":"OpenStax, Introduction to Philosophy, 2022, web edition","language":"en","assessment_suitability":"beginner guide and reasoning instruction"},
+    {"id":"E-EUTH-JOWETT-WABASH","work_id":"W-PLATO-EUTH","description":"Benjamin Jowett translation, Wabash College marked PDF","language":"en","assessment_suitability":"Stephanus markers printed; cite this translation and verify quotations"}
+  ],
+  "assets": [
+    {"id":"A-OPENSTAX-25","edition_id":"E-OPENSTAX-2022","url":"https://openstax.org/books/introduction-philosophy/pages/2-5-reading-philosophy","local_path":null,"availability":"online","rights":"link-only in this repository; third-party site retains terms","text_quality":"native HTML"},
+    {"id":"A-OPENSTAX-52","edition_id":"E-OPENSTAX-2022","url":"https://openstax.org/books/introduction-philosophy/pages/5-2-logical-statements","local_path":null,"availability":"online","rights":"link-only in this repository; third-party site retains terms","text_quality":"native HTML"},
+    {"id":"A-OPENSTAX-53","edition_id":"E-OPENSTAX-2022","url":"https://openstax.org/books/introduction-philosophy/pages/5-3-arguments","local_path":null,"availability":"online","rights":"link-only in this repository; third-party site retains terms","text_quality":"native HTML"},
+    {"id":"A-OPENSTAX-55","edition_id":"E-OPENSTAX-2022","url":"https://openstax.org/books/introduction-philosophy/pages/5-5-informal-fallacies","local_path":null,"availability":"online","rights":"link-only in this repository; third-party site retains terms","text_quality":"native HTML"},
+    {"id":"A-EUTH-WABASH-PDF","edition_id":"E-EUTH-JOWETT-WABASH","url":"https://persweb.wabash.edu/facstaff/helmang/phi110-1516F/phi110-handouts/Euthyphro.pdf","local_path":null,"availability":"online","rights":"link-only; no redistribution permission established for this host copy","text_quality":"marked 15-page PDF; check the visible Stephanus marker at both ends"}
+  ],
+  "assignments": [
+    {"id":"C01-S01-R1","course_id":"C01","session_id":"C01-S01","edition_id":"E-OPENSTAX-2022","asset_id":"A-OPENSTAX-25","locator":"section 2.5 Reading Philosophy, complete","required":true,"readiness":"ready-online","verified_on":"2026-10-13"},
+    {"id":"C01-S01-R2","course_id":"C01","session_id":"C01-S01","edition_id":"E-EUTH-JOWETT-WABASH","asset_id":"A-EUTH-WABASH-PDF","locator":"2a to before 5d (PDF pages 1–4)","required":true,"readiness":"ready-online","verified_on":"2026-10-13"},
+    {"id":"C01-S02-R1","course_id":"C01","session_id":"C01-S02","edition_id":"E-OPENSTAX-2022","asset_id":"A-OPENSTAX-53","locator":"section 5.3 Arguments, complete","required":true,"readiness":"ready-online","verified_on":"2026-10-13"},
+    {"id":"C01-S03-R1","course_id":"C01","session_id":"C01-S03","edition_id":"E-OPENSTAX-2022","asset_id":"A-OPENSTAX-52","locator":"section 5.2 Logical Statements, complete; validity/soundness examples in 5.3","required":true,"readiness":"ready-online","verified_on":"2026-10-13"},
+    {"id":"C01-S04-R1","course_id":"C01","session_id":"C01-S04","edition_id":"E-EUTH-JOWETT-WABASH","asset_id":"A-EUTH-WABASH-PDF","locator":"5d to before 8b (PDF pages 4–6; 8b appears at the page 6/7 boundary)","required":true,"readiness":"ready-online","verified_on":"2026-10-13"},
+    {"id":"C01-M02-PRACTICAL-R1","course_id":"C01","session_id":"C01-M02-PRACTICAL","edition_id":"E-OPENSTAX-2022","asset_id":"A-OPENSTAX-55","locator":"section 5.5 Informal Fallacies, complete","required":true,"readiness":"ready-online","verified_on":"2026-10-13"}
+  ]
+}

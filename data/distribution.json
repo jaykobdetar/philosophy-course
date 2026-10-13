@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "purpose": "Explicit allowlist for a future teaching-only distribution package; not a permission grant for third-party content",
+  "files": [
+    "README.md",
+    "current/README.md",
+    "current/start.md",
+    "current/program.md",
+    "current/milestones.md",
+    "current/reference.md",
+    "current/evidence.md",
+    "current/assessment.md",
+    "current/access.md",
+    "current/review-record.md",
+    "current/navigation.html",
+    "current/readiness/course-01.md",
+    "current/readiness/source-corrections.md",
+    "data/course.json",
+    "data/workload.json",
+    "data/distribution.json",
+    "instruction/tutor.md",
+    "instruction/tutor-calibration.md",
+    "instruction/learner-record.md",
+    "instruction/audio-handoff.md",
+    "instruction/examples.md",
+    "instruction/course-01/README.md",
+    "instruction/course-01/examiner-notes.md",
+    "instruction/course-01/outcomes.md",
+    "instruction/course-01/practical-reasoning.md",
+    "instruction/course-02/first-logic-packet.md",
+    "instruction/course-01/assessment.md",
+    "instruction/course-01/review-queue.md",
+    "instruction/PILOT_PROTOCOL.md"
+  ],
+  "directories": [
+    "current/courses",
+    "instruction/course-01/sessions"
+  ],
+  "excluded_roots": [
+    "collection",
+    "source-packages",
+    "learner",
+    ".private_readings",
+    "research",
+    "archive",
+    "dist"
+  ],
+  "warning": "Inspect all included prose, links, attribution and permissions before any public distribution. This allowlist only prevents known private reading bundles from being copied by the builder."
+}

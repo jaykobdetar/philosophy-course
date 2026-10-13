@@ -1,0 +1,14 @@
+# Source and edition corrections
+
+These are checked corrections to the earlier collection's catalogue and the preservation-only DOCX conversion. They do **not** mark later modules study-ready or authorize copying a third-party edition.
+
+| Item | What the local file actually supplies | Current consequence |
+| --- | --- | --- |
+| CAT-012 Sextus | Gutenberg 17556 credits **Mary Mills Patrick**. Its first part is her secondary study; a later section headed “The First Book of the Pyrrhonic Sketches by Sextus Empiricus, Translated from the Greek” contains her translation. Checked against the local TXT on 2026-10-13. | Patrick can support background or a clearly identified alternate translation. Course 3 assigns Annas/Barnes *Outlines of Scepticism* I.1–30; that edition still requires loan/access before its packet. Do not call the whole Patrick book a primary text or say it has no translated Book I. |
+| CAT-015 Aquinas | Gutenberg 17611 is **complete Part I, questions 1–119**, not just I q.2 a.3. The local TXT visibly includes I q.2 a.3 objection 1, its main answer, and the replies. Checked locally on 2026-10-13. | Course 4's assigned I q.1 a.8 and I q.2 aa.1–3 can be located within this file. Surface the already included evil objection/reply; no extra reading hours for that text alone. |
+| CAT-005 Pryor | The original manifest marks the author's guide optional in the historical Introduction. The revised Course 1 Module 3 explicitly assigns Pryor's whole guide at writing stages. | Required **for that current module**, not for opening Session 1. Status belongs to the current assignment, not globally to CAT-005. |
+| CAT-017 / CAT-023 | CAT-017 is the **Elisabeth–Descartes 1643 correspondence assignment**; CAT-023 is Bennett's **modernized reading aid**. The archived manifest links the latter to the former but does not make it Shapiro's edition. | Keep IDs and editions distinct. Do not quote Bennett as the assigned Shapiro translation in assessed work. |
+| Descartes | The available excerpt is `texts/introduction_logic/required/descartes_veitch_1912_meditations_I-VI.pdf`; the full OCR is `descartes_veitch_1912_fulltext.txt`. The excerpt labels printed 79–143 and PDF 1–65. | Use the actual filename. AT VII crosswalk is not printed in this local edition and remains unchecked; no invented AT-to-PDF mapping is published. |
+| Wittgenstein | The historical catalogue points to a Wiley UAT storefront URL. A replacement publisher page could not be verified during this change. | Do not use the staging URL as an active acquisition route. Obtain a publisher or library record when the optional passage is actually selected. |
+
+Other later-course source ranges, reprint pages, and rights still need item-level verification before packet release. The current opening checklist has its own [verified reading routes](course-01.md).

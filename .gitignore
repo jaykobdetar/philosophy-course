@@ -1,0 +1,7 @@
+# Personal work and separately managed private reading files
+/learner/
+/.private_readings/
+/dist/
+/.cache/
+__pycache__/
+*.pyc

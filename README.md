@@ -1,33 +1,22 @@
-# Philosophy study course
+# Philosophy course
 
-This private repository keeps the self-directed philosophy study materials together. The **revised 14-course plan** in [Philosophy curriculum and writing foundations.docx](Philosophy%20curriculum%20and%20writing%20foundations.docx) is the current study sequence. It starts with reading, reasoning, and philosophical writing; plan on roughly five to seven focused hours a week. The earlier collection is preserved as a source library and a set of activities, rather than a second competing course plan.
+This private repository holds the current self-directed philosophy curriculum and its preserved source collection. **Start with [Session 1](instruction/course-01/sessions/01.md):** read [OpenStax 2.5](https://openstax.org/books/introduction-philosophy/pages/2-5-reading-philosophy) and Plato's *Euthyphro* [2a up to before 5d](https://persweb.wabash.edu/facstaff/helmang/phi110-1516F/phi110-handouts/Euthyphro.pdf), then write a 120-word paraphrase of Euthyphro's reason for prosecuting his father. The marked reading is online and requires internet access; use the visible Stephanus markers. Save your own untouched attempt and one question for next time.
 
-## Start studying
+The [first four session packets](instruction/course-01/README.md) contain readings, outputs, feedback criteria, fresh checks, and next steps. They cover six hours within Course 1 and are **study-ready for that scope, not learner-piloted**. The remaining courses are specified in the [current 14-course curriculum](current/README.md); they are not all authored lesson packets. The [course navigator](current/navigation.html) and [opening reading checklist](current/readiness/course-01.md) are generated from the reading records.
 
-1. Read the revised curriculum's **Start here** page. Its first 90-minute session uses OpenStax's reading guide and Plato's *Euthyphro*, then asks for a short paraphrase and reflection. The detailed Course 1 sequence follows in the same document.
-2. Open the collection's [START_HERE.html](collection/philosophy-study-collection/START_HERE.html) for the original package navigation and reading links. The [Introduction unit](collection/philosophy-study-collection/source-curriculum/curriculum/units/introduction.md) contains the developed step-by-step activities, writing assignments, and assessment gate.
-3. Check the [access gaps](philosophy-access-gaps.txt) and [materials manifest](philosophy-materials-manifest.txt) before relying on a reading. Some required books or sections are not supplied; some local files are alternate editions or reading aids. The three [audio files](collection/philosophy-study-collection/audio/) are optional support for study.
+## Which rules apply
 
-The original source curriculum maps 15 units, but only its Introduction unit is fully developed; the other 14 are outlines. The later curriculum document revises the route to 14 courses. It provides the current sequence and assessment guidance, but this repository does not contain fully authored lessons for every course.
+The Markdown pages in [current/](current/README.md) are the editable curriculum authority. The September 30 [revised DOCX](Philosophy%20curriculum%20and%20writing%20foundations.docx) and [conversion snapshot](archive/revised-curriculum-pandoc-baseline.md) are preserved baselines. The original fifteen-unit source in [collection/](collection/README.md) is historical and its numerical gates, tutor rules, and public-template instructions are superseded. Use the [active tutor rules](instruction/tutor.md) and [private learner record](instruction/learner-record.md).
 
-## Repository layout
+The current default route is writing-first, then logic and the core courses, one global-tradition option, one selected area, an advanced seminar, and a capstone. The source baseline estimates 1,890 focused hours for the default route and 1,270 through Course 10; proposed additions and bridges do **not** yet have a verified route-wide total. The program awards no credit or external certification.
 
-| Path | Purpose |
-| --- | --- |
-| [Revised curriculum](Philosophy%20curriculum%20and%20writing%20foundations.docx) | Current 14-course study plan and Course 1 sequence, September 30 revision |
-| [collection/](collection/philosophy-study-collection/) | Browsable extraction of numbered packages 00–13, kept under their original shared folder |
-| [source-packages/](source-packages/) | Original numbered ZIPs 00–13, earlier standalone foundations pack, original curriculum ZIP, and a separate retrieval-tool source ZIP |
-| [Access gaps](philosophy-access-gaps.txt) and [materials manifest](philosophy-materials-manifest.txt) | Edition, source, rights, and missing-reading records |
-| [research/](research/) | The two original planning research reports, preserved as their user-facing report text |
+The [stopping and continuation milestones](current/milestones.md) describe what each checkpoint actually demonstrates. [Optional listening](instruction/audio-handoff.md) has a short text-check handoff; every essential task has a written route.
 
-The original curriculum ZIP contains additional retrieval-tool source and CI files that the collection's `source-curriculum` copy omits. It is retained as an archive under `source-packages/`. A separately saved retrieval-tool source ZIP and the standalone foundations pack are also retained in their original forms. Their bundled workflows are not installed as repository workflows. The ZIPs and the browsable collection intentionally duplicate files so both the original packages and individual course assets are available.
+## Files and rights
 
-The planning research reports are background rationale, not the current syllabus. A second Library copy of the revised DOCX was byte-identical, so one copy is kept here. The research reports retain their final report text without the surrounding session activity and search logs.
+- [Source packages](source-packages/) preserve the 14 numbered ZIPs, earlier standalone packs, and separate retrieval-tool source. Bundled workflows are archived, not installed as this repository's CI.
+- [Collection](collection/philosophy-study-collection/) holds the extracted private-study reading library. Many third-party readings and audio have no general redistribution permission; the [manifest](philosophy-materials-manifest.txt) and [access gaps](philosophy-access-gaps.txt) describe individual sources and missing material. Keep this repository private. No whole-collection license is asserted.
+- [Data](data/course.json) records current reading IDs, editions, assets and bounded opening assignments. [Workload](data/workload.json) records baseline and scoped changes. A future distributable build must use a rights allowlist and exclude restricted readings and private learner work.
+- [Unified plan](implementation/UNIFIED_PLAN.md), [implementation status](implementation/STATUS.md), [decisions](implementation/DECISIONS.md), and [maintenance procedure](implementation/MAINTENANCE.md) explain scope and limits. Run `python3 scripts/check_course.py` in a clean checkout to check current links, identifiers, hours, and generated views.
 
-## Rights and attribution
-
-Keep this repository private for personal study. The collection includes third-party readings and audio with differing rights, including copyrighted items supplied for private study without a general redistribution license. Consult each item in the [manifest](philosophy-materials-manifest.txt), and preserve its source and copyright notices. Do not publish or share the collection as an anthology.
-
-The MIT license inside the original source curriculum applies to its original content only. It does **not** cover third-party readings, audio, translations, or linked material. The original retrieval tool credits and licenses remain in its source ZIP. Public-domain status may depend on jurisdiction.
-
-This is a self-study program, not an accredited degree or a claim of equivalent university credit.
+Personal work goes in the ignored `learner/` directory. The repository's old source and original packages remain recoverable in Git history; do not publish or share the private reading collection as an anthology.
