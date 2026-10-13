@@ -11,14 +11,14 @@
 
 - **Scope:** Bounded static keyboard, narrow-screen, and print inspection of `current/navigation.html` only.
 - **Evidence:** All 33 anchors have `href`; none has a negative tab order. A skip link targets the unique `main` ID, and the document has one `nav` and one `main`. The page declares a viewport, visible focus styling, fluid body width with padding, and print rules; the course checker validates local links.
-- **Limit:** Chrome headless could not start in this sandbox, and browser UI policy blocked opening the local `file:` page. No rendered reflow, keyboard traversal, or print-preview result is claimed. Those manual checks remain in PC-45 before a broader accessibility claim.
+- **Limit:** Chrome headless first exited 1 with `Failed to create headless user data directory container.` With an explicit `/tmp` profile it exited 133 with `crashpad ... setsockopt: Operation not permitted (1)`. Browser UI then rejected the local `file:` URL because only `http:` and `https:` are allowed and expressly barred indirect workarounds. No rendered reflow, keyboard traversal, or print-preview result is claimed. Those manual checks remain in PC-45 before a broader accessibility claim.
 
 ## 2026-10-13 — PC-07 and PC-44 — Later assignment metadata
 
 - **Decision:** Extract the current later-course module headings, baseline hours, and assignment text into a structured [source assignment catalogue](../data/assignment-catalogue.json). Record the three Course 13 seminar paper prompts as course-level prompts because those pages have no module timetable.
 - **Source:** `current/courses/02.md` through `14.md`, excluding aggregate option overview pages and the separately handled Course 1. Every record has a source page and line. The 127 module allocations sum to each page's baseline hours; the three seminar prompts have no invented hours.
 - **Validation:** `scripts/build_assignment_catalogue.py --check` and `scripts/check_course.py` compare all 130 records with their source pages and check unique IDs and per-course module hour totals.
-- **Limit:** This preserves existing assignment metadata. It does not assert that later reading editions, assets, passage boundaries, permissions, or teaching packets are ready.
+- **Limit:** This preserves module and paper assignment metadata. It is not a work-by-work reading catalogue: only seven later reading candidates currently have individual records in `data/reading-backlog.json`, covering Course 1 and Course 2. Course 3–14 reading assignments still need work/edition/asset/locator normalization and source checks. The catalogue does not assert that later reading editions, passage boundaries, permissions, or teaching packets are ready.
 
 ## 2026-10-13 — PC-01 and PC-06 — Current source and baseline
 
