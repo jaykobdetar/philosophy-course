@@ -1,0 +1,404 @@
+                                                                         1
+                                                       The Artworld
+
+                                                         Arthur C. Danto
+
+
+
+
+                                                                                                 AL
+                                                                                           RI
+   Hamlet: Do you see nothing there ?                                         for “is art.” Yet, perhaps because artists were engaged in imi-
+   The Queen: Nothing at all; yet all that is I see.
+
+
+
+
+                                                                                    TE
+                                                                              tation, in Socrates’ time and after, the insufficiency of the
+          Shakespeare: Hamlet, Act III, Scene IV                              theory was not noticed until the invention of photography.
+                                                                              Once rejected as a sufficient condition, mimesis was quickly
+
+
+                                                                          MA
+Hamlet and Socrates, though in praise and deprecation                         discarded as even a necessary one; and since the achieve-
+respectively, spoke of art as a mirror held up to nature. As                  ment of Kandinsky, mimetic features have been relegated to
+with many disagreements in attitude, this one has a factual                   the periphery of critical concern, so much so that some
+basis. Socrates saw mirrors as but reflecting what we can                     works survive in spite of possessing those virtues, excel-
+                                                                    D
+already see; so art, insofar as mirrorlike, yields idle accurate              lence in which was once celebrated as the essence of art,
+duplications of the appearances of things, and is of no cog-                  narrowly escaping demotion to mere illustrations.
+                                                            TE
+
+nitive benefit whatever. Hamlet, more acutely, recognized a                      It is, of course, indispensable in socratic discussion that all
+remarkable feature of reflecting surfaces, namely that they                   participants be masters of the concept up for analysis, since
+show us what we could not otherwise perceive – our own                        the aim is to match a real defining expression to a term in
+                                                   GH
+
+
+
+face and form – and so art, insofar as it is mirrorlike, reveals              active use, and the test for adequacy presumably consists in
+us to ourselves, and is, even by socratic criteria, of some                   showing that the former analyzes and applies to all and only
+cognitive utility after all. As a philosopher, however, I find                those things of which the latter is true. The popular dis-
+                                             RI
+
+
+
+
+Socrates’ discussion defective on other, perhaps less pro-                    claimer notwithstanding, then, Socrates’ auditors purport-
+found grounds than these. If a mirror‐image of o is indeed                    edly knew what art was as well as what they liked; and a
+                                     PY
+
+
+
+
+an imitation of o, then, if art is imitation, mirror‐images are               theory of art, regarded here as a real definition of ‘Art’, is
+art. But in fact mirroring objects no more is art than                        accordingly not to be of great use in helping men to recog-
+returning weapons to a madman is justice; and reference to                    nize instances of its application. Their antecedent ability to
+                            CO
+
+
+
+
+mirrorings would be just the sly sort of counterinstance we                   do this is precisely what the adequacy of the theory is to be
+would expect Socrates to bring forward in rebuttal of the                     tested against, the problem being only to make explicit what
+theory he instead uses them to illustrate. If that theory                     they already know. It is our use of the term that the theory
+requires us to class these as art, it thereby shows its inade-                allegedly means to capture, but we are supposed able, in the
+quacy: “is an imitation” will not do as a sufficient condition                words of a recent writer, “to separate those objects which
+
+
+
+Arthur C. Danto, “The Artworld,” Journal of Philosophy 61 (1964), pp. 571–84. Reproduced by permission of The Journal of Philosophy.
+
+
+
+Aesthetics and the Philosophy of Art – The Analytic Tradition: An Anthology, Second Edition.
+Edited by Peter Lamarque and Stein Haugom Olsen.
+© 2019 John Wiley & Sons, Inc. Published 2019 by John Wiley & Sons, Inc.
+8                                                          arthur c. danto
+
+are works of art from those which are not, because … we               theory (IT), it was impossible to accept these as art unless
+know how correctly to use the word ‘art’ and to apply the             inept art: otherwise they could be discounted as hoaxes,
+phrase ‘work of art’.” Theories, on this account, are some-           self‐advertisements, or the visual counterparts of madmen’s
+what like mirror‐images on Socrates’ account, showing                 ravings. So to get them accepted as art, on a footing with
+forth what we already know, wordy reflections of the actual           the Transfiguration (not to speak of a Landseer stag), required
+linguistic practice we are masters in.                                not so much a revolution in taste as a theoretical revision of
+   But telling artworks from other things is not so simple a          rather considerable proportions, involving not only the
+matter, even for native speakers, and these days one might            artistic enfranchisement of these objects, but an emphasis
+not be aware he was on artistic terrain without an artistic           upon newly significant features of accepted artworks, so
+theory to tell him so. And part of the reason for this lies in        that quite different accounts of their status as artworks
+the fact that terrain is constituted artistic in virtue of artistic   would now have to be given. As a result of the new theory’s
+theories, so that one use of theories, in addition to helping         acceptance, not only were post‐impressionist paintings
+us discriminate art from the rest, consists in making art pos-        taken up as art, but numbers of objects (masks, weapons,
+sible. Glaucon and the others could hardly have known                 etc.) were transferred from anthropological museums (and
+what was art and what not: otherwise they would never                 heterogeneous other places) to musées des beaux arts, though,
+have been taken in by mirror‐images.                                  as we would expect from the fact that a criterion for the
+                                                                      acceptance of a new theory is that it account for whatever
+                                                                      the older one did, nothing had to be transferred out of the
+I                                                                     musées des beaux arts – even if there were internal rearrange-
+                                                                      ments as between storage rooms and exhibition space.
+Suppose one thinks of the discovery of a whole new class of           Countless native speakers hung upon suburban mantel-
+artworks as something analogous to the discovery of a whole           pieces innumerable replicas of paradigm cases for teaching
+new class of facts anywhere, viz., as something for theoreti-         the expression ‘work of art’ that would have sent their
+cians to explain. In science, as elsewhere, we often accom-           Edwardian forebears into linguistic apoplexy.
+modate new facts to old theories via auxiliary hypotheses, a             To be sure, I distort by speaking of a theory: historically,
+pardonable enough conservatism when the theory in ques-               there were several, all, interestingly enough, more or less
+tion is deemed too valuable to be jettisoned all at once. Now         defined in terms of the IT. Art‐historical complexities must
+the Imitation Theory of Art (IT) is, if one but thinks it             yield before the exigencies of logical exposition, and I shall
+through, an exceedingly powerful theory, explaining a great           speak as though there were one replacing theory, partially
+many phenomena connected with the causation and evalua-               compensating for historical falsity by choosing one which
+tion of artworks, bringing a surprising unity into a complex          was actually enunciated. According to it, the artists in ques-
+domain. Moreover, it is a simple matter to shore it up against        tion were to be understood not as unsuccessfully imitating
+many purported counterinstances by such auxiliary hypoth-             real forms but as successfully creating new ones, quite as
+eses as that the artist who deviates from mimeticity is per-          real as the forms which the older art had been thought, in
+verse, inept, or mad. Ineptitude, chicanery, or folly are, in fact,   its best examples, to be creditably imitating. Art, after all,
+testable predications. Suppose, then, tests reveal that these         had long since been thought of as creative (Vasari says that
+hypotheses fail to hold, that the theory, now beyond repair,          God was the first artist), and the post‐impressionists were to
+must be replaced. And a new theory is worked out, capturing           be explained as genuinely creative, aiming, in Roger Fry’s
+what it can of the old theory’s competence, together with             words, “not at illusion but reality.” This theory (RT) fur-
+the heretofore recalcitrant facts. One might, thinking along          nished a whole new mode of looking at painting, old and
+these lines, represent certain episodes in the history of art as      new. Indeed, one might almost interpret the crude drawing
+not dissimilar to certain episodes in the history of science,         in Van Gogh and Cézanne, the dislocation of form from
+where a conceptual revolution is being effected and where             contour in Rouault and Dufy, the arbitrary use of color
+refusal to countenance certain facts, while in part due to            planes in Gauguin and the Fauves, as so many ways of
+prejudice, inertia, and self‐interest, is due also to the fact that   drawing attention to the fact that these were non‐imitations,
+a well‐established, or at least widely credited theory is being       specifically intended not to deceive. Logically, this would
+threatened in such a way that all coherence goes.                     be roughly like printing “Not Legal Tender” across a bril-
+   Some such episode transpired with the advent of post‐              liantly counterfeited dollar bill, the resulting object (coun-
+impressionist paintings. In terms of the prevailing artistic          terfeit cum inscription) rendered incapable of deceiving
+                                                           the artworld                                                           9
+
+anyone. It is not an illusory dollar bill, but then, just because    fear that someone might just climb into his bed and fall
+it is non‐illusory it does not automatically become a real           asleep. Imagine, now, a certain Testadura – a plain speaker
+dollar bill either. It rather occupies a freshly opened area         and noted philistine – who is not aware that these are art,
+between real objects and real facsimiles of real objects: it is      and who takes them to be reality simple and pure. He
+a non‐facsimile, if one requires a word, and a new contri-           attributes the paintstreaks on Rauschenberg’s bed to the
+bution to the world. Thus, Van Gogh’s Potato Eaters, as              slovenliness of the owner, and the bias in the Oldenburg to
+a consequence of certain unmistakable distortions, turns             the ineptitude of the builder or the whimsy, perhaps, of
+out to be a non‐facsimile of real‐life potato eaters; and            whoever had it “custom‐made.” These would be mistakes,
+­inasmuch as these are not facsimiles of potato eaters, Van          but of rather an odd kind, and not terribly different from
+ Gogh’s picture, as a non‐imitation, had as much right to be         that made by the stunned birds who pecked the sham
+ called a real object as did its putative subjects. By means of      grapes of Zeuxis. They mistook art for reality, and so has
+ this theory (RT), artworks re‐entered the thick of things           Testadura. But it was meant to be reality, according to RT.
+ from which socratic theory (IT) had sought to evict them:           Can one have mistaken reality for reality? How shall we
+ if no more real than what carpenters wrought, they were             describe Testadura’s error? What, after all, prevents
+ at least no less real. The Post‐Impressionist won a victory         Oldenburg’s creation from being a misshapen bed? This is
+ in ontology.                                                        equivalent to asking what makes it art, and with this query
+     It is in terms of RT that we must understand the art-           we enter a domain of conceptual inquiry where native
+ works around us today. Thus Roy Lichtenstein paints                 speakers are poor guides: they are lost themselves.
+ comic‐strip panels, though ten or twelve feet high. These
+ are reasonably faithful projections onto a gigantesque scale
+ of the homely frames from the daily tabloid, but it is pre-         II
+ cisely the scale that counts. A skilled engraver might incise
+ The Virgin and the Chancellor Rollin on a pinhead, and it           To mistake an artwork for a real object is no great feat when
+ would be recognizable as such to the keen of sight, but an          an artwork is the real object one mistakes it for. The prob-
+ engraving of a Barnett Newman on a similar scale would              lem is how to avoid such errors, or to remove them once
+ be a blob, disappearing in the reduction. A photograph of a         they are made. The artwork is a bed, and not a bed‐illusion;
+ Lichtenstein is indiscernible from a photograph of a coun-          so there is nothing like the traumatic encounter against a flat
+ terpart panel from Steve Canyon; but the photograph fails to        surface that brought it home to the birds of Zeuxis that they
+ capture the scale, and hence is as inaccurate a reproduction        had been duped. Except for the guard cautioning Testadura
+ as a black‐and‐white engraving of Botticelli, scale being           not to sleep on the artworks, he might never have discov-
+ essential here as color there. Lichtensteins, then, are not         ered that this was an artwork and not a bed; and since, after
+ imitations but new entities, as giant whelks would be. Jasper       all, one cannot discover that a bed is not a bed, how is
+ Johns, by contrast, paints objects with respect to which            Testadura to realize that he has made an error? A certain sort
+ questions of scale are irrelevant. Yet his objects cannot be        of explanation is required, for the error here is a curiously
+ imitations, for they have the remarkable property that any          philosophical one, rather like, if we may assume as correct
+ intended copy of a member of this class of objects is               some well‐known views of P. F. Strawson, mistaking a per-
+ ­automatically a member of the class itself, so that these          son for a material body when the truth is that a person is a
+  objects are logically inimitable. Thus, a copy of a numeral        material body in the sense that a whole class of predicates,
+  just is that numeral: a painting of 3 is a 3 made of paint.        sensibly applicable to material bodies, are sensibly, and by
+  Johns, in addition, paints targets, flags, and maps. Finally,      appeal to no different criteria, applicable to persons. So you
+  in what I hope are not unwitting footnotes to Plato, two           cannot discover that a person is not a material body.
+  of our pioneers – Robert Rauschenberg and Claes                        We begin by explaining, perhaps, that the paintstreaks
+  Oldenburg – have made genuine beds.                                are not to be explained away, that they are part of the object,
+     Rauschenberg’s bed hangs on a wall, and is streaked with        so the object is not a mere bed with – as it happens – streaks
+  some desultory housepaint. Oldenburg’s bed is a rhomboid,          of paint spilled over it, but a complex object fabricated out
+  narrower at one end than the other, with what one might            of a bed and some paintstreaks: a paint‐bed. Similarly, a per-
+  speak of as a built‐in perspective: ideal for small bedrooms.      son is not a material body with – as it happens – some
+  As beds, these sell at singularly inflated prices, but one could   thoughts superadded, but is a complex entity made up of a
+  sleep in either of them: Rauschenberg has expressed the            body and some conscious states: a conscious‐body. Persons,
+10                                                         arthur c. danto
+
+like artworks, must then be taken as irreducible to parts of
+themselves, and are in that sense primitive. Or, more accu-
+rately, the paintstreaks are not part of the real object – the
+bed – which happens to be part of the artwork, but are, like
+the bed, part of the artwork as such. And this might be
+generalized into a rough characterization of artworks that
+happen to contain real objects as parts of themselves: not
+every part of an artwork A is part of a real object R when
+R is part of A and can, moreover, be detached from A and
+seen merely as R. The mistake thus far will have been to
+mistake A for part of itself, namely R, even though it would                       A                                   B
+not be incorrect to say that A is R, that the artwork is a bed.
+It is the ‘is’ which requires clarification here.
+    There is an is that figures prominently in statements con-        As objects I shall suppose the works to be indiscernible: a
+cerning artworks which is not the is of either identity or            black, horizontal line on a white ground, equally large in
+predication; nor is it the is of existence, of identification, or     each dimension and element. B explains his work as fol-
+some special is made up to serve a philosophic end.                   lows: a mass, pressing downward, is met by a mass pressing
+Nevertheless, it is in common usage, and is readily mastered          upward: the lower mass reacts equally and oppositely to the
+by children. It is the sense of is in accordance with which a         upper one. A explains his work as follows: the line through
+child, shown a circle and a triangle and asked which is him           the space is the path of an isolated particle. The path goes
+and which his sister, will point to the triangle saying “That         from edge to edge, to give the sense of its going beyond. If it
+is me”; or, in response to my question, the person next to            ended or began within the space, the line would be curved:
+me points to the man in purple and says “That one is Lear”;           and it is parallel to the top and bottom edges, for if it were
+or in the gallery I point, for my companion’s benefit, to a           closer to one than to another, there would have to be a
+spot in the painting before us and say “That white dab is             force accounting for it, and this is inconsistent with its
+Icarus.”We do not mean, in these instances, that whatever is          being the path of an isolated particle.
+pointed to stands for, or represents, what it is said to be, for         Much follows from these artistic identifications. To
+the word ‘Icarus’ stands for or represents Icarus: yet I would        regard the middle line as an edge (mass meeting mass)
+not in the same sense of is point to the word and say “ That          imposes the need to identify the top and bottom half of the
+is Icarus.” The sentence “That a is b” is perfectly compatible        picture as rectangles, and as two distinct parts (not necessar-
+with “That a is not b” when the first employs this sense of is        ily as two masses, for the line could be the edge of one mass
+and the second employs some other, though a and b are used            jutting up – or down – into empty space). If it is an edge,
+nonambiguously throughout. Often, indeed, the truth of                we cannot thus take the entire area of the painting as a
+the first requires the truth of the second. The first, in fact, is    single space: it is rather composed of two forms, or one
+incompatible with “That a is not b” only when the is is used          form and a non‐form. We could take the entire area as a
+nonambiguously throughout. For want of a word I shall                 single space only by taking the middle horizontal as a line
+designate this the is of artistic identification; in each case in     which is not an edge. But this almost requires a three‐
+which it is used, the a stands for some specific physical prop-       dimensional identification of the whole picture: the area
+erty of, or physical part of, an object; finally, it is a necessary   can be a flat surface which the line is above (Jet‐flight), or
+condition for something to be an artwork that some part or            below (Submarine‐path), or on (Line), or in (Fissure), or through
+property of it be designable by the subject of a sentence that        (Newton’s First Law) – though in this last case the area is not
+employs this special is. It is an is, incidentally, which has         a flat surface but a transparent cross section of absolute
+near‐relatives in marginal and mythical pronouncements.               space. We could make all these prepositional qualifications
+(Thus, one is Quetzalcoatl; those are the Pillars of Hercules.)       clear by imagining perpendicular cross sections to the pic-
+    Let me illustrate. Two painters are asked to decorate the         ture plane. Then, depending upon the applicable preposi-
+east and west walls of a science library with frescoes to be          tional clause, the area is (artistically) interrupted or not by
+respectively called Newton’s First Law and Newton’s Third             the horizontal element. If we take the line as through space,
+Law. These paintings, when finally unveiled, look, scale              the edges of the picture are not really the edges of the
+apart, as follows:                                                    space: the space goes beyond the picture if the line itself
+                                                               the artworld                                                                11
+
+does; and we are in the same space as the line is. As B, the             What then distinguishes him from Testadura, whose philistine
+edges of the picture can be part of the picture in case the              utterances are indiscernible from his? And how can it be an
+masses go right to the edges, so that the edges of the picture           artwork for him and not for Testadura, when they agree that
+are their edges. In that case, the vertices of the picture would         there is nothing that does not meet the eye? The answer,
+be the vertices of the masses, except that the masses have               unpopular as it is likely to be to purists of every variety, lies in
+four vertices more than the picture itself does: here four               the fact that this artist has returned to the physicality of paint
+vertices would be part of the art work which were not part               through an atmosphere compounded of artistic theories and
+of the real object. Again, the faces of the masses could be              the history of recent and remote painting, elements of which
+the face of the picture, and in looking at the picture, we are           he is trying to refine out of his own work; and as a conse-
+looking at these faces: but space has no face, and on the                quence of this his work belongs in this atmosphere and is part
+reading of A the work has to be read as faceless, and the                of this history. He has achieved abstraction through rejection
+face of the physical object would not be part of the art-                of artistic identifications, returning to the real world from
+work. Notice here how one artistic identification engen-                 which such identifications remove us (he thinks), somewhat
+ders another artistic identification, and how, consistently              in the mode of Ch’ing Yuan, who wrote:
+with a given identification, we are required to give others
+and precluded from still others: indeed, a given identification             Before I had studied Zen for thirty years, I saw mountains as
+determines how many elements the work is to contain.                        mountains and waters as waters. When I arrived at a more
+These different identifications are incompatible with one                   intimate knowledge, I came to the point where I saw that
+another, or generally so, and each might be said to make a                  mountains are not mountains, and waters are not waters. But
+different artwork, even though each artwork contains the                    now that I have got the very substance I am at rest. For it is just
+                                                                            that I see mountains once again as mountains, and waters once
+identical real object as part of itself – or at least parts of the
+                                                                            again as waters.
+identical real object as parts of itself. There are, of course,
+senseless identifications: no one could, I think, sensibly read
+                                                                         His identification of what he has made is logically depend-
+the middle horizontal as Love’s Labour’s Lost or The
+                                                                         ent upon the theories and history he rejects.The difference
+Ascendency of St. Erasmus. Finally, notice how acceptance of
+                                                                         between his utterance and Testadura’s “This is black paint
+one identification rather than another is in effect to
+                                                                         and white paint and nothing more” lies in the fact that he
+exchange one world for another. We could, indeed, enter a
+                                                                         is still using the is of artistic identification, so that his use of
+quiet poetic world by identifying the upper area with a
+                                                                         “That black paint is black paint” is not a tautology.Testadura
+clear and cloudless sky, reflected in the still surface of the
+                                                                         is not at that stage. To see something as art requires some-
+water below, whiteness kept from whiteness only by the
+                                                                         thing the eye cannot decry – an atmosphere of artistic
+unreal boundary of the horizon.
+                                                                         theory, a knowledge of the history of art: an artworld.
+   And now Testadura, having hovered in the wings
+throughout this discussion, protests that all he sees is paint: a
+white painted oblong with a black line painted across it.
+And how right he really is: that is all he sees or that any-             III
+body can, we aesthetes included. So, if he asks us to show
+him what there is further to see, to demonstrate through                 Mr Andy Warhol, the Pop artist, displays facsimiles of Brillo
+pointing that this is an artwork (Sea and Sky), we cannot                cartons, piled high, in neat stacks, as in the stockroom of the
+comply, for he has overlooked nothing (and it would be                   supermarket. They happen to be of wood, painted to look
+absurd to suppose he had, that there was something tiny we               like cardboard, and why not? To paraphrase the critic of the
+could point to and he, peering closely, say “So it is! A work            Times, if one may make the facsimile of a human being out
+of art after all!”).We cannot help him until he has mastered             of bronze, why not the facsimile of a Brillo carton out of
+the is of artistic identification and so constitutes it a work of art.   plywood? The cost of these boxes happens to be 2 × 103
+If he cannot achieve this, he will never look upon artworks:             that of their homely counterparts in real life – a differential
+he will be like a child who sees sticks as sticks.                       hardly ascribable to their advantage in durability. In fact the
+   But what about pure abstractions, say something that looks            Brillo people might, at some slight increase in cost, make
+just like A but is entitled No. 7? The 10th Street abstractionist        their boxes out of plywood without these becoming art-
+blankly insists that there is nothing here but white paint and           works, and Warhol might make his out of cardboard with-
+black, and none of our literary identifications need apply.              out their ceasing to be art. So we may forget questions of
+12                                                     arthur c. danto
+
+intrinsic value, and ask why the Brillo people cannot man-        through, we discover that the artist has failed, really and of
+ufacture art and why Warhol cannot but make artworks.             necessity, to produce a mere real object. He has produced
+Well, his are made by hand, to be sure. Which is like an          an artwork, his use of real Brillo cartons being but an
+insane reversal of Picasso’s strategy in pasting the label from   expansion of the resources available to arists, a contribution
+a bottle of Suze onto a drawing, saying as it were that the       to artists’ materials, as oil paint was, or tuche.
+academic artist, concerned with exact imitation, must                 What in the end makes the difference between a Brillo
+always fall short of the real thing: so why not just use the      box and a work of art consisting of a Brillo Box is a certain
+real thing? The Pop artist laboriously reproduces machine‐        theory of art. It is the theory that takes it up into the world
+made objects by hand, e.g., painting the labels on coffee         of art, and keeps it from collapsing into the real object
+cans (one can hear the familiar commendation “Entirely            which it is (in a sense of is other than that of artistic iden-
+made by hand” falling painfully out of the guide’s vocabu-        tification). Of course, without the theory, one is unlikely to
+lary when confronted by these objects). But the difference        see it as art, and in order to see it as part of the Artworld,
+cannot consist in craft: a man who carved pebbles out of          one must have mastered a good deal of artistic theory as
+stones and carefully constructed a work called Gravel Pile        well as a considerable amount of the history of recent New
+might invoke the labor theory of value to account for the         York painting. It could not have been art fifty years ago. But
+price he demands; but the question is, What makes it art?         then there could not have been, everything being equal,
+And why need Warhol make these things anyway? Why not             flight insurance in the Middle Ages, or Etruscan typewriter
+just scrawl his signature across one? Or crush one up and         erasers. The world has to be ready for certain things, the
+display it as Crushed Brillo Box (“A protest against mechani-     Artworld no less than the real one. It is the role of artistic
+zation …”) or simply display a Brillo carton as Uncrushed         theories, these days as always, to make the Artworld, and art,
+Brillo Box (“A bold affirmation of the plastic authenticity of    possible. It would, I should think, never have occurred to
+industrial …”) ? Is this man a kind of Midas, turning what-       the painters of Lascaux that they were producing art on
+ever he touches into the gold of pure art? And the whole          those walls. Not unless there were neolithic aestheticians.
+world consisting of latent artworks waiting, like the bread
+and wine of reality, to be transfigured, through some dark
+mystery, into the indiscernible flesh and blood of the sacra-     IV
+ment? Never mind that the Brillo box may not be good,
+much less great art. The impressive thing is that it is art at    The Artworld stands to the real world in something like the
+all. But if it is, why are not the indiscernible Brillo boxes     relationship in which the City of God stands to the Earthly
+that are in the stockroom? Or has the whole distinction           City. Certain objects, like certain individuals, enjoy a dou-
+between art and reality broken down?                              ble citizenship, but there remains, the RT notwithstanding,
+   Suppose a man collects objects (ready‐mades), including        a fundamental contrast between artworks and real objects.
+a Brillo carton; we praise the exhibit for variety, ingenuity,    Perhaps this was already dimly sensed by the early framers
+what you will. Next he exhibits nothing but Brillo cartons,       of the IT who, inchoately realizing the nonreality of art,
+and we criticize it as dull, repetitive, self‐plagiarizing – or   were perhaps limited only in supposing that the sole way
+(more profoundly) claim that he is obsessed by regularity         objects had of being other than real is to be sham, so that
+and repetition, as in Marienbad. Or he piles them high, leav-     artworks necessarily had to be imitations of real objects.
+ing a narrow path; we tread our way through the smooth            This was too narrow. So Yeats saw in writing “Once out of
+opaque stacks and find it an unsettling experience, and           nature I shall never take/My bodily form from any natural
+write it up as the closing in of consumer products, confin-       thing.” It is but a matter of choice: and the Brillo box of the
+ing us as prisoners: or we say he is a modern pyramid             Artworld may be just the Brillo box of the real one, sepa-
+builder. True, we don’t say these things about the stockboy.      rated and united by the is of artistic identification. But I
+But then a stockroom is not an art gallery, and we cannot         should like to say some final words about the theories that
+readily separate the Brillo cartons from the gallery they         make artworks possible, and their relationship to one
+are in, any more than we can separate the Rauschenberg            another. In so doing, I shall beg some of the hardest philo-
+bed from the paint upon it. Outside the gallery, they are         sophical questions I know.
+pasteboard cartons. But then, scoured clean of paint,                I shall now think of pairs of predicates related to each
+Rauschenberg’s bed is a bed, just what it was before it was       other as “opposites,” conceding straight off the vagueness
+transformed into art. But then if we think this matter            of this demodé term. Contradictory predicates are not
+                                                           the artworld                                                            13
+
+­opposites, since one of each of them must apply to every           The rows determine available styles, given the active
+ object in the universe, and neither of a pair of opposites         critical vocabulary: representational expressionistic (e.g.,
+ need apply to some objects in the universe. An object must         Fauvism); representational nonexpressionistic (Ingres);
+ first be of a certain kind before either of a pair of opposites    nonrepresentational expressionistic (Abstract Expressionism);
+ applies to it, and then at most and at least one of the oppo-      nonrepresentational non‐expressionist (hard‐edge abstrac-
+ sites must apply to it. So opposites are not contraries, for       tion). Plainly, as we add art relevant predicates, we increase
+ contraries may both be false of some objects in the uni-           the number of available styles at the rate of 2n. It is, of course,
+ verse, but opposites cannot both be false; for of some             not easy to see in advance which predicates are going to be
+ objects, neither of a pair of opposites sensibly applies, unless   added or replaced by their opposites, but suppose an artist
+ the object is of the right sort. Then, if the object is of the     determines that H shall henceforth be artistically relevant
+ required kind, the opposites behave as contradictories. If F       for his paintings. Then, in fact, both H and non‐H become
+ and non‐F are opposites, an object o must be of a certain          artistically relevant for all painting, and if his is the first and
+ kind K before either of these sensibly applies; but if o is a      only painting that is H, every other painting in existence
+ member of K, then o either is F or non‐F, to the exclusion         becomes non‐H, and the entire community of paintings is
+ of the other. The class of pairs of opposites that sensibly        enriched, together with a doubling of the available style
+ apply to the (ô)Ko I shall designate as the class of K‐relevant    opportunities. It is this retroactive enrichment of the entities
+ predicates. And a necessary condition for an object to be of       in the Artworld that makes it possible to discuss Raphael
+ a kind K is that at least one pair of K‐relevant opposites be      and De Kooning together, or Lichtenstein and Michelangelo.
+ sensibly applicable to it. But, in fact, if an object is of kind   The greater the variety of artistically relevant predicates, the
+ K, at least and at most one of each K‐relevant pair of oppo-       more complex the individual members of the Artworld
+ sites applies to it.                                               become; and the more one knows of the entire population
+    I am now interested in the K‐relevant predicates for the        of the Artworld, the richer one’s experience with any of its
+ class K of artworks. And let F and non‐F be an opposite            members.
+ pair of such predicates. Now it might happen that, through-           In this regard, notice that, if there are m artistically rele-
+ out an entire period of time, every artwork is non‐F. But          vant predicates, there is always a bottom row with m
+ since nothing thus far is both an artwork and F, it might          minuses. This row is apt to be occupied by purists. Having
+ never occur to anyone that non‐F is an artistically relevant       scoured their canvasses clear of what they regard as ines-
+ predicate. The non‐F‐ness of artworks goes unmarked. By            sential, they credit themselves with having distilled out the
+ contrast, all works up to a given time might be G, it never        essence of art. But this is just their fallacy: exactly as many
+ occurring to anyone until that time that something might           artistically relevant predicates stand true of their square
+ both be an artwork and non‐G; indeed, it might have been           monochromes as stand true of any member of the Artworld,
+ thought that G was a defining trait of artworks when in fact       and they can exist as artworks only insofar as “impure”
+ something might first have to be an artwork before G is            paintings exist. Strictly speaking, a black square by
+ sensibly predicable of it – in which case non‐G might also         Reinhardt is artistically as rich as Titian’s Sacred and Profane
+ be predicable of artworks, and G itself then could not have        Love. This explains how less is more.
+ been a defining trait of this class.                                  Fashion, as it happens, favors certain rows of the style
+    Let G be ‘is representational’ and let F be ‘is expression-     matrix: museums, connoisseurs, and others are makeweights
+ ist’. At a given time, these and their opposites are perhaps       in the Artworld. To insist, or seek to, that all artists become
+ the only art‐relevant predicates in critical use. Now l­ etting    representational, perhaps to gain entry into a specially pres-
+ ‘+’ stand for a given predicate P and ‘−’ for its opposite         tigious exhibition, cuts the available style matrix in half:
+ non‐P, we may construct a style matrix more or less as             there are then 2n/2 ways of satisfying the requirement, and
+ follows:                                                           museums then can exhibit all these “approaches” to the
+                                                                    topic they have set. But this is a matter of almost purely
+                                                                    sociological interest: one row in the matrix is as legitimate
+               F                              G                     as another. An artistic breakthrough consists, I suppose, in
+               +                              +                     adding the possibility of a column to the matrix. Artists
+               +                              –                     then, with greater or less alacrity, occupy the positions thus
+               –                              +                     opened up: this is a remarkable feature of contemporary art,
+               –                              –                     and for those unfamiliar with the matrix, it is hard, and
+14                                                      arthur c. danto
+
+perhaps impossible, to recognize certain positions as occu-       Artworld becomes that much the richer in having the
+pied by artworks. Nor would these things be artworks              opposite predicate available and applicable to its members.
+without the theories and the histories of the Artworld.           And, to return to the views of Hamlet with which we
+   Brillo boxes enter the Artworld with that same tonic           began this discussion, Brillo boxes may reveal us to our-
+incongruity the commedia dell’arte characters bring into          selves as well as anything might: as a mirror held up to
+Ariadne auf Naxos.Whatever is the artistically relevant pred-     nature, they might serve to catch the conscience of our
+icate in virtue of which they gain their entry, the rest of the   kings.
+

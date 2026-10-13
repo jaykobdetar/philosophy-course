@@ -1,0 +1,273 @@
+Aristotle, On the Soul (De Anima), Book II, Parts 1-3. J. A. Smith translation (1931).
+
+The Internet Classics Archive, Daniel C. Stevenson / Web Atomics. Personal downloading and educational use permitted. Permission details: https://classics.mit.edu/Help/permissions.html
+
+Extracted from the complete MIT text. This edition has book/part labels but lacks full Bekker line numbers.
+
+BOOK II
+
+Part 1 
+
+Let the foregoing suffice as our account of the views concerning
+the soul which have been handed on by our predecessors; let us now
+dismiss them and make as it were a completely fresh start, endeavouring
+to give a precise answer to the question, What is soul? i.e. to formulate
+the most general possible definition of it. 
+
+We are in the habit of recognizing, as one determinate kind of what
+is, substance, and that in several senses, (a) in the sense of matter
+or that which in itself is not 'a this', and (b) in the sense of form
+or essence, which is that precisely in virtue of which a thing is
+called 'a this', and thirdly (c) in the sense of that which is compounded
+of both (a) and (b). Now matter is potentiality, form actuality; of
+the latter there are two grades related to one another as e.g. knowledge
+to the exercise of knowledge. 
+
+Among substances are by general consent reckoned bodies and especially
+natural bodies; for they are the principles of all other bodies. Of
+natural bodies some have life in them, others not; by life we mean
+self-nutrition and growth (with its correlative decay). It follows
+that every natural body which has life in it is a substance in the
+sense of a composite. 
+
+But since it is also a body of such and such a kind, viz. having life,
+the body cannot be soul; the body is the subject or matter, not what
+is attributed to it. Hence the soul must be a substance in the sense
+of the form of a natural body having life potentially within it. But
+substance is actuality, and thus soul is the actuality of a body as
+above characterized. Now the word actuality has two senses corresponding
+respectively to the possession of knowledge and the actual exercise
+of knowledge. It is obvious that the soul is actuality in the first
+sense, viz. that of knowledge as possessed, for both sleeping and
+waking presuppose the existence of soul, and of these waking corresponds
+to actual knowing, sleeping to knowledge possessed but not employed,
+and, in the history of the individual, knowledge comes before its
+employment or exercise. 
+
+That is why the soul is the first grade of actuality of a natural
+body having life potentially in it. The body so described is a body
+which is organized. The parts of plants in spite of their extreme
+simplicity are 'organs'; e.g. the leaf serves to shelter the pericarp,
+the pericarp to shelter the fruit, while the roots of plants are analogous
+to the mouth of animals, both serving for the absorption of food.
+If, then, we have to give a general formula applicable to all kinds
+of soul, we must describe it as the first grade of actuality of a
+natural organized body. That is why we can wholly dismiss as unnecessary
+the question whether the soul and the body are one: it is as meaningless
+as to ask whether the wax and the shape given to it by the stamp are
+one, or generally the matter of a thing and that of which it is the
+matter. Unity has many senses (as many as 'is' has), but the most
+proper and fundamental sense of both is the relation of an actuality
+to that of which it is the actuality. We have now given an answer
+to the question, What is soul?-an answer which applies to it in its
+full extent. It is substance in the sense which corresponds to the
+definitive formula of a thing's essence. That means that it is 'the
+essential whatness' of a body of the character just assigned. Suppose
+that what is literally an 'organ', like an axe, were a natural body,
+its 'essential whatness', would have been its essence, and so its
+soul; if this disappeared from it, it would have ceased to be an axe,
+except in name. As it is, it is just an axe; it wants the character
+which is required to make its whatness or formulable essence a soul;
+for that, it would have had to be a natural body of a particular kind,
+viz. one having in itself the power of setting itself in movement
+and arresting itself. Next, apply this doctrine in the case of the
+'parts' of the living body. Suppose that the eye were an animal-sight
+would have been its soul, for sight is the substance or essence of
+the eye which corresponds to the formula, the eye being merely the
+matter of seeing; when seeing is removed the eye is no longer an eye,
+except in name-it is no more a real eye than the eye of a statue or
+of a painted figure. We must now extend our consideration from the
+'parts' to the whole living body; for what the departmental sense
+is to the bodily part which is its organ, that the whole faculty of
+sense is to the whole sensitive body as such. 
+
+We must not understand by that which is 'potentially capable of living'
+what has lost the soul it had, but only what still retains it; but
+seeds and fruits are bodies which possess the qualification. Consequently,
+while waking is actuality in a sense corresponding to the cutting
+and the seeing, the soul is actuality in the sense corresponding to
+the power of sight and the power in the tool; the body corresponds
+to what exists in potentiality; as the pupil plus the power of sight
+constitutes the eye, so the soul plus the body constitutes the animal.
+
+From this it indubitably follows that the soul is inseparable from
+its body, or at any rate that certain parts of it are (if it has parts)
+for the actuality of some of them is nothing but the actualities of
+their bodily parts. Yet some may be separable because they are not
+the actualities of any body at all. Further, we have no light on the
+problem whether the soul may not be the actuality of its body in the
+sense in which the sailor is the actuality of the ship. 
+
+This must suffice as our sketch or outline determination of the nature
+of soul. 
+
+Part 2
+
+Since what is clear or logically more evident emerges from what in
+itself is confused but more observable by us, we must reconsider our
+results from this point of view. For it is not enough for a definitive
+formula to express as most now do the mere fact; it must include and
+exhibit the ground also. At present definitions are given in a form
+analogous to the conclusion of a syllogism; e.g. What is squaring?
+The construction of an equilateral rectangle equal to a given oblong
+rectangle. Such a definition is in form equivalent to a conclusion.
+One that tells us that squaring is the discovery of a line which is
+a mean proportional between the two unequal sides of the given rectangle
+discloses the ground of what is defined. 
+
+We resume our inquiry from a fresh starting-point by calling attention
+to the fact that what has soul in it differs from what has not, in
+that the former displays life. Now this word has more than one sense,
+and provided any one alone of these is found in a thing we say that
+thing is living. Living, that is, may mean thinking or perception
+or local movement and rest, or movement in the sense of nutrition,
+decay and growth. Hence we think of plants also as living, for they
+are observed to possess in themselves an originative power through
+which they increase or decrease in all spatial directions; they grow
+up and down, and everything that grows increases its bulk alike in
+both directions or indeed in all, and continues to live so long as
+it can absorb nutriment. 
+
+This power of self-nutrition can be isolated from the other powers
+mentioned, but not they from it-in mortal beings at least. The fact
+is obvious in plants; for it is the only psychic power they possess.
+
+This is the originative power the possession of which leads us to
+speak of things as living at all, but it is the possession of sensation
+that leads us for the first time to speak of living things as animals;
+for even those beings which possess no power of local movement but
+do possess the power of sensation we call animals and not merely living
+things. 
+
+The primary form of sense is touch, which belongs to all animals.
+just as the power of self-nutrition can be isolated from touch and
+sensation generally, so touch can be isolated from all other forms
+of sense. (By the power of self-nutrition we mean that departmental
+power of the soul which is common to plants and animals: all animals
+whatsoever are observed to have the sense of touch.) What the explanation
+of these two facts is, we must discuss later. At present we must confine
+ourselves to saying that soul is the source of these phenomena and
+is characterized by them, viz. by the powers of self-nutrition, sensation,
+thinking, and motivity. 
+
+Is each of these a soul or a part of a soul? And if a part, a part
+in what sense? A part merely distinguishable by definition or a part
+distinct in local situation as well? In the case of certain of these
+powers, the answers to these questions are easy, in the case of others
+we are puzzled what to say. just as in the case of plants which when
+divided are observed to continue to live though removed to a distance
+from one another (thus showing that in their case the soul of each
+individual plant before division was actually one, potentially many),
+so we notice a similar result in other varieties of soul, i.e. in
+insects which have been cut in two; each of the segments possesses
+both sensation and local movement; and if sensation, necessarily also
+imagination and appetition; for, where there is sensation, there is
+also pleasure and pain, and, where these, necessarily also desire.
+
+We have no evidence as yet about mind or the power to think; it seems
+to be a widely different kind of soul, differing as what is eternal
+from what is perishable; it alone is capable of existence in isolation
+from all other psychic powers. All the other parts of soul, it is
+evident from what we have said, are, in spite of certain statements
+to the contrary, incapable of separate existence though, of course,
+distinguishable by definition. If opining is distinct from perceiving,
+to be capable of opining and to be capable of perceiving must be distinct,
+and so with all the other forms of living above enumerated. Further,
+some animals possess all these parts of soul, some certain of them
+only, others one only (this is what enables us to classify animals);
+the cause must be considered later.' A similar arrangement is found
+also within the field of the senses; some classes of animals have
+all the senses, some only certain of them, others only one, the most
+indispensable, touch. 
+
+Since the expression 'that whereby we live and perceive' has two meanings,
+just like the expression 'that whereby we know'-that may mean either
+(a) knowledge or (b) the soul, for we can speak of knowing by or with
+either, and similarly that whereby we are in health may be either
+(a) health or (b) the body or some part of the body; and since of
+the two terms thus contrasted knowledge or health is the name of a
+form, essence, or ratio, or if we so express it an actuality of a
+recipient matter-knowledge of what is capable of knowing, health of
+what is capable of being made healthy (for the operation of that which
+is capable of originating change terminates and has its seat in what
+is changed or altered); further, since it is the soul by or with which
+primarily we live, perceive, and think:-it follows that the soul must
+be a ratio or formulable essence, not a matter or subject. For, as
+we said, word substance has three meanings form, matter, and the complex
+of both and of these three what is called matter is potentiality,
+what is called form actuality. Since then the complex here is the
+living thing, the body cannot be the actuality of the soul; it is
+the soul which is the actuality of a certain kind of body. Hence the
+rightness of the view that the soul cannot be without a body, while
+it csnnot he a body; it is not a body but something relative to a
+body. That is why it is in a body, and a body of a definite kind.
+It was a mistake, therefore, to do as former thinkers did, merely
+to fit it into a body without adding a definite specification of the
+kind or character of that body. Reflection confirms the observed fact;
+the actuality of any given thing can only be realized in what is already
+potentially that thing, i.e. in a matter of its own appropriate to
+it. From all this it follows that soul is an actuality or formulable
+essence of something that possesses a potentiality of being besouled.
+
+Part 3
+
+Of the psychic powers above enumerated some kinds of living things,
+as we have said, possess all, some less than all, others one only.
+Those we have mentioned are the nutritive, the appetitive, the sensory,
+the locomotive, and the power of thinking. Plants have none but the
+first, the nutritive, while another order of living things has this
+plus the sensory. If any order of living things has the sensory, it
+must also have the appetitive; for appetite is the genus of which
+desire, passion, and wish are the species; now all animals have one
+sense at least, viz. touch, and whatever has a sense has the capacity
+for pleasure and pain and therefore has pleasant and painful objects
+present to it, and wherever these are present, there is desire, for
+desire is just appetition of what is pleasant. Further, all animals
+have the sense for food (for touch is the sense for food); the food
+of all living things consists of what is dry, moist, hot, cold, and
+these are the qualities apprehended by touch; all other sensible qualities
+are apprehended by touch only indirectly. Sounds, colours, and odours
+contribute nothing to nutriment; flavours fall within the field of
+tangible qualities. Hunger and thirst are forms of desire, hunger
+a desire for what is dry and hot, thirst a desire for what is cold
+and moist; flavour is a sort of seasoning added to both. We must later
+clear up these points, but at present it may be enough to say that
+all animals that possess the sense of touch have also appetition.
+The case of imagination is obscure; we must examine it later. Certain
+kinds of animals possess in addition the power of locomotion, and
+still another order of animate beings, i.e. man and possibly another
+order like man or superior to him, the power of thinking, i.e. mind.
+It is now evident that a single definition can be given of soul only
+in the same sense as one can be given of figure. For, as in that case
+there is no figure distinguishable and apart from triangle, &c., so
+here there is no soul apart from the forms of soul just enumerated.
+It is true that a highly general definition can be given for figure
+which will fit all figures without expressing the peculiar nature
+of any figure. So here in the case of soul and its specific forms.
+Hence it is absurd in this and similar cases to demand an absolutely
+general definition which will fail to express the peculiar nature
+of anything that is, or again, omitting this, to look for separate
+definitions corresponding to each infima species. The cases of figure
+and soul are exactly parallel; for the particulars subsumed under
+the common name in both cases-figures and living beings-constitute
+a series, each successive term of which potentially contains its predecessor,
+e.g. the square the triangle, the sensory power the self-nutritive.
+Hence we must ask in the case of each order of living things, What
+is its soul, i.e. What is the soul of plant, animal, man? Why the
+terms are related in this serial way must form the subject of later
+examination. But the facts are that the power of perception is never
+found apart from the power of self-nutrition, while-in plants-the
+latter is found isolated from the former. Again, no sense is found
+apart from that of touch, while touch is found by itself; many animals
+have neither sight, hearing, nor smell. Again, among living things
+that possess sense some have the power of locomotion, some not. Lastly,
+certain living beings-a small minority-possess calculation and thought,
+for (among mortal beings) those which possess calculation have all
+the other powers above mentioned, while the converse does not hold-indeed
+some live by imagination alone, while others have not even imagination.
+The mind that knows with immediate intuition presents a different
+problem. 
+
+It is evident that the way to give the most adequate definition of
+soul is to seek in the case of each of its forms for the most appropriate
+definition.

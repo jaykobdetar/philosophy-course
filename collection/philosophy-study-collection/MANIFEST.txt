@@ -1,0 +1,1179 @@
+PHILOSOPHY — PRIVATE STUDY COLLECTION
+Checked 30 September 2026
+
+All 92 catalog rows accounted for, plus general resource hubs, optional companions, elective and thesis choices. No later reading list invented. Source program has 15 units; Introduction uses numbered steps 0–28, not fixed weeks.
+Private study collection only. Many files remain copyrighted and do not grant redistribution rights. Preserve original notices. Project Gutenberg public-domain status is US-specific unless otherwise documented. No subscription, borrowing, login, payment or DRM circumvention was used.
+
+
+INTRODUCTION TO PHILOSOPHY
+CAT-001 Plato, Euthyphro, Apology, Meno
+required anchor | downloaded reading copy
+Read: Euthyphro whole; dilemma 10a–11b. Apology whole, especially 20e–23c and 40c–41c. Meno whole, especially 80d–e, 82b–85b and 97a–98b.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg1642-euthyphro.txt; texts/gutenberg/pg1642-euthyphro.epub; texts/gutenberg/pg1656-apology.txt; texts/gutenberg/pg1656-apology.epub; texts/gutenberg/pg1643-meno.txt; texts/gutenberg/pg1643-meno.epub
+Catalog sources: Suggested: *Plato: Complete Works*, ed. Cooper (Hackett). Free on Project Gutenberg: [*Euthyphro*](https://www.gutenberg.org/ebooks/1642) (Jowett's translation), [*Apology*](https://www.gutenberg.org/ebooks/1656), [*Meno*](https://www.gutenberg.org/ebooks/1643)
+title: Euthyphro
+source_url: https://www.gutenberg.org/ebooks/1642
+title: Apology
+source_url: https://www.gutenberg.org/ebooks/1656
+title: Meno
+source_url: https://www.gutenberg.org/ebooks/1643
+
+CAT-002 Descartes, Meditations on First Philosophy (1641), I–II
+required anchor | downloaded reading copy
+Read: Meditations I–II; AT VII 17–34 (I 17–23; II 23–34).
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/introduction_logic/required/descartes_veitch_1912_meditations_I-VI.pdf; texts/introduction_logic/required/descartes_veitch_1912_fulltext.txt
+Catalog sources: Suggested: Cress (Hackett). Free: Veitch's translation (Everyman, 1912) at the [Internet Archive](https://archive.org/details/discourseonmetho1912desc)
+title: Meditations on the First Philosophy (all six Meditations)
+source_url: https://archive.org/details/discourseonmetho1912desc
+edition: A Discourse on Method; Meditations on the First Philosophy; Principles of Philosophy. London: Dent; New York: Dutton, Everyman edition, 1912. Introduction by A. D. Lindsay. Digitized from Harold B. Lee Library / Brigham Young University copy.
+section: Portable PDF is the unaltered Meditations I–VI pages only: printed79–143, excerpt PDF1–65. I printed79–84/PDF1–6; II printed85–94/PDF7–16; III printed95–110/PDF17–32; IV printed111–119/PDF33–41; V printed120–126/PDF42–48; VI printed127–143/PDF49–65. Extracted from original volume PDF113–177. Original294-page volume retained on cloud separately; full-volume OCR retained here.
+rights: Public-domain edition: published 1912, original author died 1650, translator died 1894, introduction author A. D. Lindsay died 1952. PD in US and ordinary life-plus-70 jurisdictions by 2026. No loan/login or restricted download used.
+gaps: ['No AT volume/page numbering in the reading text. The mention of Adam/Tannery is only in bibliography. Use a scholarly edition for precise AT citation; Introduction references remain AT VII 17–34.', 'Does not supply Elisabeth correspondence; CAT-076 is covered only for Meditation VI.', 'Cress translation recommended by catalog is not supplied; this is the explicit public-domain Veitch alternative.']
+
+CAT-003 Gettier, "Is Justified True Belief Knowledge?" (1963)
+required anchor | downloaded reading copy
+Read: Whole three-page 1963 paper, both cases.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/introduction_logic/required/gettier_bilingual_disputatio_2013.pdf
+Catalog sources: *Analysis* 23(6): 121–123; doi:[10.1093/analys/23.6.121](https://doi.org/10.1093/analys/23.6.121); [JSTOR](https://www.jstor.org/stable/3326922)
+title: Is Justified True Belief Knowledge?
+source_url: https://disputatio.usal.es/vols/vol-2-no-3/gettier-conocimiento/
+edition: Bilingual English-Spanish republication in Disputatio. Philosophical Research Bulletin 2(3), December 2013, pp.185–193; original Analysis 23(6), June 1963, pp.121–123, doi:10.1093/analys/23.6.121.
+section: Complete English article at printed pp.186–188 / PDF pp.2–4, including Case I, Case II, all definitions and conclusion. Spanish translation follows at PDF pp.5–9. Author-permission and editorial information on PDF p.10.
+rights: CC BY-NC-ND 3.0 Unported per the specific University of Salamanca repository record. PDF explicitly states republication and translation are with the author’s permission. Retained unchanged with all notices. General journal website now lists CC BY-NC-ND 4.0; use the item-specific 3.0 notice for this file.
+gaps: ['Re-typeset 2013 republication, not a scan of the original 1963 Analysis pages. English article is complete; page numbers differ.']
+
+CAT-004 Singer, "Famine, Affluence, and Morality" (1972)
+required anchor | downloaded reading copy
+Read: Whole 1972 article, pp.229–243.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/introduction_logic/required/singer_famine_affluence_morality_1972.pdf
+Catalog sources: *Philosophy & Public Affairs* 1(3): 229–243; [JSTOR](https://www.jstor.org/stable/2265052)
+title: Famine, Affluence, and Morality
+source_url: https://clas.ucdenver.edu/hbsc/sites/default/files/attached-files/singer_famine_affluence_and_morality_2.pdf
+edition: Philosophy & Public Affairs 1(3), Spring 1972, pp.229–243. University of Colorado Denver teaching copy of JSTOR scan; retains original JSTOR cover and notices.
+section: Complete 1972 article, printed pp.229–243 / PDF pp.2–16; PDF p.1 is JSTOR cover. Original closing paragraph verified.
+rights: Copyright. Publicly offered university-hosted teaching PDF downloaded for the user’s private study collection only. No open redistribution license identified; preserve JSTOR notices and do not publish or share beyond the user.
+gaps: ['No general redistribution permission verified.', 'LSE faculty copy from search results returned HTTP 404; Colorado Denver was used instead.', 'This is the original 1972 article, without later Postscript.']
+
+CAT-005 Pryor, "Guidelines on Writing a Philosophy Paper"
+optional | downloaded reading copy
+Read: Whole guide; optional.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/introduction_logic/optional/pryor_writing_guidelines.html
+Catalog sources: [Author's site](http://www.jimpryor.net/teaching/guidelines/writing.html)
+title: Guidelines on Writing a Philosophy Paper
+source_url: https://www.jimpryor.net/teaching/guidelines/writing.html
+edition: Author-maintained web version, marked Updated 6-Sep-12 11:35 AM
+section: Complete guide, including three stages of writing, minor points, grading and acknowledgements.
+rights: CC BY-NC-ND 2.0, explicitly linked on author’s page; unmodified HTML preserved. Catalog’s generic copyright label is less specific than the live license.
+gaps: ['Original HTML refers to some online assets/links, but the prose itself is embedded and available offline.']
+
+
+LOGIC I
+CAT-006 Magnus, Button, Trueman, and Zach, forall x: Calgary
+required anchor | downloaded reading copy
+Read: Key notions; TFL; truth tables; TFL natural deduction; FOL; interpretations; FOL natural deduction. Modal logic/metatheory reserved for possible Logic II elective. Solutions only after own attempt.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/introduction_logic/required/forallx_calgary_textbook.pdf; texts/introduction_logic/solutions/forallx_calgary_solutions.pdf
+Catalog sources: [forallx.openlogicproject.org](https://forallx.openlogicproject.org/), including a solutions booklet
+title: forall x: Calgary — An Introduction to Formal Logic
+source_url: https://forallx.openlogicproject.org/
+edition: Fall 2025, revision c5cb415 (2026-09-27), downloaded 2026-09-30
+section: Complete textbook. Logic I: Parts I–VII, printed pp.1–335 (chapters 1–41): key notions; TFL; truth tables; TFL natural deduction; FOL; interpretations; FOL natural deduction. Later/elective material also included: modal logic pp.336–367; metatheory pp.368–398. Appendices pp.399–420 and glossary pp.421 onward.
+rights: CC BY 4.0. Original PDF and credits/license page retained unchanged.
+gaps: ['Source download URL is moving; use this pinned local copy together with the downloaded solutions.']
+title: forall x: Calgary — Solutions to Selected Exercises
+source_url: https://forallx.openlogicproject.org/
+edition: Fall 2025, revision 80a85da (2026-09-15), downloaded 2026-09-30
+section: Complete official solutions booklet (selected exercises, not every exercise), including Logic I chapter solutions through chapter 40, plus modal/metatheory selected solutions through chapter 47. Kept separate for checking only after attempting the problems.
+rights: CC BY 4.0. Original PDF and credits/license page retained unchanged.
+gaps: ['Official booklet contains selected exercises only. Absence of an answer to an unselected exercise is intentional, not a failed download.']
+
+
+ANCIENT & MEDIEVAL PHILOSOPHY
+CAT-007 Plato, Republic and Phaedo (selections)
+required anchor | downloaded reading copy
+Read: Republic I–II; Divided Line and Cave 509d–521b. Phaedo selections on immortality; precise passage not yet specified.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg1497-the-republic.txt; texts/gutenberg/pg1497-the-republic.epub; texts/gutenberg/pg1658-phaedo.txt; texts/gutenberg/pg1658-phaedo.epub
+Catalog sources: Suggested: Cooper (ed.), *Complete Works*. Free on Gutenberg: [*Republic*](https://www.gutenberg.org/ebooks/1497), [*Phaedo*](https://www.gutenberg.org/ebooks/1658)
+title: The Republic
+source_url: https://www.gutenberg.org/ebooks/1497
+title: Phaedo
+source_url: https://www.gutenberg.org/ebooks/1658
+
+CAT-008 Aristotle, Categories 1–5
+required anchor | downloaded reading copy
+Read: Categories 1–5.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg2412-the-categories.txt; texts/gutenberg/pg2412-the-categories.epub
+Catalog sources: Free on [Gutenberg](https://www.gutenberg.org/ebooks/2412)
+title: The Categories
+source_url: https://www.gutenberg.org/ebooks/2412
+
+CAT-009 Aristotle, Physics II
+required anchor | downloaded reading copy
+Read: Physics Book II (four causes).
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/classical_web/aristotle_physics_book_II_hardie-gaye.txt; texts/classical_web/aristotle_physics_hardie-gaye_complete.txt
+Catalog sources: Free: Hardie and Gaye's translation (1930) at the [MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/physics.html)
+title: Aristotle, Physics II
+source_url: https://classics.mit.edu/Aristotle/physics.mb.txt
+edition: R. P. Hardie and R. K. Gaye (1930), Internet Classics Archive
+section: Book II, Parts 1-9
+rights: PD (US); MIT explicitly permits personal download and educational use. Web presentation remains copyrighted.
+
+CAT-010 Aristotle, De Anima II.1–3
+required anchor | downloaded reading copy
+Read: De Anima II.1–3.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/classical_web/aristotle_de_anima_II_1-3_smith.txt; texts/classical_web/aristotle_de_anima_smith_complete.txt
+Catalog sources: Free: J. A. Smith's translation (1931) at the [MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/soul.html)
+title: Aristotle, De Anima II.1-3
+source_url: https://classics.mit.edu/Aristotle/soul.mb.txt
+edition: J. A. Smith (1931), Internet Classics Archive
+section: Book II, Parts 1-3
+rights: Translation is not PD (US) until 2027; MIT explicitly permits personal download and educational use. Not a blanket redistribution grant.
+
+CAT-011 Epicurus, Letter to Menoeceus
+required anchor | downloaded reading copy
+Read: Letter to Menoeceus in Diogenes Laertius Lives X.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg57342-the-lives-and-opinions-of-eminent-philosophers.txt; texts/gutenberg/pg57342-the-lives-and-opinions-of-eminent-philosophers.epub
+Catalog sources: In Diogenes Laertius, *Lives* X: free on [Gutenberg](https://www.gutenberg.org/ebooks/57342)
+title: The Lives and Opinions of Eminent Philosophers
+source_url: https://www.gutenberg.org/ebooks/57342
+
+CAT-012 Sextus Empiricus, Outlines of Pyrrhonism I (selections)
+required anchor | downloaded reading copy
+Read: Outlines of Pyrrhonism Book I, selections; exact sections not yet specified.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg17556-sextus-empiricus-and-greek-scepticism.txt; texts/gutenberg/pg17556-sextus-empiricus-and-greek-scepticism.epub
+Catalog sources: Free: Mary Mills Patrick, *Sextus Empiricus and Greek Scepticism* (1899), on [Gutenberg](https://www.gutenberg.org/ebooks/17556); check that it covers the passages you need
+title: Sextus Empiricus and Greek Scepticism
+source_url: https://www.gutenberg.org/ebooks/17556
+
+CAT-013 Augustine, Confessions XI
+required anchor | downloaded reading copy
+Read: Confessions XI.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg3296-the-confessions-of-st-augustine.txt; texts/gutenberg/pg3296-the-confessions-of-st-augustine.epub
+Catalog sources: Free on [Gutenberg](https://www.gutenberg.org/ebooks/3296)
+title: The Confessions of St. Augustine
+source_url: https://www.gutenberg.org/ebooks/3296
+
+CAT-014 Anselm, Proslogion 2–4, with Gaunilo's reply
+required anchor | downloaded reading copy
+Read: Proslogion 2–4; Gaunilo On Behalf of the Fool.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/classical_web/anselm_proslogion_2-4_deane.txt; texts/classical_web/gaunilo_anselm_replies_deane_fordham.txt
+Catalog sources: Deane's translation (Open Court, 1903): Gaunilo and Anselm's reply in the [Internet Medieval Sourcebook](https://sourcebooks.web.fordham.edu/basis/anselm-gaunilo.asp); the whole book at the [Internet Archive](https://archive.org/stream/stanselmeproslog00anseuoft/stanselmeproslog00anseuoft_djvu.txt)
+title: Anselm, Proslogion 2-4, and Gaunilo's reply
+source_url: https://sourcebooks.web.fordham.edu/basis/anselm-proslogium.asp
+edition: Sidney Norton Deane, Open Court 1903; Fordham cites 1926 reprint
+section: Proslogion II-IV; Gaunilo complete; Anselm's further reply also supplied
+rights: Original translation PD (US); Fordham electronic version permits personal/educational copying with attribution, noncommercial only.
+
+CAT-015 Aquinas, Summa Theologiae I, q. 2, a. 3
+required anchor | downloaded reading copy
+Read: Summa Theologiae I, q.2, a.3.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg17611-summa-theologica-part-i-prima-pars-from-the-complete-american-edition.txt; texts/gutenberg/pg17611-summa-theologica-part-i-prima-pars-from-the-complete-american-edition.epub
+Catalog sources: Part I in the English Dominican Province translation, free on [Gutenberg](https://www.gutenberg.org/ebooks/17611)
+title: Summa Theologica, Part I (Prima Pars) — From the Complete American Edition
+source_url: https://www.gutenberg.org/ebooks/17611
+
+
+EARLY MODERN PHILOSOPHY
+CAT-016 Descartes, Meditations (all)
+required anchor | downloaded reading copy
+Read: All six Meditations, AT VII.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/introduction_logic/required/descartes_veitch_1912_meditations_I-VI.pdf; texts/introduction_logic/required/descartes_veitch_1912_fulltext.txt
+Catalog sources: As in the Introduction
+title: Meditations on the First Philosophy (all six Meditations)
+source_url: https://archive.org/details/discourseonmetho1912desc
+edition: A Discourse on Method; Meditations on the First Philosophy; Principles of Philosophy. London: Dent; New York: Dutton, Everyman edition, 1912. Introduction by A. D. Lindsay. Digitized from Harold B. Lee Library / Brigham Young University copy.
+section: Portable PDF is the unaltered Meditations I–VI pages only: printed79–143, excerpt PDF1–65. I printed79–84/PDF1–6; II printed85–94/PDF7–16; III printed95–110/PDF17–32; IV printed111–119/PDF33–41; V printed120–126/PDF42–48; VI printed127–143/PDF49–65. Extracted from original volume PDF113–177. Original294-page volume retained on cloud separately; full-volume OCR retained here.
+rights: Public-domain edition: published 1912, original author died 1650, translator died 1894, introduction author A. D. Lindsay died 1952. PD in US and ordinary life-plus-70 jurisdictions by 2026. No loan/login or restricted download used.
+gaps: ['No AT volume/page numbering in the reading text. The mention of Adam/Tannery is only in bibliography. Use a scholarly edition for precise AT citation; Introduction references remain AT VII 17–34.', 'Does not supply Elisabeth correspondence; CAT-076 is covered only for Meditation VI.', 'Cress translation recommended by catalog is not supplied; this is the explicit public-domain Veitch alternative.']
+
+CAT-017 Elisabeth of Bohemia and Descartes, correspondence (1643)
+required anchor | modernized reading aid
+Read: 1643 letters on mind–body interaction; cite letter dates.
+Bennett is a modernized aid, not Shapiro translation; do not quote it in graded work. Use the original letter dates.
+Files: texts/classical_web/descartes_elisabeth_1643_bennett_reading_aid.pdf
+Catalog sources: Suggested: ed. and trans. Shapiro (Chicago). Cite by letter date
+title: Elisabeth and Descartes, correspondence
+source_url: https://www.earlymoderntexts.com/assets/pdfs/descartes1643_1.pdf
+edition: Jonathan Bennett modernized reading aid, copyright 2017. NOT Lisa Shapiro's scholarly translation.
+section: 1643 mind-body correspondence; source PDF also contains 1644 letters
+rights: Copyright Jonathan Bennett; explicit permission to download/save and use personally or in class, noncommercial.
+
+CAT-018 Spinoza, Ethics Part I (selections)
+required anchor | downloaded reading copy
+Read: Ethics Part I, selections; exact propositions not yet specified.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg3800-ethics.txt; texts/gutenberg/pg3800-ethics.epub
+Catalog sources: Free on [Gutenberg](https://www.gutenberg.org/ebooks/3800)
+title: Ethics
+source_url: https://www.gutenberg.org/ebooks/3800
+
+CAT-019 Leibniz, Discourse on Metaphysics or Monadology
+required anchor | downloaded reading copy
+Read: Discourse on Metaphysics OR Monadology; choice not fixed in Early Modern.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/classical_web/leibniz_discourse_monadology_montgomery_1902_ocr.txt; texts/classical_web/leibniz_discourse_and_monadology_1902_selections.pdf
+Catalog sources: Montgomery's translation (Open Court, 1902), full view at [HathiTrust](https://catalog.hathitrust.org/Record/100771057)
+title: Leibniz, Discourse on Metaphysics and Monadology
+source_url: https://archive.org/details/discourseonmetap00leibuoft
+edition: George R. Montgomery, Open Court, Chicago, 1902; University of Toronto scan
+section: Discourse title plus full text (printed1–63, actual argument begins3): portable PDF1–63. Monadology title plus full text (printed249–272, argument begins251): portable PDF64–87. Original volume PDF31–93 and279–302, unchanged source-page extraction. CAT-061 uses Discourse §§8–13. Arnauld correspondence is omitted from portable PDF; it was not assigned.
+rights: PD (US), 1902 publication. Internet Archive metadata labels NOT_IN_COPYRIGHT in US. Other jurisdictions require local check.
+
+CAT-020 Locke, An Essay Concerning Human Understanding (selections)
+required anchor | downloaded reading copy
+Read: Essay I.ii and II.viii.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg10615-an-essay-concerning-humane-understanding-volume-1-mdcxc-based-on-the-2nd-edition-books-1-and-2.txt; texts/gutenberg/pg10615-an-essay-concerning-humane-understanding-volume-1-mdcxc-based-on-the-2nd-edition-books-1-and-2.epub; texts/gutenberg/pg10616-an-essay-concerning-humane-understanding-volume-2-mdcxc-based-on-the-2nd-edition-books-3-and-4.txt; texts/gutenberg/pg10616-an-essay-concerning-humane-understanding-volume-2-mdcxc-based-on-the-2nd-edition-books-3-and-4.epub
+Catalog sources: Free on Gutenberg: [volume 1](https://www.gutenberg.org/ebooks/10615), [volume 2](https://www.gutenberg.org/ebooks/10616) (based on the second edition, which added II.xxvii)
+title: An Essay Concerning Humane Understanding, Volume 1 — MDCXC, Based on the 2nd Edition, Books 1 and 2
+source_url: https://www.gutenberg.org/ebooks/10615
+title: An Essay Concerning Humane Understanding, Volume 2 — MDCXC, Based on the 2nd Edition, Books 3 and 4
+source_url: https://www.gutenberg.org/ebooks/10616
+
+CAT-021 Berkeley, Principles of Human Knowledge, Part I §§1–33
+required anchor | downloaded reading copy
+Read: Principles Part I §§1–33.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg4723-a-treatise-concerning-the-principles-of-human-knowledge.txt; texts/gutenberg/pg4723-a-treatise-concerning-the-principles-of-human-knowledge.epub
+Catalog sources: Free on [Gutenberg](https://www.gutenberg.org/ebooks/4723)
+title: A Treatise Concerning the Principles of Human Knowledge
+source_url: https://www.gutenberg.org/ebooks/4723
+
+CAT-022 Hume, An Enquiry Concerning Human Understanding
+required anchor | downloaded reading copy
+Read: Enquiry Sections II–VII and XII.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg9662-an-enquiry-concerning-human-understanding.txt; texts/gutenberg/pg9662-an-enquiry-concerning-human-understanding.epub
+Catalog sources: Suggested: Beauchamp (Oxford). Free on [Gutenberg](https://www.gutenberg.org/ebooks/9662)
+title: An Enquiry Concerning Human Understanding
+source_url: https://www.gutenberg.org/ebooks/9662
+
+CAT-023 Early Modern Texts (Bennett's modernized versions)
+optional | modernized reading aid
+Read: Optional modernized reading aid; not for quotations in graded work.
+Bennett is a modernized aid, not Shapiro translation; do not quote it in graded work. Use the original letter dates.
+Files: texts/classical_web/descartes_elisabeth_1643_bennett_reading_aid.pdf
+Catalog sources: [Terms of use](https://earlymoderntexts.com/faqs/rights): free for personal and classroom use, not for commercial use. A reading aid only; don't quote it in graded work
+title: Elisabeth and Descartes, correspondence
+source_url: https://www.earlymoderntexts.com/assets/pdfs/descartes1643_1.pdf
+edition: Jonathan Bennett modernized reading aid, copyright 2017. NOT Lisa Shapiro's scholarly translation.
+section: 1643 mind-body correspondence; source PDF also contains 1644 letters
+rights: Copyright Jonathan Bennett; explicit permission to download/save and use personally or in class, noncommercial.
+
+
+KANT & THE 19TH CENTURY
+CAT-024 Kant, Prolegomena to Any Future Metaphysics
+required anchor | downloaded reading copy
+Read: Prolegomena as entry point; exact scope not narrowed.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg52821-kant-s-prolegomena-to-any-future-metaphysics.txt; texts/gutenberg/pg52821-kant-s-prolegomena-to-any-future-metaphysics.epub
+Catalog sources: Free: Carus's translation (Open Court) on [Gutenberg](https://www.gutenberg.org/ebooks/52821)
+title: Kant's Prolegomena to Any Future Metaphysics
+source_url: https://www.gutenberg.org/ebooks/52821
+
+CAT-025 Kant, Critique of Pure Reason (selections)
+required anchor | downloaded reading copy
+Read: B Preface; Introduction; Transcendental Aesthetic; selections from Transcendental Analytic (not yet specified).
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg4280-the-critique-of-pure-reason.txt; texts/gutenberg/pg4280-the-critique-of-pure-reason.epub
+Catalog sources: Suggested: Guyer and Wood (Cambridge). Free: an older translation on [Gutenberg](https://www.gutenberg.org/ebooks/4280), which may lack A/B page numbers
+title: The Critique of Pure Reason
+source_url: https://www.gutenberg.org/ebooks/4280
+
+CAT-026 Hegel, Phenomenology of Spirit (selections)
+required anchor | downloaded reading copy
+Read: Preface and Lordship and Bondage; paragraph numbers.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/classical_web/hegel_phenomenology_preface_baillie.txt; texts/classical_web/hegel_phenomenology_lordship_bondage_baillie.txt
+Catalog sources: Free: Baillie's translation (1910) at [marxists.org](https://www.marxists.org/reference/archive/hegel/phindex.htm), with paragraph numbers inserted
+title: Hegel, Phenomenology of Spirit/Mind selections
+source_url: https://www.marxists.org/reference/archive/hegel/phindex.htm
+edition: J. B. Baillie translation (1910); site text from Harper & Row Torchbooks 1967 edition
+section: Preface, paragraphs 1-72; Lordship and Bondage, paragraphs 178-196
+rights: Baillie translation PD (US); source explicitly permits personal and educational noncommercial copying with attribution.
+
+CAT-027 Marx, "Estranged Labour" (1844)
+required anchor | online only
+Read: Estranged Labour.
+Retained as online-only because catalog specifically restricts storage and no explicit permission for this translation was established.
+Files: None
+Catalog sources: Milligan's translation at [marxists.org](https://www.marxists.org/archive/marx/works/1844/manuscripts/preface.htm)
+title: Marx, Estranged Labour
+source_url: https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm
+edition: Martin Milligan, Progress Publishers, 1959
+section: Estranged Labour, Economic and Philosophic Manuscripts of 1844
+rights: Copyright translation; catalog designates link-only. No offline text collected.
+
+CAT-028 Marx, "Theses on Feuerbach" (1845)
+required anchor | downloaded reading copy
+Read: Whole Theses on Feuerbach.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/classical_web/marx_theses_on_feuerbach_lough.txt
+Catalog sources: [marxists.org](https://www.marxists.org/archive/marx/works/1845/theses/theses.htm)
+title: Marx, Theses on Feuerbach
+source_url: https://www.marxists.org/archive/marx/works/1845/theses/theses.htm
+edition: W. Lough; Marx/Engels Selected Works vol. 1, Progress 1969, pp. 13-15
+section: Theses I-XI, Engels-edited version
+rights: Source grants copying/distribution under its linked Creative Commons ShareAlike license; source translation/transcription credits retained.
+
+CAT-029 Kierkegaard, Fear and Trembling
+required anchor | required section missing
+Read: Fear and Trembling, Problema I. Catalog-linked Hollander anthology does NOT contain this required section.
+Hollander anthology downloaded, but it ends before Problema I. Obtain a complete lawful translation of Fear and Trembling for the required reading.
+Files: texts/gutenberg/pg60333-selections-from-the-writings-of-kierkegaard.txt; texts/gutenberg/pg60333-selections-from-the-writings-of-kierkegaard.epub
+Catalog sources: Free, partial: Hollander's *Selections from the Writings of Kierkegaard* (1923) on [Gutenberg](https://www.gutenberg.org/ebooks/60333) includes about a third of the book; check whether it covers Problema I
+title: Selections from the Writings of Kierkegaard
+source_url: https://www.gutenberg.org/ebooks/60333
+issues: ['Required Fear and Trembling Problema I is not present in this partial anthology; do not count this download as full coverage of the assigned reading.']
+
+CAT-030 Nietzsche, On the Genealogy of Morality, First Essay
+required anchor | downloaded reading copy
+Read: Genealogy First Essay.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg52319-the-genealogy-of-morals-the-complete-works-volume-thirteen-edited-by-dr-oscar-levy.txt; texts/gutenberg/pg52319-the-genealogy-of-morals-the-complete-works-volume-thirteen-edited-by-dr-oscar-levy.epub
+Catalog sources: Free: the Levy *Complete Works* edition on [Gutenberg](https://www.gutenberg.org/ebooks/52319)
+title: The Genealogy of Morals — The Complete Works, Volume Thirteen, edited by Dr. Oscar Levy.
+source_url: https://www.gutenberg.org/ebooks/52319
+
+
+ETHICS
+CAT-031 Aristotle, Nicomachean Ethics I–II, X (selections)
+required anchor | downloaded reading copy
+Read: Nicomachean Ethics I–II and selections from X (not yet specified).
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg8438-the-nicomachean-ethics-of-aristotle.txt; texts/gutenberg/pg8438-the-nicomachean-ethics-of-aristotle.epub
+Catalog sources: Suggested: Irwin (Hackett). Free: an older translation on [Gutenberg](https://www.gutenberg.org/ebooks/8438)
+title: The Nicomachean ethics of Aristotle
+source_url: https://www.gutenberg.org/ebooks/8438
+
+CAT-032 Kant, Groundwork of the Metaphysics of Morals
+required anchor | downloaded reading copy
+Read: Groundwork; Akademie vol.4.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg5682-fundamental-principles-of-the-metaphysic-of-morals.txt; texts/gutenberg/pg5682-fundamental-principles-of-the-metaphysic-of-morals.epub
+Catalog sources: Suggested: Gregor and Timmermann (Cambridge). Free: an older translation (*Fundamental Principles of the Metaphysic of Morals*) on [Gutenberg](https://www.gutenberg.org/ebooks/5682)
+title: Fundamental Principles of the Metaphysic of Morals
+source_url: https://www.gutenberg.org/ebooks/5682
+
+CAT-033 Mill, Utilitarianism
+required anchor | downloaded reading copy
+Read: Utilitarianism chapters 2 and 4.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg11224-utilitarianism.txt; texts/gutenberg/pg11224-utilitarianism.epub
+Catalog sources: Free on [Gutenberg](https://www.gutenberg.org/ebooks/11224)
+title: Utilitarianism
+source_url: https://www.gutenberg.org/ebooks/11224
+
+CAT-034 Scanlon, What We Owe to Each Other (selections)
+required anchor | not downloaded
+Read: Selections on contractualism; exact passages not yet specified.
+Institutional access or purchase needed; no licensed free full text established.
+Files: None
+Catalog sources: Any edition
+title: Scanlon, What We Owe to Each Other
+source_url: https://www.jstor.org/stable/j.ctv134vmrn
+edition: Harvard University Press / Belknap, 1998
+section: Selections on contractualism
+rights: In copyright; link only, no offline text.
+
+CAT-035 Hume, A Treatise of Human Nature 3.1.1
+required anchor | downloaded reading copy
+Read: Treatise 3.1.1.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg4705-a-treatise-of-human-nature.txt; texts/gutenberg/pg4705-a-treatise-of-human-nature.epub
+Catalog sources: Free on [Gutenberg](https://www.gutenberg.org/ebooks/4705)
+title: A Treatise of Human Nature
+source_url: https://www.gutenberg.org/ebooks/4705
+
+CAT-036 Moore, Principia Ethica §13
+required anchor | downloaded reading copy
+Read: Principia Ethica §13.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg53430-principia-ethica.txt; texts/gutenberg/pg53430-principia-ethica.epub
+Catalog sources: Free on [Gutenberg](https://www.gutenberg.org/ebooks/53430)
+title: Principia Ethica
+source_url: https://www.gutenberg.org/ebooks/53430
+
+CAT-037 Ayer, Language, Truth and Logic, chapter 6
+required anchor | not downloaded
+Read: Language, Truth and Logic ch.6.
+No authorized free full text established; obtain through library or publisher.
+Files: None
+Catalog sources: Any edition
+title: Ayer, Language, Truth and Logic
+source_url: https://www.penguin.co.uk/books/57339/language-truth-and-logic-by-aj-ayer-intro-ben-rogers/9780141186047
+edition: Penguin Modern Classics 2001, ISBN 9780141186047; any edition permitted
+section: Chapter 6
+rights: In copyright; link only, no offline text.
+
+CAT-038 Mackie, Ethics: Inventing Right and Wrong, chapter 1
+required anchor | not downloaded
+Read: Ethics: Inventing Right and Wrong ch.1.
+No authorized free full text established; obtain through library or publisher.
+Files: None
+Catalog sources: Any edition
+title: Mackie, Ethics: Inventing Right and Wrong
+source_url: https://www.penguin.co.uk/books/13498/ethics-by-mackie-jl/9780140135589
+edition: Penguin 1990 printing, ISBN 9780140135589; any edition permitted
+section: Chapter 1
+rights: In copyright; link only, no offline text.
+
+CAT-039 de Beauvoir, The Ethics of Ambiguity (selections)
+required anchor | not downloaded
+Read: Selections; exact passages not yet specified.
+No authorized free full text established; WorldCat library route provided.
+Files: None
+Catalog sources: Any edition
+title: de Beauvoir, The Ethics of Ambiguity
+source_url: https://search.worldcat.org/title/The-ethics-of-ambiguity/oclc/123328213
+edition: Citadel Press 1976 catalog record; Bernard Frechtman English translation
+section: Selections, not further specified
+rights: In copyright; link only, no offline text.
+
+CAT-040 Thomson, "A Defense of Abortion" (1971)
+required anchor | downloaded reading copy
+Read: Whole 1971 article.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/classical_web/thomson_defense_of_abortion_1971.pdf
+Catalog sources: *Philosophy & Public Affairs* 1(1): 47–66; [JSTOR](https://www.jstor.org/stable/2265091)
+title: Judith Jarvis Thomson, A Defense of Abortion
+source_url: https://spot.colorado.edu/~norcross/Ab1.pdf
+edition: Philosophy & Public Affairs 1(1), 1971, pp. 47-66; university-hosted teaching transcription
+section: Complete article, sections 1-8 with notes
+rights: Copyright. Publicly served by CU Boulder philosophy faculty site for teaching; private-study copy only. No open license or public redistribution permission asserted.
+
+
+POLITICAL PHILOSOPHY
+CAT-041 Hobbes, Leviathan (selections)
+required anchor | downloaded reading copy
+Read: Leviathan chs13–15 and17–18.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg3207-leviathan.txt; texts/gutenberg/pg3207-leviathan.epub
+Catalog sources: Free on [Gutenberg](https://www.gutenberg.org/ebooks/3207)
+title: Leviathan
+source_url: https://www.gutenberg.org/ebooks/3207
+
+CAT-042 Locke, Second Treatise of Government (selections)
+required anchor | downloaded reading copy
+Read: Second Treatise chs2,5,8–9.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg7370-second-treatise-of-government.txt; texts/gutenberg/pg7370-second-treatise-of-government.epub
+Catalog sources: Free on [Gutenberg](https://www.gutenberg.org/ebooks/7370)
+title: Second Treatise of Government
+source_url: https://www.gutenberg.org/ebooks/7370
+
+CAT-043 Rousseau, The Social Contract, Books I–II
+required anchor | downloaded reading copy
+Read: Social Contract I–II, selections (not yet specified).
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg46333-the-social-contract-discourses.txt; texts/gutenberg/pg46333-the-social-contract-discourses.epub
+Catalog sources: Free: *The Social Contract & Discourses* on [Gutenberg](https://www.gutenberg.org/ebooks/46333)
+title: The social contract & discourses
+source_url: https://www.gutenberg.org/ebooks/46333
+
+CAT-044 Mill, On Liberty, chapters 1–2
+required anchor | downloaded reading copy
+Read: On Liberty chs1–2.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg34901-on-liberty.txt; texts/gutenberg/pg34901-on-liberty.epub
+Catalog sources: Free on [Gutenberg](https://www.gutenberg.org/ebooks/34901)
+title: On Liberty
+source_url: https://www.gutenberg.org/ebooks/34901
+
+CAT-045 Wollstonecraft, A Vindication of the Rights of Woman (selections)
+required anchor | downloaded reading copy
+Read: Selections; exact passages not yet specified.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg3420-a-vindication-of-the-rights-of-woman-with-strictures-on-political-and-moral-subjects.txt; texts/gutenberg/pg3420-a-vindication-of-the-rights-of-woman-with-strictures-on-political-and-moral-subjects.epub
+Catalog sources: Free on [Gutenberg](https://www.gutenberg.org/ebooks/3420)
+title: A Vindication of the Rights of Woman — With Strictures on Political and Moral Subjects
+source_url: https://www.gutenberg.org/ebooks/3420
+
+CAT-046 Du Bois, The Souls of Black Folk, chapter 1
+required anchor | downloaded reading copy
+Read: Souls of Black Folk ch.1.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg408-the-souls-of-black-folk.txt; texts/gutenberg/pg408-the-souls-of-black-folk.epub
+Catalog sources: Free on [Gutenberg](https://www.gutenberg.org/ebooks/408)
+title: The Souls of Black Folk
+source_url: https://www.gutenberg.org/ebooks/408
+
+CAT-047 Rawls, A Theory of Justice, revised edition (selections)
+required anchor | not downloaded
+Read: A Theory of Justice REVISED EDITION; selections including §§3–4,11–13,24–26.
+JSTOR reports institution lacks access. A library/purchase copy of the revised edition is required; do not substitute original 1971 pagination.
+Files: None
+Catalog sources: Any printing of the revised edition
+title: Rawls, A Theory of Justice, revised edition
+source_url: https://www.jstor.org/stable/j.ctvkjb25m
+edition: Harvard University Press / Belknap 1999 revised edition, eISBN 9780674042582
+section: Including sections 3-4, 11-13, 24-26
+rights: In copyright; link only, no offline text.
+
+CAT-048 Nozick, Anarchy, State, and Utopia, chapter 7 (selections)
+required anchor | not downloaded
+Read: Anarchy, State, and Utopia ch.7 selections.
+No authorized free full text established; obtain through library or publisher.
+Files: None
+Catalog sources: Any edition
+title: Nozick, Anarchy, State, and Utopia
+source_url: https://www.hachettebookgroup.com/titles/robert-nozick/anarchy-state-and-utopia/9780465051007/
+edition: Basic Books 2013 printing, ISBN 9780465051007; any edition permitted
+section: Chapter 7 selections
+rights: In copyright; link only, no offline text.
+
+CAT-049 Okin, Justice, Gender, and the Family (selections)
+required anchor | not downloaded
+Read: Selections; exact passages not yet specified.
+No authorized free full text established; obtain through library or publisher.
+Files: None
+Catalog sources: Any edition
+title: Okin, Justice, Gender, and the Family
+source_url: https://www.hachettebookgroup.com/titles/susan-moller-okin/justice-gender-and-the-family/9780465037032/
+edition: Basic Books 1991 printing, ISBN 9780465037032; any edition permitted
+section: Selections, not further specified
+rights: In copyright; link only, no offline text.
+
+CAT-050 Mills, The Racial Contract (selections)
+required anchor | not downloaded
+Read: Selections; exact passages not yet specified.
+No authorized free full text established; obtain through library or publisher.
+Files: None
+Catalog sources: Any edition
+title: Mills, The Racial Contract
+source_url: https://cornellpress.cornell.edu/book/9781501764288/the-racial-contract/
+edition: Cornell University Press, twenty-fifth anniversary edition 2022, ISBN 9781501764288; any edition permitted
+section: Selections, not further specified
+rights: In copyright; link only, no offline text.
+
+
+EPISTEMOLOGY
+CAT-051 Moore, "Proof of an External World" (1939)
+required anchor | downloaded university transcription
+Read: Whole article, as identified in catalog.
+Complete university HTML transcription. It is not a facsimile of the original journal pages; verify quotations against a scholarly edition.
+Files: texts/recovered_articles/moore.html
+Catalog sources: *Proceedings of the British Academy* 25: 273–300; reprinted in *G. E. Moore: Selected Writings*
+title: Proof of an External World
+source_url: https://home.csulb.edu/~cwallis/382/readings/382/Moore_Proof.html
+edition: 1939 article; CSULB faculty-hosted HTML transcription, copyright notice identifying Proceedings of the British Academy 25:273–300
+section: Whole article
+rights: Copyright retained by author/publisher; publicly provided through an author or academic teaching source. Saved for the user's private personal study only; no public redistribution permission claimed. All source notices retained.
+notes: Source labels transcription “Not Fully Editied yet”; OCR/transcription errors and missing original pagination. Use print edition for exact quotations. Rejected Colorado 3-page excerpt as incomplete.
+
+CAT-052 Gettier (1963)
+required anchor | downloaded reading copy
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/introduction_logic/required/gettier_bilingual_disputatio_2013.pdf
+Catalog sources: See the Introduction
+title: Is Justified True Belief Knowledge?
+source_url: https://disputatio.usal.es/vols/vol-2-no-3/gettier-conocimiento/
+edition: Bilingual English-Spanish republication in Disputatio. Philosophical Research Bulletin 2(3), December 2013, pp.185–193; original Analysis 23(6), June 1963, pp.121–123, doi:10.1093/analys/23.6.121.
+section: Complete English article at printed pp.186–188 / PDF pp.2–4, including Case I, Case II, all definitions and conclusion. Spanish translation follows at PDF pp.5–9. Author-permission and editorial information on PDF p.10.
+rights: CC BY-NC-ND 3.0 Unported per the specific University of Salamanca repository record. PDF explicitly states republication and translation are with the author’s permission. Retained unchanged with all notices. General journal website now lists CC BY-NC-ND 4.0; use the item-specific 3.0 notice for this file.
+gaps: ['Re-typeset 2013 republication, not a scan of the original 1963 Analysis pages. English article is complete; page numbers differ.']
+
+CAT-053 Zagzebski, "The Inescapability of Gettier Problems" (1994)
+required anchor | downloaded reading copy
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/recovered_articles/zagzebski.pdf
+Catalog sources: *Philosophical Quarterly* 44(174): 65–73; PhilArchive lists a download ([search](https://philarchive.org/s/Linda%20Zagzebski))
+title: The Inescapability of Gettier Problems
+source_url: https://fphil.uniba.sk/fileadmin/fif/katedry_pracoviska/kfdf/Personal/Nuhlicek/Literatura/Teorie_zdovodnenia/Zagzebski__L._-_The_Inescapability_of_Gettier_Problems__1994_.pdf
+edition: The Philosophical Quarterly 44(174), 1994, pp.65–73; journal scan
+section: Whole article
+rights: Copyright retained by author/publisher; publicly provided through an author or academic teaching source. Saved for the user's private personal study only; no public redistribution permission claimed. All source notices retained.
+notes: Public Comenius University faculty teaching file; avoided blocked PhilArchive route.
+
+CAT-054 Goldman, "What Is Justified Belief?" (1979)
+required anchor | downloaded reading copy
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/recovered_articles/goldman.pdf
+Catalog sources: In Pappas (ed.), *Justification and Knowledge* (Reidel, 1979), 1–23; reprinted in Sosa, Kim, Fantl, and McGrath (eds.), *Epistemology: An Anthology*, 2nd ed.
+title: What Is Justified Belief?
+source_url: https://www.andrew.cmu.edu/user/kk3n/epistclass/goldmanjust.pdf
+edition: 1979 article reprinted in anthology, printed pp.89–104; original Pappas (ed.), Justification and Knowledge pp.1–23 identified in permission note
+section: Whole article
+rights: Copyright retained by author/publisher; publicly provided through an author or academic teaching source. Saved for the user's private personal study only; no public redistribution permission claimed. All source notices retained.
+notes: Anthology identity not independently established from file. Contains adjacent preceding-article notes at top of first source page; retained intact. Image scan is readable but not text-searchable.
+
+CAT-055 BonJour, "Externalist Theories of Empirical Knowledge" (1980)
+required anchor | downloaded reading copy
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/recovered_articles/bonjour.pdf
+Catalog sources: *Midwest Studies in Philosophy* 5: 53–73; [PhilArchive record](https://dc2.philarchive.org/rec/BONETO); reprinted in Bernecker and Dretske (eds.), *Knowledge* (Oxford, 2000)
+title: Externalist Theories of Empirical Knowledge
+source_url: https://fphil.uniba.sk/fileadmin/fif/katedry_pracoviska/kfdf/Personal/Nuhlicek/Literatura/Teorie_zdovodnenia/BonJour__L._-_Externalist_Theories_of_Empirical_Knowledge__1980_.pdf
+edition: Midwest Studies in Philosophy 5, 1980, pp.53–73; journal scan
+section: Whole article
+rights: Copyright retained by author/publisher; publicly provided through an author or academic teaching source. Saved for the user's private personal study only; no public redistribution permission claimed. All source notices retained.
+notes: Public Comenius University faculty teaching file.
+
+CAT-056 DeRose, "Solving the Skeptical Problem" (1995)
+required anchor | downloaded author reprint draft
+Read: Whole article, as identified in catalog.
+Author-identified reprint draft is available; original1995 pagination differs and the extent of minor revisions is unverified. Use the original journal for exact quotations/page references.
+Files: texts/recovered_articles/derose_solving_author_reprint.pdf
+Catalog sources: *Philosophical Review* 104(1): 1–52; doi:[10.2307/2186011](https://doi.org/10.2307/2186011); reprinted in DeRose and Warfield (eds.), *Skepticism* (Oxford, 1999)
+title: Solving the Skeptical Problem
+source_url: https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/c/1227/files/2015/12/AI-Chap1-zk6him.pdf
+edition: Author-posted draft of Chapter 1 reprint in The Appearance of Ignorance (Oxford UP, 2017); PDF metadata dated 2016; reprint of 1995 Philosophical Review article
+section: Whole article
+rights: Copyright retained by author/publisher; publicly provided through an author or academic teaching source. Saved for the user's private personal study only; no public redistribution permission claimed. All source notices retained.
+notes: This is an author chapter draft/reprint, NOT the original 1995 journal scan; pagination differs and exact word-for-word identity has not been established. Minor editing/revision extent is unverified. For original citation pagination consult Philosophical Review104(1):1–52. Reprint evidence: https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/c/1227/files/2015/12/AI-Ch2-AppB-combo-11xugj0.pdf (first page).
+
+CAT-057 Fricker, Epistemic Injustice (2007) (selections)
+required anchor | not downloaded
+Read: Selections on testimonial and hermeneutical injustice; precise passages not specified.
+Copyrighted book; no authorized free copy of the required selections verified.
+Files: None
+Catalog sources: Any edition
+title: Fricker, *Epistemic Injustice* (2007) (selections)
+source_url: https://academic.oup.com/book/32817
+edition: Any edition
+section: Fricker, *Epistemic Injustice* (2007) (selections)
+rights: ©
+
+
+METAPHYSICS
+CAT-058 Quine, "On What There Is" (1948)
+required anchor | downloaded reading copy
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/recovered_articles/quine_what_there_is.pdf
+Catalog sources: *Review of Metaphysics* 2(5): 21–38; [JSTOR](https://www.jstor.org/stable/20123117); free 1948 text on [Wikisource](https://en.wikisource.org/wiki/On_What_There_Is)
+title: On What There Is
+source_url: https://eclass.uoa.gr/modules/document/file.php/PHS634/Quine-1948.pdf
+edition: The Review of Metaphysics 2(5), September 1948, pp.21–38; original journal scan
+section: Whole article
+rights: Copyright retained by author/publisher; publicly provided through an author or academic teaching source. Saved for the user's private personal study only; no public redistribution permission claimed. All source notices retained.
+notes: Public National and Kapodistrian University of Athens course file. Does not rely on disputed Wikisource edition/rights claim; treat as copyright-protected private-study copy.
+
+CAT-059 Lewis, On the Plurality of Worlds (1986), chapter 1
+required anchor | not downloaded
+Read: On the Plurality of Worlds ch.1 selections.
+Publisher lists a sample chapter, but https://media.wiley.com/product_data/excerpt/62/06312242/0631224262-8.pdf returned HTTP 403 to the web retrieval tool. Required chapter 1 coverage not established.
+Files: None
+Catalog sources: Any edition
+title: Lewis, *On the Plurality of Worlds* (1986), chapter 1
+source_url: https://www.wiley-vch.de/en/areas-interest/humanities-social-sciences/on-the-plurality-of-worlds-978-0-631-22426-6
+edition: Any edition
+section: Lewis, *On the Plurality of Worlds* (1986), chapter 1
+rights: ©
+
+CAT-060 Kripke, Naming and Necessity, Lecture III
+required anchor | not downloaded
+Read: Naming and Necessity Lecture III.
+Copyrighted book, Lecture III required. Publisher page presents robot verification; no authorized free fulltext verified.
+Files: None
+Catalog sources: Any edition; shared with Philosophy of Language
+title: Kripke, *Naming and Necessity*, Lecture III
+source_url: https://www.hup.harvard.edu/books/9780674598461
+edition: Any edition; shared with Philosophy of Language
+section: Kripke, *Naming and Necessity*, Lecture III
+rights: ©
+
+CAT-061 Leibniz, Discourse on Metaphysics §§8–13
+required anchor | downloaded reading copy
+Read: Discourse on Metaphysics §§8–13; Monadology is not a substitute here.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/classical_web/leibniz_discourse_monadology_montgomery_1902_ocr.txt; texts/classical_web/leibniz_discourse_and_monadology_1902_selections.pdf
+Catalog sources: See Early Modern
+title: Leibniz, Discourse on Metaphysics and Monadology
+source_url: https://archive.org/details/discourseonmetap00leibuoft
+edition: George R. Montgomery, Open Court, Chicago, 1902; University of Toronto scan
+section: Discourse title plus full text (printed1–63, actual argument begins3): portable PDF1–63. Monadology title plus full text (printed249–272, argument begins251): portable PDF64–87. Original volume PDF31–93 and279–302, unchanged source-page extraction. CAT-061 uses Discourse §§8–13. Arnauld correspondence is omitted from portable PDF; it was not assigned.
+rights: PD (US), 1902 publication. Internet Archive metadata labels NOT_IN_COPYRIGHT in US. Other jurisdictions require local check.
+
+CAT-062 Locke, Essay II.xxvii
+required anchor | downloaded reading copy
+Read: Essay II.xxvii.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg10615-an-essay-concerning-humane-understanding-volume-1-mdcxc-based-on-the-2nd-edition-books-1-and-2.txt; texts/gutenberg/pg10615-an-essay-concerning-humane-understanding-volume-1-mdcxc-based-on-the-2nd-edition-books-1-and-2.epub
+Catalog sources: See Early Modern
+title: An Essay Concerning Humane Understanding, Volume 1 — MDCXC, Based on the 2nd Edition, Books 1 and 2
+source_url: https://www.gutenberg.org/ebooks/10615
+
+CAT-063 Parfit, Reasons and Persons, Part III (selections)
+required anchor | not downloaded
+Read: Reasons and Persons Part III selections.
+Copyrighted book; required Part III selections not specified more precisely and no authorized free fulltext verified.
+Files: None
+Catalog sources: Any edition
+title: Parfit, *Reasons and Persons*, Part III (selections)
+source_url: https://academic.oup.com/book/12484
+edition: Any edition
+section: Parfit, *Reasons and Persons*, Part III (selections)
+rights: ©
+
+CAT-064 Frankfurt, "Alternate Possibilities and Moral Responsibility" (1969)
+required anchor | downloaded reading copy
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/recovered_articles/frankfurt.pdf
+Catalog sources: *Journal of Philosophy* 66(23): 829–839; [JSTOR](https://www.jstor.org/stable/2023833); [PhilArchive record](https://philarchive.org/rec/FRAAPA-8)
+title: Alternate Possibilities and Moral Responsibility
+source_url: https://personal.lse.ac.uk/ROBERT49/teaching/ph103/pdf/Frankfurt1969.pdf
+edition: Journal of Philosophy 66(23), 1969, pp.829–839; original journal scan
+section: Whole article
+rights: Copyright retained by author/publisher; publicly provided through an author or academic teaching source. Saved for the user's private personal study only; no public redistribution permission claimed. All source notices retained.
+notes: Public LSE faculty teaching file. Image-only body; source notice is text-searchable. Adjacent book-review text sharing last page retained intact.
+
+CAT-065 van Inwagen, "The Incompatibility of Free Will and Determinism" (1975)
+required anchor | downloaded reading copy
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/recovered_articles/van_inwagen.pdf
+Catalog sources: *Philosophical Studies* 27(3): 185–199; doi:[10.1007/BF01624156](https://doi.org/10.1007/BF01624156); reprinted in Watson (ed.), *Free Will* (Oxford, 1983)
+title: The Incompatibility of Free Will and Determinism
+source_url: https://personal.lse.ac.uk/robert49/teaching/ph103/pdf/vaninwagen1974.pdf
+edition: Philosophical Studies 27, 1975, pp.185–199; original journal scan (received 1974)
+section: Whole article
+rights: Copyright retained by author/publisher; publicly provided through an author or academic teaching source. Saved for the user's private personal study only; no public redistribution permission claimed. All source notices retained.
+notes: The hosting filename says 1974, but that is the received date, not publication year. Public LSE teaching file.
+
+CAT-066 Lewis, "Causation" (1973)
+optional | downloaded reading copy
+Read: Whole article; optional.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/recovered_articles/lewis_causation.pdf
+Catalog sources: *Journal of Philosophy* 70(17): 556–567; doi:[10.2307/2025310](https://doi.org/10.2307/2025310); reprinted in Lewis, *Philosophical Papers*, vol. II (Oxford, 1986)
+title: Causation
+source_url: https://www.fitelson.org/125/Lewis_Causation.pdf
+edition: Journal of Philosophy 70(17), 1973, pp.556–567; original journal scan
+section: Whole article (optional)
+rights: Copyright retained by author/publisher; publicly provided through an author or academic teaching source. Saved for the user's private personal study only; no public redistribution permission claimed. All source notices retained.
+notes: Public Branden Fitelson philosophy teaching file.
+
+
+PHILOSOPHY OF LANGUAGE
+CAT-067 Frege, "On Sense and Reference" (1892)
+required anchor | German original only; English missing
+Read: English On Sense and Reference requested; German original is supplemental only if no English acquired.
+German original is supplemental. No verified English translation acquired.
+Files: texts/modern_articles/frege-1892-uber-sinn-und-bedeutung-de.txt; texts/modern_articles/frege-1892-uber-sinn-und-bedeutung-de.xml
+Catalog sources: "Über Sinn und Bedeutung", *Zeitschrift für Philosophie und philosophische Kritik* NF 100: 25–50. German original: [Deutsches Textarchiv](https://clarin.bbaw.de/en/objects/dta:298/) (check the licence stated there). In English, for example as "On Sense and Meaning" in McGuinness (ed.), *Collected Papers* (Blackwell, 1984)
+title: Frege, "On Sense and Reference" (1892)
+source_url: https://textgridrep.de/browse/4bjn7.0
+edition: German 1892 text, TextGrid/Kolimo+ TEI edition
+section: Complete German original pp.25–50; English translation remains missing
+rights: TextGrid edition states CC BY 4.0; original Frege text public domain. Retain TEI provenance.
+
+CAT-068 Russell, "On Denoting" (1905)
+required anchor | downloaded reading copy
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/modern_articles/russell-1905-on-denoting.txt
+Catalog sources: *Mind* 14(56): 479–493; doi:[10.1093/mind/XIV.4.479](https://doi.org/10.1093/mind/XIV.4.479); [JSTOR](https://www.jstor.org/stable/2248381)
+title: Russell, "On Denoting" (1905)
+source_url: https://en.wikisource.org/wiki/On_Denoting
+edition: Wikisource transcription of Mind 14(56), 479–493 (1905)
+section: Complete essay and original notes 1–14; later editorial note 15 excluded
+rights: PD in US by publication date 1905. Russell died 1970: copyright may remain in life-plus-70 jurisdictions until 2041.
+
+CAT-069 Strawson, "On Referring" (1950)
+required anchor | downloaded reading copy
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/recovered_articles/strawson.pdf
+Catalog sources: *Mind* 59(235): 320–344; doi:[10.1093/mind/LIX.235.320](https://doi.org/10.1093/mind/LIX.235.320); [JSTOR](https://www.jstor.org/stable/2251176)
+title: On Referring
+source_url: https://semantics.uchicago.edu/kennedy/classes/f09/semprag1/strawson50.pdf
+edition: Mind 59(235), July 1950, pp.320–344; original journal scan
+section: Whole article
+rights: Copyright retained by author/publisher; publicly provided through an author or academic teaching source. Saved for the user's private personal study only; no public redistribution permission claimed. All source notices retained.
+notes: Public University of Chicago semantics course file.
+
+CAT-070 Kripke, Naming and Necessity, Lectures I–II
+required anchor | not downloaded
+Read: Naming and Necessity Lectures I–II.
+Copyrighted book, Lectures I–II required. Publisher page presents robot verification; no authorized free fulltext verified.
+Files: None
+Catalog sources: Any edition
+title: Kripke, *Naming and Necessity*, Lectures I–II
+source_url: https://www.hup.harvard.edu/books/9780674598461
+edition: Any edition
+section: Kripke, *Naming and Necessity*, Lectures I–II
+rights: ©
+
+CAT-071 Putnam, "The Meaning of 'Meaning'" (1975)
+required anchor | downloaded reading copy
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/recovered_articles/putnam_meaning_portable_part1_of3.pdf; texts/recovered_articles/putnam_meaning_portable_part2_of3.pdf; texts/recovered_articles/putnam_meaning_portable_part3_of3.pdf
+Catalog sources: *Minnesota Studies in the Philosophy of Science* 7: 131–193; free PDF from the [University of Minnesota](https://hdl.handle.net/11299/185225); also in Putnam, *Philosophical Papers*, vol. 2 (Cambridge, 1975)
+title: The Meaning of “Meaning”
+source_url: https://fitelson.org/proseminar/putnam.pdf
+edition: Minnesota Studies in the Philosophy of Science 7, 1975, pp.131–193; original two-page scan, portable derivative
+section: Whole article
+rights: Copyright retained by author/publisher; publicly provided through an author or academic teaching source. Saved for the user's private personal study only; no public redistribution permission claimed. All source notices retained.
+notes: Original is 77,633,656 bytes, preserved outside delivery package at archive_sources/putnam_meaning_original_77 MB.pdf. Publicly linked as required reading in Fitelson's Rutgers Fall 2012 proseminar. Portable scan retains all page images/notices; existing OCR may have errors. MIT 8-page excerpt and fitelson.org/290/putnam.pdf were rejected as incomplete/different article. Portable file requires all three parts; total 32 sheets. Searchable OCR is retained but may contain recognition errors.
+
+CAT-072 Grice, "Logic and Conversation" (1975)
+required anchor | downloaded reading copy
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/recovered_articles/grice.pdf
+Catalog sources: In Cole and Morgan (eds.), *Syntax and Semantics 3: Speech Acts* (Academic Press, 1975), 41–58; reprinted in Grice, *Studies in the Way of Words* (Harvard, 1989), 22–40
+title: Logic and Conversation
+source_url: https://web.stanford.edu/class/psych205/papers/Grice-1975.pdf
+edition: Syntax and Semantics 3: Speech Acts, 1975, pp.41–58; permission-bearing reprint scan
+section: Whole article
+rights: Copyright retained by author/publisher; publicly provided through an author or academic teaching source. Saved for the user's private personal study only; no public redistribution permission claimed. All source notices retained.
+notes: Stanford course file with retained Elsevier reprint permission statement. Image-only PDF. Adjacent Introduction text sharing final scan sheet retained intact.
+
+CAT-073 Austin, How to Do Things with Words (1962)
+required anchor | not downloaded
+Read: How to Do Things with Words; no narrower lecture selections specified.
+Copyrighted book; no authorized free downloadable edition verified.
+Files: None
+Catalog sources: Any edition
+title: Austin, *How to Do Things with Words* (1962)
+source_url: https://academic.oup.com/book/5162
+edition: Any edition
+section: Austin, *How to Do Things with Words* (1962)
+rights: ©
+
+CAT-074 Wittgenstein, Philosophical Investigations (selections)
+required anchor | not downloaded
+Read: Philosophical Investigations selections; precise sections not specified.
+English translations remain copyrighted; no authorized free copy of the unspecified required selections verified. Publisher metadata record found; it is a Wiley UAT storefront URL.
+Files: None
+Catalog sources: Any edition with section numbers
+title: Wittgenstein, *Philosophical Investigations* (selections)
+source_url: https://uat.store.wiley.com/en-us/philosophical-investigations-4th-edition-p-9781405159289
+edition: Any edition with section numbers
+section: Wittgenstein, *Philosophical Investigations* (selections)
+rights: ©
+
+CAT-075 Quine, "Two Dogmas of Empiricism" (1951)
+required anchor | downloaded reading copy
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/recovered_articles/quine_two_dogmas.pdf
+Catalog sources: *Philosophical Review* 60(1): 20–43; doi:[10.2307/2181906](https://doi.org/10.2307/2181906)
+title: Two Dogmas of Empiricism
+source_url: https://cla.csulb.edu/departments/philosophy/wp-content/uploads/2025/05/Quine-1951-two-dogmas-of-empiricism.pdf
+edition: The Philosophical Review 60(1), January 1951, pp.20–43; original journal scan
+section: Whole article
+rights: Copyright retained by author/publisher; publicly provided through an author or academic teaching source. Saved for the user's private personal study only; no public redistribution permission claimed. All source notices retained.
+notes: Public CSULB Philosophy teaching PDF. Original 1951 article rather than 1961 revised anthology version.
+
+
+PHILOSOPHY OF MIND
+CAT-076 Descartes, Meditation VI, and the Elisabeth correspondence
+required anchor | Meditation VI plus modernized correspondence aid
+Read: Meditation VI (AT VII71–90) and 1643 Elisabeth correspondence.
+Veitch Meditation VI is present; Elisabeth correspondence is Bennett modernized reading aid if linked below. Scholarly AT-numbered edition and Shapiro correspondence are not supplied.
+Files: texts/introduction_logic/required/descartes_veitch_1912_meditations_I-VI.pdf; texts/introduction_logic/required/descartes_veitch_1912_fulltext.txt; texts/classical_web/descartes_elisabeth_1643_bennett_reading_aid.pdf
+Catalog sources: See Early Modern
+title: Meditations on the First Philosophy (all six Meditations)
+source_url: https://archive.org/details/discourseonmetho1912desc
+edition: A Discourse on Method; Meditations on the First Philosophy; Principles of Philosophy. London: Dent; New York: Dutton, Everyman edition, 1912. Introduction by A. D. Lindsay. Digitized from Harold B. Lee Library / Brigham Young University copy.
+section: Portable PDF is the unaltered Meditations I–VI pages only: printed79–143, excerpt PDF1–65. I printed79–84/PDF1–6; II printed85–94/PDF7–16; III printed95–110/PDF17–32; IV printed111–119/PDF33–41; V printed120–126/PDF42–48; VI printed127–143/PDF49–65. Extracted from original volume PDF113–177. Original294-page volume retained on cloud separately; full-volume OCR retained here.
+rights: Public-domain edition: published 1912, original author died 1650, translator died 1894, introduction author A. D. Lindsay died 1952. PD in US and ordinary life-plus-70 jurisdictions by 2026. No loan/login or restricted download used.
+gaps: ['No AT volume/page numbering in the reading text. The mention of Adam/Tannery is only in bibliography. Use a scholarly edition for precise AT citation; Introduction references remain AT VII 17–34.', 'Does not supply Elisabeth correspondence; CAT-076 is covered only for Meditation VI.', 'Cress translation recommended by catalog is not supplied; this is the explicit public-domain Veitch alternative.']
+title: Elisabeth and Descartes, correspondence
+source_url: https://www.earlymoderntexts.com/assets/pdfs/descartes1643_1.pdf
+edition: Jonathan Bennett modernized reading aid, copyright 2017. NOT Lisa Shapiro's scholarly translation.
+section: 1643 mind-body correspondence; source PDF also contains 1644 letters
+rights: Copyright Jonathan Bennett; explicit permission to download/save and use personally or in class, noncommercial.
+
+CAT-077 Ryle, The Concept of Mind (1949), chapter 1
+required anchor | not downloaded
+Read: Concept of Mind ch.1.
+Copyrighted book; required chapter 1 was not acquired from an authorized free source.
+Files: None
+Catalog sources: Any edition
+title: Ryle, *The Concept of Mind* (1949), chapter 1
+source_url: https://www.routledge.com/The-Concept-of-Mind-60th-Anniversary-Edition/Ryle/p/book/9780415485470
+edition: Any edition
+section: Ryle, *The Concept of Mind* (1949), chapter 1
+rights: ©
+
+CAT-078 Place, "Is Consciousness a Brain Process?" (1956)
+required anchor | downloaded reading copy
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/modern_articles/place-1956-is-consciousness-a-brain-process.pdf; texts/modern_articles/place-1956-is-consciousness-a-brain-process.txt
+Catalog sources: *British Journal of Psychology* 47(1): 44–50; doi:[10.1111/j.2044-8295.1956.tb00560.x](https://doi.org/10.1111/j.2044-8295.1956.tb00560.x); a copy on the [U. T. Place archive](https://utplace.uk/pdf/1956%20Is%20Consciousness%20a%20Brain%20Process.pdf)
+title: Place, "Is Consciousness a Brain Process?" (1956)
+source_url: https://utplace.uk/pdf/1956%20Is%20Consciousness%20a%20Brain%20Process.pdf
+edition: Archive PDF, British Journal of Psychology 47(1), 44–50 (1956)
+section: Complete article
+rights: Copyright retained; public author/estate archive copy. No general redistribution licence asserted.
+
+CAT-079 Smart, "Sensations and Brain Processes" (1959)
+required anchor | downloaded reading copy
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/recovered_mind/smart_1959_sensations_and_brain_processes.pdf
+Catalog sources: *Philosophical Review* 68(2): 141–156; doi:[10.2307/2182164](https://doi.org/10.2307/2182164)
+title: Sensations and Brain Processes
+source_url: https://zoo.cs.yale.edu/classes/cs471/13s/13s-papers/smart-sensations-brain.pdf
+edition: The Philosophical Review 68(2), April 1959, pp.141–156; original journal scan with JSTOR cover.
+section: Whole article: printed pp.141–156, PDF pp.2–17.
+rights: Copyrighted. Publicly offered academic teaching copy; no general open license or redistribution permission identified. Downloaded unchanged, retaining all embedded source/copyright notices, for this user's private personal study only. Do not publicly redistribute or relicense.
+
+CAT-080 Putnam, "The Nature of Mental States" (1967)
+required anchor | downloaded reading copy
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/recovered_mind/putnam_1967_the_nature_of_mental_states.pdf
+Catalog sources: First published as "Psychological Predicates" in Capitan and Merrill (eds.), *Art, Mind, and Religion* (Pittsburgh, 1967), 37–48; reprinted in Putnam, *Philosophical Papers*, vol. 2 (Cambridge, 1975)
+title: The Nature of Mental States
+source_url: https://web.stanford.edu/~paulsko/papers/PutnamNMS.pdf
+edition: Reprint in David J. Chalmers (ed.), Philosophy of Mind: Classical and Contemporary Readings, chapter 11, printed pp.73–79. Original published as Psychological Predicates (1967); the reprint notice itself cites the 1973 printing of Art, Mind, and Religion.
+section: Whole article: sections I–V and Notes 1–5, printed pp.73–79, PDF pp.1–7; PDF p.8 is a blank scan leaf preserved unchanged.
+rights: Copyrighted. Publicly offered academic teaching copy; no general open license or redistribution permission identified. Downloaded unchanged, retaining all embedded source/copyright notices, for this user's private personal study only. Do not publicly redistribute or relicense. Reprint page states permission of University of Pittsburgh Press.
+gaps: ['Image-only PDF; use visual reading. No text search layer added in order to keep the file unchanged.']
+
+CAT-081 Turing, "Computing Machinery and Intelligence" (1950)
+required anchor | downloaded reading copy
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/recovered_mind/turing_1950_computing_machinery_and_intelligence.pdf
+Catalog sources: *Mind* 59(236): 433–460; doi:[10.1093/mind/LIX.236.433](https://doi.org/10.1093/mind/LIX.236.433); [JSTOR](https://www.jstor.org/stable/2251299)
+title: Computing Machinery and Intelligence
+source_url: https://www.cs.toronto.edu/~frank/csc2501/Readings/R1_Turing/Turing-1950.pdf
+edition: Mind 59(236), October 1950, pp.433–460; original journal scan with JSTOR cover.
+section: Whole article: printed pp.433–460, PDF pp.2–29, including bibliography.
+rights: Copyrighted. Publicly offered academic teaching copy; no general open license or redistribution permission identified. Downloaded unchanged, retaining all embedded source/copyright notices, for this user's private personal study only. Do not publicly redistribute or relicense.
+
+CAT-082 Searle, "Minds, Brains, and Programs" (1980)
+required anchor | downloaded reading copy
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/recovered_mind/searle_1980_minds_brains_programs.pdf
+Catalog sources: *Behavioral and Brain Sciences* 3(3): 417–424 (417–457 with the commentaries); doi:[10.1017/S0140525X00005756](https://doi.org/10.1017/S0140525X00005756)
+title: Minds, Brains, and Programs
+source_url: https://home.csulb.edu/~cwallis/382/readings/482/searle.minds.brains.programs.bbs.1980.pdf
+edition: The Behavioral and Brain Sciences 3 (1980), main article pp.417–424, original journal scan.
+section: Whole assigned main article: printed pp.417–424, PDF pp.1–8. The unmodified source additionally contains commentaries and author response through printed p.456; the final commentary/reference page 457 is absent.
+rights: Copyrighted. Publicly offered academic teaching copy; no general open license or redistribution permission identified. Downloaded unchanged, retaining all embedded source/copyright notices, for this user's private personal study only. Do not publicly redistribute or relicense.
+gaps: ['All assigned main article pages are present. Do not describe the optional commentary/reference material as complete: printed p.457 is not in this source.']
+
+CAT-083 Nagel, "What Is It Like to Be a Bat?" (1974)
+required anchor | downloaded reading copy
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/recovered_mind/nagel_1974_what_is_it_like_to_be_a_bat.pdf
+Catalog sources: *Philosophical Review* 83(4): 435–450; doi:[10.2307/2183914](https://doi.org/10.2307/2183914)
+title: What Is It Like to Be a Bat?
+source_url: https://philosophy.uconn.edu/wp-content/uploads/sites/365/2020/03/Nagel-What-is-it-like-to-be-a-bat.pdf
+edition: The Philosophical Review 83(4), October 1974, pp.435–450; original journal scan with JSTOR cover.
+section: Whole article: printed pp.435–450, PDF pp.2–17.
+rights: Copyrighted. Publicly offered academic teaching copy; no general open license or redistribution permission identified. Downloaded unchanged, retaining all embedded source/copyright notices, for this user's private personal study only. Do not publicly redistribute or relicense.
+
+CAT-084 Jackson, "Epiphenomenal Qualia" (1982)
+required anchor | downloaded reading copy
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/recovered_mind/jackson_1982_epiphenomenal_qualia.pdf
+Catalog sources: *Philosophical Quarterly* 32(127): 127–136; doi:[10.2307/2960077](https://doi.org/10.2307/2960077)
+title: Epiphenomenal Qualia
+source_url: https://courses.physics.illinois.edu/phys419/sp2021/Jackson1982_EpiphenomenalQualia.pdf
+edition: The Philosophical Quarterly 32(127), April 1982, pp.127–136; original journal scan with JSTOR cover.
+section: Whole article: printed pp.127–136, PDF pp.2–11, sections I–IV and notes.
+rights: Copyrighted. Publicly offered academic teaching copy; no general open license or redistribution permission identified. Downloaded unchanged, retaining all embedded source/copyright notices, for this user's private personal study only. Do not publicly redistribute or relicense.
+
+CAT-085 Lewis, "What Experience Teaches" (1988)
+required anchor | downloaded reading copy
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/modern_articles/lewis-1988-what-experience-teaches.pdf; texts/modern_articles/lewis-1988-what-experience-teaches.txt
+Catalog sources: First published by the Russellian Society (Sydney), 1988; free copy posted with permission at the [University of Cambridge repository](https://www.repository.cam.ac.uk/handle/1810/247198); reprinted in Lewis, *Papers in Metaphysics and Epistemology* (Cambridge, 1999), 262–290
+title: Lewis, "What Experience Teaches" (1988)
+source_url: https://www.repository.cam.ac.uk/handle/1810/247198
+edition: Permission-posted 1999 reprint of 1988 essay in Papers in Metaphysics and Epistemology, pp.262–290
+section: Complete essay
+rights: Cambridge repository explicitly states posted by permission of Stephanie Lewis and Russellian Society. PDF itself states reproduction by permission of Stephanie Lewis. All rights reserved.
+
+CAT-086 Chalmers, "Facing Up to the Problem of Consciousness" (1995)
+required anchor | downloaded reading copy
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/modern_articles/chalmers-1995-facing-up.html; texts/modern_articles/chalmers-1995-facing-up.txt
+Catalog sources: *Journal of Consciousness Studies* 2(3): 200–219; author's copy at [Cogprints (archived)](https://web-archive.southampton.ac.uk/cogprints.org/316/)
+title: Chalmers, "Facing Up to the Problem of Consciousness" (1995)
+source_url: https://consc.net/papers/facing.html
+edition: Author-hosted HTML, Journal of Consciousness Studies 2(3), 200–219 (1995)
+section: Complete article including notes/references
+rights: Author’s public online copy; copyright retained and no redistribution licence asserted.
+
+
+AESTHETICS
+CAT-087 Hume, "Of the Standard of Taste" (1757)
+required anchor | downloaded alternative edition
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/classical_web/hume_standard_of_taste_wikisource.txt
+Catalog sources: [Hume Texts Online](https://davidhume.org/texts/empl1/st), with paragraph numbers
+title: Hume, Of the Standard of Taste
+source_url: https://en.wikisource.org/w/index.php?title=Four_Dissertations/Of_the_Standard_of_Taste&oldid=12997443
+edition: Four Dissertations, 1757; Wikisource scan-backed transcription
+section: Complete Dissertation IV
+rights: Original 1757 text PD. Wikisource contribution layer available under CC BY-SA 4.0, with source/version credited.
+
+CAT-088 Kant, Critique of the Power of Judgment, §§1–22
+required anchor | downloaded reading copy
+Read: Critique of Judgment §§1–22, Analytic of the Beautiful (Ak5).
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg48433-kant-s-critique-of-judgement.txt; texts/gutenberg/pg48433-kant-s-critique-of-judgement.epub
+Catalog sources: Suggested: Guyer and Matthews (Cambridge). Free: an older translation (*Kant's Critique of Judgement*) on [Gutenberg](https://www.gutenberg.org/ebooks/48433)
+title: Kant's Critique of Judgement
+source_url: https://www.gutenberg.org/ebooks/48433
+
+CAT-089 Weitz, "The Role of Theory in Aesthetics" (1956)
+required anchor | downloaded reading copy
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/recovered_mind/weitz_1956_role_of_theory_in_aesthetics.pdf
+Catalog sources: *Journal of Aesthetics and Art Criticism* 15(1): 27–35; doi:[10.2307/427491](https://doi.org/10.2307/427491)
+title: The Role of Theory in Aesthetics
+source_url: https://dl1.cuni.cz/pluginfile.php/1631962/mod_resource/content/1/Weitz-The_Role_of_Theory_in_Aesthetics.pdf
+edition: The Journal of Aesthetics and Art Criticism 15(1), September 1956, pp.27–35; original journal scan with JSTOR cover.
+section: Whole article: printed pp.27–35, PDF pp.2–10.
+rights: Copyrighted. Publicly offered academic teaching copy; no general open license or redistribution permission identified. Downloaded unchanged, retaining all embedded source/copyright notices, for this user's private personal study only. Do not publicly redistribute or relicense.
+
+CAT-090 Danto, "The Artworld" (1964)
+required anchor | downloaded reading copy
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/modern_articles/danto-1964-artworld-wiley-2019-reprint.pdf; texts/modern_articles/danto-1964-artworld-wiley-2019-reprint.txt
+Catalog sources: *Journal of Philosophy* 61(19): 571–584; [JSTOR](https://www.jstor.org/stable/2022937)
+title: Danto, "The Artworld" (1964)
+source_url: https://catalogimages.wiley.com/images/db/pdf/9781119222446.excerpt.pdf
+edition: 2019 anthology reprint, Aesthetics and the Philosophy of Art: The Analytic Tradition, 2nd ed., pp.7–14
+section: Complete article within publisher sample
+rights: Official Wiley sample PDF; first page explicitly says reprinted by permission of Journal of Philosophy. Copyright 2019 Wiley. Private personal study copy only.
+
+CAT-091 Walton, "Categories of Art" (1970)
+required anchor | downloaded reading copy
+Read: Whole article, as identified in catalog.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/recovered_mind/walton_1970_categories_of_art.pdf
+Catalog sources: *Philosophical Review* 79(3): 334–367
+title: Categories of Art
+source_url: https://kevinjpatton.com/teaching/phil_3230/readings/Kendall%20Walton%20-%20Categories%20of%20art.pdf
+edition: The Philosophical Review 79(3), July 1970, pp.334–367; original journal scan with JSTOR cover.
+section: Whole article: printed pp.334–367, PDF pp.2–35.
+rights: Copyrighted. Publicly offered academic teaching copy; no general open license or redistribution permission identified. Downloaded unchanged, retaining all embedded source/copyright notices, for this user's private personal study only. Do not publicly redistribute or relicense.
+
+CAT-092 Plato, Republic X
+optional | downloaded reading copy
+Read: Republic X; optional.
+Use the acquisition edition, selection and rights notes below; a reading copy may differ from the suggested scholarly edition.
+Files: texts/gutenberg/pg1497-the-republic.txt; texts/gutenberg/pg1497-the-republic.epub
+Catalog sources: See Ancient & Medieval
+title: The Republic
+source_url: https://www.gutenberg.org/ebooks/1497
+
+REF-01 Stanford Encyclopedia of Philosophy
+online resource
+Reference hub. Read online as needed; no individual entry assigned in this ZIP. Use fixed quarterly archive version when citing. No encyclopedia mirror included.
+https://plato.stanford.edu/
+
+REF-02 PhilPapers and PhilArchive
+online resource
+Literature-discovery and author-deposited-paper hubs; no exhaustive database download or API account setup.
+https://philarchive.org/
+
+REF-03 MIT OpenCourseWare
+online resource
+Course-resource hub; no specific course or lecture assigned in ZIP. Individual third-party readings retain their own rights.
+https://ocw.mit.edu/search/?d=Linguistics%20and%20Philosophy
+
+REF-04 Open Yale Courses
+online resource
+Course-resource hub; no specific course or lecture assigned in ZIP. Third-party readings excluded from general course license.
+https://oyc.yale.edu/philosophy
+
+REF-05 Carnap
+online resource
+Interactive proof exercises online; no local software installed. Supports forall x-style notation.
+https://carnap.io/
+
+OPT-01 Think
+not downloaded — borrow or buy if desired
+Any edition; Oxford University Press. No authorized free full book verified.
+https://www.univ.ox.ac.uk/book/think/
+
+OPT-02 What Does It All Mean?
+not downloaded — borrow or buy if desired
+Any edition; Oxford University Press. Catalog/book preview is not a full downloaded text.
+https://books.google.com/books/about/What_Does_It_All_Mean.html?id=5WpXE4GfcMgC
+
+OPT-03 A New History of Western Philosophy
+not downloaded — borrow or buy if desired
+Any edition; Oxford University Press. No authorized free full book verified.
+https://india.oup.com/product/a-new-history-of-western-philosophy-9780199656493
+
+OPT-04 A History of Philosophy without Any Gaps — book series
+not downloaded — borrow or buy if desired
+Catalog does not specify volumes; copyrighted books not included. Podcast separately available.
+https://www.historyofphilosophy.net/
+
+OPT-05 Introduction to ethics (specific title not prescribed)
+not downloaded — borrow or buy if desired
+Possible match: The Fundamentals of Ethics. Catalog names author/subject only; example is not a required substitution. Full textbook not included.
+https://www.oup.com.au/books/higher-education/humanities-social-sciences/9780197697474
+
+OPT-06 Introduction to epistemology (specific title not prescribed)
+not downloaded — borrow or buy if desired
+Possible match: What Is This Thing Called Knowledge? Catalog names author/subject only; example is not a required substitution. Full textbook not included.
+https://www.routledge.com/What-is-this-thing-called-Knowledge/Pritchard/p/book/9781032410692
+
+OPT-07 Introduction to philosophy of mind (specific title not prescribed)
+not downloaded — borrow or buy if desired
+Possible match: Philosophy of Mind: A Contemporary Introduction. Catalog names author/subject only; example is not a required substitution. Full textbook not included.
+https://www.routledge.com/Philosophy-of-Mind-A-Contemporary-Introduction/Heil/p/book/9781041053637
+
+OPT-08 Introduction to political philosophy (specific title not prescribed)
+not downloaded — borrow or buy if desired
+Possible match: An Introduction to Political Philosophy. Catalog names author/subject only; example is not a required substitution. Full textbook not included.
+https://books.google.com/books/about/An_Introduction_to_Political_Philosophy.html?id=3gxErgEACAAJ
+
+OPT-09 Introduction to philosophy of the arts (specific title not prescribed)
+not downloaded — borrow or buy if desired
+Possible match: Philosophy of the Arts: An Introduction to Aesthetics. Catalog names author/subject only; example is not a required substitution. Full textbook not included.
+https://www.routledge.com/Philosophy-of-the-Arts-An-Introduction-to-Aesthetics/Graham/p/book/9780415349796
+
+OPT-10 History of Philosophy without Any Gaps — podcast
+selected introductory episodes downloaded
+Three relevant starter episodes (16,18,21) downloaded separately and verified with ffprobe; the open-ended multi-hundred-episode series is not copied in full. Official episode and grouped ZIP links available at source.
+https://historyofphilosophy.net/podcast/all-episodes
+
+CHOICE-01 Non-European tradition elective
+not yet specified
+Choose Classical Chinese, Indian, Africana, or Islamic philosophy. ZIP lists author/tradition options, not a finalized reading list or translations. Acquisition awaits selection.
+
+
+CHOICE-02 Contemporary-area elective
+not yet specified
+Choose philosophy of science, AI/technology, feminist philosophy, race, law, environmental ethics, or Logic II. No finalized reading list. Logic II chapters are present within downloaded forall x.
+
+
+CHOICE-03 Research & Thesis
+not yet specified
+Thesis question and annotated bibliography are not yet selected; no fixed sources to acquire.
+

@@ -1,0 +1,251 @@
+{
+  "how_to_use": "Each file is an ordinary, independently extractable ZIP. To use the complete offline index, extract every ZIP into the same destination and merge the philosophy-study-collection folders, preserving existing subfolders. Then open START_HERE.html. Every content ZIP also has its own PART-xx.html list and can be used on its own. The full collection includes Foundations, so the separately delivered starter ZIP is not needed when these parts are assembled.",
+  "index_filename": "philosophy-00-index-and-curriculum.zip",
+  "parts": [
+    {
+      "filename": "philosophy-01-foundations.zip",
+      "label": "Foundations",
+      "files": [
+        "texts/gutenberg/pg1642-euthyphro.epub",
+        "texts/gutenberg/pg1642-euthyphro.rdf",
+        "texts/gutenberg/pg1642-euthyphro.txt",
+        "texts/gutenberg/pg1643-meno.epub",
+        "texts/gutenberg/pg1643-meno.rdf",
+        "texts/gutenberg/pg1643-meno.txt",
+        "texts/gutenberg/pg1656-apology.epub",
+        "texts/gutenberg/pg1656-apology.rdf",
+        "texts/gutenberg/pg1656-apology.txt",
+        "texts/introduction_logic/README.md",
+        "texts/introduction_logic/optional/pryor_writing_guidelines.html",
+        "texts/introduction_logic/required/descartes_veitch_1912_fulltext.txt",
+        "texts/introduction_logic/required/descartes_veitch_1912_meditations_I-VI.pdf",
+        "texts/introduction_logic/required/forallx_calgary_textbook.pdf",
+        "texts/introduction_logic/required/gettier_bilingual_disputatio_2013.pdf",
+        "texts/introduction_logic/required/singer_famine_affluence_morality_1972.pdf",
+        "texts/introduction_logic/solutions/forallx_calgary_solutions.pdf"
+      ],
+      "size_bytes": 8789217
+    },
+    {
+      "filename": "philosophy-02-ancient-medieval.zip",
+      "label": "Ancient Medieval",
+      "files": [
+        "texts/classical_web/anselm_proslogion_2-4_deane.txt",
+        "texts/classical_web/aristotle_de_anima_II_1-3_smith.txt",
+        "texts/classical_web/aristotle_de_anima_smith_complete.txt",
+        "texts/classical_web/aristotle_physics_book_II_hardie-gaye.txt",
+        "texts/classical_web/aristotle_physics_hardie-gaye_complete.txt",
+        "texts/classical_web/gaunilo_anselm_replies_deane_fordham.txt",
+        "texts/gutenberg/pg1497-the-republic.epub",
+        "texts/gutenberg/pg1497-the-republic.rdf",
+        "texts/gutenberg/pg1497-the-republic.txt",
+        "texts/gutenberg/pg1658-phaedo.epub",
+        "texts/gutenberg/pg1658-phaedo.rdf",
+        "texts/gutenberg/pg1658-phaedo.txt",
+        "texts/gutenberg/pg17556-sextus-empiricus-and-greek-scepticism.epub",
+        "texts/gutenberg/pg17556-sextus-empiricus-and-greek-scepticism.rdf",
+        "texts/gutenberg/pg17556-sextus-empiricus-and-greek-scepticism.txt",
+        "texts/gutenberg/pg17611-summa-theologica-part-i-prima-pars-from-the-complete-american-edition.epub",
+        "texts/gutenberg/pg17611-summa-theologica-part-i-prima-pars-from-the-complete-american-edition.rdf",
+        "texts/gutenberg/pg17611-summa-theologica-part-i-prima-pars-from-the-complete-american-edition.txt",
+        "texts/gutenberg/pg2412-the-categories.epub",
+        "texts/gutenberg/pg2412-the-categories.rdf",
+        "texts/gutenberg/pg2412-the-categories.txt",
+        "texts/gutenberg/pg3296-the-confessions-of-st-augustine.epub",
+        "texts/gutenberg/pg3296-the-confessions-of-st-augustine.rdf",
+        "texts/gutenberg/pg3296-the-confessions-of-st-augustine.txt",
+        "texts/gutenberg/pg57342-the-lives-and-opinions-of-eminent-philosophers.epub",
+        "texts/gutenberg/pg57342-the-lives-and-opinions-of-eminent-philosophers.rdf",
+        "texts/gutenberg/pg57342-the-lives-and-opinions-of-eminent-philosophers.txt"
+      ],
+      "size_bytes": 5232134
+    },
+    {
+      "filename": "philosophy-03-early-modern.zip",
+      "label": "Early Modern",
+      "files": [
+        "texts/classical_web/descartes_elisabeth_1643_bennett_reading_aid.pdf",
+        "texts/classical_web/leibniz_discourse_and_monadology_1902_selections.pdf",
+        "texts/classical_web/leibniz_discourse_monadology_montgomery_1902_ocr.txt",
+        "texts/gutenberg/pg10615-an-essay-concerning-humane-understanding-volume-1-mdcxc-based-on-the-2nd-edition-books-1-and-2.epub",
+        "texts/gutenberg/pg10615-an-essay-concerning-humane-understanding-volume-1-mdcxc-based-on-the-2nd-edition-books-1-and-2.rdf",
+        "texts/gutenberg/pg10615-an-essay-concerning-humane-understanding-volume-1-mdcxc-based-on-the-2nd-edition-books-1-and-2.txt",
+        "texts/gutenberg/pg10616-an-essay-concerning-humane-understanding-volume-2-mdcxc-based-on-the-2nd-edition-books-3-and-4.epub",
+        "texts/gutenberg/pg10616-an-essay-concerning-humane-understanding-volume-2-mdcxc-based-on-the-2nd-edition-books-3-and-4.rdf",
+        "texts/gutenberg/pg10616-an-essay-concerning-humane-understanding-volume-2-mdcxc-based-on-the-2nd-edition-books-3-and-4.txt",
+        "texts/gutenberg/pg3800-ethics.epub",
+        "texts/gutenberg/pg3800-ethics.rdf",
+        "texts/gutenberg/pg3800-ethics.txt",
+        "texts/gutenberg/pg4723-a-treatise-concerning-the-principles-of-human-knowledge.epub",
+        "texts/gutenberg/pg4723-a-treatise-concerning-the-principles-of-human-knowledge.rdf",
+        "texts/gutenberg/pg4723-a-treatise-concerning-the-principles-of-human-knowledge.txt",
+        "texts/gutenberg/pg9662-an-enquiry-concerning-human-understanding.epub",
+        "texts/gutenberg/pg9662-an-enquiry-concerning-human-understanding.rdf",
+        "texts/gutenberg/pg9662-an-enquiry-concerning-human-understanding.txt"
+      ],
+      "size_bytes": 6101815
+    },
+    {
+      "filename": "philosophy-04-kant-nineteenth-century.zip",
+      "label": "Kant Nineteenth Century",
+      "files": [
+        "texts/classical_web/hegel_phenomenology_lordship_bondage_baillie.txt",
+        "texts/classical_web/hegel_phenomenology_preface_baillie.txt",
+        "texts/classical_web/marx_theses_on_feuerbach_lough.txt",
+        "texts/gutenberg/pg4280-the-critique-of-pure-reason.epub",
+        "texts/gutenberg/pg4280-the-critique-of-pure-reason.rdf",
+        "texts/gutenberg/pg4280-the-critique-of-pure-reason.txt",
+        "texts/gutenberg/pg52319-the-genealogy-of-morals-the-complete-works-volume-thirteen-edited-by-dr-oscar-levy.epub",
+        "texts/gutenberg/pg52319-the-genealogy-of-morals-the-complete-works-volume-thirteen-edited-by-dr-oscar-levy.rdf",
+        "texts/gutenberg/pg52319-the-genealogy-of-morals-the-complete-works-volume-thirteen-edited-by-dr-oscar-levy.txt",
+        "texts/gutenberg/pg52821-kant-s-prolegomena-to-any-future-metaphysics.epub",
+        "texts/gutenberg/pg52821-kant-s-prolegomena-to-any-future-metaphysics.rdf",
+        "texts/gutenberg/pg52821-kant-s-prolegomena-to-any-future-metaphysics.txt",
+        "texts/gutenberg/pg60333-selections-from-the-writings-of-kierkegaard.epub",
+        "texts/gutenberg/pg60333-selections-from-the-writings-of-kierkegaard.rdf",
+        "texts/gutenberg/pg60333-selections-from-the-writings-of-kierkegaard.txt"
+      ],
+      "size_bytes": 2336157
+    },
+    {
+      "filename": "philosophy-05-ethics-politics-aesthetics.zip",
+      "label": "Ethics Politics Aesthetics",
+      "files": [
+        "texts/classical_web/hume_standard_of_taste_wikisource.txt",
+        "texts/classical_web/thomson_defense_of_abortion_1971.pdf",
+        "texts/gutenberg/pg11224-utilitarianism.epub",
+        "texts/gutenberg/pg11224-utilitarianism.rdf",
+        "texts/gutenberg/pg11224-utilitarianism.txt",
+        "texts/gutenberg/pg3207-leviathan.epub",
+        "texts/gutenberg/pg3207-leviathan.rdf",
+        "texts/gutenberg/pg3207-leviathan.txt",
+        "texts/gutenberg/pg3420-a-vindication-of-the-rights-of-woman-with-strictures-on-political-and-moral-subjects.epub",
+        "texts/gutenberg/pg3420-a-vindication-of-the-rights-of-woman-with-strictures-on-political-and-moral-subjects.rdf",
+        "texts/gutenberg/pg3420-a-vindication-of-the-rights-of-woman-with-strictures-on-political-and-moral-subjects.txt",
+        "texts/gutenberg/pg34901-on-liberty.epub",
+        "texts/gutenberg/pg34901-on-liberty.rdf",
+        "texts/gutenberg/pg34901-on-liberty.txt",
+        "texts/gutenberg/pg408-the-souls-of-black-folk.epub",
+        "texts/gutenberg/pg408-the-souls-of-black-folk.rdf",
+        "texts/gutenberg/pg408-the-souls-of-black-folk.txt",
+        "texts/gutenberg/pg46333-the-social-contract-discourses.epub",
+        "texts/gutenberg/pg46333-the-social-contract-discourses.rdf",
+        "texts/gutenberg/pg46333-the-social-contract-discourses.txt",
+        "texts/gutenberg/pg4705-a-treatise-of-human-nature.epub",
+        "texts/gutenberg/pg4705-a-treatise-of-human-nature.rdf",
+        "texts/gutenberg/pg4705-a-treatise-of-human-nature.txt",
+        "texts/gutenberg/pg48433-kant-s-critique-of-judgement.epub",
+        "texts/gutenberg/pg48433-kant-s-critique-of-judgement.rdf",
+        "texts/gutenberg/pg48433-kant-s-critique-of-judgement.txt",
+        "texts/gutenberg/pg53430-principia-ethica.epub",
+        "texts/gutenberg/pg53430-principia-ethica.rdf",
+        "texts/gutenberg/pg53430-principia-ethica.txt",
+        "texts/gutenberg/pg5682-fundamental-principles-of-the-metaphysic-of-morals.epub",
+        "texts/gutenberg/pg5682-fundamental-principles-of-the-metaphysic-of-morals.rdf",
+        "texts/gutenberg/pg5682-fundamental-principles-of-the-metaphysic-of-morals.txt",
+        "texts/gutenberg/pg7370-second-treatise-of-government.epub",
+        "texts/gutenberg/pg7370-second-treatise-of-government.rdf",
+        "texts/gutenberg/pg7370-second-treatise-of-government.txt",
+        "texts/gutenberg/pg8438-the-nicomachean-ethics-of-aristotle.epub",
+        "texts/gutenberg/pg8438-the-nicomachean-ethics-of-aristotle.rdf",
+        "texts/gutenberg/pg8438-the-nicomachean-ethics-of-aristotle.txt"
+      ],
+      "size_bytes": 8991705
+    },
+    {
+      "filename": "philosophy-06-modern-articles-1.zip",
+      "label": "Modern Articles \u00b7 part 1/5",
+      "files": [
+        "texts/modern_articles/frege-1892-uber-sinn-und-bedeutung-de.xml",
+        "texts/modern_articles/lewis-1988-what-experience-teaches.txt",
+        "texts/recovered_articles/putnam_meaning_portable_part2_of3.pdf",
+        "texts/recovered_mind/nagel_1974_what_is_it_like_to_be_a_bat.pdf",
+        "texts/recovered_mind/walton_1970_categories_of_art.pdf"
+      ],
+      "size_bytes": 9601221
+    },
+    {
+      "filename": "philosophy-07-modern-articles-2.zip",
+      "label": "Modern Articles \u00b7 part 2/5",
+      "files": [
+        "texts/modern_articles/chalmers-1995-facing-up.html",
+        "texts/modern_articles/chalmers-1995-facing-up.txt",
+        "texts/modern_articles/frege-1892-uber-sinn-und-bedeutung-de.txt",
+        "texts/modern_articles/place-1956-is-consciousness-a-brain-process.txt",
+        "texts/recovered_articles/READ_ME.txt",
+        "texts/recovered_articles/grice.pdf",
+        "texts/recovered_articles/putnam_meaning_portable_part1_of3.pdf",
+        "texts/recovered_mind/putnam_1967_the_nature_of_mental_states.pdf"
+      ],
+      "size_bytes": 9600153
+    },
+    {
+      "filename": "philosophy-08-modern-articles-3.zip",
+      "label": "Modern Articles \u00b7 part 3/5",
+      "files": [
+        "texts/modern_articles/danto-1964-artworld-wiley-2019-reprint.txt",
+        "texts/modern_articles/russell-1905-on-denoting.txt",
+        "texts/recovered_articles/lewis_causation.pdf",
+        "texts/recovered_articles/moore.html",
+        "texts/recovered_articles/putnam_meaning_portable_part3_of3.pdf",
+        "texts/recovered_mind/READ_ME_PRIVATE_STUDY.txt",
+        "texts/recovered_mind/searle_1980_minds_brains_programs.pdf"
+      ],
+      "size_bytes": 9575533
+    },
+    {
+      "filename": "philosophy-09-modern-articles-4.zip",
+      "label": "Modern Articles \u00b7 part 4/5",
+      "files": [
+        "texts/recovered_articles/bonjour.pdf",
+        "texts/recovered_articles/frankfurt.pdf",
+        "texts/recovered_articles/goldman.pdf",
+        "texts/recovered_articles/quine_what_there_is.pdf",
+        "texts/recovered_articles/strawson.pdf",
+        "texts/recovered_articles/van_inwagen.pdf",
+        "texts/recovered_articles/zagzebski.pdf",
+        "texts/recovered_mind/jackson_1982_epiphenomenal_qualia.pdf",
+        "texts/recovered_mind/turing_1950_computing_machinery_and_intelligence.pdf"
+      ],
+      "size_bytes": 9564067
+    },
+    {
+      "filename": "philosophy-10-modern-articles-5.zip",
+      "label": "Modern Articles \u00b7 part 5/5",
+      "files": [
+        "texts/modern_articles/danto-1964-artworld-wiley-2019-reprint.pdf",
+        "texts/modern_articles/lewis-1988-what-experience-teaches.pdf",
+        "texts/modern_articles/place-1956-is-consciousness-a-brain-process.pdf",
+        "texts/recovered_articles/derose_solving_author_reprint.pdf",
+        "texts/recovered_articles/quine_two_dogmas.pdf",
+        "texts/recovered_mind/smart_1959_sensations_and_brain_processes.pdf",
+        "texts/recovered_mind/weitz_1956_role_of_theory_in_aesthetics.pdf"
+      ],
+      "size_bytes": 2384155
+    },
+    {
+      "filename": "philosophy-11-optional-audio-1.zip",
+      "label": "Optional Audio \u00b7 part 1/3",
+      "files": [
+        "audio/plato-life-compact-64k.mp3"
+      ],
+      "size_bytes": 9050088
+    },
+    {
+      "filename": "philosophy-12-optional-audio-2.zip",
+      "label": "Optional Audio \u00b7 part 2/3",
+      "files": [
+        "audio/plato-meno-compact-64k.mp3"
+      ],
+      "size_bytes": 8544603
+    },
+    {
+      "filename": "philosophy-13-optional-audio-3.zip",
+      "label": "Optional Audio \u00b7 part 3/3",
+      "files": [
+        "audio/plato-socrates-compact-64k.mp3"
+      ],
+      "size_bytes": 8534268
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+ACCESS GAPS AND EDITION CAUTIONS
+Checked 30 September 2026
+
+No payment, login or restricted access was used. Downloaded alternatives are identified, not silently substituted.
+
+CAT-017 Elisabeth of Bohemia and Descartes, correspondence (1643) [required anchor]
+modernized reading aid
+1643 letters on mind–body interaction; cite letter dates.
+Bennett is a modernized aid, not Shapiro translation; do not quote it in graded work. Use the original letter dates.
+source_url: https://www.earlymoderntexts.com/assets/pdfs/descartes1643_1.pdf
+acquisition_url: https://press.uchicago.edu/ucp/books/book/chicago/C/bo4924190.html
+missing_reason: Suggested Lisa Shapiro (Chicago 2007) edition not downloaded; use library/purchase for a scholarly edition in assessed work.
+
+CAT-023 Early Modern Texts (Bennett's modernized versions) [optional]
+modernized reading aid
+Optional modernized reading aid; not for quotations in graded work.
+Bennett is a modernized aid, not Shapiro translation; do not quote it in graded work. Use the original letter dates.
+source_url: https://www.earlymoderntexts.com/assets/pdfs/descartes1643_1.pdf
+acquisition_url: https://press.uchicago.edu/ucp/books/book/chicago/C/bo4924190.html
+missing_reason: Suggested Lisa Shapiro (Chicago 2007) edition not downloaded; use library/purchase for a scholarly edition in assessed work.
+
+CAT-027 Marx, "Estranged Labour" (1844) [required anchor]
+online only
+Estranged Labour.
+Retained as online-only because catalog specifically restricts storage and no explicit permission for this translation was established.
+source_url: https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm
+missing_reason: Retained as online-only because catalog specifically restricts storage and no explicit permission for this translation was established.
+
+CAT-029 Kierkegaard, Fear and Trembling [required anchor]
+required section missing
+Fear and Trembling, Problema I. Catalog-linked Hollander anthology does NOT contain this required section.
+Hollander anthology downloaded, but it ends before Problema I. Obtain a complete lawful translation of Fear and Trembling for the required reading.
+source_url: https://www.gutenberg.org/ebooks/60333
+
+CAT-034 Scanlon, What We Owe to Each Other (selections) [required anchor]
+not downloaded
+Selections on contractualism; exact passages not yet specified.
+Institutional access or purchase needed; no licensed free full text established.
+source_url: https://www.jstor.org/stable/j.ctv134vmrn
+missing_reason: Institutional access or purchase needed; no licensed free full text established.
+
+CAT-037 Ayer, Language, Truth and Logic, chapter 6 [required anchor]
+not downloaded
+Language, Truth and Logic ch.6.
+No authorized free full text established; obtain through library or publisher.
+source_url: https://www.penguin.co.uk/books/57339/language-truth-and-logic-by-aj-ayer-intro-ben-rogers/9780141186047
+missing_reason: No authorized free full text established; obtain through library or publisher.
+
+CAT-038 Mackie, Ethics: Inventing Right and Wrong, chapter 1 [required anchor]
+not downloaded
+Ethics: Inventing Right and Wrong ch.1.
+No authorized free full text established; obtain through library or publisher.
+source_url: https://www.penguin.co.uk/books/13498/ethics-by-mackie-jl/9780140135589
+missing_reason: No authorized free full text established; obtain through library or publisher.
+
+CAT-039 de Beauvoir, The Ethics of Ambiguity (selections) [required anchor]
+not downloaded
+Selections; exact passages not yet specified.
+No authorized free full text established; WorldCat library route provided.
+source_url: https://search.worldcat.org/title/The-ethics-of-ambiguity/oclc/123328213
+missing_reason: No authorized free full text established; WorldCat library route provided.
+
+CAT-047 Rawls, A Theory of Justice, revised edition (selections) [required anchor]
+not downloaded
+A Theory of Justice REVISED EDITION; selections including §§3–4,11–13,24–26.
+JSTOR reports institution lacks access. A library/purchase copy of the revised edition is required; do not substitute original 1971 pagination.
+source_url: https://www.jstor.org/stable/j.ctvkjb25m
+missing_reason: JSTOR reports institution lacks access. A library/purchase copy of the revised edition is required; do not substitute original 1971 pagination.
+
+CAT-048 Nozick, Anarchy, State, and Utopia, chapter 7 (selections) [required anchor]
+not downloaded
+Anarchy, State, and Utopia ch.7 selections.
+No authorized free full text established; obtain through library or publisher.
+source_url: https://www.hachettebookgroup.com/titles/robert-nozick/anarchy-state-and-utopia/9780465051007/
+missing_reason: No authorized free full text established; obtain through library or publisher.
+
+CAT-049 Okin, Justice, Gender, and the Family (selections) [required anchor]
+not downloaded
+Selections; exact passages not yet specified.
+No authorized free full text established; obtain through library or publisher.
+source_url: https://www.hachettebookgroup.com/titles/susan-moller-okin/justice-gender-and-the-family/9780465037032/
+missing_reason: No authorized free full text established; obtain through library or publisher.
+
+CAT-050 Mills, The Racial Contract (selections) [required anchor]
+not downloaded
+Selections; exact passages not yet specified.
+No authorized free full text established; obtain through library or publisher.
+source_url: https://cornellpress.cornell.edu/book/9781501764288/the-racial-contract/
+missing_reason: No authorized free full text established; obtain through library or publisher.
+
+CAT-051 Moore, "Proof of an External World" (1939) [required anchor]
+downloaded university transcription
+Whole article, as identified in catalog.
+Complete university HTML transcription. It is not a facsimile of the original journal pages; verify quotations against a scholarly edition.
+source_url: https://home.csulb.edu/~cwallis/382/readings/382/Moore_Proof.html
+notes: Source labels transcription “Not Fully Editied yet”; OCR/transcription errors and missing original pagination. Use print edition for exact quotations. Rejected Colorado 3-page excerpt as incomplete.
+
+CAT-056 DeRose, "Solving the Skeptical Problem" (1995) [required anchor]
+downloaded author reprint draft
+Whole article, as identified in catalog.
+Author-identified reprint draft is available; original1995 pagination differs and the extent of minor revisions is unverified. Use the original journal for exact quotations/page references.
+source_url: https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/c/1227/files/2015/12/AI-Chap1-zk6him.pdf
+notes: This is an author chapter draft/reprint, NOT the original 1995 journal scan; pagination differs and exact word-for-word identity has not been established. Minor editing/revision extent is unverified. For original citation pagination consult Philosophical Review104(1):1–52. Reprint evidence: https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/c/1227/files/2015/12/AI-Ch2-AppB-combo-11xugj0.pdf (first page).
+
+CAT-057 Fricker, Epistemic Injustice (2007) (selections) [required anchor]
+not downloaded
+Selections on testimonial and hermeneutical injustice; precise passages not specified.
+Copyrighted book; no authorized free copy of the required selections verified.
+source_url: https://academic.oup.com/book/32817
+missing_reason: Copyrighted book; no authorized free copy of the required selections verified.
+
+CAT-059 Lewis, On the Plurality of Worlds (1986), chapter 1 [required anchor]
+not downloaded
+On the Plurality of Worlds ch.1 selections.
+Publisher lists a sample chapter, but https://media.wiley.com/product_data/excerpt/62/06312242/0631224262-8.pdf returned HTTP 403 to the web retrieval tool. Required chapter 1 coverage not established.
+source_url: https://www.wiley-vch.de/en/areas-interest/humanities-social-sciences/on-the-plurality-of-worlds-978-0-631-22426-6
+missing_reason: Publisher lists a sample chapter, but https://media.wiley.com/product_data/excerpt/62/06312242/0631224262-8.pdf returned HTTP 403 to the web retrieval tool. Required chapter 1 coverage not established.
+
+CAT-060 Kripke, Naming and Necessity, Lecture III [required anchor]
+not downloaded
+Naming and Necessity Lecture III.
+Copyrighted book, Lecture III required. Publisher page presents robot verification; no authorized free fulltext verified.
+source_url: https://www.hup.harvard.edu/books/9780674598461
+missing_reason: Copyrighted book, Lecture III required. Publisher page presents robot verification; no authorized free fulltext verified.
+
+CAT-063 Parfit, Reasons and Persons, Part III (selections) [required anchor]
+not downloaded
+Reasons and Persons Part III selections.
+Copyrighted book; required Part III selections not specified more precisely and no authorized free fulltext verified.
+source_url: https://academic.oup.com/book/12484
+missing_reason: Copyrighted book; required Part III selections not specified more precisely and no authorized free fulltext verified.
+
+CAT-067 Frege, "On Sense and Reference" (1892) [required anchor]
+German original only; English missing
+English On Sense and Reference requested; German original is supplemental only if no English acquired.
+German original is supplemental. No verified English translation acquired.
+source_url: https://textgridrep.de/browse/4bjn7.0
+missing_reason: English translation not obtained; German original is a supplement, not a replacement for an English course reading.
+
+CAT-070 Kripke, Naming and Necessity, Lectures I–II [required anchor]
+not downloaded
+Naming and Necessity Lectures I–II.
+Copyrighted book, Lectures I–II required. Publisher page presents robot verification; no authorized free fulltext verified.
+source_url: https://www.hup.harvard.edu/books/9780674598461
+missing_reason: Copyrighted book, Lectures I–II required. Publisher page presents robot verification; no authorized free fulltext verified.
+
+CAT-073 Austin, How to Do Things with Words (1962) [required anchor]
+not downloaded
+How to Do Things with Words; no narrower lecture selections specified.
+Copyrighted book; no authorized free downloadable edition verified.
+source_url: https://academic.oup.com/book/5162
+missing_reason: Copyrighted book; no authorized free downloadable edition verified.
+
+CAT-074 Wittgenstein, Philosophical Investigations (selections) [required anchor]
+not downloaded
+Philosophical Investigations selections; precise sections not specified.
+English translations remain copyrighted; no authorized free copy of the unspecified required selections verified. Publisher metadata record found; it is a Wiley UAT storefront URL.
+source_url: https://uat.store.wiley.com/en-us/philosophical-investigations-4th-edition-p-9781405159289
+missing_reason: English translations remain copyrighted; no authorized free copy of the unspecified required selections verified. Publisher metadata record found; it is a Wiley UAT storefront URL.
+
+CAT-076 Descartes, Meditation VI, and the Elisabeth correspondence [required anchor]
+Meditation VI plus modernized correspondence aid
+Meditation VI (AT VII71–90) and 1643 Elisabeth correspondence.
+Veitch Meditation VI is present; Elisabeth correspondence is Bennett modernized reading aid if linked below. Scholarly AT-numbered edition and Shapiro correspondence are not supplied.
+source_url: https://archive.org/details/discourseonmetho1912desc
+source_url: https://www.earlymoderntexts.com/assets/pdfs/descartes1643_1.pdf
+acquisition_url: https://press.uchicago.edu/ucp/books/book/chicago/C/bo4924190.html
+missing_reason: Suggested Lisa Shapiro (Chicago 2007) edition not downloaded; use library/purchase for a scholarly edition in assessed work.
+
+CAT-077 Ryle, The Concept of Mind (1949), chapter 1 [required anchor]
+not downloaded
+Concept of Mind ch.1.
+Copyrighted book; required chapter 1 was not acquired from an authorized free source.
+source_url: https://www.routledge.com/The-Concept-of-Mind-60th-Anniversary-Edition/Ryle/p/book/9780415485470
+missing_reason: Copyrighted book; required chapter 1 was not acquired from an authorized free source.
+
+GLOBAL CITATION CAUTION
+Public-domain older translations may not print Stephanus, Bekker, AT or A/B page numbers. Use a scholarly numbered edition for assessed quotations. Descartes Veitch specifically lacks AT page numbering.
+OPTIONAL BACKGROUND
+Nine optional book recommendations remain not downloaded; see the manifest. Some titles were not prescribed, only author and subject.
+ELECTIVES AND THESIS
+No final titles/editions specified until choices and thesis question are selected.

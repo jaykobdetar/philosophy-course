@@ -1,0 +1,321 @@
+                                    [FROM THE BRITISH JOURNAL OF PSYCHOLOGY,
+                                            VOL. XLVII, PART 1, FEBRUARY 1956]
+               [All rights reserved.]                                                 PRINTED IN GREAT BRITAIN
+
+
+
+                            IS CONSCIOUSNESS A BRAIN PROCESS ?
+
+                                                       By U. T. PLACE
+
+                           Institute of Experimental Psychology, University of Oxford
+
+
+The thesis that consciousness is a process in the brain is put forward as a reasonable scientific hypothesis, not to be dismissed on
+logical grounds alone. The conditions under which two sets of observations are treated as observations of the same process, rather
+than as observations of two independent correlated processes, are discussed. It is suggested that we can identify consciousness with
+a given pattern of brain activity, if we can explain the subject's introspective observations by reference to the brain processes with
+which they are correlated. It is argued that the problem of providing a physiological explanation of introspective observations is made
+to seem more difficult than it really is by the `phenomenological fallacy', the mistaken idea that descriptions of the appearances of
+things are descriptions of the actual state of affairs in a mysterious internal environment.
+
+
+
+          I. INTRODUCTION
+
+The view that there exists a separate class of events, mental events, which cannot be described in
+terms of the concepts employed by the physical sciences no longer commands the universal and
+unquestioning acceptance amongst philosophers and psychologists which it once did. Modern
+physicalism, however, unlike the materialism of the seventeenth and eighteenth centuries, is
+behaviouristic. Consciousness on this view is either a special type of behaviour, ‘sampling’ or
+‘running-back-and-forth’ behaviour as Tolman (1932, p. 206) has it, or a disposition to behave in a
+certain way, an itch for example being a temporary propensity to scratch. In the case of cognitive
+concepts like ‘knowing’, ‘believing’, ‘understanding’, ‘remembering’, and volitional concepts like
+‘wanting’ and ‘intending’, there can be little doubt, I think, that an analysis in terms of dispositions
+to behave (Wittgenstein, 1953; Ryle 1949) is fundamentally sound. On the other hand, there would
+seem to be an intractable residue of concepts clustering around the notions of consciousness,
+experience, sensation and mental imagery, where some sort of inner process story is unavoidable
+(Place, 1954). It is possible, of course, that a satisfactory behaviouristic account of this conceptual
+residuum will ultimately be found. For our present purposes, however, I shall assume that this
+cannot be done and that statements about pains and twinges, about how things look sound and feel,
+about things dreamed of or pictured in the mind's eye, are statements referring to events and
+processes which are in some sense private or internal to the individual of whom they are predicated.
+The question I wish to raise is whether in making this assumption we are inevitably committed to a
+dualist position in which sensations and mental images form a separate category of processes over
+and above the physical and physiological processes with which they are known to be correlated. I
+shall argue that an acceptance of inner processes does not entail dualism and that the thesis that
+consciousness is a process in the brain cannot be dismissed on logical grounds.
+
+          II. THE ‘IS’ OF DEFINITION AND THE ‘IS’ OF COMPOSITION
+
+I want to stress from the outset that in defending the thesis that consciousness is a process in the
+brain, I am not trying to argue that when we describe our dreams, fantasies and sensations we are
+talking about a process in our brains. That is, I am not claiming that [p. 45] statements about
+2                                Is consciousness a brain process ?
+
+sensations and mental images are reducible to or analysable into statements about brain
+processes, in the way in which ‘cognition statements’ are analysable into statements about
+behaviour. To say that statements about consciousness are statements about brain processes is
+manifestly false. This is shown (a) by the fact that you can describe your sensations and mental
+imagery without knowing anything about your brain processes or even that such things exist, (b)
+by the fact that statements about one's consciousness and statements about one's brain processes
+are verified in entirely different ways and (c) by the fact that there is nothing self-contradictory
+about the statement ‘X has a pain but there is nothing going on in his brain’. What I do want to
+assert, however, is that the statement ‘consciousness is a process in the brain’, although not
+necessarily true, is not necessarily false. ‘Consciousness is a process in the brain’, on my view is
+neither self-contradictory nor self-evident; it is a reasonable scientific hypothesis, in the way that
+the statement ‘lightning is a motion of electric charges’ is a reasonable scientific hypothesis.
+         The all but universally accepted view that an assertion of identity between consciousness
+and brain processes can be ruled out on logical grounds alone, derives, I suspect, from a failure
+to distinguish between what we may call the ‘is’ of definition and the ‘is’ of composition. The
+distinction I have in mind here is the difference between the function of the word ‘is’ in
+statements like ‘a square is an equilateral rectangle’, ‘red is a colour’, ‘to understand an
+instruction is to be able to act appropriately under the appropriate circumstances’, and its
+function in statements like ‘his table is an old packing case’, ‘her hat is a bundle of straw tied
+together with string’, ‘a cloud is a mass of water droplets or other particles in suspension’. These
+two types of ‘is’ statements have one thing in common. In both cases it makes sense to add the
+qualification ‘and nothing else’. In this they differ from those statements in which the ‘is’ is an
+‘is’ of predication; the statements ‘Toby is 80 years old and nothing else’, ‘her hat is red and
+nothing else’ or ‘giraffes are tall and nothing else’, for example, are nonsense. This logical feature
+may be described by saying that in both cases both the grammatical subject and the grammatical
+predicate are expressions which provide an adequate characterization of the state of affairs to
+which they both refer.
+         In another respect, however, the two groups of statements are strikingly different.
+Statements like ‘a square is an equilateral rectangle’ are necessary statements which are true by
+definition. Statements like ‘his table is an old packing case’, on the other hand, are contingent
+statements which have to be verified by observation. In the case of statements like ‘a square is
+an equilateral rectangle’ or ‘red is a colour’, there is a relationship between the meaning of the
+expression forming the grammatical predicate and the meaning of the expression forming the
+grammatical subject, such that whenever the subject expression is applicable the predicate must
+also be applicable. If you can describe something as red then you must also be able to describe
+it as coloured. In the case of statements like ‘his table is an old packing case’, on the other hand,
+there is no such relationship between the meanings of the expression ‘his table’ and ‘old packing
+case’; it merely so happens that in this case both expressions are applicable to and at the same
+time provide an adequate characterization of the same object. Those who contend that the
+statement ‘consciousness is a brain process’ is logically untenable base their claim, I suspect, on
+the mistaken assumption that if the meanings of two statements or expressions are quite
+unconnected, they cannot both provide an adequate characterization of the same object or state
+of affairs: if something is a state of consciousness, it cannot be a [p. 46] brain process, since there
+is nothing self-contradictory in supposing that someone feels a pain when there is nothing
+happening inside his skull. By the same token we might be led to conclude that a table cannot
+be an old packing case, since there is nothing self-contradictory in supposing that someone has
+a table but is not in possession of an old packing case.
+                                           U. T. PLACE                                               3
+
+
+       III. THE LOGICAL INDEPENDENCE OF EXPRESSIONS AND THE ONTOLOGICAL
+                                   INDEPENDENCE OF ENTITIES
+
+There is, of course, an important difference between the table/packing case case and the
+consciousness/brain process case in that the statement ‘his table is an old packing case’ is a
+particular proposition which refers only to one particular case, whereas the statement
+‘consciousness is a process in the brain’ is a general or universal proposition applying to all states
+of consciousness whatever. It is fairly clear, I think, that if we lived in a world in which all tables
+without exception were packing cases, the concepts of ‘table’ and ‘packing case’ in our language
+would not have their present logically independent status. In such a world a table would be a
+species of packing case in much the same way that red is a species of colour. It seems to be a
+rule of language that whenever a given variety of object or state of affairs has two characteristics
+or sets of characteristics, one of which is unique to the variety of object or state of affairs in
+question, the expression used to refer to the characteristic or set of characteristics which defines
+the variety of object or state of affairs in question will always entail the expression used to refer
+to the other characteristic or set of characteristics. If this rule admitted of no exception it would
+follow that any expression which is logically independent of another expression which uniquely
+characterizes a given variety of object or state of affairs, must refer to a characteristic or set of
+characteristics which is not normally or necessarily associated with the object or state of affairs
+in question. It is because this rule applies almost universally, I suggest, that we are normally
+justified in arguing from the logical independence of two expressions to the ontological
+independence of the states of affairs to which they refer. This would explain both the undoubted
+force of the argument that consciousness and brain processes must be independent entities
+because the expressions used to refer to them are logically independent and, in general, the
+curious phenomenon whereby questions about the furniture of the universe are often fought
+and not infrequently decided merely on a point of logic.
+         The argument from the logical independence of two expressions to the ontological
+independence of the entities to which they refer breaks down in the case of brain processes and
+consciousness, I believe, because this is one of a relatively small number of cases where the rule
+stated above does not apply. These exceptions are to be found, I suggest, in those cases where
+the operations which have to be performed in order to verify the presence of the two sets of
+characteristics inhering in the object or state of affairs in question can seldom if ever be
+performed simultaneously. A good example here is the case of the cloud and the mass of
+droplets or other particles in suspension. A cloud is a large semi-transparent mass with a fleecy
+texture suspended in the atmosphere whose shape is subject to continual and kaleidoscopic
+change. When observed at close quarters, however, it is found to consist of a mass of tiny
+particles, usually water droplets, in continuous motion. On the basis of this second observation
+we conclude that a cloud is a mass of tiny particles and nothing else. But there is no logical
+connexion in our language between a cloud and a mass of tiny particles; there is nothing self-
+contradictory in talking about a cloud which is not com-[p. 47]posed of tiny particles in
+suspension. There is no contradiction involved in supposing that clouds consist of a dense mass
+of fibrous tissue; indeed, such a consistency seems to be implied by many of the functions
+performed by clouds in fairy stories and mythology. It is clear from this that the terms ‘cloud’
+and ‘mass of tiny particles in suspension’ mean quite different things. Yet we do not conclude
+from this that there must be two things, the mass of particles in suspension and the cloud. The
+reason for this, I suggest, is that although the characteristics of being a cloud and being a mass
+4                                Is consciousness a brain process ?
+
+of tiny particles in suspension are invariably associated, we never make the observations
+necessary to verify the statement ‘that is a cloud’ and those necessary to verify the statement ‘this
+is a mass of tiny particles in suspension’ at one and the same time. We can observe the micro-
+structure of a cloud only when we are enveloped by it, a condition which effectively prevents us
+from observing those characteristics which from a distance lead us to describe it as a cloud.
+Indeed, so disparate are these two experiences that we use different words to describe them.
+That which is a cloud when we observe it from a distance becomes a fog or mist when we are
+enveloped by it.
+
+        IV. WHEN ARE TWO SETS OF OBSERVATIONS OBSERVATIONS OF THE SAME EVENT ?
+
+The example of the cloud and the mass of tiny particles in suspension was chosen because it is
+one of the few cases of a general proposition involving what I have called the ‘is’ of composition
+which does not involve us in scientific technicalities. It is useful because it brings out the
+connexion between the ordinary everyday cases of the ‘is’ of composition like the table/packing
+case example and the more technical cases like ‘lightning is a motion of electric charges’ where
+the analogy with the consciousness/brain process case is most marked. The limitation of the
+cloud/tiny particles in suspension case is that it does not bring out sufficiently clearly the crucial
+problem of how the identity of the states of affairs referred to by the two expressions is
+established. In the cloud case the fact that something is a cloud and the fact that something is a
+mass of tiny particles in suspension are both verified by the normal processes of visual
+observation. It is arguable, moreover, that the identity of the entities referred to by the two
+expressions is established by the continuity between the two sets of observations as the observer
+moves towards or away from the cloud. In the case of brain processes and consciousness there
+is no such continuity between the two sets of observations involved. A closer introspective
+scrutiny will never reveal the passage of nerve impulses over a thousand synapses in the way that
+a closer scrutiny of a cloud will reveal a mass of tiny particles in suspension. The operations
+required to verify statements about consciousness and statements about brain processes are
+fundamentally different.
+         To find a parallel for this feature we must examine other cases where an identity is
+asserted between something whose occurrence is verified by the ordinary processes of
+observation and something whose occurrence is established by special scientific procedures.
+For this purpose I have chosen the case where we say that lightning is a motion of electric
+charges. As in the case of consciousness, however closely we scrutinize the lightning we shall
+never be able to observe the electric charges, and just as the operations for determining the
+nature of one's state of consciousness are radically different from those involved in determining
+the nature of one's brain processes, so the operations for determining the occurrence of lightning
+are radically different from those involved in determining the occurrence of a motion of electric
+charges. What is it, therefore, that leads us to say that [p. 48] the two sets of observations are
+observations of the same event? It cannot be merely the fact that the two sets of observations
+are systematically correlated such that whenever there is lightning there is always a motion of
+electric charges. There are innumerable cases of such correlations where we have no temptation
+to say that the two sets of observations are observations of the same event. There is a systematic
+correlation, for example, between the movement of the tides and the stages of the moon, but
+this does not lead us to say that records of tidal levels are records of the moon's stages or vice
+versa. We speak rather of a causal connexion between two independent events or processes.
+                                          U. T. PLACE                                              5
+
+        The answer here seems to be that we treat the two sets of observations as observations
+of the same event, in those cases where the technical scientific observations set in the context of
+the appropriate body of scientific theory provide an immediate explanation of the observations
+made by the man in the street. Thus we conclude that lightning is nothing more than a motion
+of electric charges, because we know that a motion of electric charges through the atmosphere,
+such as occurs when lightning is reported, gives rise to the type of visual stimulation which would
+lead an observer to report a flash of lightning. In the moon/tide case, on the other hand, there
+is no such direct causal connexion between the stages of the moon and the observations made
+by the man who measures the height of the tide. The causal connexion is between the moon
+and the tides, not between the moon and the measurement of the tides.
+
+              V. THE PHYSIOLOGICAL EXPLANATION OF INTROSPECTION AND
+                              THE PHENOMENOLOGICAL FALLACY
+
+If this account is correct, it should follow that in order to establish the identity of consciousness
+and certain processes in the brain, it would be necessary to show that the introspective
+observations reported by the subject can be accounted for in terms of processes which are
+known to have occurred in his brain. In the light of this suggestion it is extremely interesting to
+find that when a physiologist as distinct from a philosopher finds it difficult to see how
+consciousness could be a process in the brain, what worries him is not any supposed self-
+contradiction involved in such an assumption, but the apparent impossibility of accounting for
+the reports given by the subject of his conscious processes in terms of the known properties of
+the central nervous system. Sir Charles Sherrington has posed the problem as follows: ‘The
+chain of events stretching from the sun's radiation entering the eye to, on the one hand, the
+contraction of the pupillary muscles, and on the other, to the electrical disturbances in the brain-
+cortex are all straightforward steps in a sequence of physical "causation", such as, thanks to
+science, are intelligible. But in the second serial chain there follows on, or attends, the stage of
+brain-cortex reaction an event or set of events quite inexplicable to us which both as to
+themselves and as to the causal tie between them and what preceded them science does not
+help us; a set of events seemingly incommensurable with any of the events leading up to it. The
+self "sees" the sun; it senses a two-dimensional disc of brightness located in the "sky", this last a
+field of lesser brightness, and overhead shaped as a rather flattened dome, coping the self and a
+hundred other visual things as well. Of hint that this is within the head there is none. Vision is
+saturated with this strange property called "projection", the unargued inference that what it sees
+is at a "distance" from the seeing "self". Enough has been said to stress that in the sequence of
+events a step is reached where a physical situation in the [p. 49] brain leads to a psychical, which
+however contains no hint of the brain or any other bodily part . . . The supposition has to be, it
+would seem, two continuous series of events, one physico-chemical, the other psychical, and at
+times interaction between them’ (Sherrington, 1947, pp. xx-xxi).
+         Just as the physiologist is not likely to be impressed by the philosopher's contention that
+there is some self-contradiction involved in supposing consciousness to be a brain process, so
+the philosopher is unlikely to be impressed by the considerations which lead Sherrington to
+conclude that there are two sets of events, one physico-chemical, the other psychical.
+Sherrington's argument for all its emotional appeal depends on a fairly simple logical mistake,
+which is unfortunately all too frequently made by psychologists and physiologists and not
+infrequently in the past by the philosophers themselves. This logical mistake, which I shall refer
+to as the ‘phenomenological fallacy’, is the mistake of supposing that when the subject describes
+6                               Is consciousness a brain process ?
+
+his experience, when he describes how things look, sound, smell, taste of feel to him, he is
+describing the literal properties of objects and events on a peculiar sort of internal cinema or
+television screen, usually referred to in the modern psychological literature as the ‘phenomenal
+field’. If we assume, for example, that when a subject reports a green after-image he is asserting
+the occurrence inside himself of an object which is literally green, it is clear that we have on our
+hands an entity for which there is no place in the world of physics. In the case of the green after-
+image there is no green object in the subject's environment corresponding to the description
+that he gives. Nor is there anything green in his brain; certainly there is nothing which could
+have emerged when he reported the appearance of the green after-image. Brain processes are
+not the sort of things to which colour concepts can be properly applied.
+          The phenomenological fallacy on which this argument is based depends on the mistaken
+assumption that because our ability to describe things in our environment depends on our
+consciousness of them, our descriptions of things are primarily descriptions of our conscious
+experience and only secondarily, indirectly and inferentially descriptions of the objects and
+events in our environments. It is assumed that because we recognize things in our environment
+by their look, sound, smell, taste and feel, we begin by describing their phenomenal properties,
+i.e. the properties of the looks, sounds, smells, tastes and feels which they produce in us, and
+infer their real properties from their phenomenal properties. In fact, the reverse is the case.
+We begin by learning to recognize the real properties of things in our environment. We learn
+to recognize them, of course, by their look, sound, smell, taste and feel; but this does not mean
+that we have to learn to describe the look, sound, smell, taste and feel of things before we can
+describe the things themselves. Indeed, it is only after we have learnt to describe the things in
+our environment that we can learn to describe our consciousness of them. We describe our
+conscious experience not in terms of the mythological ‘phenomenal properties’ which are
+supposed to inhere in the mythological ‘objects’ in the mythological ‘phenomenal field’, but by
+reference to the actual physical properties of the concrete physical objects, events and processes
+which normally, though not perhaps in the present instance, give rise to the sort of conscious
+experience which we are trying to describe. In other words when we describe the after-image as
+green we are not saying that there is something, the after-image, which is green, we are saying
+that we are having the sort of experience which we normally have when, and which we have
+learnt to describe as, looking at a green patch of light.
+[p. 50] Once we rid ourselves of the phenomenological fallacy we realize that the problem of
+explaining introspective observations in terms of brain processes is far from insuperable. We
+realize that there is nothing that the introspecting subject says about his conscious experiences
+which is inconsistent with anything the physiologist might want to say about the brain processes
+which cause him to describe the environment and his consciousness of that environment in the
+way he does. When the subject describes his experience by saying that a light which is in fact
+stationary, appears to move, all the physiologist or physiological psychologist has to do in order
+to explain the subject's introspective observations, is to show that the brain process which is
+causing the subject to describe his experience in this way, is the sort of process which normally
+occurs when he is observing an actual moving object and which therefore normally causes him
+to report the movement of an object in his environment. Once the mechanism whereby the
+individual describes what is going on in his environment has been worked out, all that is required
+to explain the individual's capacity to make introspective observations is an explanation of his
+ability to discriminate between those cases where his normal habits of verbal description are
+appropriate to the stimulus situation and those cases where they are not and an explanation of
+how and why, in those cases where the appropriateness of his normal descriptive habits is in
+                                          U. T. PLACE                                            7
+
+doubt, he learns to issue his ordinary descriptive protocols preceded by a qualificatory phrase
+like ‘it appears’, ‘seems’, ‘looks’, ‘feels’, etc.
+
+        I am greatly indebted to my fellow-participants in a series of informal discussion on this
+topic which took place in the Department of Philosophy, University of Adelaide, in particular
+to Mr C. B. Martin for his persistent and searching criticism of my earlier attempts to defend
+the thesis that consciousness is a brain process, to Prof. D. A. T. Gasking, of the University of
+Melbourne, for clarifying many of the logical issues involved and to Prof. J. J. C. Smart for moral
+support and encouragement in what often seemed a lost cause.
+
+                                      REFERENCES
+PLACE, U. T. (1954). The concept of heed. Brit. J. Psychol. 45, 243-55
+RYLE, G. (1949). The Concept of Mind. London: Hutchinson.
+SHERRINGTON, SIR CHARLES (1947). Foreword to the 1947 edition of The Integrative Action
+      of the Nervous System. Cambridge University Press.
+TOLMAN, E. C. (1932). Purposive Behaviour in Animals and Men. Berkeley and Los Angeles:
+      University of California Press.
+WITTGENSTEIN, L. (1953). Philosophical Investigations. Oxford: Blackwell.
+
+
+                           (Manuscript received 30 November 1954)
+
