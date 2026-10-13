@@ -1320,7 +1320,8 @@
       "title": "Default and alternative paper prompts",
       "source_baseline_hours": null,
       "source_text": "Default paper prompt: “Does the argument I select establish a necessary condition for consciousness, or only a reason for uncertainty?” Alternative: “What would count as evidence against the systems reply in a specified model of understanding?” A tool’s fluent answer is an object of analysis, not empirical proof of its internal state. Any informal demonstration must be labelled illustrative, with no claim that a few prompts constitute a scientific experiment.",
-      "readiness": "curriculum-specification-not-packet"
+      "readiness": "curriculum-specification-not-packet",
+      "shared_sequence_id": "C13"
     },
     {
       "id": "C13B-PAPER",
@@ -1331,7 +1332,8 @@
       "title": "Default and alternative paper prompts",
       "source_baseline_hours": null,
       "source_text": "Default paper prompt: “Does my proposed interpretation make the Mengzi–Xunzi disagreement substantive rather than merely verbal?” Alternative: “Can Aristotle’s account clarify one feature of cultivation without distorting the Chinese text?” Include a short translation note and one counterexample that tests your actual conclusion.",
-      "readiness": "curriculum-specification-not-packet"
+      "readiness": "curriculum-specification-not-packet",
+      "shared_sequence_id": "C13"
     },
     {
       "id": "C13C-PAPER",
@@ -1342,7 +1344,8 @@
       "title": "Default and alternative paper prompts",
       "source_baseline_hours": null,
       "source_text": "Default paper prompt: “Does one specified framework explain an exclusion case that another misses, and why?” Alternative: “Does a proposed remedy answer the identified epistemic wrong without creating a different injustice?” Use a documented case with restrained factual claims or a clearly hypothetical case. Do not make allegations about identifiable people as an exercise.",
-      "readiness": "curriculum-specification-not-packet"
+      "readiness": "curriculum-specification-not-packet",
+      "shared_sequence_id": "C13"
     },
     {
       "id": "C14-M01",
@@ -1430,6 +1433,94 @@
       "title": "Final portfolio and delayed synthesis",
       "source_baseline_hours": 18,
       "source_text": "Submit the revised paper, bibliography, assistance declaration, revision memo, and selected earlier artifacts. Write a 1,000-word reflection comparing an early and late argument, identifying actual development and remaining gaps. After a pause, explain the project and apply its central distinction to a fresh case. These activities, including the final source audit, are within the 180-hour estimate.",
+      "readiness": "curriculum-specification-not-packet"
+    },
+    {
+      "id": "C13-M01",
+      "course_id": "C13",
+      "source_page": "current/courses/13.md",
+      "source_line": 16,
+      "kind": "source_module_assignment",
+      "title": "Entry and question selection",
+      "source_baseline_hours": 10,
+      "source_text": "Explain two relevant arguments without notes; choose a packet; state three possible questions and narrow one. Read the core sources’ abstracts/introduction/conclusion for orientation. Output: a 400-word question note and an explicit list of scope exclusions.",
+      "readiness": "curriculum-specification-not-packet"
+    },
+    {
+      "id": "C13-M02",
+      "course_id": "C13",
+      "source_page": "current/courses/13.md",
+      "source_line": 18,
+      "kind": "source_module_assignment",
+      "title": "Primary-text and core-scholarship analysis",
+      "source_baseline_hours": 44,
+      "source_text": "Read the packet in full at its stated scope. Produce four 500-word reconstructions and two argument maps. Identify disagreements over definitions, evidence, inference, and purpose. These short tasks become material for the paper rather than separate polished publications.",
+      "readiness": "curriculum-specification-not-packet"
+    },
+    {
+      "id": "C13-M03",
+      "course_id": "C13",
+      "source_page": "current/courses/13.md",
+      "source_line": 20,
+      "kind": "source_module_assignment",
+      "title": "Research methods and current debate check",
+      "source_baseline_hours": 22,
+      "source_text": "Use the reference protocol below. Find four candidate scholarly sources, read their abstracts and introductions, then select two for full reading within a combined target of about forty to sixty pages. At least one should offer a serious challenge; at least one should be relatively recent at the time you take the course. If the search does not yield a defensible recent source, document that result instead of choosing a weak one to satisfy a date rule. Save citations, stable links, a short reason for selection, and notes distinguishing what was read from what was only indexed.",
+      "readiness": "curriculum-specification-not-packet"
+    },
+    {
+      "id": "C13-M04",
+      "course_id": "C13",
+      "source_page": "current/courses/13.md",
+      "source_line": 22,
+      "kind": "source_module_assignment",
+      "title": "Debate map and prospectus",
+      "source_baseline_hours": 16,
+      "source_text": "Write a 1,000-word map of three positions and a 600-word prospectus with a provisional thesis, objection, method, and feasible evidence base. The goal is a live question within the chosen literature, not proof that no one has ever had your idea.",
+      "readiness": "curriculum-specification-not-packet"
+    },
+    {
+      "id": "C13-M05",
+      "course_id": "C13",
+      "source_page": "current/courses/13.md",
+      "source_line": 24,
+      "kind": "source_module_assignment",
+      "title": "Seminar paper draft",
+      "source_baseline_hours": 24,
+      "source_text": "Write 2,500–3,500 words. Cite exact passages and explain the contribution of each secondary source. Mark uncertainties and unresolved objections rather than burying them. No AI-generated assessed prose.",
+      "readiness": "curriculum-specification-not-packet"
+    },
+    {
+      "id": "C13-M06",
+      "course_id": "C13",
+      "source_page": "current/courses/13.md",
+      "source_line": 26,
+      "kind": "source_module_assignment",
+      "title": "Critical response and revision",
+      "source_baseline_hours": 24,
+      "source_text": "Seek one substantial reader response if feasible; otherwise use a source-bound critical AI read and label its limits. Write a 500-word response to the strongest objection, revise the paper, and explain the main changes. A disagreeing review is not something to average away.",
+      "readiness": "curriculum-specification-not-packet"
+    },
+    {
+      "id": "C13-M07",
+      "course_id": "C13",
+      "source_page": "current/courses/13.md",
+      "source_line": 28,
+      "kind": "source_module_assignment",
+      "title": "Independent defense and transfer",
+      "source_baseline_hours": 10,
+      "source_text": "Give a ten-minute explanation and answer fifteen to twenty minutes of new questions, or use an accessible text equivalent. Complete an independent 800-word analysis of a fresh related case with sources visible but no live assistance.",
+      "readiness": "curriculum-specification-not-packet"
+    },
+    {
+      "id": "C13-M08",
+      "course_id": "C13",
+      "source_page": "current/courses/13.md",
+      "source_line": 30,
+      "kind": "source_module_assignment",
+      "title": "Capstone readiness portfolio",
+      "source_baseline_hours": 10,
+      "source_text": "Audit citations, select representative work, identify remaining weaknesses, and propose a capstone question. A later short transfer check is included. Remediate the weakest prerequisite before committing to the project.",
       "readiness": "curriculum-specification-not-packet"
     }
   ]

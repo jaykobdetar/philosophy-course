@@ -10,8 +10,8 @@ Snapshot: 2026-10-13. “Opening” means Course 1 Sessions 1–4 and the separa
 | PC-04 | [Active tutor rules](../instruction/tutor.md), opening assessment and [five-context Codex calibration record](../instruction/tutor-calibration-run-2026-10-13.md) use current version and outcomes. | Calibrate any different deployed tutor and revise on failure; this run is no learner pilot. |
 | PC-05 | [Private learner record template](../instruction/learner-record.md) holds attempt, help, revision and fresh evidence. | Populate with real learner work privately. |
 | PC-06 | [Baseline](../archive/BASELINE.md), conversion audit and [decisions](DECISIONS.md) record preservation and amendments. | Review any future correction against the saved original. |
-| PC-07 | [Structured opening data](../data/course.json) separates work, edition, asset and assignment; [later reading backlog](../data/reading-backlog.json) and [130 source assignment records](../data/assignment-catalogue.json) are explicit. | Normalize later works, editions, assets and exact reading assignments as each module is prepared. |
-| PC-08 | Opening and seven later candidate readings mapped to courses. | Map remaining route readings without assuming old CAT status governs. |
+| PC-07 | [Structured opening data](../data/course.json) separates work, edition, asset and assignment; [later reading catalogue](../data/later-reading-catalogue.json) and [138 source assignment records](../data/assignment-catalogue.json) cover the preserved later assignments. | Verify and attach later assets, rights and exact edition concordances before packet release. |
+| PC-08 | Opening plus [130 individual later source readings](../data/later-reading-catalogue.json) are mapped to courses; seven have separate access candidates. | Verify access and source match for the remaining later readings; CAT status alone does not govern. |
 | PC-09 | Seven opening reading records now have precise bounded locators. | Verify later passage boundaries and chosen editions before each packet. |
 | PC-10 | [Course 1 readiness](../current/readiness/course-01.md) generated with access and rights/quality fields. | Generate per-course acquisition views as later records are verified. |
 | PC-11 | [Specific source corrections](../current/readiness/source-corrections.md) and OpenStax 5.4 correction logged. | Check other catalogue claims before the affected module. |
@@ -27,7 +27,7 @@ Snapshot: 2026-10-13. “Opening” means Course 1 Sessions 1–4 and the separa
 | PC-21 | No Carnap use is required for the opening packet. | If selected, test installation, syntax and checker restrictions. |
 | PC-22 | [Review queue](../instruction/course-01/review-queue.md) defines targeted repair and changed-case recheck. | Test retrieval/remediation on learner difficulties. |
 | PC-23 | [Tutor source-bound packet rules](../instruction/tutor.md#source-bound-review-packet) and marked opening source support review. | Test the workflow with the learner's actual edition and format. |
-| PC-24 | [Opening outcome map](../instruction/course-01/outcomes.md) and preserved [course evidence grids](../current/assessment.md#outcome-evidence-grids). | Integrate proposed additions into a route-wide matrix before later release. |
+| PC-24 | [Opening outcome map](../instruction/course-01/outcomes.md), preserved [course evidence grids](../current/assessment.md#outcome-evidence-grids), and the shared [Course 13 sequence](../data/assignment-catalogue.json). | Integrate proposed additions into a route-wide matrix before later release. |
 | PC-25 | [Finite metaphysics brief](ADDITIONS.md) names C07 task and fresh case. | Exact edition/range, access and net hours. |
 | PC-26 | [Finite skepticism brief](ADDITIONS.md) names C07 comparison and response. | Exact passages and reconciled budget. |
 | PC-27 | [Finite metaethics brief](ADDITIONS.md) distinguishes Moore/Mackie from existing work. | Mackie extent, context, source and budget. |

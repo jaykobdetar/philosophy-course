@@ -34,7 +34,8 @@ The [stopping milestones](milestones.md) state which outcome evidence supports a
 - [Reading access and edition crosswalk](access.md)
 - [Checked source corrections and unresolved later access](readiness/source-corrections.md)
 - [Later reading acquisition backlog](readiness/later-backlog.md) — candidates only; later packets are not released
-- [Later assignment catalogue](../data/assignment-catalogue.json) — 127 source module assignments and three seminar paper prompts, with source page and line; these remain curriculum specifications
+- [Later assignment catalogue](../data/assignment-catalogue.json) — 135 source module assignments, including the shared Course 13 sequence, and three option paper prompts
+- [Later reading catalogue](../data/later-reading-catalogue.json) — 130 individually identified source assignments in Courses 3–13; editions, access, rights and readiness remain unchecked where not established
 - [Research and review record](review-record.md)
 
 The 1,890-hour default and 1,270-hour common-core figures in these converted pages are **source baselines**. The unified plan's proposed additions do not yet have one verified revised total. Use the [workload ledger](../data/workload.json) for scoped changes; do not add an unverified headline total.

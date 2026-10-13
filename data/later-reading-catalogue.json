@@ -1,0 +1,3236 @@
+{
+  "schema_version": 1,
+  "purpose": "Existing named reading assignments in Courses 3–13, not source-verified or released; Course 14 assigns project-specific sources rather than a fixed reading list",
+  "advertised_counts": {
+    "C03": 10,
+    "C04": 11,
+    "C05": 7,
+    "C06": 9,
+    "C07": 11,
+    "C08": 8,
+    "C09": 7,
+    "C10": 8,
+    "C11A": 7,
+    "C11B": 8,
+    "C12A": 9,
+    "C12B": 6,
+    "C12C": 7,
+    "C12D": 7,
+    "C13A": 5,
+    "C13B": 5,
+    "C13C": 5
+  },
+  "works": [
+    {
+      "id": "W-85C759AD4B39",
+      "creator": "Plato",
+      "title": "Republic"
+    },
+    {
+      "id": "W-ED29C1EBBA42",
+      "creator": "Plato",
+      "title": "Phaedo"
+    },
+    {
+      "id": "W-09C77CCEE87D",
+      "creator": "Aristotle",
+      "title": "Categories"
+    },
+    {
+      "id": "W-030FEE5D1576",
+      "creator": "Aristotle",
+      "title": "Physics"
+    },
+    {
+      "id": "W-A14C5E4055E6",
+      "creator": "Aristotle",
+      "title": "De Anima"
+    },
+    {
+      "id": "W-1CC8EBABA26C",
+      "creator": "Epicurus",
+      "title": "Letter to Menoeceus"
+    },
+    {
+      "id": "W-2990AAA6EB2E",
+      "creator": "Sextus Empiricus",
+      "title": "Outlines of Pyrrhonism"
+    },
+    {
+      "id": "W-8CD38702C7F2",
+      "creator": "Augustine",
+      "title": "Confessions"
+    },
+    {
+      "id": "W-3FEAFE0E5E00",
+      "creator": "Anselm",
+      "title": "Proslogion"
+    },
+    {
+      "id": "W-CF9B51B8C94C",
+      "creator": "Gaunilo",
+      "title": "On Behalf of the Fool"
+    },
+    {
+      "id": "W-4853AB57CFAD",
+      "creator": "Anselm",
+      "title": "Reply to Gaunilo"
+    },
+    {
+      "id": "W-E8E508E439D5",
+      "creator": "Avicenna",
+      "title": "On the Soul"
+    },
+    {
+      "id": "W-1B6AC2510B5B",
+      "creator": "al-Ghazali",
+      "title": "The Rescuer from Error"
+    },
+    {
+      "id": "W-B060797C4EBF",
+      "creator": "Maimonides",
+      "title": "Guide of the Perplexed"
+    },
+    {
+      "id": "W-48E9F57D5A2A",
+      "creator": "Aquinas",
+      "title": "Summa Theologiae"
+    },
+    {
+      "id": "W-A69B5BBBE5A5",
+      "creator": "Descartes",
+      "title": "Meditations"
+    },
+    {
+      "id": "W-7E6195DF9FFB",
+      "creator": "Elisabeth and Descartes",
+      "title": "Correspondence"
+    },
+    {
+      "id": "W-B2DE42520D02",
+      "creator": "Spinoza",
+      "title": "Ethics"
+    },
+    {
+      "id": "W-01E0B68F332F",
+      "creator": "Leibniz",
+      "title": "Monadology"
+    },
+    {
+      "id": "W-67D668585DAC",
+      "creator": "Locke",
+      "title": "Essay Concerning Human Understanding"
+    },
+    {
+      "id": "W-8C5A58797378",
+      "creator": "Berkeley",
+      "title": "Principles of Human Knowledge"
+    },
+    {
+      "id": "W-F680304F6BA9",
+      "creator": "Hume",
+      "title": "Enquiry Concerning Human Understanding"
+    },
+    {
+      "id": "W-045598883A06",
+      "creator": "Aristotle",
+      "title": "Nicomachean Ethics"
+    },
+    {
+      "id": "W-30AD3D9F1CFE",
+      "creator": "Kant",
+      "title": "Groundwork"
+    },
+    {
+      "id": "W-F0352BB39FD0",
+      "creator": "Mill",
+      "title": "Utilitarianism"
+    },
+    {
+      "id": "W-6DD9FA99E794",
+      "creator": "Hume",
+      "title": "Treatise of Human Nature"
+    },
+    {
+      "id": "W-50EC9CF46AA3",
+      "creator": "A. J. Ayer",
+      "title": "Language, Truth and Logic"
+    },
+    {
+      "id": "W-C42EC15FF533",
+      "creator": "Judith Jarvis Thomson",
+      "title": "A Defense of Abortion"
+    },
+    {
+      "id": "W-8226695B38C8",
+      "creator": "Mengzi",
+      "title": "Mengzi"
+    },
+    {
+      "id": "W-8F5EF1C9B6F5",
+      "creator": "Gettier",
+      "title": "Is Justified True Belief Knowledge?"
+    },
+    {
+      "id": "W-C5E2966E27D8",
+      "creator": "Alvin Goldman",
+      "title": "What Is Justified Belief?"
+    },
+    {
+      "id": "W-24A57DFEFDAA",
+      "creator": "Thomas Reid",
+      "title": "An Inquiry into the Human Mind"
+    },
+    {
+      "id": "W-8AE470E3B736",
+      "creator": "Miranda Fricker",
+      "title": "Epistemic Injustice"
+    },
+    {
+      "id": "W-C6D90620D1AB",
+      "creator": "Buddhist Pāli canon",
+      "title": "Anattalakkhaṇa Sutta"
+    },
+    {
+      "id": "W-DA6A49AC68DE",
+      "creator": "Derek Parfit",
+      "title": "Personal Identity"
+    },
+    {
+      "id": "W-413C63A7891D",
+      "creator": "Harry Frankfurt",
+      "title": "Alternate Possibilities and Moral Responsibility"
+    },
+    {
+      "id": "W-9832EC4F494D",
+      "creator": "Peter van Inwagen",
+      "title": "The Incompatibility of Free Will and Determinism"
+    },
+    {
+      "id": "W-878838B6055D",
+      "creator": "Internet Encyclopedia of Philosophy",
+      "title": "Buddha"
+    },
+    {
+      "id": "W-9854B40E95E8",
+      "creator": "Hobbes",
+      "title": "Leviathan"
+    },
+    {
+      "id": "W-7B38B58F3AD2",
+      "creator": "Locke",
+      "title": "Second Treatise"
+    },
+    {
+      "id": "W-9CA905F72EA8",
+      "creator": "Mill",
+      "title": "On Liberty"
+    },
+    {
+      "id": "W-22B6AC5B92E2",
+      "creator": "Mary Wollstonecraft",
+      "title": "A Vindication of the Rights of Woman"
+    },
+    {
+      "id": "W-07E5B3436481",
+      "creator": "W. E. B. Du Bois",
+      "title": "The Souls of Black Folk"
+    },
+    {
+      "id": "W-673D1E135B2B",
+      "creator": "John Rawls",
+      "title": "A Theory of Justice"
+    },
+    {
+      "id": "W-B88D3C26F775",
+      "creator": "Robert Nozick",
+      "title": "Anarchy, State, and Utopia"
+    },
+    {
+      "id": "W-40B78F30C0F3",
+      "creator": "Charles Mills",
+      "title": "The Racial Contract"
+    },
+    {
+      "id": "W-6DB9E596673B",
+      "creator": "Kant",
+      "title": "Prolegomena to Any Future Metaphysics"
+    },
+    {
+      "id": "W-EF60F009F843",
+      "creator": "Kant",
+      "title": "Critique of Pure Reason"
+    },
+    {
+      "id": "W-51CDF84C7C13",
+      "creator": "Hegel",
+      "title": "Phenomenology of Spirit"
+    },
+    {
+      "id": "W-37A7EE103F61",
+      "creator": "Stanford Encyclopedia of Philosophy",
+      "title": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "id": "W-21BEB0A73B8F",
+      "creator": "Marx",
+      "title": "Estranged Labour"
+    },
+    {
+      "id": "W-4A7927F97766",
+      "creator": "Marx",
+      "title": "Theses on Feuerbach"
+    },
+    {
+      "id": "W-8C3303016506",
+      "creator": "Nietzsche",
+      "title": "On the Genealogy of Morality"
+    },
+    {
+      "id": "W-9C07C54F2625",
+      "creator": "Karl Popper",
+      "title": "Conjectures and Refutations"
+    },
+    {
+      "id": "W-26CAC8F194CA",
+      "creator": "Carl Hempel",
+      "title": "Philosophy of Natural Science"
+    },
+    {
+      "id": "W-4087A748DE15",
+      "creator": "Thomas Kuhn",
+      "title": "The Structure of Scientific Revolutions"
+    },
+    {
+      "id": "W-D97E9B41188A",
+      "creator": "Bas van Fraassen",
+      "title": "The Scientific Image"
+    },
+    {
+      "id": "W-02F49C346AAB",
+      "creator": "Helen Longino",
+      "title": "Science as Social Knowledge"
+    },
+    {
+      "id": "W-9E4F018870C2",
+      "creator": "IPCC",
+      "title": "Sixth Assessment Synthesis Report Summary for Policymakers"
+    },
+    {
+      "id": "W-C01EFA19DE0C",
+      "creator": "Nathan Gillett et al.",
+      "title": "Constraining human contributions to observed warming since the pre-industrial period"
+    },
+    {
+      "id": "W-92024BC9C73F",
+      "creator": "Confucius",
+      "title": "Analects"
+    },
+    {
+      "id": "W-621053D404D6",
+      "creator": "Mozi",
+      "title": "Mozi"
+    },
+    {
+      "id": "W-89488B6D6B05",
+      "creator": "Zhuangzi",
+      "title": "Zhuangzi"
+    },
+    {
+      "id": "W-42A6800E875E",
+      "creator": "Xunzi",
+      "title": "Xunzi"
+    },
+    {
+      "id": "W-B4CB4B96AD41",
+      "creator": "Stanford Encyclopedia of Philosophy",
+      "title": "Chinese Ethics"
+    },
+    {
+      "id": "W-E4BA2AF0C052",
+      "creator": "Stanford Encyclopedia of Philosophy",
+      "title": "Mencius"
+    },
+    {
+      "id": "W-619608EE00C2",
+      "creator": "Frantz Fanon",
+      "title": "Black Skin, White Masks"
+    },
+    {
+      "id": "W-255EF4B256D0",
+      "creator": "Kwasi Wiredu",
+      "title": "How Not to Compare African Thought with Western Thought"
+    },
+    {
+      "id": "W-42C89F833E6F",
+      "creator": "Ifeanyi Menkiti",
+      "title": "Person and Community in African Traditional Thought"
+    },
+    {
+      "id": "W-0C5C589536AC",
+      "creator": "Kwame Gyekye",
+      "title": "Person and Community in African Thought"
+    },
+    {
+      "id": "W-B7F5D0405E84",
+      "creator": "Stanford Encyclopedia of Philosophy",
+      "title": "Frantz Fanon"
+    },
+    {
+      "id": "W-7F2002207714",
+      "creator": "Gottlob Frege",
+      "title": "On Sense and Reference"
+    },
+    {
+      "id": "W-3D31328CC948",
+      "creator": "Bertrand Russell",
+      "title": "On Denoting"
+    },
+    {
+      "id": "W-92AFDD0B03C3",
+      "creator": "Saul Kripke",
+      "title": "Naming and Necessity"
+    },
+    {
+      "id": "W-6147634401DC",
+      "creator": "Gilbert Ryle",
+      "title": "The Concept of Mind"
+    },
+    {
+      "id": "W-434B748AE96B",
+      "creator": "Hilary Putnam",
+      "title": "The Nature of Mental States"
+    },
+    {
+      "id": "W-ECBFF148FA6C",
+      "creator": "Alan Turing",
+      "title": "Computing Machinery and Intelligence"
+    },
+    {
+      "id": "W-9E4D41652BED",
+      "creator": "John Searle",
+      "title": "Minds, Brains, and Programs"
+    },
+    {
+      "id": "W-78F52255AE35",
+      "creator": "Thomas Nagel",
+      "title": "What Is It Like to Be a Bat?"
+    },
+    {
+      "id": "W-FF374E758803",
+      "creator": "Frank Jackson",
+      "title": "Epiphenomenal Qualia"
+    },
+    {
+      "id": "W-A1B4A4A19767",
+      "creator": "Hume",
+      "title": "Of the Standard of Taste"
+    },
+    {
+      "id": "W-EB6A7A53C65E",
+      "creator": "Kant",
+      "title": "Critique of the Power of Judgment"
+    },
+    {
+      "id": "W-90CD677493EA",
+      "creator": "Morris Weitz",
+      "title": "The Role of Theory in Aesthetics"
+    },
+    {
+      "id": "W-1E70BF7EE81C",
+      "creator": "Arthur Danto",
+      "title": "The Artworld"
+    },
+    {
+      "id": "W-B8315655CEE4",
+      "creator": "Kendall Walton",
+      "title": "Categories of Art"
+    },
+    {
+      "id": "W-540D241AF9F2",
+      "creator": "William James",
+      "title": "Pragmatism"
+    },
+    {
+      "id": "W-A3B4539738B1",
+      "creator": "John Dewey",
+      "title": "The Reflex Arc Concept in Psychology"
+    },
+    {
+      "id": "W-FE9DEDA66D55",
+      "creator": "Edmund Husserl",
+      "title": "The Idea of Phenomenology"
+    },
+    {
+      "id": "W-C854856F6B7E",
+      "creator": "Maurice Merleau-Ponty",
+      "title": "Phenomenology of Perception"
+    },
+    {
+      "id": "W-FC08A240C743",
+      "creator": "Jean-Paul Sartre",
+      "title": "Existentialism Is a Humanism"
+    },
+    {
+      "id": "W-851C94E97BA4",
+      "creator": "Simone de Beauvoir",
+      "title": "The Ethics of Ambiguity"
+    },
+    {
+      "id": "W-9E696683CEA6",
+      "creator": "Søren Kierkegaard",
+      "title": "Fear and Trembling"
+    },
+    {
+      "id": "W-0A1E4F96C871",
+      "creator": "Susan Moller Okin",
+      "title": "Justice, Gender, and the Family"
+    },
+    {
+      "id": "W-015ED9C8307A",
+      "creator": "bell hooks",
+      "title": "Feminist Theory From Margin to Center"
+    },
+    {
+      "id": "W-0AA4C1EE2A39",
+      "creator": "Iris Marion Young",
+      "title": "Five Faces of Oppression"
+    },
+    {
+      "id": "W-3C575A85E88C",
+      "creator": "Elizabeth Anderson",
+      "title": "What Is the Point of Equality?"
+    },
+    {
+      "id": "W-8B8220B07169",
+      "creator": "Peter Singer",
+      "title": "Animal Liberation"
+    },
+    {
+      "id": "W-208284770970",
+      "creator": "Aldo Leopold",
+      "title": "The Land Ethic"
+    },
+    {
+      "id": "W-833FE4E21406",
+      "creator": "Charles Mills",
+      "title": "Ideal Theory as Ideology"
+    },
+    {
+      "id": "W-C5D4CCC9B5FD",
+      "creator": "Emily Bender et al.",
+      "title": "On the Dangers of Stochastic Parrots"
+    },
+    {
+      "id": "W-F6C85779800D",
+      "creator": "David Chalmers",
+      "title": "Could a Large Language Model Be Conscious?"
+    },
+    {
+      "id": "W-62EE5429707D",
+      "creator": "Patrick Butlin et al.",
+      "title": "Consciousness in Artificial Intelligence"
+    },
+    {
+      "id": "W-905D9B229F09",
+      "creator": "Bryan W. Van Norden",
+      "title": "Mengzi and Xunzi: Two Views of Human Agency"
+    },
+    {
+      "id": "W-0CB5E7E6D11E",
+      "creator": "David E. Soles",
+      "title": "The Nature and Grounds of Xunzi’s Disagreement with Mencius"
+    },
+    {
+      "id": "W-E63D9A01A591",
+      "creator": "Charles Mills",
+      "title": "White Ignorance"
+    },
+    {
+      "id": "W-E2D014262319",
+      "creator": "Kristie Dotson",
+      "title": "Tracking Epistemic Violence, Tracking Practices of Silencing"
+    },
+    {
+      "id": "W-06C001004018",
+      "creator": "Plato",
+      "title": "Apology"
+    },
+    {
+      "id": "W-7D38CDAC0978",
+      "creator": "Plato",
+      "title": "Meno"
+    },
+    {
+      "id": "W-1C529F0B3BAD",
+      "creator": "OpenStax",
+      "title": "Introduction to Philosophy"
+    },
+    {
+      "id": "W-83609F0915E3",
+      "creator": "Muhammad Ali Khalidi (editor)",
+      "title": "Medieval Islamic Philosophical Writings"
+    },
+    {
+      "id": "W-6177E084F8A8",
+      "creator": "Peter Singer",
+      "title": "Famine, Affluence, and Morality"
+    }
+  ],
+  "editions": [
+    {
+      "id": "E-55676C78F67A",
+      "work_id": "W-85C759AD4B39",
+      "description_as_specified": "Grube/Reeve, Hackett 1992; Gutenberg 55201 marked Jowett alternative",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-4C4BA52A1DC5",
+      "work_id": "W-ED29C1EBBA42",
+      "description_as_specified": "Grube/Cooper, Five Dialogues; CHS adapted Jowett alternative",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-808EDAD0C7C8",
+      "work_id": "W-09C77CCEE87D",
+      "description_as_specified": "Barnes, Complete Works, Princeton 1984",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-714579AEF22B",
+      "work_id": "W-030FEE5D1576",
+      "description_as_specified": "Barnes, Complete Works, Princeton 1984",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-58BF4BD9F2E1",
+      "work_id": "W-A14C5E4055E6",
+      "description_as_specified": "Barnes, Complete Works, Princeton 1984",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-DB4AAF000C7C",
+      "work_id": "W-1CC8EBABA26C",
+      "description_as_specified": "C. D. Yonge translation",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-9B8EFBF732B2",
+      "work_id": "W-2990AAA6EB2E",
+      "description_as_specified": "Annas and Barnes, Outlines of Scepticism, Cambridge 2000",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-08F0671E1052",
+      "work_id": "W-8CD38702C7F2",
+      "description_as_specified": "Henry Chadwick, Oxford 1991",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-D5931D3DB018",
+      "work_id": "W-3FEAFE0E5E00",
+      "description_as_specified": "Thomas Williams, Hackett 2001",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-DF71E02948E0",
+      "work_id": "W-CF9B51B8C94C",
+      "description_as_specified": "Thomas Williams, Hackett 2001",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-B78E1F59386D",
+      "work_id": "W-4853AB57CFAD",
+      "description_as_specified": "Thomas Williams, Hackett 2001",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-9B8DC77A936D",
+      "work_id": "W-E8E508E439D5",
+      "description_as_specified": "Khalidi, Medieval Islamic Philosophical Writings, Cambridge 2005",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-12864EA0EA64",
+      "work_id": "W-1B6AC2510B5B",
+      "description_as_specified": "Khalidi, Medieval Islamic Philosophical Writings, Cambridge 2005",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-501E88776576",
+      "work_id": "W-B060797C4EBF",
+      "description_as_specified": "Shlomo Pines, Chicago 1963",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-8A5F854B4734",
+      "work_id": "W-48E9F57D5A2A",
+      "description_as_specified": "English Dominican Province translation",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-B32ADE1452E8",
+      "work_id": "W-A69B5BBBE5A5",
+      "description_as_specified": "Cottingham/Stoothoff/Murdoch vol. II",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-A29F7279521D",
+      "work_id": "W-7E6195DF9FFB",
+      "description_as_specified": "Lisa Shapiro, Chicago 2007",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-A24D24DC1B43",
+      "work_id": "W-B2DE42520D02",
+      "description_as_specified": "Edwin Curley, A Spinoza Reader, Princeton 1994",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-E30A175F9376",
+      "work_id": "W-01E0B68F332F",
+      "description_as_specified": "Ariew and Garber, Philosophical Essays, Hackett 1989",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-9BE9B73E41A0",
+      "work_id": "W-67D668585DAC",
+      "description_as_specified": "Peter Nidditch, Oxford 1975",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-5695425AB88B",
+      "work_id": "W-8C5A58797378",
+      "description_as_specified": "Dancy, Oxford 1998",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-1B09D498539D",
+      "work_id": "W-F680304F6BA9",
+      "description_as_specified": "Tom Beauchamp, Oxford 1999",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-0D0D08368317",
+      "work_id": "W-045598883A06",
+      "description_as_specified": "Terence Irwin, 3rd ed., Hackett 2019",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-87F6136D96D9",
+      "work_id": "W-30AD3D9F1CFE",
+      "description_as_specified": "Gregor and Timmermann, Cambridge 2012",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-C7020C409002",
+      "work_id": "W-F0352BB39FD0",
+      "description_as_specified": "George Sher, 2nd ed., Hackett 2001",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-8B77212E91D4",
+      "work_id": "W-6DD9FA99E794",
+      "description_as_specified": "Selby-Bigge/Nidditch, Oxford 1978",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-856C566DF7DC",
+      "work_id": "W-50EC9CF46AA3",
+      "description_as_specified": "2nd ed. 1946",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-A99EC89AAC83",
+      "work_id": "W-C42EC15FF533",
+      "description_as_specified": "1971 article",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-70B410072E70",
+      "work_id": "W-8226695B38C8",
+      "description_as_specified": "Bryan Van Norden, Hackett 2008",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-784AFB336125",
+      "work_id": "W-8F5EF1C9B6F5",
+      "description_as_specified": "1963 article; exact copy to check",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-60BA604F0479",
+      "work_id": "W-C5E2966E27D8",
+      "description_as_specified": "Pappas, Justification and Knowledge, 1979",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-94B661DF44D0",
+      "work_id": "W-F680304F6BA9",
+      "description_as_specified": "edition carried from Course 5",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-96C2FD3AEB7C",
+      "work_id": "W-24A57DFEFDAA",
+      "description_as_specified": "Derek Brookes, Edinburgh 1997",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-5CCAB42F9C47",
+      "work_id": "W-8AE470E3B736",
+      "description_as_specified": "Oxford 2007",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-68D9551C889C",
+      "work_id": "W-67D668585DAC",
+      "description_as_specified": "edition carried from Course 5",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-057E621C182D",
+      "work_id": "W-C6D90620D1AB",
+      "description_as_specified": "Bhikkhu Sujato, SuttaCentral",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-197C8D6D49F9",
+      "work_id": "W-DA6A49AC68DE",
+      "description_as_specified": "Philosophical Review 80, 1971",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-C8D29305D8A1",
+      "work_id": "W-413C63A7891D",
+      "description_as_specified": "1969 article",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-C5418DF28FC1",
+      "work_id": "W-9832EC4F494D",
+      "description_as_specified": "1975 article",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-B586F43A3895",
+      "work_id": "W-878838B6055D",
+      "description_as_specified": "IEP web entry",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-39111C2A9485",
+      "work_id": "W-9854B40E95E8",
+      "description_as_specified": "Richard Tuck, Cambridge 1996",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-B00D02FAD58C",
+      "work_id": "W-7B38B58F3AD2",
+      "description_as_specified": "Peter Laslett, Cambridge 1988",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-E3B0E211B95F",
+      "work_id": "W-9CA905F72EA8",
+      "description_as_specified": "any complete reliable English edition",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-564EA69565D9",
+      "work_id": "W-22B6AC5B92E2",
+      "description_as_specified": "Miriam Brody, Penguin 1992; complete public-domain alternative",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-D85F78367605",
+      "work_id": "W-07E5B3436481",
+      "description_as_specified": "1903 text",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-0B303A0F2231",
+      "work_id": "W-673D1E135B2B",
+      "description_as_specified": "revised ed., Harvard 1999",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-E6CED58D4DA1",
+      "work_id": "W-B88D3C26F775",
+      "description_as_specified": "Basic Books 1974",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-C5D0C6FDAFF4",
+      "work_id": "W-40B78F30C0F3",
+      "description_as_specified": "Cornell 1997",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-CC5736037F4F",
+      "work_id": "W-6DB9E596673B",
+      "description_as_specified": "Gary Hatfield, Cambridge 2004",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-E3A14BDEC90B",
+      "work_id": "W-EF60F009F843",
+      "description_as_specified": "Guyer and Wood, Cambridge 1998",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-3D4044BCE7FC",
+      "work_id": "W-51CDF84C7C13",
+      "description_as_specified": "A. V. Miller, Oxford 1977",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-EA10064E8A01",
+      "work_id": "W-37A7EE103F61",
+      "description_as_specified": "SEP web entry",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-B50F10E87DDB",
+      "work_id": "W-21BEB0A73B8F",
+      "description_as_specified": "Livingstone and Benton, Early Writings, Penguin 1975",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-564348F927B8",
+      "work_id": "W-4A7927F97766",
+      "description_as_specified": "Livingstone and Benton, Early Writings, Penguin 1975",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-7ED636F026B3",
+      "work_id": "W-8C3303016506",
+      "description_as_specified": "Carol Diethe, Cambridge 2007",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-24E26B1FBDE7",
+      "work_id": "W-9C07C54F2625",
+      "description_as_specified": "Routledge 1963",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-9DE8A2C26EAC",
+      "work_id": "W-26CAC8F194CA",
+      "description_as_specified": "Prentice-Hall 1966",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-595CF1F56B93",
+      "work_id": "W-4087A748DE15",
+      "description_as_specified": "4th ed., Chicago 2012",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-9E1EDA869CCA",
+      "work_id": "W-D97E9B41188A",
+      "description_as_specified": "Oxford 1980",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-F0D8C65900BC",
+      "work_id": "W-02F49C346AAB",
+      "description_as_specified": "Princeton 1990",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-470C53187378",
+      "work_id": "W-9E4F018870C2",
+      "description_as_specified": "IPCC 2023 online",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-C34DA130F1AC",
+      "work_id": "W-C01EFA19DE0C",
+      "description_as_specified": "Nature Climate Change 11, 2021",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-48B0CF51D81D",
+      "work_id": "W-92024BC9C73F",
+      "description_as_specified": "Edward Slingerland, Hackett 2003",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-AA36BAD66BD0",
+      "work_id": "W-621053D404D6",
+      "description_as_specified": "Ian Johnston, 2010",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-F2C1C86C474A",
+      "work_id": "W-89488B6D6B05",
+      "description_as_specified": "Brook Ziporyn, Hackett 2009; identified complete scholarly alternative",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-E350FB4B0854",
+      "work_id": "W-42A6800E875E",
+      "description_as_specified": "Eric Hutton, Princeton 2014",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-70B6D30D055E",
+      "work_id": "W-B4CB4B96AD41",
+      "description_as_specified": "SEP web entry",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-03AD000216F8",
+      "work_id": "W-E4BA2AF0C052",
+      "description_as_specified": "SEP web entry",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-50FF5D8E6A70",
+      "work_id": "W-619608EE00C2",
+      "description_as_specified": "Richard Philcox, Grove 2008",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-F6A26F97054B",
+      "work_id": "W-255EF4B256D0",
+      "description_as_specified": "R. A. Wright anthology, 3rd ed., 1984",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-20BF7F471C25",
+      "work_id": "W-42C89F833E6F",
+      "description_as_specified": "R. A. Wright anthology, 3rd ed., 1984",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-D0B4F4E4B2DC",
+      "work_id": "W-0C5C589536AC",
+      "description_as_specified": "Person and Community, 1992",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-711932EA0FAB",
+      "work_id": "W-B7F5D0405E84",
+      "description_as_specified": "SEP web entry",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-ACFBBA5550FE",
+      "work_id": "W-7F2002207714",
+      "description_as_specified": "Max Black, 3rd ed., Blackwell 1980",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-80798D777B38",
+      "work_id": "W-3D31328CC948",
+      "description_as_specified": "Mind 14, 1905",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-D5AD9687B985",
+      "work_id": "W-92AFDD0B03C3",
+      "description_as_specified": "Harvard 1980",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-B836A4B1D89F",
+      "work_id": "W-6147634401DC",
+      "description_as_specified": "1949 edition",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-ED138F674079",
+      "work_id": "W-434B748AE96B",
+      "description_as_specified": "Mind, Language and Reality, Cambridge 1975",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-6309524D9A4D",
+      "work_id": "W-ECBFF148FA6C",
+      "description_as_specified": "Mind 59, 1950",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-A1F0AE548C59",
+      "work_id": "W-9E4D41652BED",
+      "description_as_specified": "Behavioral and Brain Sciences 3, 1980",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-1BAFF98E0E2C",
+      "work_id": "W-78F52255AE35",
+      "description_as_specified": "1974 article",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-B4E8FEC2A505",
+      "work_id": "W-FF374E758803",
+      "description_as_specified": "1982 article",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-87201FFE2D0D",
+      "work_id": "W-A1B4A4A19767",
+      "description_as_specified": "edition unspecified in curriculum",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-B917CA4776C8",
+      "work_id": "W-EB6A7A53C65E",
+      "description_as_specified": "Guyer and Matthews, Cambridge 2000",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-8C543C41FFCB",
+      "work_id": "W-90CD677493EA",
+      "description_as_specified": "1956 article",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-9402DCF0F4BA",
+      "work_id": "W-1E70BF7EE81C",
+      "description_as_specified": "1964 article",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-88E38C029AF4",
+      "work_id": "W-B8315655CEE4",
+      "description_as_specified": "1970 article",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-9ED6709F9547",
+      "work_id": "W-85C759AD4B39",
+      "description_as_specified": "edition carried from Course 3",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-BC5EE4487F3B",
+      "work_id": "W-540D241AF9F2",
+      "description_as_specified": "Harvard critical ed. 1975; complete 1907 alternative",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-2A4846FFD571",
+      "work_id": "W-A3B4539738B1",
+      "description_as_specified": "Psychological Review 3, 1896",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-C06669E431C2",
+      "work_id": "W-FE9DEDA66D55",
+      "description_as_specified": "Lee Hardy, Kluwer 1999",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-1EB46D05CDA0",
+      "work_id": "W-C854856F6B7E",
+      "description_as_specified": "Donald Landes, Routledge 2012",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-81970E9BD8D7",
+      "work_id": "W-FC08A240C743",
+      "description_as_specified": "Carol Macomber, Yale 2007",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-8C51E81C1F08",
+      "work_id": "W-851C94E97BA4",
+      "description_as_specified": "Bernard Frechtman, 1948",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-FEC95982F814",
+      "work_id": "W-9E696683CEA6",
+      "description_as_specified": "Alexander Jech, Hackett 2024",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-18998898EFF6",
+      "work_id": "W-0A1E4F96C871",
+      "description_as_specified": "Basic Books 1989",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-38A38675FFC0",
+      "work_id": "W-015ED9C8307A",
+      "description_as_specified": "2nd ed., South End Press 2000",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-7E7404A28BE4",
+      "work_id": "W-0AA4C1EE2A39",
+      "description_as_specified": "Justice and the Politics of Difference, Princeton 1990",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-7A4AD523F629",
+      "work_id": "W-3C575A85E88C",
+      "description_as_specified": "Ethics 109, 1999",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-4BE05D559CE6",
+      "work_id": "W-8B8220B07169",
+      "description_as_specified": "identified edition pending",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-07F06B69A8E3",
+      "work_id": "W-208284770970",
+      "description_as_specified": "A Sand County Almanac, 1949",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-1626A0CE6DF5",
+      "work_id": "W-833FE4E21406",
+      "description_as_specified": "Hypatia 20, 2005",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-AA7155A94CAE",
+      "work_id": "W-C5D4CCC9B5FD",
+      "description_as_specified": "FAccT 2021",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-E239F83FFA61",
+      "work_id": "W-F6C85779800D",
+      "description_as_specified": "Boston Review, 9 August 2023",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-17B5A615A678",
+      "work_id": "W-62EE5429707D",
+      "description_as_specified": "arXiv 2308.08708 v3, 22 August 2023",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-F1C3300479D7",
+      "work_id": "W-045598883A06",
+      "description_as_specified": "translation retained from Course 6",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-38EDCD8D1195",
+      "work_id": "W-8226695B38C8",
+      "description_as_specified": "translation retained from Course 11A",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-A18FBB7BF29D",
+      "work_id": "W-42A6800E875E",
+      "description_as_specified": "translation retained from Course 11A",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-F8EB271A2738",
+      "work_id": "W-905D9B229F09",
+      "description_as_specified": "International Philosophical Quarterly 32.2, 1992",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-80D92150CEBD",
+      "work_id": "W-0CB5E7E6D11E",
+      "description_as_specified": "Asian Philosophy 9.2, 1999",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-307C40D77AFC",
+      "work_id": "W-E63D9A01A591",
+      "description_as_specified": "Race and Epistemologies of Ignorance, SUNY 2007",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-FD1DE197316A",
+      "work_id": "W-E2D014262319",
+      "description_as_specified": "Hypatia 26, 2011",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-6A4902D65BAD",
+      "work_id": "W-06C001004018",
+      "description_as_specified": "edition carried from Course 1",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-246C3E0E8B4C",
+      "work_id": "W-7D38CDAC0978",
+      "description_as_specified": "edition carried from Course 1",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-3D66A7E4CF99",
+      "work_id": "W-1C529F0B3BAD",
+      "description_as_specified": "OpenStax web edition",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-A39F423E7D44",
+      "work_id": "W-83609F0915E3",
+      "description_as_specified": "Cambridge 2005 anthology",
+      "source_match": "unchecked"
+    },
+    {
+      "id": "E-10FA82A49316",
+      "work_id": "W-6177E084F8A8",
+      "description_as_specified": "1972 article",
+      "source_match": "unchecked"
+    }
+  ],
+  "records": [
+    {
+      "id": "C03-R01",
+      "course_id": "C03",
+      "work_id": "W-85C759AD4B39",
+      "edition_id": "E-55676C78F67A",
+      "assigned_locator": "I 327a–354c; II 357a–367e; IV 427d–445e; VI 509d–511e; VII 514a–521b; IX 577c–580c",
+      "source_page": "current/courses/03.md",
+      "source_line": 7,
+      "source_page_sha256": "6a018bc524d08dd1164d1a92f7d8c90b255267a6429740f1be3e4fa7964e4a85",
+      "source_anchor": "Republic I 327a–354c",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C03-R02",
+      "course_id": "C03",
+      "work_id": "W-ED29C1EBBA42",
+      "edition_id": "E-4C4BA52A1DC5",
+      "assigned_locator": "64a–69e; 72e–84b",
+      "source_page": "current/courses/03.md",
+      "source_line": 7,
+      "source_page_sha256": "6a018bc524d08dd1164d1a92f7d8c90b255267a6429740f1be3e4fa7964e4a85",
+      "source_anchor": "Phaedo 64a–69e",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C03-R03",
+      "course_id": "C03",
+      "work_id": "W-09C77CCEE87D",
+      "edition_id": "E-808EDAD0C7C8",
+      "assigned_locator": "1–5",
+      "source_page": "current/courses/03.md",
+      "source_line": 7,
+      "source_page_sha256": "6a018bc524d08dd1164d1a92f7d8c90b255267a6429740f1be3e4fa7964e4a85",
+      "source_anchor": "Categories 1–5",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C03-R04",
+      "course_id": "C03",
+      "work_id": "W-030FEE5D1576",
+      "edition_id": "E-714579AEF22B",
+      "assigned_locator": "II.1–3; II.8",
+      "source_page": "current/courses/03.md",
+      "source_line": 7,
+      "source_page_sha256": "6a018bc524d08dd1164d1a92f7d8c90b255267a6429740f1be3e4fa7964e4a85",
+      "source_anchor": "Physics II.1–3",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C03-R05",
+      "course_id": "C03",
+      "work_id": "W-A14C5E4055E6",
+      "edition_id": "E-58BF4BD9F2E1",
+      "assigned_locator": "II.1–3",
+      "source_page": "current/courses/03.md",
+      "source_line": 7,
+      "source_page_sha256": "6a018bc524d08dd1164d1a92f7d8c90b255267a6429740f1be3e4fa7964e4a85",
+      "source_anchor": "De Anima II.1–3",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C03-R06",
+      "course_id": "C03",
+      "work_id": "W-1CC8EBABA26C",
+      "edition_id": "E-DB4AAF000C7C",
+      "assigned_locator": "complete; Diogenes Laertius X.122–135",
+      "source_page": "current/courses/03.md",
+      "source_line": 7,
+      "source_page_sha256": "6a018bc524d08dd1164d1a92f7d8c90b255267a6429740f1be3e4fa7964e4a85",
+      "source_anchor": "Letter to Menoeceus",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C03-R07",
+      "course_id": "C03",
+      "work_id": "W-2990AAA6EB2E",
+      "edition_id": "E-9B8EFBF732B2",
+      "assigned_locator": "I.1–30",
+      "source_page": "current/courses/03.md",
+      "source_line": 7,
+      "source_page_sha256": "6a018bc524d08dd1164d1a92f7d8c90b255267a6429740f1be3e4fa7964e4a85",
+      "source_anchor": "Outlines of Pyrrhonism I.1–30",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C04-R01",
+      "course_id": "C04",
+      "work_id": "W-8CD38702C7F2",
+      "edition_id": "E-08F0671E1052",
+      "assigned_locator": "XI.14–31",
+      "source_page": "current/courses/04.md",
+      "source_line": 7,
+      "source_page_sha256": "ef53c1f61b10b922b085aba9e2c30da5c259733703d2c8050b5bbf19630085bd",
+      "source_anchor": "Confessions XI.14–31",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C04-R02",
+      "course_id": "C04",
+      "work_id": "W-3FEAFE0E5E00",
+      "edition_id": "E-D5931D3DB018",
+      "assigned_locator": "2–4",
+      "source_page": "current/courses/04.md",
+      "source_line": 7,
+      "source_page_sha256": "ef53c1f61b10b922b085aba9e2c30da5c259733703d2c8050b5bbf19630085bd",
+      "source_anchor": "Proslogion 2–4",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C04-R03",
+      "course_id": "C04",
+      "work_id": "W-CF9B51B8C94C",
+      "edition_id": "E-DF71E02948E0",
+      "assigned_locator": "complete",
+      "source_page": "current/courses/04.md",
+      "source_line": 7,
+      "source_page_sha256": "ef53c1f61b10b922b085aba9e2c30da5c259733703d2c8050b5bbf19630085bd",
+      "source_anchor": "On Behalf of the Fool",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C04-R04",
+      "course_id": "C04",
+      "work_id": "W-4853AB57CFAD",
+      "edition_id": "E-B78E1F59386D",
+      "assigned_locator": "sections 1–4",
+      "source_page": "current/courses/04.md",
+      "source_line": 7,
+      "source_page_sha256": "ef53c1f61b10b922b085aba9e2c30da5c259733703d2c8050b5bbf19630085bd",
+      "source_anchor": "Anselm’s reply sections 1–4",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C04-R05",
+      "course_id": "C04",
+      "work_id": "W-E8E508E439D5",
+      "edition_id": "E-9B8DC77A936D",
+      "assigned_locator": "complete anthology excerpt pp. 27–58",
+      "source_page": "current/courses/04.md",
+      "source_line": 7,
+      "source_page_sha256": "ef53c1f61b10b922b085aba9e2c30da5c259733703d2c8050b5bbf19630085bd",
+      "source_anchor": "“On the Soul,” complete excerpt",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C04-R06",
+      "course_id": "C04",
+      "work_id": "W-1B6AC2510B5B",
+      "edition_id": "E-12864EA0EA64",
+      "assigned_locator": "complete anthology excerpt pp. 59–98",
+      "source_page": "current/courses/04.md",
+      "source_line": 7,
+      "source_page_sha256": "ef53c1f61b10b922b085aba9e2c30da5c259733703d2c8050b5bbf19630085bd",
+      "source_anchor": "The Rescuer from Error",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C04-R07",
+      "course_id": "C04",
+      "work_id": "W-B060797C4EBF",
+      "edition_id": "E-501E88776576",
+      "assigned_locator": "I.50–60",
+      "source_page": "current/courses/04.md",
+      "source_line": 7,
+      "source_page_sha256": "ef53c1f61b10b922b085aba9e2c30da5c259733703d2c8050b5bbf19630085bd",
+      "source_anchor": "Guide of the Perplexed I.50–60",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C04-R08",
+      "course_id": "C04",
+      "work_id": "W-48E9F57D5A2A",
+      "edition_id": "E-8A5F854B4734",
+      "assigned_locator": "I q.2 arts.1–3; I q.1 art.8",
+      "source_page": "current/courses/04.md",
+      "source_line": 7,
+      "source_page_sha256": "ef53c1f61b10b922b085aba9e2c30da5c259733703d2c8050b5bbf19630085bd",
+      "source_anchor": "Summa Theologiae I",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C05-R01",
+      "course_id": "C05",
+      "work_id": "W-A69B5BBBE5A5",
+      "edition_id": "E-B32ADE1452E8",
+      "assigned_locator": "I–VI",
+      "source_page": "current/courses/05.md",
+      "source_line": 7,
+      "source_page_sha256": "0081b1aa0569aec54c47cc6eb0c7197384b23e09843b1cd5b76cf18c60fa9a67",
+      "source_anchor": "Meditations I–VI",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C05-R02",
+      "course_id": "C05",
+      "work_id": "W-7E6195DF9FFB",
+      "edition_id": "E-A29F7279521D",
+      "assigned_locator": "6 May; 21 May; 10 June; 28 June; 1 July 1643",
+      "source_page": "current/courses/05.md",
+      "source_line": 7,
+      "source_page_sha256": "0081b1aa0569aec54c47cc6eb0c7197384b23e09843b1cd5b76cf18c60fa9a67",
+      "source_anchor": "correspondence dated 6 May",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C05-R03",
+      "course_id": "C05",
+      "work_id": "W-B2DE42520D02",
+      "edition_id": "E-A24D24DC1B43",
+      "assigned_locator": "I definitions and axioms; propositions 1–15 with demonstrations; Appendix",
+      "source_page": "current/courses/05.md",
+      "source_line": 7,
+      "source_page_sha256": "0081b1aa0569aec54c47cc6eb0c7197384b23e09843b1cd5b76cf18c60fa9a67",
+      "source_anchor": "Ethics I, definitions",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C05-R04",
+      "course_id": "C05",
+      "work_id": "W-01E0B68F332F",
+      "edition_id": "E-E30A175F9376",
+      "assigned_locator": "§§1–39; §§78–90",
+      "source_page": "current/courses/05.md",
+      "source_line": 7,
+      "source_page_sha256": "0081b1aa0569aec54c47cc6eb0c7197384b23e09843b1cd5b76cf18c60fa9a67",
+      "source_anchor": "Monadology §§1–39",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C05-R05",
+      "course_id": "C05",
+      "work_id": "W-67D668585DAC",
+      "edition_id": "E-9BE9B73E41A0",
+      "assigned_locator": "I.ii.1–9; II.viii.1–26",
+      "source_page": "current/courses/05.md",
+      "source_line": 7,
+      "source_page_sha256": "0081b1aa0569aec54c47cc6eb0c7197384b23e09843b1cd5b76cf18c60fa9a67",
+      "source_anchor": "Essay Concerning Human Understanding I.ii.1–9",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C05-R06",
+      "course_id": "C05",
+      "work_id": "W-8C5A58797378",
+      "edition_id": "E-5695425AB88B",
+      "assigned_locator": "Introduction §§1–25; Part I §§1–33",
+      "source_page": "current/courses/05.md",
+      "source_line": 7,
+      "source_page_sha256": "0081b1aa0569aec54c47cc6eb0c7197384b23e09843b1cd5b76cf18c60fa9a67",
+      "source_anchor": "Principles of Human Knowledge",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C05-R07",
+      "course_id": "C05",
+      "work_id": "W-F680304F6BA9",
+      "edition_id": "E-1B09D498539D",
+      "assigned_locator": "II–VII; XII",
+      "source_page": "current/courses/05.md",
+      "source_line": 7,
+      "source_page_sha256": "0081b1aa0569aec54c47cc6eb0c7197384b23e09843b1cd5b76cf18c60fa9a67",
+      "source_anchor": "Enquiry Concerning Human Understanding sections II–VII",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C06-R01",
+      "course_id": "C06",
+      "work_id": "W-045598883A06",
+      "edition_id": "E-0D0D08368317",
+      "assigned_locator": "I.1–10; II.1–9; VI.1–5",
+      "source_page": "current/courses/06.md",
+      "source_line": 7,
+      "source_page_sha256": "88b5584f80d05ddf3602c96f002c19d1064f2019b96eb5c85b82dc22c58286f9",
+      "source_anchor": "Nicomachean Ethics I.1–10",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C06-R02",
+      "course_id": "C06",
+      "work_id": "W-30AD3D9F1CFE",
+      "edition_id": "E-87F6136D96D9",
+      "assigned_locator": "I–II; Ak 4:393–445",
+      "source_page": "current/courses/06.md",
+      "source_line": 7,
+      "source_page_sha256": "88b5584f80d05ddf3602c96f002c19d1064f2019b96eb5c85b82dc22c58286f9",
+      "source_anchor": "Groundwork, sections I–II",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C06-R03",
+      "course_id": "C06",
+      "work_id": "W-F0352BB39FD0",
+      "edition_id": "E-C7020C409002",
+      "assigned_locator": "chapters II and IV",
+      "source_page": "current/courses/06.md",
+      "source_line": 7,
+      "source_page_sha256": "88b5584f80d05ddf3602c96f002c19d1064f2019b96eb5c85b82dc22c58286f9",
+      "source_anchor": "Utilitarianism chapters II and IV",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C06-R04",
+      "course_id": "C06",
+      "work_id": "W-6DD9FA99E794",
+      "edition_id": "E-8B77212E91D4",
+      "assigned_locator": "3.1.1",
+      "source_page": "current/courses/06.md",
+      "source_line": 7,
+      "source_page_sha256": "88b5584f80d05ddf3602c96f002c19d1064f2019b96eb5c85b82dc22c58286f9",
+      "source_anchor": "Treatise 3.1.1",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C06-R05",
+      "course_id": "C06",
+      "work_id": "W-50EC9CF46AA3",
+      "edition_id": "E-856C566DF7DC",
+      "assigned_locator": "chapter VI",
+      "source_page": "current/courses/06.md",
+      "source_line": 7,
+      "source_page_sha256": "88b5584f80d05ddf3602c96f002c19d1064f2019b96eb5c85b82dc22c58286f9",
+      "source_anchor": "Language, Truth and Logic, chapter VI",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C06-R06",
+      "course_id": "C06",
+      "work_id": "W-C42EC15FF533",
+      "edition_id": "E-A99EC89AAC83",
+      "assigned_locator": "whole article; pp. 47–66",
+      "source_page": "current/courses/06.md",
+      "source_line": 7,
+      "source_page_sha256": "88b5584f80d05ddf3602c96f002c19d1064f2019b96eb5c85b82dc22c58286f9",
+      "source_anchor": "“A Defense of Abortion,” 1971",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C06-R07",
+      "course_id": "C06",
+      "work_id": "W-8226695B38C8",
+      "edition_id": "E-70B410072E70",
+      "assigned_locator": "2A6; 6A1–10",
+      "source_page": "current/courses/06.md",
+      "source_line": 7,
+      "source_page_sha256": "88b5584f80d05ddf3602c96f002c19d1064f2019b96eb5c85b82dc22c58286f9",
+      "source_anchor": "Mengzi 2A6 and 6A1–10",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C07-R01",
+      "course_id": "C07",
+      "work_id": "W-8F5EF1C9B6F5",
+      "edition_id": "E-784AFB336125",
+      "assigned_locator": "complete 1963 article",
+      "source_page": "current/courses/07.md",
+      "source_line": 7,
+      "source_page_sha256": "4a8fa26aca82ef9a21aeff282148fc6efe0fc5eb477025475c37beb552501b33",
+      "source_anchor": "Gettier’s complete 1963 article",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C07-R02",
+      "course_id": "C07",
+      "work_id": "W-C5E2966E27D8",
+      "edition_id": "E-60BA604F0479",
+      "assigned_locator": "pp. 1–23",
+      "source_page": "current/courses/07.md",
+      "source_line": 7,
+      "source_page_sha256": "4a8fa26aca82ef9a21aeff282148fc6efe0fc5eb477025475c37beb552501b33",
+      "source_anchor": "“What Is Justified Belief?”",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C07-R03",
+      "course_id": "C07",
+      "work_id": "W-F680304F6BA9",
+      "edition_id": "E-94B661DF44D0",
+      "assigned_locator": "X Part I",
+      "source_page": "current/courses/07.md",
+      "source_line": 7,
+      "source_page_sha256": "4a8fa26aca82ef9a21aeff282148fc6efe0fc5eb477025475c37beb552501b33",
+      "source_anchor": "Enquiry section X, Part I",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C07-R04",
+      "course_id": "C07",
+      "work_id": "W-24A57DFEFDAA",
+      "edition_id": "E-96C2FD3AEB7C",
+      "assigned_locator": "VI §24",
+      "source_page": "current/courses/07.md",
+      "source_line": 7,
+      "source_page_sha256": "4a8fa26aca82ef9a21aeff282148fc6efe0fc5eb477025475c37beb552501b33",
+      "source_anchor": "chapter VI, section 24",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C07-R05",
+      "course_id": "C07",
+      "work_id": "W-8AE470E3B736",
+      "edition_id": "E-5CCAB42F9C47",
+      "assigned_locator": "chapter 1",
+      "source_page": "current/courses/07.md",
+      "source_line": 7,
+      "source_page_sha256": "4a8fa26aca82ef9a21aeff282148fc6efe0fc5eb477025475c37beb552501b33",
+      "source_anchor": "Epistemic Injustice, Oxford 2007, chapter 1",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C07-R06",
+      "course_id": "C07",
+      "work_id": "W-67D668585DAC",
+      "edition_id": "E-68D9551C889C",
+      "assigned_locator": "II.xxvii complete",
+      "source_page": "current/courses/07.md",
+      "source_line": 7,
+      "source_page_sha256": "4a8fa26aca82ef9a21aeff282148fc6efe0fc5eb477025475c37beb552501b33",
+      "source_anchor": "Essay II.xxvii",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C07-R07",
+      "course_id": "C07",
+      "work_id": "W-C6D90620D1AB",
+      "edition_id": "E-057E621C182D",
+      "assigned_locator": "SN 22.59 complete",
+      "source_page": "current/courses/07.md",
+      "source_line": 7,
+      "source_page_sha256": "4a8fa26aca82ef9a21aeff282148fc6efe0fc5eb477025475c37beb552501b33",
+      "source_anchor": "Anattalakkhaṇa Sutta",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C07-R08",
+      "course_id": "C07",
+      "work_id": "W-DA6A49AC68DE",
+      "edition_id": "E-197C8D6D49F9",
+      "assigned_locator": "pp. 3–27",
+      "source_page": "current/courses/07.md",
+      "source_line": 7,
+      "source_page_sha256": "4a8fa26aca82ef9a21aeff282148fc6efe0fc5eb477025475c37beb552501b33",
+      "source_anchor": "“Personal Identity,” Philosophical Review",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C07-R09",
+      "course_id": "C07",
+      "work_id": "W-413C63A7891D",
+      "edition_id": "E-C8D29305D8A1",
+      "assigned_locator": "pp. 829–839",
+      "source_page": "current/courses/07.md",
+      "source_line": 7,
+      "source_page_sha256": "4a8fa26aca82ef9a21aeff282148fc6efe0fc5eb477025475c37beb552501b33",
+      "source_anchor": "“Alternate Possibilities and Moral Responsibility,” 1969",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C07-R10",
+      "course_id": "C07",
+      "work_id": "W-9832EC4F494D",
+      "edition_id": "E-C5418DF28FC1",
+      "assigned_locator": "pp. 185–199",
+      "source_page": "current/courses/07.md",
+      "source_line": 7,
+      "source_page_sha256": "4a8fa26aca82ef9a21aeff282148fc6efe0fc5eb477025475c37beb552501b33",
+      "source_anchor": "“The Incompatibility of Free Will and Determinism,” 1975",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C07-R11",
+      "course_id": "C07",
+      "work_id": "W-878838B6055D",
+      "edition_id": "E-B586F43A3895",
+      "assigned_locator": "§§1.b, 3.b, 3.c, 3.d",
+      "source_page": "current/courses/07.md",
+      "source_line": 7,
+      "source_page_sha256": "4a8fa26aca82ef9a21aeff282148fc6efe0fc5eb477025475c37beb552501b33",
+      "source_anchor": "entry “Buddha,” sections 1.b",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C08-R01",
+      "course_id": "C08",
+      "work_id": "W-9854B40E95E8",
+      "edition_id": "E-39111C2A9485",
+      "assigned_locator": "chapters 13–15; 17",
+      "source_page": "current/courses/08.md",
+      "source_line": 7,
+      "source_page_sha256": "a2a76742bf518bbeb52d01063990cdd3fc1f05f5aa6d1b6e23fb7546900a473b",
+      "source_anchor": "Leviathan chapters 13–15 and 17",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C08-R02",
+      "course_id": "C08",
+      "work_id": "W-7B38B58F3AD2",
+      "edition_id": "E-B00D02FAD58C",
+      "assigned_locator": "II §§4–15; V §§25–51; VIII §§95–99",
+      "source_page": "current/courses/08.md",
+      "source_line": 7,
+      "source_page_sha256": "a2a76742bf518bbeb52d01063990cdd3fc1f05f5aa6d1b6e23fb7546900a473b",
+      "source_anchor": "Second Treatise chapter II",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C08-R03",
+      "course_id": "C08",
+      "work_id": "W-9CA905F72EA8",
+      "edition_id": "E-E3B0E211B95F",
+      "assigned_locator": "chapters I–II",
+      "source_page": "current/courses/08.md",
+      "source_line": 7,
+      "source_page_sha256": "a2a76742bf518bbeb52d01063990cdd3fc1f05f5aa6d1b6e23fb7546900a473b",
+      "source_anchor": "On Liberty chapters I–II",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C08-R04",
+      "course_id": "C08",
+      "work_id": "W-22B6AC5B92E2",
+      "edition_id": "E-564EA69565D9",
+      "assigned_locator": "chapter II",
+      "source_page": "current/courses/08.md",
+      "source_line": 7,
+      "source_page_sha256": "a2a76742bf518bbeb52d01063990cdd3fc1f05f5aa6d1b6e23fb7546900a473b",
+      "source_anchor": "A Vindication of the Rights of Woman chapter II",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C08-R05",
+      "course_id": "C08",
+      "work_id": "W-07E5B3436481",
+      "edition_id": "E-D85F78367605",
+      "assigned_locator": "chapter I, Of Our Spiritual Strivings",
+      "source_page": "current/courses/08.md",
+      "source_line": 7,
+      "source_page_sha256": "a2a76742bf518bbeb52d01063990cdd3fc1f05f5aa6d1b6e23fb7546900a473b",
+      "source_anchor": "The Souls of Black Folk, chapter I",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C08-R06",
+      "course_id": "C08",
+      "work_id": "W-673D1E135B2B",
+      "edition_id": "E-0B303A0F2231",
+      "assigned_locator": "§§3–4, 11–13, 24–26",
+      "source_page": "current/courses/08.md",
+      "source_line": 7,
+      "source_page_sha256": "a2a76742bf518bbeb52d01063990cdd3fc1f05f5aa6d1b6e23fb7546900a473b",
+      "source_anchor": "A Theory of Justice, revised edition",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C08-R07",
+      "course_id": "C08",
+      "work_id": "W-B88D3C26F775",
+      "edition_id": "E-E6CED58D4DA1",
+      "assigned_locator": "pp. 150–164",
+      "source_page": "current/courses/08.md",
+      "source_line": 7,
+      "source_page_sha256": "a2a76742bf518bbeb52d01063990cdd3fc1f05f5aa6d1b6e23fb7546900a473b",
+      "source_anchor": "Anarchy, State, and Utopia",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C08-R08",
+      "course_id": "C08",
+      "work_id": "W-40B78F30C0F3",
+      "edition_id": "E-C5D0C6FDAFF4",
+      "assigned_locator": "introduction and chapter 1, pp. 1–40",
+      "source_page": "current/courses/08.md",
+      "source_line": 7,
+      "source_page_sha256": "a2a76742bf518bbeb52d01063990cdd3fc1f05f5aa6d1b6e23fb7546900a473b",
+      "source_anchor": "The Racial Contract, Cornell 1997",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C09-R01",
+      "course_id": "C09",
+      "work_id": "W-6DB9E596673B",
+      "edition_id": "E-CC5736037F4F",
+      "assigned_locator": "Preamble §§1–5; §§6–30; §§57–60",
+      "source_page": "current/courses/09.md",
+      "source_line": 7,
+      "source_page_sha256": "4e4f6a06d01b7c27b28784c690fa2ec3ced059ffc21c70cafaaabd9a8e56f6dd",
+      "source_anchor": "Prolegomena to Any Future Metaphysics",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C09-R02",
+      "course_id": "C09",
+      "work_id": "W-EF60F009F843",
+      "edition_id": "E-E3A14BDEC90B",
+      "assigned_locator": "B Preface Bxvi–Bxxii; Second Analogy A189/B232–A211/B256",
+      "source_page": "current/courses/09.md",
+      "source_line": 7,
+      "source_page_sha256": "4e4f6a06d01b7c27b28784c690fa2ec3ced059ffc21c70cafaaabd9a8e56f6dd",
+      "source_anchor": "Critique of Pure Reason, B Preface",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C09-R03",
+      "course_id": "C09",
+      "work_id": "W-51CDF84C7C13",
+      "edition_id": "E-3D4044BCE7FC",
+      "assigned_locator": "§§178–196",
+      "source_page": "current/courses/09.md",
+      "source_line": 7,
+      "source_page_sha256": "4e4f6a06d01b7c27b28784c690fa2ec3ced059ffc21c70cafaaabd9a8e56f6dd",
+      "source_anchor": "Phenomenology of Spirit §§178–196",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C09-R04",
+      "course_id": "C09",
+      "work_id": "W-37A7EE103F61",
+      "edition_id": "E-EA10064E8A01",
+      "assigned_locator": "§3.1.1 bounded paragraph range stated in source",
+      "source_page": "current/courses/09.md",
+      "source_line": 7,
+      "source_page_sha256": "4e4f6a06d01b7c27b28784c690fa2ec3ced059ffc21c70cafaaabd9a8e56f6dd",
+      "source_anchor": "entry “Georg Wilhelm Friedrich Hegel,” section 3.1.1",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C09-R05",
+      "course_id": "C09",
+      "work_id": "W-21BEB0A73B8F",
+      "edition_id": "E-B50F10E87DDB",
+      "assigned_locator": "complete section",
+      "source_page": "current/courses/09.md",
+      "source_line": 7,
+      "source_page_sha256": "4e4f6a06d01b7c27b28784c690fa2ec3ced059ffc21c70cafaaabd9a8e56f6dd",
+      "source_anchor": "“Estranged Labour”",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C09-R06",
+      "course_id": "C09",
+      "work_id": "W-4A7927F97766",
+      "edition_id": "E-564348F927B8",
+      "assigned_locator": "all eleven theses",
+      "source_page": "current/courses/09.md",
+      "source_line": 7,
+      "source_page_sha256": "4e4f6a06d01b7c27b28784c690fa2ec3ced059ffc21c70cafaaabd9a8e56f6dd",
+      "source_anchor": "“Theses on Feuerbach,” all eleven theses",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C09-R07",
+      "course_id": "C09",
+      "work_id": "W-8C3303016506",
+      "edition_id": "E-7ED636F026B3",
+      "assigned_locator": "First Essay §§1–17",
+      "source_page": "current/courses/09.md",
+      "source_line": 7,
+      "source_page_sha256": "4e4f6a06d01b7c27b28784c690fa2ec3ced059ffc21c70cafaaabd9a8e56f6dd",
+      "source_anchor": "On the Genealogy of Morality",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C10-R01",
+      "course_id": "C10",
+      "work_id": "W-F680304F6BA9",
+      "edition_id": "E-94B661DF44D0",
+      "assigned_locator": "IV–V, revisit",
+      "source_page": "current/courses/10.md",
+      "source_line": 7,
+      "source_page_sha256": "fc712dcb50522a0148115bfb08f887d461635d3eeac3f987acffb425e6975910",
+      "source_anchor": "Enquiry IV–V again",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C10-R02",
+      "course_id": "C10",
+      "work_id": "W-9C07C54F2625",
+      "edition_id": "E-24E26B1FBDE7",
+      "assigned_locator": "chapter 1 complete",
+      "source_page": "current/courses/10.md",
+      "source_line": 7,
+      "source_page_sha256": "fc712dcb50522a0148115bfb08f887d461635d3eeac3f987acffb425e6975910",
+      "source_anchor": "Conjectures and Refutations, chapter 1",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C10-R03",
+      "course_id": "C10",
+      "work_id": "W-26CAC8F194CA",
+      "edition_id": "E-9DE8A2C26EAC",
+      "assigned_locator": "chapters 2 and 5",
+      "source_page": "current/courses/10.md",
+      "source_line": 7,
+      "source_page_sha256": "fc712dcb50522a0148115bfb08f887d461635d3eeac3f987acffb425e6975910",
+      "source_anchor": "Philosophy of Natural Science",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C10-R04",
+      "course_id": "C10",
+      "work_id": "W-4087A748DE15",
+      "edition_id": "E-595CF1F56B93",
+      "assigned_locator": "chapters II, VI, VII, IX",
+      "source_page": "current/courses/10.md",
+      "source_line": 7,
+      "source_page_sha256": "fc712dcb50522a0148115bfb08f887d461635d3eeac3f987acffb425e6975910",
+      "source_anchor": "The Structure of Scientific Revolutions",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C10-R05",
+      "course_id": "C10",
+      "work_id": "W-D97E9B41188A",
+      "edition_id": "E-9E1EDA869CCA",
+      "assigned_locator": "chapter 2 §§1–3",
+      "source_page": "current/courses/10.md",
+      "source_line": 7,
+      "source_page_sha256": "fc712dcb50522a0148115bfb08f887d461635d3eeac3f987acffb425e6975910",
+      "source_anchor": "The Scientific Image, Oxford 1980",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C10-R06",
+      "course_id": "C10",
+      "work_id": "W-02F49C346AAB",
+      "edition_id": "E-F0D8C65900BC",
+      "assigned_locator": "chapter 4, Values and Objectivity",
+      "source_page": "current/courses/10.md",
+      "source_line": 7,
+      "source_page_sha256": "fc712dcb50522a0148115bfb08f887d461635d3eeac3f987acffb425e6975910",
+      "source_anchor": "Science as Social Knowledge",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C10-R07",
+      "course_id": "C10",
+      "work_id": "W-9E4F018870C2",
+      "edition_id": "E-470C53187378",
+      "assigned_locator": "Introduction including footnote 4; A.1; A.2; Figure SPM.1",
+      "source_page": "current/courses/10.md",
+      "source_line": 7,
+      "source_page_sha256": "fc712dcb50522a0148115bfb08f887d461635d3eeac3f987acffb425e6975910",
+      "source_anchor": "IPCC Sixth Assessment Synthesis Report",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C10-R08",
+      "course_id": "C10",
+      "work_id": "W-C01EFA19DE0C",
+      "edition_id": "E-C34DA130F1AC",
+      "assigned_locator": "public abstract only",
+      "source_page": "current/courses/10.md",
+      "source_line": 7,
+      "source_page_sha256": "fc712dcb50522a0148115bfb08f887d461635d3eeac3f987acffb425e6975910",
+      "source_anchor": "“Constraining human contributions to observed warming",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C11A-R01",
+      "course_id": "C11A",
+      "work_id": "W-92024BC9C73F",
+      "edition_id": "E-48B0CF51D81D",
+      "assigned_locator": "Books 1–4, 7, 12, 13, 15",
+      "source_page": "current/courses/11a.md",
+      "source_line": 5,
+      "source_page_sha256": "88bb9b8c0725df47db11e17749210bb4fb025cbf93f73333c18c1453456d30b7",
+      "source_anchor": "Analects Books 1–4",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C11A-R02",
+      "course_id": "C11A",
+      "work_id": "W-8226695B38C8",
+      "edition_id": "E-70B410072E70",
+      "assigned_locator": "1A1, 1A7, 2A2, 2A6, 3A5, 4A17, 6A1–10, 6B2, 7A1, 7A15, 7B24",
+      "source_page": "current/courses/11a.md",
+      "source_line": 5,
+      "source_page_sha256": "88bb9b8c0725df47db11e17749210bb4fb025cbf93f73333c18c1453456d30b7",
+      "source_anchor": "Mengzi 1A1, 1A7",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C11A-R03",
+      "course_id": "C11A",
+      "work_id": "W-621053D404D6",
+      "edition_id": "E-AA36BAD66BD0",
+      "assigned_locator": "chapter 16, Universal Love III, complete",
+      "source_page": "current/courses/11a.md",
+      "source_line": 5,
+      "source_page_sha256": "88bb9b8c0725df47db11e17749210bb4fb025cbf93f73333c18c1453456d30b7",
+      "source_anchor": "Mozi chapter 16",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C11A-R04",
+      "course_id": "C11A",
+      "work_id": "W-89488B6D6B05",
+      "edition_id": "E-F2C1C86C474A",
+      "assigned_locator": "chapters 1–3 and 6",
+      "source_page": "current/courses/11a.md",
+      "source_line": 5,
+      "source_page_sha256": "88bb9b8c0725df47db11e17749210bb4fb025cbf93f73333c18c1453456d30b7",
+      "source_anchor": "Zhuangzi chapters 1–3 and 6",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C11A-R05",
+      "course_id": "C11A",
+      "work_id": "W-42A6800E875E",
+      "edition_id": "E-E350FB4B0854",
+      "assigned_locator": "chapters 1 and 23",
+      "source_page": "current/courses/11a.md",
+      "source_line": 5,
+      "source_page_sha256": "88bb9b8c0725df47db11e17749210bb4fb025cbf93f73333c18c1453456d30b7",
+      "source_anchor": "Xunzi chapters 1 and 23",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C11A-R06",
+      "course_id": "C11A",
+      "work_id": "W-B4CB4B96AD41",
+      "edition_id": "E-70B6D30D055E",
+      "assigned_locator": "section 1, named subsection",
+      "source_page": "current/courses/11a.md",
+      "source_line": 5,
+      "source_page_sha256": "88bb9b8c0725df47db11e17749210bb4fb025cbf93f73333c18c1453456d30b7",
+      "source_anchor": "SEP “Chinese Ethics,” section 1",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C11A-R07",
+      "course_id": "C11A",
+      "work_id": "W-E4BA2AF0C052",
+      "edition_id": "E-03AD000216F8",
+      "assigned_locator": "section 1 opening paragraphs through ethical cultivation",
+      "source_page": "current/courses/11a.md",
+      "source_line": 5,
+      "source_page_sha256": "88bb9b8c0725df47db11e17749210bb4fb025cbf93f73333c18c1453456d30b7",
+      "source_anchor": "SEP “Mencius,” section 1",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C11B-R01",
+      "course_id": "C11B",
+      "work_id": "W-07E5B3436481",
+      "edition_id": "E-D85F78367605",
+      "assigned_locator": "chapters I and III",
+      "source_page": "current/courses/11b.md",
+      "source_line": 5,
+      "source_page_sha256": "69892df5eaf1d785c76003e14fa98086739c61117201e24cb311e482867c480c",
+      "source_anchor": "The Souls of Black Folk, chapters I and III",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C11B-R02",
+      "course_id": "C11B",
+      "work_id": "W-619608EE00C2",
+      "edition_id": "E-50FF5D8E6A70",
+      "assigned_locator": "chapter 5, The Lived Experience of the Black Man",
+      "source_page": "current/courses/11b.md",
+      "source_line": 5,
+      "source_page_sha256": "69892df5eaf1d785c76003e14fa98086739c61117201e24cb311e482867c480c",
+      "source_anchor": "Black Skin, White Masks, chapter 5",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C11B-R03",
+      "course_id": "C11B",
+      "work_id": "W-255EF4B256D0",
+      "edition_id": "E-F6A26F97054B",
+      "assigned_locator": "whole essay",
+      "source_page": "current/courses/11b.md",
+      "source_line": 5,
+      "source_page_sha256": "69892df5eaf1d785c76003e14fa98086739c61117201e24cb311e482867c480c",
+      "source_anchor": "“How Not to Compare African Thought with Western Thought,”",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C11B-R04",
+      "course_id": "C11B",
+      "work_id": "W-42C89F833E6F",
+      "edition_id": "E-20BF7F471C25",
+      "assigned_locator": "whole essay beginning p. 171",
+      "source_page": "current/courses/11b.md",
+      "source_line": 5,
+      "source_page_sha256": "69892df5eaf1d785c76003e14fa98086739c61117201e24cb311e482867c480c",
+      "source_anchor": "“Person and Community in African Traditional Thought,”",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C11B-R05",
+      "course_id": "C11B",
+      "work_id": "W-0C5C589536AC",
+      "edition_id": "E-D0B4F4E4B2DC",
+      "assigned_locator": "pp. 101–122",
+      "source_page": "current/courses/11b.md",
+      "source_line": 5,
+      "source_page_sha256": "69892df5eaf1d785c76003e14fa98086739c61117201e24cb311e482867c480c",
+      "source_anchor": "“Person and Community in African Thought,”",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C11B-R06",
+      "course_id": "C11B",
+      "work_id": "W-40B78F30C0F3",
+      "edition_id": "E-C5D0C6FDAFF4",
+      "assigned_locator": "chapter 2",
+      "source_page": "current/courses/11b.md",
+      "source_line": 5,
+      "source_page_sha256": "69892df5eaf1d785c76003e14fa98086739c61117201e24cb311e482867c480c",
+      "source_anchor": "The Racial Contract, chapter 2",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C11B-R07",
+      "course_id": "C11B",
+      "work_id": "W-07E5B3436481",
+      "edition_id": "E-D85F78367605",
+      "assigned_locator": "The Forethought",
+      "source_page": "current/courses/11b.md",
+      "source_line": 5,
+      "source_page_sha256": "69892df5eaf1d785c76003e14fa98086739c61117201e24cb311e482867c480c",
+      "source_anchor": "Du Bois’s short “The Forethought”",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C11B-R08",
+      "course_id": "C11B",
+      "work_id": "W-B7F5D0405E84",
+      "edition_id": "E-711932EA0FAB",
+      "assigned_locator": "opening biography and bounded §1 range stated in source",
+      "source_page": "current/courses/11b.md",
+      "source_line": 5,
+      "source_page_sha256": "69892df5eaf1d785c76003e14fa98086739c61117201e24cb311e482867c480c",
+      "source_anchor": "entry “Frantz Fanon”:",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12A-R01",
+      "course_id": "C12A",
+      "work_id": "W-7F2002207714",
+      "edition_id": "E-ACFBBA5550FE",
+      "assigned_locator": "complete",
+      "source_page": "current/courses/12a.md",
+      "source_line": 5,
+      "source_page_sha256": "9e50b20565862a08fd84edfb47ef91316daf48e8edd63fb5b8de37137b7322f9",
+      "source_anchor": "“On Sense and Reference,” complete",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12A-R02",
+      "course_id": "C12A",
+      "work_id": "W-3D31328CC948",
+      "edition_id": "E-80798D777B38",
+      "assigned_locator": "pp. 479–493",
+      "source_page": "current/courses/12a.md",
+      "source_line": 5,
+      "source_page_sha256": "9e50b20565862a08fd84edfb47ef91316daf48e8edd63fb5b8de37137b7322f9",
+      "source_anchor": "“On Denoting,” Mind 14",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12A-R03",
+      "course_id": "C12A",
+      "work_id": "W-92AFDD0B03C3",
+      "edition_id": "E-D5AD9687B985",
+      "assigned_locator": "Lecture I",
+      "source_page": "current/courses/12a.md",
+      "source_line": 5,
+      "source_page_sha256": "9e50b20565862a08fd84edfb47ef91316daf48e8edd63fb5b8de37137b7322f9",
+      "source_anchor": "Naming and Necessity, Harvard 1980",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12A-R04",
+      "course_id": "C12A",
+      "work_id": "W-6147634401DC",
+      "edition_id": "E-B836A4B1D89F",
+      "assigned_locator": "chapter I",
+      "source_page": "current/courses/12a.md",
+      "source_line": 5,
+      "source_page_sha256": "9e50b20565862a08fd84edfb47ef91316daf48e8edd63fb5b8de37137b7322f9",
+      "source_anchor": "The Concept of Mind, 1949",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12A-R05",
+      "course_id": "C12A",
+      "work_id": "W-434B748AE96B",
+      "edition_id": "E-ED138F674079",
+      "assigned_locator": "complete article; reprint pp. 429–440",
+      "source_page": "current/courses/12a.md",
+      "source_line": 5,
+      "source_page_sha256": "9e50b20565862a08fd84edfb47ef91316daf48e8edd63fb5b8de37137b7322f9",
+      "source_anchor": "“The Nature of Mental States,”",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12A-R06",
+      "course_id": "C12A",
+      "work_id": "W-ECBFF148FA6C",
+      "edition_id": "E-6309524D9A4D",
+      "assigned_locator": "pp. 433–460",
+      "source_page": "current/courses/12a.md",
+      "source_line": 5,
+      "source_page_sha256": "9e50b20565862a08fd84edfb47ef91316daf48e8edd63fb5b8de37137b7322f9",
+      "source_anchor": "“Computing Machinery and Intelligence,”",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12A-R07",
+      "course_id": "C12A",
+      "work_id": "W-9E4D41652BED",
+      "edition_id": "E-A1F0AE548C59",
+      "assigned_locator": "pp. 417–424; exclude commentaries",
+      "source_page": "current/courses/12a.md",
+      "source_line": 5,
+      "source_page_sha256": "9e50b20565862a08fd84edfb47ef91316daf48e8edd63fb5b8de37137b7322f9",
+      "source_anchor": "“Minds, Brains, and Programs,”",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12A-R08",
+      "course_id": "C12A",
+      "work_id": "W-78F52255AE35",
+      "edition_id": "E-1BAFF98E0E2C",
+      "assigned_locator": "pp. 435–450",
+      "source_page": "current/courses/12a.md",
+      "source_line": 5,
+      "source_page_sha256": "9e50b20565862a08fd84edfb47ef91316daf48e8edd63fb5b8de37137b7322f9",
+      "source_anchor": "“What Is It Like to Be a Bat?”",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12A-R09",
+      "course_id": "C12A",
+      "work_id": "W-FF374E758803",
+      "edition_id": "E-B4E8FEC2A505",
+      "assigned_locator": "pp. 127–136",
+      "source_page": "current/courses/12a.md",
+      "source_line": 5,
+      "source_page_sha256": "9e50b20565862a08fd84edfb47ef91316daf48e8edd63fb5b8de37137b7322f9",
+      "source_anchor": "“Epiphenomenal Qualia,”",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12B-R01",
+      "course_id": "C12B",
+      "work_id": "W-A1B4A4A19767",
+      "edition_id": "E-87201FFE2D0D",
+      "assigned_locator": "complete",
+      "source_page": "current/courses/12b.md",
+      "source_line": 3,
+      "source_page_sha256": "e8cd4f79c1778d4649467debd7b3730d7a8a82f5f64a333a2d070895f41c5b0c",
+      "source_anchor": "“Of the Standard of Taste,” complete",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12B-R02",
+      "course_id": "C12B",
+      "work_id": "W-EB6A7A53C65E",
+      "edition_id": "E-B917CA4776C8",
+      "assigned_locator": "§§1–22",
+      "source_page": "current/courses/12b.md",
+      "source_line": 3,
+      "source_page_sha256": "e8cd4f79c1778d4649467debd7b3730d7a8a82f5f64a333a2d070895f41c5b0c",
+      "source_anchor": "Critique of the Power of Judgment §§1–22",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12B-R03",
+      "course_id": "C12B",
+      "work_id": "W-90CD677493EA",
+      "edition_id": "E-8C543C41FFCB",
+      "assigned_locator": "pp. 27–35",
+      "source_page": "current/courses/12b.md",
+      "source_line": 3,
+      "source_page_sha256": "e8cd4f79c1778d4649467debd7b3730d7a8a82f5f64a333a2d070895f41c5b0c",
+      "source_anchor": "“The Role of Theory in Aesthetics,”",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12B-R04",
+      "course_id": "C12B",
+      "work_id": "W-1E70BF7EE81C",
+      "edition_id": "E-9402DCF0F4BA",
+      "assigned_locator": "pp. 571–584",
+      "source_page": "current/courses/12b.md",
+      "source_line": 3,
+      "source_page_sha256": "e8cd4f79c1778d4649467debd7b3730d7a8a82f5f64a333a2d070895f41c5b0c",
+      "source_anchor": "“The Artworld,” 1964",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12B-R05",
+      "course_id": "C12B",
+      "work_id": "W-B8315655CEE4",
+      "edition_id": "E-88E38C029AF4",
+      "assigned_locator": "pp. 334–367",
+      "source_page": "current/courses/12b.md",
+      "source_line": 3,
+      "source_page_sha256": "e8cd4f79c1778d4649467debd7b3730d7a8a82f5f64a333a2d070895f41c5b0c",
+      "source_anchor": "“Categories of Art,” 1970",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12B-R06",
+      "course_id": "C12B",
+      "work_id": "W-85C759AD4B39",
+      "edition_id": "E-9ED6709F9547",
+      "assigned_locator": "X 595a–608b",
+      "source_page": "current/courses/12b.md",
+      "source_line": 3,
+      "source_page_sha256": "e8cd4f79c1778d4649467debd7b3730d7a8a82f5f64a333a2d070895f41c5b0c",
+      "source_anchor": "Republic X 595a–608b",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12C-R01",
+      "course_id": "C12C",
+      "work_id": "W-540D241AF9F2",
+      "edition_id": "E-BC5EE4487F3B",
+      "assigned_locator": "lectures II and VI",
+      "source_page": "current/courses/12c.md",
+      "source_line": 5,
+      "source_page_sha256": "194c5f90bd563f8bf2e5049a902cc31898529b3be212d6cbd68ff269cb99afbf",
+      "source_anchor": "Pragmatism, lectures II and VI",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12C-R02",
+      "course_id": "C12C",
+      "work_id": "W-A3B4539738B1",
+      "edition_id": "E-2A4846FFD571",
+      "assigned_locator": "pp. 357–370",
+      "source_page": "current/courses/12c.md",
+      "source_line": 5,
+      "source_page_sha256": "194c5f90bd563f8bf2e5049a902cc31898529b3be212d6cbd68ff269cb99afbf",
+      "source_anchor": "“The Reflex Arc Concept in Psychology,”",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12C-R03",
+      "course_id": "C12C",
+      "work_id": "W-FE9DEDA66D55",
+      "edition_id": "E-C06669E431C2",
+      "assigned_locator": "lectures I–II",
+      "source_page": "current/courses/12c.md",
+      "source_line": 5,
+      "source_page_sha256": "194c5f90bd563f8bf2e5049a902cc31898529b3be212d6cbd68ff269cb99afbf",
+      "source_anchor": "The Idea of Phenomenology, lectures I–II",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12C-R04",
+      "course_id": "C12C",
+      "work_id": "W-C854856F6B7E",
+      "edition_id": "E-1EB46D05CDA0",
+      "assigned_locator": "Preface",
+      "source_page": "current/courses/12c.md",
+      "source_line": 5,
+      "source_page_sha256": "194c5f90bd563f8bf2e5049a902cc31898529b3be212d6cbd68ff269cb99afbf",
+      "source_anchor": "Phenomenology of Perception, Preface",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12C-R05",
+      "course_id": "C12C",
+      "work_id": "W-FC08A240C743",
+      "edition_id": "E-81970E9BD8D7",
+      "assigned_locator": "lecture text",
+      "source_page": "current/courses/12c.md",
+      "source_line": 5,
+      "source_page_sha256": "194c5f90bd563f8bf2e5049a902cc31898529b3be212d6cbd68ff269cb99afbf",
+      "source_anchor": "Existentialism Is a Humanism, lecture text",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12C-R06",
+      "course_id": "C12C",
+      "work_id": "W-851C94E97BA4",
+      "edition_id": "E-8C51E81C1F08",
+      "assigned_locator": "Part I",
+      "source_page": "current/courses/12c.md",
+      "source_line": 5,
+      "source_page_sha256": "194c5f90bd563f8bf2e5049a902cc31898529b3be212d6cbd68ff269cb99afbf",
+      "source_anchor": "The Ethics of Ambiguity, Part I",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12C-R07",
+      "course_id": "C12C",
+      "work_id": "W-9E696683CEA6",
+      "edition_id": "E-FEC95982F814",
+      "assigned_locator": "Problema I",
+      "source_page": "current/courses/12c.md",
+      "source_line": 5,
+      "source_page_sha256": "194c5f90bd563f8bf2e5049a902cc31898529b3be212d6cbd68ff269cb99afbf",
+      "source_anchor": "Fear and Trembling, Problema I",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12D-R01",
+      "course_id": "C12D",
+      "work_id": "W-0A1E4F96C871",
+      "edition_id": "E-18998898EFF6",
+      "assigned_locator": "chapters 1 and 8",
+      "source_page": "current/courses/12d.md",
+      "source_line": 3,
+      "source_page_sha256": "055735ea44247be5d1c8ffdf0c0e59fb2929c8f95c8432f4ff534412d63920e2",
+      "source_anchor": "Justice, Gender, and the Family",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12D-R02",
+      "course_id": "C12D",
+      "work_id": "W-015ED9C8307A",
+      "edition_id": "E-38A38675FFC0",
+      "assigned_locator": "chapters 1–2",
+      "source_page": "current/courses/12d.md",
+      "source_line": 3,
+      "source_page_sha256": "055735ea44247be5d1c8ffdf0c0e59fb2929c8f95c8432f4ff534412d63920e2",
+      "source_anchor": "Feminist Theory From Margin to Center",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12D-R03",
+      "course_id": "C12D",
+      "work_id": "W-0AA4C1EE2A39",
+      "edition_id": "E-7E7404A28BE4",
+      "assigned_locator": "chapter 2",
+      "source_page": "current/courses/12d.md",
+      "source_line": 3,
+      "source_page_sha256": "055735ea44247be5d1c8ffdf0c0e59fb2929c8f95c8432f4ff534412d63920e2",
+      "source_anchor": "“Five Faces of Oppression,”",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12D-R04",
+      "course_id": "C12D",
+      "work_id": "W-3C575A85E88C",
+      "edition_id": "E-7A4AD523F629",
+      "assigned_locator": "pp. 287–337",
+      "source_page": "current/courses/12d.md",
+      "source_line": 3,
+      "source_page_sha256": "055735ea44247be5d1c8ffdf0c0e59fb2929c8f95c8432f4ff534412d63920e2",
+      "source_anchor": "“What Is the Point of Equality?”,",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12D-R05",
+      "course_id": "C12D",
+      "work_id": "W-8B8220B07169",
+      "edition_id": "E-4BE05D559CE6",
+      "assigned_locator": "chapter 1, All Animals Are Equal",
+      "source_page": "current/courses/12d.md",
+      "source_line": 3,
+      "source_page_sha256": "055735ea44247be5d1c8ffdf0c0e59fb2929c8f95c8432f4ff534412d63920e2",
+      "source_anchor": "Animal Liberation, 1975",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12D-R06",
+      "course_id": "C12D",
+      "work_id": "W-208284770970",
+      "edition_id": "E-07F06B69A8E3",
+      "assigned_locator": "complete",
+      "source_page": "current/courses/12d.md",
+      "source_line": 3,
+      "source_page_sha256": "055735ea44247be5d1c8ffdf0c0e59fb2929c8f95c8432f4ff534412d63920e2",
+      "source_anchor": "“The Land Ethic,”",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C12D-R07",
+      "course_id": "C12D",
+      "work_id": "W-833FE4E21406",
+      "edition_id": "E-1626A0CE6DF5",
+      "assigned_locator": "pp. 165–183",
+      "source_page": "current/courses/12d.md",
+      "source_line": 3,
+      "source_page_sha256": "055735ea44247be5d1c8ffdf0c0e59fb2929c8f95c8432f4ff534412d63920e2",
+      "source_anchor": "“Ideal Theory as Ideology,”",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C13A-R01",
+      "course_id": "C13A",
+      "work_id": "W-ECBFF148FA6C",
+      "edition_id": "E-6309524D9A4D",
+      "assigned_locator": "revisit Course 12A assigned passage",
+      "source_page": "current/courses/13a.md",
+      "source_line": 3,
+      "source_page_sha256": "9ea3f9766cd24b15187835c464abe449a7b03a0ad38423dc9e995bda5c45c8d5",
+      "source_anchor": "revisit the exact Turing and Searle passages",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C13A-R02",
+      "course_id": "C13A",
+      "work_id": "W-9E4D41652BED",
+      "edition_id": "E-A1F0AE548C59",
+      "assigned_locator": "revisit Course 12A assigned passage",
+      "source_page": "current/courses/13a.md",
+      "source_line": 3,
+      "source_page_sha256": "9ea3f9766cd24b15187835c464abe449a7b03a0ad38423dc9e995bda5c45c8d5",
+      "source_anchor": "revisit the exact Turing and Searle passages",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C13A-R03",
+      "course_id": "C13A",
+      "work_id": "W-C5D4CCC9B5FD",
+      "edition_id": "E-AA7155A94CAE",
+      "assigned_locator": "pp. 610–623",
+      "source_page": "current/courses/13a.md",
+      "source_line": 3,
+      "source_page_sha256": "9ea3f9766cd24b15187835c464abe449a7b03a0ad38423dc9e995bda5c45c8d5",
+      "source_anchor": "“On the Dangers of Stochastic Parrots:",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C13A-R04",
+      "course_id": "C13A",
+      "work_id": "W-F6C85779800D",
+      "edition_id": "E-E239F83FFA61",
+      "assigned_locator": "complete essay",
+      "source_page": "current/courses/13a.md",
+      "source_line": 3,
+      "source_page_sha256": "9ea3f9766cd24b15187835c464abe449a7b03a0ad38423dc9e995bda5c45c8d5",
+      "source_anchor": "“Could a Large Language Model Be Conscious?”,",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C13A-R05",
+      "course_id": "C13A",
+      "work_id": "W-62EE5429707D",
+      "edition_id": "E-17B5A615A678",
+      "assigned_locator": "§§1, 2.1–2.5, 4.1; glossary as needed",
+      "source_page": "current/courses/13a.md",
+      "source_line": 3,
+      "source_page_sha256": "9ea3f9766cd24b15187835c464abe449a7b03a0ad38423dc9e995bda5c45c8d5",
+      "source_anchor": "sections 1, 2.1–2.5, and 4.1",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C13B-R01",
+      "course_id": "C13B",
+      "work_id": "W-045598883A06",
+      "edition_id": "E-F1C3300479D7",
+      "assigned_locator": "III.1–5; X.6–9",
+      "source_page": "current/courses/13b.md",
+      "source_line": 3,
+      "source_page_sha256": "762571563b51d42ca170e6c75ebe81ea00e24499186cd88ca0044217efec2e23",
+      "source_anchor": "Nicomachean Ethics III.1–5",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C13B-R02",
+      "course_id": "C13B",
+      "work_id": "W-8226695B38C8",
+      "edition_id": "E-38EDCD8D1195",
+      "assigned_locator": "2A2; 6A1–10; 7A1–21",
+      "source_page": "current/courses/13b.md",
+      "source_line": 3,
+      "source_page_sha256": "762571563b51d42ca170e6c75ebe81ea00e24499186cd88ca0044217efec2e23",
+      "source_anchor": "Mengzi 2A2, 6A1–10",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C13B-R03",
+      "course_id": "C13B",
+      "work_id": "W-42A6800E875E",
+      "edition_id": "E-A18FBB7BF29D",
+      "assigned_locator": "chapters 19, 22, 23",
+      "source_page": "current/courses/13b.md",
+      "source_line": 3,
+      "source_page_sha256": "762571563b51d42ca170e6c75ebe81ea00e24499186cd88ca0044217efec2e23",
+      "source_anchor": "Xunzi chapters 19, 22, and 23",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C13B-R04",
+      "course_id": "C13B",
+      "work_id": "W-905D9B229F09",
+      "edition_id": "E-F8EB271A2738",
+      "assigned_locator": "pp. 161–184",
+      "source_page": "current/courses/13b.md",
+      "source_line": 3,
+      "source_page_sha256": "762571563b51d42ca170e6c75ebe81ea00e24499186cd88ca0044217efec2e23",
+      "source_anchor": "“Mengzi and Xunzi: Two Views of Human Agency,”",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C13B-R05",
+      "course_id": "C13B",
+      "work_id": "W-0CB5E7E6D11E",
+      "edition_id": "E-80D92150CEBD",
+      "assigned_locator": "pp. 123–133",
+      "source_page": "current/courses/13b.md",
+      "source_line": 3,
+      "source_page_sha256": "762571563b51d42ca170e6c75ebe81ea00e24499186cd88ca0044217efec2e23",
+      "source_anchor": "“The Nature and Grounds of Xunzi’s Disagreement with Mencius,”",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C13C-R01",
+      "course_id": "C13C",
+      "work_id": "W-E63D9A01A591",
+      "edition_id": "E-307C40D77AFC",
+      "assigned_locator": "pp. 13–38",
+      "source_page": "current/courses/13c.md",
+      "source_line": 3,
+      "source_page_sha256": "d72d212980994d267fe0dbde49ab03dbf53337aced130ad74680b6b28b29dc83",
+      "source_anchor": "“White Ignorance,”",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C13C-R02",
+      "course_id": "C13C",
+      "work_id": "W-8AE470E3B736",
+      "edition_id": "E-5CCAB42F9C47",
+      "assigned_locator": "chapters 1 and 7",
+      "source_page": "current/courses/13c.md",
+      "source_line": 3,
+      "source_page_sha256": "d72d212980994d267fe0dbde49ab03dbf53337aced130ad74680b6b28b29dc83",
+      "source_anchor": "Epistemic Injustice chapters 1 and 7",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C13C-R03",
+      "course_id": "C13C",
+      "work_id": "W-0AA4C1EE2A39",
+      "edition_id": "E-7E7404A28BE4",
+      "assigned_locator": "revisit Course 12D assigned chapter",
+      "source_page": "current/courses/13c.md",
+      "source_line": 3,
+      "source_page_sha256": "d72d212980994d267fe0dbde49ab03dbf53337aced130ad74680b6b28b29dc83",
+      "source_anchor": "revisit Young’s “Five Faces of Oppression”",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C13C-R04",
+      "course_id": "C13C",
+      "work_id": "W-3C575A85E88C",
+      "edition_id": "E-7A4AD523F629",
+      "assigned_locator": "revisit Course 12D assigned article",
+      "source_page": "current/courses/13c.md",
+      "source_line": 3,
+      "source_page_sha256": "d72d212980994d267fe0dbde49ab03dbf53337aced130ad74680b6b28b29dc83",
+      "source_anchor": "Anderson’s “What Is the Point of Equality?”",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C13C-R05",
+      "course_id": "C13C",
+      "work_id": "W-E2D014262319",
+      "edition_id": "E-FD1DE197316A",
+      "assigned_locator": "pp. 236–257",
+      "source_page": "current/courses/13c.md",
+      "source_line": 3,
+      "source_page_sha256": "d72d212980994d267fe0dbde49ab03dbf53337aced130ad74680b6b28b29dc83",
+      "source_anchor": "“Tracking Epistemic Violence, Tracking Practices of Silencing,”",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C03-R08",
+      "course_id": "C03",
+      "work_id": "W-06C001004018",
+      "edition_id": "E-6A4902D65BAD",
+      "assigned_locator": "20c–23c, revisit",
+      "source_page": "current/courses/03.md",
+      "source_line": 13,
+      "source_page_sha256": "6a018bc524d08dd1164d1a92f7d8c90b255267a6429740f1be3e4fa7964e4a85",
+      "source_anchor": "Revisit Apology 20c–23c",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C03-R09",
+      "course_id": "C03",
+      "work_id": "W-7D38CDAC0978",
+      "edition_id": "E-246C3E0E8B4C",
+      "assigned_locator": "80d–86c, revisit",
+      "source_page": "current/courses/03.md",
+      "source_line": 13,
+      "source_page_sha256": "6a018bc524d08dd1164d1a92f7d8c90b255267a6429740f1be3e4fa7964e4a85",
+      "source_anchor": "Meno 80d–86c",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C03-R10",
+      "course_id": "C03",
+      "work_id": "W-1C529F0B3BAD",
+      "edition_id": "E-3D66A7E4CF99",
+      "assigned_locator": "section 4.2 Classical Philosophy",
+      "source_page": "current/courses/03.md",
+      "source_line": 13,
+      "source_page_sha256": "6a018bc524d08dd1164d1a92f7d8c90b255267a6429740f1be3e4fa7964e4a85",
+      "source_anchor": "OpenStax 4.2 “Classical Philosophy”",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C04-R09",
+      "course_id": "C04",
+      "work_id": "W-83609F0915E3",
+      "edition_id": "E-A39F423E7D44",
+      "assigned_locator": "general introduction",
+      "source_page": "current/courses/04.md",
+      "source_line": 13,
+      "source_page_sha256": "ef53c1f61b10b922b085aba9e2c30da5c259733703d2c8050b5bbf19630085bd",
+      "source_anchor": "anthology’s general introduction",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C04-R10",
+      "course_id": "C04",
+      "work_id": "W-83609F0915E3",
+      "edition_id": "E-A39F423E7D44",
+      "assigned_locator": "source introduction to Avicenna excerpt",
+      "source_page": "current/courses/04.md",
+      "source_line": 7,
+      "source_page_sha256": "ef53c1f61b10b922b085aba9e2c30da5c259733703d2c8050b5bbf19630085bd",
+      "source_anchor": "editor’s introductions to the assigned Avicenna",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C04-R11",
+      "course_id": "C04",
+      "work_id": "W-83609F0915E3",
+      "edition_id": "E-A39F423E7D44",
+      "assigned_locator": "source introduction to al-Ghazali excerpt",
+      "source_page": "current/courses/04.md",
+      "source_line": 7,
+      "source_page_sha256": "ef53c1f61b10b922b085aba9e2c30da5c259733703d2c8050b5bbf19630085bd",
+      "source_anchor": "al-Ghazali excerpts",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C06-R08",
+      "course_id": "C06",
+      "work_id": "W-6177E084F8A8",
+      "edition_id": "E-10FA82A49316",
+      "assigned_locator": "revisit Course 1 assigned article",
+      "source_page": "current/courses/06.md",
+      "source_line": 13,
+      "source_page_sha256": "88b5584f80d05ddf3602c96f002c19d1064f2019b96eb5c85b82dc22c58286f9",
+      "source_anchor": "Revisit Singer’s argument",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    },
+    {
+      "id": "C06-R09",
+      "course_id": "C06",
+      "work_id": "W-1C529F0B3BAD",
+      "edition_id": "E-3D66A7E4CF99",
+      "assigned_locator": "sections 8.1–8.3",
+      "source_page": "current/courses/06.md",
+      "source_line": 13,
+      "source_page_sha256": "88b5584f80d05ddf3602c96f002c19d1064f2019b96eb5c85b82dc22c58286f9",
+      "source_anchor": "OpenStax 8.1–8.3",
+      "asset_id": null,
+      "access": "unchecked",
+      "rights": "unchecked",
+      "readiness": "source-metadata-only"
+    }
+  ]
+}

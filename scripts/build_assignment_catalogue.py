@@ -13,7 +13,7 @@ MODULE = re.compile(r"^\*\*(\d+)\. (.*?), (\d+) hours\.\*\* (.*)$", re.M)
 
 def build():
     records = []
-    for course in COURSES:
+    for course in COURSES + [{"id": "C13", "page": "current/courses/13.md", "baseline_hours": 160}]:
         id_ = course["id"]
         if id_ == "C01":
             continue
@@ -43,6 +43,7 @@ def build():
                 "source_line": prompt[0], "kind": "source_course_prompt",
                 "title": "Default and alternative paper prompts", "source_baseline_hours": None,
                 "source_text": prompt[1], "readiness": "curriculum-specification-not-packet",
+                "shared_sequence_id": "C13",
             })
         else:
             raise ValueError(f"no extractable assignment metadata: {id_}")

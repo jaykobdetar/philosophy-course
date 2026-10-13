@@ -15,10 +15,10 @@
 
 ## 2026-10-13 — PC-07 and PC-44 — Later assignment metadata
 
-- **Decision:** Extract the current later-course module headings, baseline hours, and assignment text into a structured [source assignment catalogue](../data/assignment-catalogue.json). Record the three Course 13 seminar paper prompts as course-level prompts because those pages have no module timetable.
-- **Source:** `current/courses/02.md` through `14.md`, excluding aggregate option overview pages and the separately handled Course 1. Every record has a source page and line. The 127 module allocations sum to each page's baseline hours; the three seminar prompts have no invented hours.
-- **Validation:** `scripts/build_assignment_catalogue.py --check` and `scripts/check_course.py` compare all 130 records with their source pages and check unique IDs and per-course module hour totals.
-- **Limit:** This preserves module and paper assignment metadata. It is not a work-by-work reading catalogue: only seven later reading candidates currently have individual records in `data/reading-backlog.json`, covering Course 1 and Course 2. Course 3–14 reading assignments still need work/edition/asset/locator normalization and source checks. The catalogue does not assert that later reading editions, passage boundaries, permissions, or teaching packets are ready.
+- **Decision:** Extract later-course module headings, baseline hours, and assignment text into a structured [source assignment catalogue](../data/assignment-catalogue.json). Include the eight shared Course 13 modules once and link each option prompt to that sequence. Carry individually named readings into a [source reading catalogue](../data/later-reading-catalogue.json), preserving specified locators and edition descriptions without asserting verified assets.
+- **Source:** `current/courses/02.md` through `14.md`, excluding the separately handled Course 1. The 135 module allocations sum to the applicable baseline hours; three seminar prompts have no invented hours. Course 14 requires project-selected sources rather than a fixed reading list. The 130 reading records cover fixed readings named in Courses 3–13, including module context and revisit instructions.
+- **Validation:** Both catalogue builders' `--check` modes and `scripts/check_course.py` compare generated records with source pages, check unique IDs, per-course module hours, reading counts, source anchors and source-page digests. The source reading catalogue keeps work and edition identifiers distinct from reading assignment IDs.
+- **Limit:** These are preserved source assignments, not verified assets or release-ready packets. Seven later access candidates remain separately recorded in `data/reading-backlog.json`; other access, rights and edition matches are unchecked. Later passage boundaries and source suitability still need review before study.
 
 ## 2026-10-13 — PC-01 and PC-06 — Current source and baseline
 

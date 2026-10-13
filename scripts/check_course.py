@@ -11,6 +11,7 @@ from pathlib import Path
 from urllib.parse import unquote, urlsplit
 from audit_conversion import audit as audit_conversion
 from build_assignment_catalogue import build as build_assignment_catalogue
+from build_later_readings import build as build_later_readings
 from course_model import COMMON, OPTIONS, base, requirements_met, route_records
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -95,8 +96,13 @@ def check_data():
     if catalogue != build_assignment_catalogue():
         fail("later assignment catalogue differs from current source pages")
     catalogue_items = unique(catalogue["records"], "later assignment")
-    if len(catalogue_items) != 130:
+    if len(catalogue_items) != 138:
         fail("later assignment catalogue incomplete")
+    later_readings = read_json("data/later-reading-catalogue.json")
+    if later_readings != build_later_readings():
+        fail("later reading catalogue differs from preserved source assignments")
+    if len(unique(later_readings["records"], "later reading assignment")) != 130:
+        fail("later reading assignment catalogue incomplete")
     workload = read_json("data/workload.json")
     if data["curriculum_version"] != workload["curriculum_version"]:
         fail("course and workload versions differ")
