@@ -2,12 +2,14 @@
 
 This is a scoped progress record against the [unified plan](UNIFIED_PLAN.md). The plan's PC-01–PC-48 identifiers are the only task identifiers used here. The September 30 DOCX, historical collection, and original packages remain recoverable. A complete course release has **not** been certified.
 
+The [PC-by-PC acceptance register](TASK_REGISTER.md) names evidence and remaining work for every plan task. This summary groups the main boundaries.
+
 | Plan area | Implemented in this repository | Still needed before a broader claim |
 | --- | --- | --- |
 | PC-01–06, authority and baseline | Full DOCX conversion to current Markdown, preserved source digest, versioned decisions, revised entry point, current tutor guidance and learner record templates. | Human editorial comparison of complex DOCX formatting and any later corrections. |
-| PC-07–14, readings and access | Stable work/edition/asset/assignment IDs, exact online opening assignments, generated Course 1 readiness, and specific source corrections. | Catalogue, exact passage and permissions checks across Courses 2–14; some sources need acquisition, alternate editions or locator repair. |
+| PC-07–14, readings and access | Stable work/edition/asset/assignment IDs, seven exact online opening reading records, generated Course 1 readiness, seven later candidate records, and specific source corrections. | Catalogue, exact passage and permissions checks across the later route; some sources need acquisition, alternate editions or locator repair. |
 | PC-15–24, teaching | Four opening Course 1 packets, a representative Course 2 logic packet, answer criteria, constructed examples, fresh checks, remediation queue, an opening outcome map and preserved course-level evidence grids. | Remaining course packets, real tutor calibration, delayed learner evidence and a route-wide matrix integrating all proposed additions. |
-| PC-25–33, added content | PC-31's Course 1 practical-reasoning packet is allocated inside the existing module hours. Proposed later additions are recorded separately in the workload ledger. | Exact sources, finite ranges, task criteria and reconciled hours for later additions, including Course 10 probability. They are not released lessons. |
+| PC-25–33, added content | PC-31's Course 1 practical-reasoning packet is allocated inside the existing module hours. [Finite later briefs](ADDITIONS.md) and proposed seeds are separate from adopted hours. | Exact sources, finite ranges, task criteria and reconciled hours for later additions, including Course 10 probability. They are not released lessons. |
 | PC-35–40, pacing and validation | Baseline default/common-core route arithmetic, interim stopping milestones, optional listening handoff and a pilot protocol. | Actual learner pilot (PC-39), measured effort, tested logic sequencing (PC-36), optional qualified human review (PC-40), and revised route totals. |
 | PC-41–48, repository controls | Private-study boundary, explicit teaching-only distribution allowlist, generated HTML navigator, local check command, source archive and maintenance procedure. | Full asset-by-asset permissions audit, later text/scan repair and passage extracts, actual accessibility testing beyond the local opening navigator. No public release is authorized. |
 

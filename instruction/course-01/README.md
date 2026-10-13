@@ -12,7 +12,7 @@ Use the [opening assessment forms](assessment.md) for fresh and delayed work, an
 | --- | --- | --- | --- | --- |
 | 1 | Attribute and paraphrase a claim | OpenStax 2.5; *Euthyphro* 2a–before 5d | Untouched 120-word paraphrase and claim/reaction distinction | 90 min to Module 1 |
 | 2 | Find premises, conclusions, and assumptions | OpenStax 5.3 | Four argument reconstructions and one paragraph revision | 70 min Module 2; 20 min Module 3 |
-| 3 | Test validity, soundness, conditions, and counterexamples | OpenStax 5.2 and 5.3 | Four explained cases and one near-case | 90 min Module 2 |
+| 3 | Test validity, soundness, conditions, and counterexamples | OpenStax 5.2 and the deductive portion of 5.4; local soundness explanation | Four explained cases and one near-case | 90 min Module 2 |
 | 4 | Distinguish an example from a definition | *Euthyphro* 5d–before 8b | Locator notes, argument map, 150-word explanation | 90 min Module 4 |
 
 Continue the rest of Modules 1–3 after Session 4, then complete Module 4. Revisit the full dialogue for a **new task**; the preview is already credited and is not assigned again as extra homework. Do not take the original fifteen-unit Introduction gate or its numerical certification rule.

@@ -1,0 +1,1072 @@
+[
+  {
+    "path": "ACCESS_GAPS.txt",
+    "bytes": 12519,
+    "sha256": "dd6f9abdc45933fd3b2dd6bb2dfb6ddfe3d25b5a6fdde55524b1884694479ed6"
+  },
+  {
+    "path": "DOWNLOAD_AND_OPEN.txt",
+    "bytes": 1609,
+    "sha256": "57b04367077da476c8653ce1ca4c376c26144480f283920338822d3ccb3bb6bc"
+  },
+  {
+    "path": "MANIFEST.json",
+    "bytes": 482850,
+    "sha256": "5a6f025ebf9dcd5a02a42d6070b0bcaa001c49eb5f3103f3867b6e9221500241"
+  },
+  {
+    "path": "MANIFEST.txt",
+    "bytes": 89682,
+    "sha256": "6d4fb3c0bdc641cbd82a2063a12a1f2863e8d7e7757c5c6eefc2956009487ceb"
+  },
+  {
+    "path": "PARTS.json",
+    "bytes": 13768,
+    "sha256": "a3b4691ee0674e8d836607598c48dcd269d10814e8fdc4ab677c06dd099b2c44"
+  },
+  {
+    "path": "README.txt",
+    "bytes": 387,
+    "sha256": "643c0a3cbcb9b558b86c5d43f175a49a57fa10e25aaa16766491b2d13c77bc9a"
+  },
+  {
+    "path": "START_HERE.html",
+    "bytes": 156097,
+    "sha256": "982ceebdd367a7c5c7d22085450e174d385e6b0782dc09ebc874371cbc19b2fe"
+  },
+  {
+    "path": "audio/plato-life-compact-64k.mp3",
+    "bytes": 9142869,
+    "sha256": "978c9ea44754c07651643da66cc4d86e8a7390619ce2d76ae1509df8f0d114b6"
+  },
+  {
+    "path": "audio/plato-meno-compact-64k.mp3",
+    "bytes": 8633115,
+    "sha256": "4952c646421329ed2ad940c4c753c545438c2569e38fd9fcee851329eabf09be"
+  },
+  {
+    "path": "audio/plato-socrates-compact-64k.mp3",
+    "bytes": 8623037,
+    "sha256": "cee89ff0c4fbe06bb563dc9fbe59a6530995f98784770c3fef60647a74bb8fce"
+  },
+  {
+    "path": "reference/acquisition_details.json",
+    "bytes": 349026,
+    "sha256": "c8e79edc465c1a11410d337664be45cde6b319dd73e96a0be327b06477a22611"
+  },
+  {
+    "path": "source-curriculum/LICENSE",
+    "bytes": 1075,
+    "sha256": "f87c017fda6e1c303cc162a41314c9279368f7f7e2199a02144bbed8f01113a3"
+  },
+  {
+    "path": "source-curriculum/README.md",
+    "bytes": 6919,
+    "sha256": "7ffbf29da88a9037f0351d663b1a9bcba3a6927d10ab69472c5f02256e5c1478"
+  },
+  {
+    "path": "source-curriculum/curriculum/map.md",
+    "bytes": 4299,
+    "sha256": "2c98ae85711da0cb09b3b4f28ca1ffee5b865ef6070feb4c4fea03fb7a9dd1ad"
+  },
+  {
+    "path": "source-curriculum/curriculum/units/aesthetics.md",
+    "bytes": 1426,
+    "sha256": "07cfb947372948bab046094bc9aac5759eabb2b3b4747c16941534b2fed70cf0"
+  },
+  {
+    "path": "source-curriculum/curriculum/units/ancient-medieval.md",
+    "bytes": 2077,
+    "sha256": "29b338de225700c61023ddb6a0c1250bb0195fe7aa5d665ae23cf1dd59dcc7ac"
+  },
+  {
+    "path": "source-curriculum/curriculum/units/early-modern.md",
+    "bytes": 2184,
+    "sha256": "68211b0a61d47de77475b5b2fbf5d8363597ac180a1db2a9bdcf9fff5e681486"
+  },
+  {
+    "path": "source-curriculum/curriculum/units/elective-contemporary.md",
+    "bytes": 1792,
+    "sha256": "462a9bd5e2129ccb60f24653f08e050d4379d51ba6b6e1c0154899fa3bd0e26d"
+  },
+  {
+    "path": "source-curriculum/curriculum/units/elective-non-european.md",
+    "bytes": 1584,
+    "sha256": "b87b1e09677f72549cf42e6c8ba18ff5b920bea2f45ff6d55fe1b2b4960ecbba"
+  },
+  {
+    "path": "source-curriculum/curriculum/units/epistemology.md",
+    "bytes": 1691,
+    "sha256": "95461982826ea6b5f7761213142125d901a8084e1045b5ea352463fa4911d946"
+  },
+  {
+    "path": "source-curriculum/curriculum/units/ethics.md",
+    "bytes": 1856,
+    "sha256": "5eab5f8dc1deef16cff837cd065e85ea948b1bdaad18482a4e9c9fdeb38f6859"
+  },
+  {
+    "path": "source-curriculum/curriculum/units/introduction.md",
+    "bytes": 9001,
+    "sha256": "baf6089cad4842b8b406af8541493ba929a5cdfb8f673f4f4b9ef97197694ff0"
+  },
+  {
+    "path": "source-curriculum/curriculum/units/kant-19th-century.md",
+    "bytes": 1971,
+    "sha256": "fe247f08b88e5be07decd19bff12a374fbf4b2fb4c9eb24c7cbfbd585ea108af"
+  },
+  {
+    "path": "source-curriculum/curriculum/units/logic-1.md",
+    "bytes": 1848,
+    "sha256": "4111a74e6f7e2c0f83c72543c21f514de2f5e6ec7ca90454e7c202cd09f98c22"
+  },
+  {
+    "path": "source-curriculum/curriculum/units/metaphysics.md",
+    "bytes": 1783,
+    "sha256": "521c9003b112014eff8cd48d1760a822f46c51e83c5de47f3324a496787ddaad"
+  },
+  {
+    "path": "source-curriculum/curriculum/units/philosophy-of-language.md",
+    "bytes": 1932,
+    "sha256": "220b6466ea02b78d579c560b7b01e2a4ead99b9903a11775eec384c5a8614026"
+  },
+  {
+    "path": "source-curriculum/curriculum/units/philosophy-of-mind.md",
+    "bytes": 1859,
+    "sha256": "de82c2dcacd1d34b9eb1521ceb344276cd3831fb79b3e9dda047557fade1d1e1"
+  },
+  {
+    "path": "source-curriculum/curriculum/units/political-philosophy.md",
+    "bytes": 1909,
+    "sha256": "4581d71700d701fa24414b6de37975ae155e7e0a0db5ca8bd161c4a38c41586a"
+  },
+  {
+    "path": "source-curriculum/curriculum/units/research-thesis.md",
+    "bytes": 2846,
+    "sha256": "c97accf60fc88636bdd462495fe8f5607bb8e92f5b6e34605cb92da4922c4878"
+  },
+  {
+    "path": "source-curriculum/docs/decisions.md",
+    "bytes": 11038,
+    "sha256": "91900b0bb0eeeeeb8606fda8a3ac0f15900ae61d53f880c9456502547cba0e39"
+  },
+  {
+    "path": "source-curriculum/docs/rationale.md",
+    "bytes": 13685,
+    "sha256": "82e908a0b59f8042f4c6f389f0ae840911c3d7f16a4443424fc2892cfadaac2b"
+  },
+  {
+    "path": "source-curriculum/materials/catalog.md",
+    "bytes": 23238,
+    "sha256": "d65a27591e7c3a2c5a1b59fe00abec5addd5d785d06adefbc5dc3983378b610d"
+  },
+  {
+    "path": "source-curriculum/materials/texts/README.md",
+    "bytes": 489,
+    "sha256": "58f072de887ff450905a4f7adcb8b61ad0f7de923732f1de6154d17fe6f95770"
+  },
+  {
+    "path": "source-curriculum/roles/assignment-designer.md",
+    "bytes": 3479,
+    "sha256": "3abc07ff77627334482b5b29db7b90ba379437ca7ecad3cabc8fc9a06a72e6ab"
+  },
+  {
+    "path": "source-curriculum/roles/debate-partner.md",
+    "bytes": 1904,
+    "sha256": "6422585acfdbf60bf2bc3cb8f118d6e4204b43512de2f72cbc3534ae4b69e072"
+  },
+  {
+    "path": "source-curriculum/roles/director-of-studies.md",
+    "bytes": 7071,
+    "sha256": "0b038b1dbe9c7cc46f1ac6ce521c61f3d19729eb03e58b523f0dd668230987ac"
+  },
+  {
+    "path": "source-curriculum/roles/examiner.md",
+    "bytes": 3576,
+    "sha256": "5ce40879102fe998eb894440a86f6dc730cb241ce1ef8a710194e40d7cc0cd58"
+  },
+  {
+    "path": "source-curriculum/roles/ground-rules.md",
+    "bytes": 5259,
+    "sha256": "46cc550d0396f54ea803cddf2fad382de9ba1806f3b49d28611538e1c6e94855"
+  },
+  {
+    "path": "source-curriculum/roles/tutor.md",
+    "bytes": 4217,
+    "sha256": "7d6ecd089c3dfe01b05acb4740d1aea726603537297c0fdb01bde70a1cde9f20"
+  },
+  {
+    "path": "source-curriculum/roles/verifier.md",
+    "bytes": 2580,
+    "sha256": "0863ebb65176106fc6028750a772a6afb601ae1060d8a9ea7cfaf0c42a3adcd9"
+  },
+  {
+    "path": "source-curriculum/rubrics/analytic-essay.md",
+    "bytes": 1631,
+    "sha256": "cf0b0bca988e3859ab6b7b3e8fca73d43082d9e9827e7abb4b747c2bc1cd7e67"
+  },
+  {
+    "path": "source-curriculum/rubrics/gates.md",
+    "bytes": 3086,
+    "sha256": "e704e0d3b346dba3f5299b2747047a2c385e9a853ea12e6e76e5741059bbb768"
+  },
+  {
+    "path": "source-curriculum/rubrics/mastery-dashboard.md",
+    "bytes": 2001,
+    "sha256": "356fa214bdbbc8d37c6c1af5ad6580b149f97778f9d44228df0fe26b088d0cd3"
+  },
+  {
+    "path": "source-curriculum/rubrics/oral-exam.md",
+    "bytes": 1083,
+    "sha256": "4b5170f1aa721959d5a3812e98cfb2bf52394d2843e919caaee4a748172764cb"
+  },
+  {
+    "path": "source-curriculum/templates/argument-reconstruction.md",
+    "bytes": 621,
+    "sha256": "c5cde94258d1f719258d4702135cb9f32467826331252fc7788875fc2c42ab84"
+  },
+  {
+    "path": "source-curriculum/templates/feedback-memo.md",
+    "bytes": 782,
+    "sha256": "2a127dbd19e09aefc863699f20d3da0361d363061ff95ff0dfa02f5e0f1316f7"
+  },
+  {
+    "path": "source-curriculum/templates/learner/assignments/README.md",
+    "bytes": 123,
+    "sha256": "97ec6ea44a23027056ca419e83cf15b6957ce1df0b4756d0cae49e1048f83bed"
+  },
+  {
+    "path": "source-curriculum/templates/learner/audit/audit-log.md",
+    "bytes": 275,
+    "sha256": "37f8d5deca281f047aee6ec9caa6b8f7dc73a9d96b84baa492a4b46742a4e342"
+  },
+  {
+    "path": "source-curriculum/templates/learner/editions.md",
+    "bytes": 387,
+    "sha256": "c7c687be909a7d7b4212739499b342478491957fd06f1f32a364a56e4d181fd5"
+  },
+  {
+    "path": "source-curriculum/templates/learner/exams/README.md",
+    "bytes": 169,
+    "sha256": "5e7dd0ba67056a646e137dfe4f75930f7c39bba60ca6c7079fbcdd3470a765e5"
+  },
+  {
+    "path": "source-curriculum/templates/learner/profile.md",
+    "bytes": 646,
+    "sha256": "11f0b8c7f6a318edbaa02d9360ec7bfe4d2439f34f3e08b7df106f4db4917909"
+  },
+  {
+    "path": "source-curriculum/templates/learner/record/dashboard.md",
+    "bytes": 447,
+    "sha256": "0a076eed75e3dd37cf7993230080a219ddc05a53bf66f05ce4cfda978d1b1385"
+  },
+  {
+    "path": "source-curriculum/templates/learner/record/gradebook.md",
+    "bytes": 248,
+    "sha256": "5f02213fc153415be211a9f7062aa04a21a4e970c92cc42211b7af509e7d4b09"
+  },
+  {
+    "path": "source-curriculum/templates/learner/record/log.md",
+    "bytes": 109,
+    "sha256": "fcb9dfd40bda7792ec3041b0bd06df1d4d75f97ed4948c3382dbf0a3fc39abfe"
+  },
+  {
+    "path": "source-curriculum/templates/learner/record/review-queue.md",
+    "bytes": 504,
+    "sha256": "61052f4a002a904a48667751b26ef073408a6c15d68cd05127dd0f31a007723e"
+  },
+  {
+    "path": "source-curriculum/templates/learner/record/units.md",
+    "bytes": 1004,
+    "sha256": "82b6e568f4fb3ca9dadd88fbaae6afadbb0526866d894c3062b434b5af50733e"
+  },
+  {
+    "path": "source-curriculum/templates/learner/work/README.md",
+    "bytes": 303,
+    "sha256": "25c66807b399b7bea41a808611f7884816120f9656a39172cbd1ac6ef4f48a84"
+  },
+  {
+    "path": "source-curriculum/templates/oral-exam-report.md",
+    "bytes": 559,
+    "sha256": "779577aded8dc7c88d826e86e320f0e5c6bbb8d98bc3847553456520390b072d"
+  },
+  {
+    "path": "source-curriculum/templates/precis.md",
+    "bytes": 605,
+    "sha256": "d9553a172255e967ef6acae04c66392d5710720d14254defd40d213f4b502c76"
+  },
+  {
+    "path": "source-curriculum/templates/session-summary.md",
+    "bytes": 517,
+    "sha256": "18f5502acd8cc37cb92cd8d292e168881e2b2896f7e1e58c1a8a1538d0432951"
+  },
+  {
+    "path": "source-curriculum/templates/unit-template.md",
+    "bytes": 911,
+    "sha256": "b55c33b4e26c09bf6becc450b2d2439f0413e301e07d665d027674dfc62ccfae"
+  },
+  {
+    "path": "source-curriculum/templates/written-exam.md",
+    "bytes": 891,
+    "sha256": "7900ca105b9976be8dce07307de569e3b4e7f29448a57422074defbffad326ec"
+  },
+  {
+    "path": "texts/classical_web/READ_ME_classical_sources.txt",
+    "bytes": 1273,
+    "sha256": "786ae5a3b81d6a4f8fa5b46ff1ce452bf4c0e5e8fdcbe564a269f36c09b5b797"
+  },
+  {
+    "path": "texts/classical_web/anselm_proslogion_2-4_deane.txt",
+    "bytes": 5872,
+    "sha256": "b12a3fdd6d8d49a587fa098d2c28d05fae64489d7661d5e158ac3aa87804ecc5"
+  },
+  {
+    "path": "texts/classical_web/aristotle_de_anima_II_1-3_smith.txt",
+    "bytes": 16485,
+    "sha256": "9d68f4b5eb88aa6a734af184aeb87321d4530768290a3b178f7fd38a655f9455"
+  },
+  {
+    "path": "texts/classical_web/aristotle_de_anima_smith_complete.txt",
+    "bytes": 180688,
+    "sha256": "77350984c82f56a7dfe0b872b99208b9817e9cc4ca13510b81fc1b882d8862df"
+  },
+  {
+    "path": "texts/classical_web/aristotle_physics_book_II_hardie-gaye.txt",
+    "bytes": 44433,
+    "sha256": "d379be01acfc32114fcc4616ebb5e19dbcf3da339dbcafbf3b2406cf4b3da535"
+  },
+  {
+    "path": "texts/classical_web/aristotle_physics_hardie-gaye_complete.txt",
+    "bytes": 466629,
+    "sha256": "0760bc2fec07afefd233a01b4d3590cd9b99d760f5a7efcbd50e230af5bf8fc4"
+  },
+  {
+    "path": "texts/classical_web/descartes_elisabeth_1643_bennett_reading_aid.pdf",
+    "bytes": 109233,
+    "sha256": "ac6e7b2979d0ab741ff45437da9cfe16f802a07b6d1a04431a1a1c12498937ee"
+  },
+  {
+    "path": "texts/classical_web/gaunilo_anselm_replies_deane_fordham.txt",
+    "bytes": 45271,
+    "sha256": "9d2574fe74ace8b744f1a76b2b15244c47b781f4459306eb4d982ec49cac55b0"
+  },
+  {
+    "path": "texts/classical_web/hegel_phenomenology_lordship_bondage_baillie.txt",
+    "bytes": 23786,
+    "sha256": "09f3fe107397a6df2582f0fd4407b0e3b08dcb03c0e8086e3ff3a6ac1b44cfc2"
+  },
+  {
+    "path": "texts/classical_web/hegel_phenomenology_preface_baillie.txt",
+    "bytes": 127514,
+    "sha256": "9d034cd6c4667a2ef43e8be5f831018f92c4b0b3bc58d3742272bd8b0ff3e38a"
+  },
+  {
+    "path": "texts/classical_web/hume_standard_of_taste_wikisource.txt",
+    "bytes": 46579,
+    "sha256": "e16a92dd6e69cbb87bf107798116591fef21ceaecc9441d6e79c834ab4e7771d"
+  },
+  {
+    "path": "texts/classical_web/leibniz_discourse_and_monadology_1902_selections.pdf",
+    "bytes": 3489671,
+    "sha256": "4d396e989dce4394b2bd0e68b5f4cea147e730ddad95d43c0ec6c714c73ed718"
+  },
+  {
+    "path": "texts/classical_web/leibniz_discourse_monadology_montgomery_1902_ocr.txt",
+    "bytes": 587808,
+    "sha256": "4b2f320a3ea15ac1f75bbca739134304196f74282ffe829743e5ac4f7a237162"
+  },
+  {
+    "path": "texts/classical_web/marx_theses_on_feuerbach_lough.txt",
+    "bytes": 5191,
+    "sha256": "cecdaa012543d3373a6e190827dea28bd34aa4c3b3d85010d36469a2e0c2c585"
+  },
+  {
+    "path": "texts/classical_web/thomson_defense_of_abortion_1971.pdf",
+    "bytes": 131766,
+    "sha256": "c8735254c89854f09216f389ca6fc3240304547795eb02a00f3c228f3648b26e"
+  },
+  {
+    "path": "texts/gutenberg/pg10615-an-essay-concerning-humane-understanding-volume-1-mdcxc-based-on-the-2nd-edition-books-1-and-2.epub",
+    "bytes": 539846,
+    "sha256": "cd2e64d20e1abc2e660ae25a361e93072366b8dc654ab2f9deb9ea3f84ae1aab"
+  },
+  {
+    "path": "texts/gutenberg/pg10615-an-essay-concerning-humane-understanding-volume-1-mdcxc-based-on-the-2nd-edition-books-1-and-2.rdf",
+    "bytes": 15630,
+    "sha256": "bfc3decb2b0f5dce540dfa3ffe4bda490723182fb8b73dcd36fcaba58ff58df4"
+  },
+  {
+    "path": "texts/gutenberg/pg10615-an-essay-concerning-humane-understanding-volume-1-mdcxc-based-on-the-2nd-edition-books-1-and-2.txt",
+    "bytes": 869788,
+    "sha256": "a12707722f72598adffbe3a211403ff9351b3c24db44d009c5debefb10cbc5e2"
+  },
+  {
+    "path": "texts/gutenberg/pg10616-an-essay-concerning-humane-understanding-volume-2-mdcxc-based-on-the-2nd-edition-books-3-and-4.epub",
+    "bytes": 349251,
+    "sha256": "ca1b3873f98889573ad1fb4e03a6cab6d19945b3b32e5a421ddeac548cdc8937"
+  },
+  {
+    "path": "texts/gutenberg/pg10616-an-essay-concerning-humane-understanding-volume-2-mdcxc-based-on-the-2nd-edition-books-3-and-4.rdf",
+    "bytes": 16474,
+    "sha256": "871ff20c5a6be5d1020ac20dfc31ad1067e74f4c42220be2c85ce2db46b9ac5e"
+  },
+  {
+    "path": "texts/gutenberg/pg10616-an-essay-concerning-humane-understanding-volume-2-mdcxc-based-on-the-2nd-edition-books-3-and-4.txt",
+    "bytes": 737964,
+    "sha256": "9e09d5e7cca51d722bae88caeaf8d5ec0eb353d47d7a878ea1c0d8f6c31960dd"
+  },
+  {
+    "path": "texts/gutenberg/pg11224-utilitarianism.epub",
+    "bytes": 127531,
+    "sha256": "814732341d7a4d6373ab89fe0484105a9cd441797380c2cf683db08a51b024d8"
+  },
+  {
+    "path": "texts/gutenberg/pg11224-utilitarianism.rdf",
+    "bytes": 15522,
+    "sha256": "cb702c5ea289e90f77f1554b83eb648e7c57ac63638dcbbf9808cd0009d1612f"
+  },
+  {
+    "path": "texts/gutenberg/pg11224-utilitarianism.txt",
+    "bytes": 183521,
+    "sha256": "2b2e413b8df7d42790546a6c636802f10da3ee472cc94a85d3e12204b6385241"
+  },
+  {
+    "path": "texts/gutenberg/pg1497-the-republic.epub",
+    "bytes": 516590,
+    "sha256": "7e658b1046123f33285e0e6754e3b7e8d99e8cb39da108df49ea097f811210ee"
+  },
+  {
+    "path": "texts/gutenberg/pg1497-the-republic.rdf",
+    "bytes": 17556,
+    "sha256": "4eec9b79f7f437ff9a7a3f0d9eb4390bb2b649766c6390830853eb9e7bb3e58a"
+  },
+  {
+    "path": "texts/gutenberg/pg1497-the-republic.txt",
+    "bytes": 1244164,
+    "sha256": "917c1cb469e1a8eba6083808764d7131da8d79140b575b4214c9d02a73ec4528"
+  },
+  {
+    "path": "texts/gutenberg/pg1642-euthyphro.epub",
+    "bytes": 77941,
+    "sha256": "72daede2359339fa333c66e114399a8c04a7d4d26aa4718bbb2c66d708f9dbf7"
+  },
+  {
+    "path": "texts/gutenberg/pg1642-euthyphro.rdf",
+    "bytes": 19621,
+    "sha256": "df9d6ea3aa7444e3063b81cfc784b467ebf2ff7e0e71212e5485f3bbb8160e97"
+  },
+  {
+    "path": "texts/gutenberg/pg1642-euthyphro.txt",
+    "bytes": 71308,
+    "sha256": "8b00a7a1caa91a58c7b64e50b9322fa0089f34ca9e5938fd9b8216df868f5849"
+  },
+  {
+    "path": "texts/gutenberg/pg1643-meno.epub",
+    "bytes": 102404,
+    "sha256": "b0a7b37317cf21c80b0872999fb85c62b106eecc2887aa78c42104758b529e11"
+  },
+  {
+    "path": "texts/gutenberg/pg1643-meno.rdf",
+    "bytes": 19351,
+    "sha256": "b90f72d8afb2e86ba1a927e88b3a9594f7759c8454b638cb481371194ec67424"
+  },
+  {
+    "path": "texts/gutenberg/pg1643-meno.txt",
+    "bytes": 145456,
+    "sha256": "b8cd2549571ca710684b781462ab0a0d141da485b982c55d63a399a35b12cbfb"
+  },
+  {
+    "path": "texts/gutenberg/pg1656-apology.epub",
+    "bytes": 92310,
+    "sha256": "d69596aa9169d723c21be69e970e4185ce58ae83034ba0687640ecf9b70e7a1a"
+  },
+  {
+    "path": "texts/gutenberg/pg1656-apology.rdf",
+    "bytes": 19711,
+    "sha256": "ae25b02b2e0a97fbeb5b20847170967e4c35ab704225eeb628615eaae4f988b7"
+  },
+  {
+    "path": "texts/gutenberg/pg1656-apology.txt",
+    "bytes": 107485,
+    "sha256": "f4cc548bd8c8b59e14effdbaab9df97f29bd48f317a466fe8c3c63ad288b964c"
+  },
+  {
+    "path": "texts/gutenberg/pg1658-phaedo.epub",
+    "bytes": 143780,
+    "sha256": "51056980fb5900d7aa17b38209891a23fd757b0f44a19bc38034e7633716b1d4"
+  },
+  {
+    "path": "texts/gutenberg/pg1658-phaedo.rdf",
+    "bytes": 19134,
+    "sha256": "94a5991bb8cb142ff511a9bb433557ed6753e00ff8b40d549ba2b79b261ba2d0"
+  },
+  {
+    "path": "texts/gutenberg/pg1658-phaedo.txt",
+    "bytes": 257103,
+    "sha256": "164533dde5628e7cd2e51442c29367a132fc470271f0d7e77a2ef06170a008ca"
+  },
+  {
+    "path": "texts/gutenberg/pg17556-sextus-empiricus-and-greek-scepticism.epub",
+    "bytes": 214569,
+    "sha256": "4cc38f55585f12615ccee1d9d127e6e1db6fac940440b70e22901afb3d7baa07"
+  },
+  {
+    "path": "texts/gutenberg/pg17556-sextus-empiricus-and-greek-scepticism.rdf",
+    "bytes": 20430,
+    "sha256": "b380ea3e1b268b39cdfc753055e93a868d8b778fc08cfdc9773a5440b29fe5af"
+  },
+  {
+    "path": "texts/gutenberg/pg17556-sextus-empiricus-and-greek-scepticism.txt",
+    "bytes": 310669,
+    "sha256": "6792b2c74cf118111fec24298f0cf2b5fdeb63c39c726d5935c831490e787cb7"
+  },
+  {
+    "path": "texts/gutenberg/pg17611-summa-theologica-part-i-prima-pars-from-the-complete-american-edition.epub",
+    "bytes": 973010,
+    "sha256": "2d6ead8e9cfbc9e55e5aea13fae1af5f7ed897d84b794eebbcc94013b8dddf25"
+  },
+  {
+    "path": "texts/gutenberg/pg17611-summa-theologica-part-i-prima-pars-from-the-complete-american-edition.rdf",
+    "bytes": 17866,
+    "sha256": "908c3153bdb7a9f0bea9be46d919ad1ba144bc806c48b0b07fb0024bc4ec0498"
+  },
+  {
+    "path": "texts/gutenberg/pg17611-summa-theologica-part-i-prima-pars-from-the-complete-american-edition.txt",
+    "bytes": 2911941,
+    "sha256": "c9443221a31768991db4bbe37e6ed035b278143a6728af64dc8ba0cf8e79154d"
+  },
+  {
+    "path": "texts/gutenberg/pg2412-the-categories.epub",
+    "bytes": 91755,
+    "sha256": "60957688d3d9ffbc965a7bb261f5f24f17d34eea97a21b656e9cdbda9277ac01"
+  },
+  {
+    "path": "texts/gutenberg/pg2412-the-categories.rdf",
+    "bytes": 20246,
+    "sha256": "65dfa48a088750f88a132dc09378437408d8a16eade7d05793b8d09dc184dd7e"
+  },
+  {
+    "path": "texts/gutenberg/pg2412-the-categories.txt",
+    "bytes": 103373,
+    "sha256": "6f72c36779ee90b0687e2f594cffbc80886d531b8c2043fa88a303ad03a68e54"
+  },
+  {
+    "path": "texts/gutenberg/pg3207-leviathan.epub",
+    "bytes": 860415,
+    "sha256": "b8d0c47987aa9c7ffc7443e25a9e7b020346097dffe45d5022ee50f3362f7abb"
+  },
+  {
+    "path": "texts/gutenberg/pg3207-leviathan.rdf",
+    "bytes": 16330,
+    "sha256": "ea2648dd167e1b8c172967142be0a76290762f57299f17ead730f8b414e4e1ba"
+  },
+  {
+    "path": "texts/gutenberg/pg3207-leviathan.txt",
+    "bytes": 1254939,
+    "sha256": "3de1e492641d939567a8b0de827fb13e1ad992324f9ac8b204f60475009b7294"
+  },
+  {
+    "path": "texts/gutenberg/pg3296-the-confessions-of-st-augustine.epub",
+    "bytes": 458083,
+    "sha256": "3c612ed454f657752d35b75a33ee697780522426d8ad41ef0f1b9e0924d6e291"
+  },
+  {
+    "path": "texts/gutenberg/pg3296-the-confessions-of-st-augustine.rdf",
+    "bytes": 20808,
+    "sha256": "8efb54c2a47f74f05ca5c88360936d3ee3e8f51f468d068c878d968137c46410"
+  },
+  {
+    "path": "texts/gutenberg/pg3296-the-confessions-of-st-augustine.txt",
+    "bytes": 632170,
+    "sha256": "ef3fa6267968c875def9091a1882d14b525a85bbf6996a3e2f130a775b2e22d2"
+  },
+  {
+    "path": "texts/gutenberg/pg3420-a-vindication-of-the-rights-of-woman-with-strictures-on-political-and-moral-subjects.epub",
+    "bytes": 301792,
+    "sha256": "0a63e495fb76075565a47619c7dca5b157d9523fe1f751c989e1e44c2ff3880a"
+  },
+  {
+    "path": "texts/gutenberg/pg3420-a-vindication-of-the-rights-of-woman-with-strictures-on-political-and-moral-subjects.rdf",
+    "bytes": 18405,
+    "sha256": "43db6e33a6a25f8f633b221158556f5c4719fab65659f10e0a3211959ee020a0"
+  },
+  {
+    "path": "texts/gutenberg/pg3420-a-vindication-of-the-rights-of-woman-with-strictures-on-political-and-moral-subjects.txt",
+    "bytes": 538225,
+    "sha256": "7d79652f43541759d8ff0ce467372fa4a534d3f9dc32013e01ca99ea04b286a8"
+  },
+  {
+    "path": "texts/gutenberg/pg34901-on-liberty.epub",
+    "bytes": 194234,
+    "sha256": "40f82f6fd2e6a4c2ab7a9ed248ab40840feb4cdc652dc56c1d6e468a9e165ab6"
+  },
+  {
+    "path": "texts/gutenberg/pg34901-on-liberty.rdf",
+    "bytes": 19737,
+    "sha256": "598ec2d4c282bfebcf81b9223f32e80db43e45fefbb3b93991543a4fe1f3a432"
+  },
+  {
+    "path": "texts/gutenberg/pg34901-on-liberty.txt",
+    "bytes": 331159,
+    "sha256": "fad90451253e40190995748ed5d5b60b48b0881cd1a37fa705e471bc628b36ca"
+  },
+  {
+    "path": "texts/gutenberg/pg3800-ethics.epub",
+    "bytes": 225785,
+    "sha256": "be49324b75b9d942991dc692c3951af9a20ad9239bb54b247c2620dd9fdedc16"
+  },
+  {
+    "path": "texts/gutenberg/pg3800-ethics.rdf",
+    "bytes": 20200,
+    "sha256": "cf8516d06ff416a618f5a0a9e83ea89bcdb4a8ec9f27821b6040f915027f0c23"
+  },
+  {
+    "path": "texts/gutenberg/pg3800-ethics.txt",
+    "bytes": 531667,
+    "sha256": "c549e5146cc820899acbed30f9c4e28e7bb8cd26046a98a977800ae62f856214"
+  },
+  {
+    "path": "texts/gutenberg/pg408-the-souls-of-black-folk.epub",
+    "bytes": 2204259,
+    "sha256": "4341595ab2680a92e84205046ca6a41fe9784865b6e972f31be232207a59503e"
+  },
+  {
+    "path": "texts/gutenberg/pg408-the-souls-of-black-folk.rdf",
+    "bytes": 18729,
+    "sha256": "56e175cb5a42eb87724c5ec97331812c96fc81d027c8da086d45cd647fa203aa"
+  },
+  {
+    "path": "texts/gutenberg/pg408-the-souls-of-black-folk.txt",
+    "bytes": 428742,
+    "sha256": "87f8e832484792b761a510b953d67e3835fa46a9f4231a508bfeb914a98559ca"
+  },
+  {
+    "path": "texts/gutenberg/pg4280-the-critique-of-pure-reason.epub",
+    "bytes": 628351,
+    "sha256": "ba382b7285553e765cb86e569bb2bf9cc12300b275612d19b3ae7b2d2635a1b7"
+  },
+  {
+    "path": "texts/gutenberg/pg4280-the-critique-of-pure-reason.rdf",
+    "bytes": 17238,
+    "sha256": "5e73e315423d057039132b2d471d5d807aee33308037fd10bfe4dc71d7bde5c0"
+  },
+  {
+    "path": "texts/gutenberg/pg4280-the-critique-of-pure-reason.txt",
+    "bytes": 1315283,
+    "sha256": "9e44b1bc6042da4aeb669d4f3f585037a5488a2908e7ec225f9431c43f6720fc"
+  },
+  {
+    "path": "texts/gutenberg/pg46333-the-social-contract-discourses.epub",
+    "bytes": 510399,
+    "sha256": "c354e06e7cc802515aad78fee897c2e1d0b75e24c368d888ef9b89fb56b10835"
+  },
+  {
+    "path": "texts/gutenberg/pg46333-the-social-contract-discourses.rdf",
+    "bytes": 17904,
+    "sha256": "3e0a4be3429159d6443fdd20cd0727cede9ff7b58ba25f7059c83f3ff6d86ecd"
+  },
+  {
+    "path": "texts/gutenberg/pg46333-the-social-contract-discourses.txt",
+    "bytes": 741997,
+    "sha256": "65b006fe7288b2dd82c7c32f5b4c0fdd392407c3bc04ae8c822ea8f8723603de"
+  },
+  {
+    "path": "texts/gutenberg/pg4705-a-treatise-of-human-nature.epub",
+    "bytes": 651797,
+    "sha256": "b9778d91a5985b5c3611862f07feabc2fcd8dcc604ee35a18e4230a1f7fc129f"
+  },
+  {
+    "path": "texts/gutenberg/pg4705-a-treatise-of-human-nature.rdf",
+    "bytes": 15463,
+    "sha256": "91d3bf9d78a1388aec77282a01f8833ac9592acf8760a9e02561f632abe6d637"
+  },
+  {
+    "path": "texts/gutenberg/pg4705-a-treatise-of-human-nature.txt",
+    "bytes": 1365602,
+    "sha256": "9ff6a457b5b72d6e32e6159c2a6b2bf830efa914b213630fac2bbaaaf045b979"
+  },
+  {
+    "path": "texts/gutenberg/pg4723-a-treatise-concerning-the-principles-of-human-knowledge.epub",
+    "bytes": 173325,
+    "sha256": "3f5b9de4251500f6a647a6b62b8320fabbfc5a03adaeb3e8a57b41fcf09a2ced"
+  },
+  {
+    "path": "texts/gutenberg/pg4723-a-treatise-concerning-the-principles-of-human-knowledge.rdf",
+    "bytes": 18123,
+    "sha256": "83fc452fefe6227a4c1cb99f8e1e370dfe996308fa5f72dacfa72f7f5c6a4e1c"
+  },
+  {
+    "path": "texts/gutenberg/pg4723-a-treatise-concerning-the-principles-of-human-knowledge.txt",
+    "bytes": 236260,
+    "sha256": "ba577d0e3437d92faeb6fedc01715e4703ee8ae3f94b4ccb0eb5c772508c3f93"
+  },
+  {
+    "path": "texts/gutenberg/pg48433-kant-s-critique-of-judgement.epub",
+    "bytes": 484649,
+    "sha256": "d5ea168ed058fc50bac0384ccf7a2f5b8bb4498f734f13e3e1290fa12278ff7f"
+  },
+  {
+    "path": "texts/gutenberg/pg48433-kant-s-critique-of-judgement.rdf",
+    "bytes": 17130,
+    "sha256": "8c93525b0d588cfe97790531ebc54562515081731f26ca9c1bfa4669dcef59c3"
+  },
+  {
+    "path": "texts/gutenberg/pg48433-kant-s-critique-of-judgement.txt",
+    "bytes": 845337,
+    "sha256": "8d20df25db82ec09363944c9ab0ecc396de5d478d30da2f9643d9272bd7227e3"
+  },
+  {
+    "path": "texts/gutenberg/pg52319-the-genealogy-of-morals-the-complete-works-volume-thirteen-edited-by-dr-oscar-levy.epub",
+    "bytes": 251015,
+    "sha256": "a77c9e2ff0e1bcc3ef7228d7d9ebdbe8a327ed2963e8a3794c156d767169879f"
+  },
+  {
+    "path": "texts/gutenberg/pg52319-the-genealogy-of-morals-the-complete-works-volume-thirteen-edited-by-dr-oscar-levy.rdf",
+    "bytes": 17280,
+    "sha256": "8ca76a68a02e3f922f08a970513ac094f79e2efda914714d5cb34609fe6fac1d"
+  },
+  {
+    "path": "texts/gutenberg/pg52319-the-genealogy-of-morals-the-complete-works-volume-thirteen-edited-by-dr-oscar-levy.txt",
+    "bytes": 358579,
+    "sha256": "90ab67b3c15fb8a4220f36b559514098e33f43d58e4403405575949c039c1cba"
+  },
+  {
+    "path": "texts/gutenberg/pg52821-kant-s-prolegomena-to-any-future-metaphysics.epub",
+    "bytes": 199205,
+    "sha256": "bf5499c3765d45c6c78104982289ce68a20e488dff66ec69cafec05994492657"
+  },
+  {
+    "path": "texts/gutenberg/pg52821-kant-s-prolegomena-to-any-future-metaphysics.rdf",
+    "bytes": 16511,
+    "sha256": "3062354eff2e312ba8ca0d4e8fb1885f1335f8c7df83420ba53488a7184d35ce"
+  },
+  {
+    "path": "texts/gutenberg/pg52821-kant-s-prolegomena-to-any-future-metaphysics.txt",
+    "bytes": 316087,
+    "sha256": "8f3f0e6fe4a86918d2d734245d0f186ac3db4d2bda6260a845583a95652f9355"
+  },
+  {
+    "path": "texts/gutenberg/pg53430-principia-ethica.epub",
+    "bytes": 304648,
+    "sha256": "b6394e67f7f6a89e6e00a91a97a03511634f2960a4e2ede8de17228948ff9d84"
+  },
+  {
+    "path": "texts/gutenberg/pg53430-principia-ethica.rdf",
+    "bytes": 15398,
+    "sha256": "0dcc296a556fb2b263ba95035149b462937514ace1b24f64ed40c41177da759b"
+  },
+  {
+    "path": "texts/gutenberg/pg53430-principia-ethica.txt",
+    "bytes": 610983,
+    "sha256": "38b1a7bf5b987ef58fd757fe50f8f6f2afeb31af297bad0d03d455bdd9e2013d"
+  },
+  {
+    "path": "texts/gutenberg/pg5682-fundamental-principles-of-the-metaphysic-of-morals.epub",
+    "bytes": 150778,
+    "sha256": "38425f48ff4001078ab75517c386cfb67345fee3b8f53b938b5bfca2520539f5"
+  },
+  {
+    "path": "texts/gutenberg/pg5682-fundamental-principles-of-the-metaphysic-of-morals.rdf",
+    "bytes": 17126,
+    "sha256": "505a84989f956b23f455214f61cd228f168341eeb2c48ef7c161e1c8636aee2d"
+  },
+  {
+    "path": "texts/gutenberg/pg5682-fundamental-principles-of-the-metaphysic-of-morals.txt",
+    "bytes": 199747,
+    "sha256": "a4dfea90e9dc394871bcae6069025d16b3990f83ed5f17b5a00eef0651e84758"
+  },
+  {
+    "path": "texts/gutenberg/pg57342-the-lives-and-opinions-of-eminent-philosophers.epub",
+    "bytes": 552759,
+    "sha256": "0f2faf2c7d534ba12baf50e70c3e5dddb243ac3eb5f64f336b1de414450104b3"
+  },
+  {
+    "path": "texts/gutenberg/pg57342-the-lives-and-opinions-of-eminent-philosophers.rdf",
+    "bytes": 18427,
+    "sha256": "a80b646fcb32f61c9ddfd026f0882e9c7fea5b802fb7c767e9424c3c4d53e826"
+  },
+  {
+    "path": "texts/gutenberg/pg57342-the-lives-and-opinions-of-eminent-philosophers.txt",
+    "bytes": 1154825,
+    "sha256": "0176dd702dfcc4a11d355475cab857f2a521a72dc316ecd8921ef12a0495c5a1"
+  },
+  {
+    "path": "texts/gutenberg/pg60333-selections-from-the-writings-of-kierkegaard.epub",
+    "bytes": 379892,
+    "sha256": "74182ad9785976f8cc5e6a1ef3e8332acb17290c96fe4f7480a69fa927125fad"
+  },
+  {
+    "path": "texts/gutenberg/pg60333-selections-from-the-writings-of-kierkegaard.rdf",
+    "bytes": 18215,
+    "sha256": "fa33c7c8cc4161c50f425eb3d9fed4e4fcb727a09e43a558acdd2bb2f99071f9"
+  },
+  {
+    "path": "texts/gutenberg/pg60333-selections-from-the-writings-of-kierkegaard.txt",
+    "bytes": 507708,
+    "sha256": "0e6173d49710553f7864db96aac7870d7016320d4b0c7f0f29bba414ecfb5cfc"
+  },
+  {
+    "path": "texts/gutenberg/pg7370-second-treatise-of-government.epub",
+    "bytes": 212484,
+    "sha256": "e0763b2ac7c02194923f8434b4f022dd4e52699d5af1fb3ee826b7ccace225c1"
+  },
+  {
+    "path": "texts/gutenberg/pg7370-second-treatise-of-government.rdf",
+    "bytes": 18932,
+    "sha256": "35413e6e1c50d8afe9c9f71270f443752fd679f79ccbafe9681ac839ef313dcd"
+  },
+  {
+    "path": "texts/gutenberg/pg7370-second-treatise-of-government.txt",
+    "bytes": 339004,
+    "sha256": "3cd2baa0523ce2f5555576bf5af9079a887a497417a3217b61bc86ab12d543bb"
+  },
+  {
+    "path": "texts/gutenberg/pg8438-the-nicomachean-ethics-of-aristotle.epub",
+    "bytes": 463258,
+    "sha256": "abaad0f5550e0ddbd03c5da268db78544c01a47d75ebc49f6eb87517e63e7748"
+  },
+  {
+    "path": "texts/gutenberg/pg8438-the-nicomachean-ethics-of-aristotle.rdf",
+    "bytes": 19470,
+    "sha256": "d479cd245bceec047c6c6b8eb97a874bcc4a7733254d93b323310f5475dac44a"
+  },
+  {
+    "path": "texts/gutenberg/pg8438-the-nicomachean-ethics-of-aristotle.txt",
+    "bytes": 671555,
+    "sha256": "a68264a6537bb58b899ed68e25d1c7d8ea1bcb3e9544b4d1b464f74d99c3d059"
+  },
+  {
+    "path": "texts/gutenberg/pg9662-an-enquiry-concerning-human-understanding.epub",
+    "bytes": 238862,
+    "sha256": "5a831c269936cf997cf5f016a02d8a3bf46c72299d77a54fecbfb5abb4303acb"
+  },
+  {
+    "path": "texts/gutenberg/pg9662-an-enquiry-concerning-human-understanding.rdf",
+    "bytes": 20741,
+    "sha256": "648f24ec31f31a61447878800a00048b0955e70f8d7647ed8e39b17ba7b5a8df"
+  },
+  {
+    "path": "texts/gutenberg/pg9662-an-enquiry-concerning-human-understanding.txt",
+    "bytes": 373357,
+    "sha256": "647459bc720d0fe09f85ac17b8d7edc2557ff89ba4467151407a4d48228be2cb"
+  },
+  {
+    "path": "texts/introduction_logic/README.md",
+    "bytes": 4433,
+    "sha256": "72434aeab7400aaabccc2fe0c9e9bfa02533d70adc906b0e4899af6610751408"
+  },
+  {
+    "path": "texts/introduction_logic/optional/pryor_writing_guidelines.html",
+    "bytes": 46941,
+    "sha256": "a637929994ef4a8f890938ca8325b5e45f22b2d422cd89df0944d02c19e05c2f"
+  },
+  {
+    "path": "texts/introduction_logic/required/descartes_veitch_1912_fulltext.txt",
+    "bytes": 699755,
+    "sha256": "36db9475f3912ee5568762d5712985d01025b1828cf0346b29e6504fb9c04e29"
+  },
+  {
+    "path": "texts/introduction_logic/required/descartes_veitch_1912_meditations_I-VI.pdf",
+    "bytes": 4827705,
+    "sha256": "c83173fe51450b886f9e42f269663d8368644e32adcefd31ead01809e7283eac"
+  },
+  {
+    "path": "texts/introduction_logic/required/forallx_calgary_textbook.pdf",
+    "bytes": 1561563,
+    "sha256": "9eca9e08ad6380b00a783536f8a16abc94d13d9561f05baa7fc0a2b762e48ef0"
+  },
+  {
+    "path": "texts/introduction_logic/required/gettier_bilingual_disputatio_2013.pdf",
+    "bytes": 282591,
+    "sha256": "ae16a1a569ee4f6b573e307cafefe151e88b227bac35d0f0131b49139ef669fc"
+  },
+  {
+    "path": "texts/introduction_logic/required/singer_famine_affluence_morality_1972.pdf",
+    "bytes": 1736659,
+    "sha256": "1ac82f8e9c6fbb8f75e5dd5d910514b080860dc026bf205042e1209be11a0486"
+  },
+  {
+    "path": "texts/introduction_logic/solutions/forallx_calgary_solutions.pdf",
+    "bytes": 468160,
+    "sha256": "dc435f02bc0beffc37fef26154999bcf3bb690e2d4a3d79033b5dcebbd0911e7"
+  },
+  {
+    "path": "texts/modern_articles/chalmers-1995-facing-up.html",
+    "bytes": 81434,
+    "sha256": "83834627a52bab7c6f06f95879cfa43255da83c045583fe0683bed77c5a675cb"
+  },
+  {
+    "path": "texts/modern_articles/chalmers-1995-facing-up.txt",
+    "bytes": 77117,
+    "sha256": "819717059e5f8696571fdc13b7c7851b7886b3468ae482bc3e06a26b0334c658"
+  },
+  {
+    "path": "texts/modern_articles/danto-1964-artworld-wiley-2019-reprint.pdf",
+    "bytes": 510716,
+    "sha256": "b17a0d684ca339687be3e25c5dca73c6e9470ec2e4528dcb39fada4028134168"
+  },
+  {
+    "path": "texts/modern_articles/danto-1964-artworld-wiley-2019-reprint.txt",
+    "bytes": 43346,
+    "sha256": "9c7784e4adac980d83e240ff7206418399da4674d37a98af757283868571ef9f"
+  },
+  {
+    "path": "texts/modern_articles/frege-1892-uber-sinn-und-bedeutung-de.txt",
+    "bytes": 74868,
+    "sha256": "b0d13ca829291e3daa9845f5176f57bbbaeb04d2b5a4f81fef652532e9253be1"
+  },
+  {
+    "path": "texts/modern_articles/frege-1892-uber-sinn-und-bedeutung-de.xml",
+    "bytes": 101188,
+    "sha256": "a86882bd42d7da3120b7e89f02e88413696c8598d289c1758552c53dfd8f05d0"
+  },
+  {
+    "path": "texts/modern_articles/lewis-1988-what-experience-teaches.pdf",
+    "bytes": 452594,
+    "sha256": "f8989190cc503734772d93cc25c19d5ac13d7e06421cab606bf3513ba0cd3996"
+  },
+  {
+    "path": "texts/modern_articles/lewis-1988-what-experience-teaches.txt",
+    "bytes": 71047,
+    "sha256": "e90d2ffd731bd2e15bf75e750c1ffb5c68d6d43da36906555bc101a04ba5c7d3"
+  },
+  {
+    "path": "texts/modern_articles/place-1956-is-consciousness-a-brain-process.pdf",
+    "bytes": 63855,
+    "sha256": "c50278cd24a0c3ab2c245ba62f6688e481fa1e0895b6001c2a1a1bdd488cae40"
+  },
+  {
+    "path": "texts/modern_articles/place-1956-is-consciousness-a-brain-process.txt",
+    "bytes": 27167,
+    "sha256": "0758e49381cd745a8d65108bb09375c21f1abe472308340e4cdb19519a4436e6"
+  },
+  {
+    "path": "texts/modern_articles/russell-1905-on-denoting.txt",
+    "bytes": 36794,
+    "sha256": "7eb719a61712f8b87638f6c6eaf90ee46c683410b0828d809fff73c0b0de0c1a"
+  },
+  {
+    "path": "texts/recovered_articles/READ_ME.txt",
+    "bytes": 1095,
+    "sha256": "440ca1151f8db6e3e71ccac4489755bd869350fe4cce24813f7dceb05ba29d30"
+  },
+  {
+    "path": "texts/recovered_articles/bonjour.pdf",
+    "bytes": 1381254,
+    "sha256": "bbff50913b8a8bef960c00101415029ad112a761c7e334d64d99b04968d18a8c"
+  },
+  {
+    "path": "texts/recovered_articles/derose_solving_author_reprint.pdf",
+    "bytes": 363366,
+    "sha256": "427d18ee838a9e97b99f40b79258c04db2b527415e685abb9d29c7864a34387e"
+  },
+  {
+    "path": "texts/recovered_articles/frankfurt.pdf",
+    "bytes": 1138957,
+    "sha256": "a03109b54b6bd14d34fbc879a6f5c45a38917aa923fc6770ca07fbaf6a19f879"
+  },
+  {
+    "path": "texts/recovered_articles/goldman.pdf",
+    "bytes": 1788191,
+    "sha256": "e3bf34b348fd8c126732aea23249db16cddc97e5990194182fa68ead97099475"
+  },
+  {
+    "path": "texts/recovered_articles/grice.pdf",
+    "bytes": 2334430,
+    "sha256": "550d65e873f143f2c40edae178e5f09134536a19acae898c53c76a2b3e6142d7"
+  },
+  {
+    "path": "texts/recovered_articles/lewis_causation.pdf",
+    "bytes": 217205,
+    "sha256": "672e41332f4c46ee1867b71b2488cc779c30e25c03a98538b7483903df8e924f"
+  },
+  {
+    "path": "texts/recovered_articles/moore.html",
+    "bytes": 66070,
+    "sha256": "623459106ae4b0a99e61e1321dad72fe0cc1aac05c11377ebac21fcd08885a80"
+  },
+  {
+    "path": "texts/recovered_articles/putnam_meaning_portable_part1_of3.pdf",
+    "bytes": 5934212,
+    "sha256": "6fd296f30a89adad40485728c8b38fee82aacf4644cbcac471e655ce6e2166c1"
+  },
+  {
+    "path": "texts/recovered_articles/putnam_meaning_portable_part2_of3.pdf",
+    "bytes": 5965382,
+    "sha256": "410a4a4ea9ef1855d9dc72cb498465083bbbfb72c1d03efa92a11adaade14e65"
+  },
+  {
+    "path": "texts/recovered_articles/putnam_meaning_portable_part3_of3.pdf",
+    "bytes": 5404721,
+    "sha256": "0a4c1cb8579b84bb8b57dfaa3e1a6eff98d78f6f1d2cadda21c2f58c676528a2"
+  },
+  {
+    "path": "texts/recovered_articles/quine_two_dogmas.pdf",
+    "bytes": 451593,
+    "sha256": "02b2c4e61fa10c94232031d5a1b60be0319f3b5d7c0b8a719683855ad6d1e205"
+  },
+  {
+    "path": "texts/recovered_articles/quine_what_there_is.pdf",
+    "bytes": 1937490,
+    "sha256": "8292c77763144acd075de870e4f59f3787fc2333d44959b77fb0303d99ba71a9"
+  },
+  {
+    "path": "texts/recovered_articles/strawson.pdf",
+    "bytes": 638496,
+    "sha256": "d70efc8eebdd6b931605d93450852165a56442d5c531b34346a4781e72a7fafd"
+  },
+  {
+    "path": "texts/recovered_articles/van_inwagen.pdf",
+    "bytes": 838915,
+    "sha256": "9673651ec0301b1c3cb0032f58f67a5097edd70fd255d03886fa756cae6b733d"
+  },
+  {
+    "path": "texts/recovered_articles/zagzebski.pdf",
+    "bytes": 816071,
+    "sha256": "7030cd1b8306bca12c0c2523f80445fbf700f89f011376be2208efd8f5a82217"
+  },
+  {
+    "path": "texts/recovered_mind/READ_ME_PRIVATE_STUDY.txt",
+    "bytes": 5788,
+    "sha256": "b6a3891fa1543072104ee7504c28e569b7a5f5c466c85e229d4d6c3bb3a93e7f"
+  },
+  {
+    "path": "texts/recovered_mind/jackson_1982_epiphenomenal_qualia.pdf",
+    "bytes": 894877,
+    "sha256": "da19793f7f283213fd07e63066255daa2f05a71dca9fb244c91321f16a90de4b"
+  },
+  {
+    "path": "texts/recovered_mind/nagel_1974_what_is_it_like_to_be_a_bat.pdf",
+    "bytes": 1278606,
+    "sha256": "1217bc72fc5a2ffbbb95c852319ae29c8f674b288c27725c74db48ef161f2ee4"
+  },
+  {
+    "path": "texts/recovered_mind/putnam_1967_the_nature_of_mental_states.pdf",
+    "bytes": 1397007,
+    "sha256": "991f09406977575ce0081814860348cc99221c504ceed02ad6aafda296262373"
+  },
+  {
+    "path": "texts/recovered_mind/searle_1980_minds_brains_programs.pdf",
+    "bytes": 4072628,
+    "sha256": "f330bf932d310f00016d9d18a26b806c579ed1c6ca16ec669694fddc8967a0ff"
+  },
+  {
+    "path": "texts/recovered_mind/smart_1959_sensations_and_brain_processes.pdf",
+    "bytes": 357506,
+    "sha256": "d78ea41a1fe2c65be647f7ec4ef1456dc43d880a6706976c12f6e5ba550e4257"
+  },
+  {
+    "path": "texts/recovered_mind/turing_1950_computing_machinery_and_intelligence.pdf",
+    "bytes": 723184,
+    "sha256": "f2d8540600ca8a94897ce7eaf35d99d336d4b39191fee4481696487c2369b3b4"
+  },
+  {
+    "path": "texts/recovered_mind/walton_1970_categories_of_art.pdf",
+    "bytes": 2667127,
+    "sha256": "a03c964f28774ecb5d7030eefd95fe346d5762440915eae72614fc763d287357"
+  },
+  {
+    "path": "texts/recovered_mind/weitz_1956_role_of_theory_in_aesthetics.pdf",
+    "bytes": 298211,
+    "sha256": "198ee3113e2ee412d0f17b65c3ffc8832f340c2c0dac8a553246c931a2d92662"
+  }
+]

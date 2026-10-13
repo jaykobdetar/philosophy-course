@@ -14,7 +14,7 @@ The current course version is `2026-10-13-r0`. The conversion preserves the comp
 
 Read the [program guide](program.md) for prerequisites, pacing, routes, and evidence rules. The default route has Courses 11A, 12A, and 13A. Alternative options remain explicit; no choice is required to begin.
 
-The [stopping milestones](milestones.md) state which outcome evidence supports an interim completion claim and what remains on return.
+The [stopping milestones](milestones.md) state which outcome evidence supports an interim completion claim and what remains on return. The [direct route options](route-options.md) list the combinations that meet the preserved prerequisites without another course.
 
 | Course | Current page | Course | Current page |
 | --- | --- | --- | --- |
@@ -33,6 +33,7 @@ The [stopping milestones](milestones.md) state which outcome evidence supports a
 - [Assessment blueprints and operational rubric](assessment.md)
 - [Reading access and edition crosswalk](access.md)
 - [Checked source corrections and unresolved later access](readiness/source-corrections.md)
+- [Later reading acquisition backlog](readiness/later-backlog.md) — candidates only; later packets are not released
 - [Research and review record](review-record.md)
 
 The 1,890-hour default and 1,270-hour common-core figures in these converted pages are **source baselines**. The unified plan's proposed additions do not yet have one verified revised total. Use the [workload ledger](../data/workload.json) for scoped changes; do not add an unverified headline total.

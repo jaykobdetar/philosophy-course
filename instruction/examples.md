@@ -19,3 +19,5 @@ These are **constructed teaching examples**, not real student submissions. They 
 “Euthyphro's prosecution is one proposed pious act; Socrates asks for a general account, so citing the prosecution alone may not answer his question.” This is supported by the marked dialogue around 4b–6e. A stronger paragraph would identify the exact exchange and consider whether Euthyphro also offers a principle. It should not pretend a modern ethics theory is settled by the opening example.
 
 **Calibration:** Compare one developing and one stronger example by naming the exact criterion, one textual or inferential support, and one remaining limitation. A tutor and learner may disagree about the policy or interpretation while agreeing on the evidence standard. Use the [feedback-challenge procedure](tutor.md#feedback-and-challenge) if a criterion judgment lacks support.
+
+The [constructed evidence cycle](constructed-evidence-cycle.md) follows an untouched attempt through feedback, revision, changed-case checks and a review challenge. It is fictional and supplies no learner-pilot evidence.

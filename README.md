@@ -10,13 +10,13 @@ The Markdown pages in [current/](current/README.md) are the editable curriculum 
 
 The current default route is writing-first, then logic and the core courses, one global-tradition option, one selected area, an advanced seminar, and a capstone. The source baseline estimates 1,890 focused hours for the default route and 1,270 through Course 10; proposed additions and bridges do **not** yet have a verified route-wide total. The program awards no credit or external certification.
 
-The [stopping and continuation milestones](current/milestones.md) describe what each checkpoint actually demonstrates. [Optional listening](instruction/audio-handoff.md) has a short text-check handoff; every essential task has a written route.
+The [stopping and continuation milestones](current/milestones.md) describe what each checkpoint actually demonstrates. [Direct route options](current/route-options.md) list prerequisite-compatible combinations and their source-baseline hours. [Optional listening](instruction/audio-handoff.md) has a short text-check handoff; every essential task has a written route.
 
 ## Files and rights
 
 - [Source packages](source-packages/) preserve the 14 numbered ZIPs, earlier standalone packs, and separate retrieval-tool source. Bundled workflows are archived, not installed as this repository's CI.
 - [Collection](collection/philosophy-study-collection/) holds the extracted private-study reading library. Many third-party readings and audio have no general redistribution permission; the [manifest](philosophy-materials-manifest.txt) and [access gaps](philosophy-access-gaps.txt) describe individual sources and missing material. Keep this repository private. No whole-collection license is asserted.
 - [Data](data/course.json) records current reading IDs, editions, assets and bounded opening assignments. [Workload](data/workload.json) records baseline and scoped changes. A future distributable build must use a rights allowlist and exclude restricted readings and private learner work.
-- [Unified plan](implementation/UNIFIED_PLAN.md), [implementation status](implementation/STATUS.md), [decisions](implementation/DECISIONS.md), and [maintenance procedure](implementation/MAINTENANCE.md) explain scope and limits. Run `python3 scripts/check_course.py` in a clean checkout to check current links, identifiers, hours, and generated views.
+- [Unified plan](implementation/UNIFIED_PLAN.md), [implementation status](implementation/STATUS.md), [PC-by-PC register](implementation/TASK_REGISTER.md), [decisions](implementation/DECISIONS.md), and [maintenance procedure](implementation/MAINTENANCE.md) explain scope and limits. Run `python3 scripts/check_course.py` in a clean checkout to check current links, identifiers, hours, and generated views.
 
 Personal work goes in the ignored `learner/` directory. The repository's old source and original packages remain recoverable in Git history; do not publish or share the private reading collection as an anthology.

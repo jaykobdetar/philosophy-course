@@ -29,3 +29,17 @@
 - **Source:** Local Gutenberg 17556 and 17611 TXT files; local Descartes filenames; revised DOCX Course 1 and Course 4; archived manifest rows CAT-005, 012, 015, 017 and 023. Wittgenstein replacement URL remains unverified.
 - **Task/assessment/budget:** No new required reading or hour change. Aquinas objection/reply is inside the already assigned article; Patrick is not substituted for Annas/Barnes.
 - **Validation:** Local file headings and relevant article boundaries inspected. Future-source access remains pending before later packet release.
+
+## 2026-10-13 — PC-03, PC-07, PC-09, PC-37 and PC-44 — Prerequisites and opening inference source
+
+- **Decision:** Reconcile structured course prerequisites with the preserved prose, including Course 2's module-level entry, Course 5 induction before Course 10, and the general Course 11/12 gates for each seminar. Generate the seven directly compatible option routes and check their source-baseline hours. Correct Course 1 Session 3 to OpenStax 5.4 for deductive validity and give a separate soundness explanation grounded in *forall x: Calgary* chapter 2 §2.4.
+- **Scope:** Source-baseline route model and opening Session 3; later routes still require source and workload verification before release.
+- **Source:** September 30 DOCX and OpenStax 5.4, inspected 2026-10-13; local *forall x: Calgary* Fall 2025 revision `c5cb415`.
+- **Task/assessment/budget:** The Session 3 reading changes within its existing 90-minute session. No change to the 1,890-hour source baseline or the PC-31 net-zero allocation. Measured learner time is pending.
+- **Validation:** `scripts/check_course.py` checks route compatibility, option hours, bounded opening locators and conversion preservation.
+
+## 2026-10-13 — PC-02, PC-03, PC-42 and PC-43 — Legacy HTML migration
+
+- **Decision:** Add a prominent current-course notice to START_HERE and all thirteen PART HTML entry points; replace the stale private Library download link in START_HERE. Keep full original HTML bytes and original checksum manifest in `archive/legacy-html-originals/`, along with the unchanged source ZIPs in Git history.
+- **Scope:** Entry-point migration within the private repository, no public distribution or history rewrite.
+- **Validation:** All 214 active collection checksum entries match after the edit; archived START_HERE matches original SHA-256 `982ceebdd367a7c5c7d22085450e174d385e6b0782dc09ebc874371cbc19b2fe`.

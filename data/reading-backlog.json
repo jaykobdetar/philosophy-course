@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "purpose": "Preserved-curriculum reading candidates beyond the verified opening; none is released as a packet by this file",
+  "records": [
+    {
+      "id": "LATER-C01-APOLOG", "course_id": "C01", "work": "Plato, Apology", "edition": "Jowett adaptation, Center for Hellenic Studies", "range": "17a–42a, complete dialogue", "access_url": "https://www-current.chs.harvard.edu/primary-source/plato-the-apology-of-socrates-sb/", "legacy_cat_id": "CAT-001", "readiness": "locator-and-access-recheck-before-module", "rights": "link-only; host terms and exact translation credits to verify", "quality_note": "Local Jowett TXT/EPUB lacks printed Stephanus markers", "source_page": "current/courses/01.md"
+    },
+    {
+      "id": "LATER-C01-MENO", "course_id": "C01", "work": "Plato, Meno", "edition": "Lee Perlman translation, MIT OpenCourseWare marked PDF", "range": "70a–86c, stop before 86d; 97a through the dialogue end", "access_url": "https://ocw.mit.edu/courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/dacf28712c74d94ae88a474376a61cf0_MITES_113S16_Meno.pdf", "legacy_cat_id": "CAT-001", "readiness": "locator-and-access-recheck-before-module", "rights": "link-only; PDF terms to verify", "quality_note": "Local Jowett text lacks printed Stephanus markers", "source_page": "current/courses/01.md"
+    },
+    {
+      "id": "LATER-C01-DESC", "course_id": "C01", "work": "Descartes, Meditations on First Philosophy", "edition": "Local John Veitch 1912 provisional translation", "range": "Meditations I–II; assigned scholarly range AT VII 17–34", "local_path": "collection/philosophy-study-collection/texts/introduction_logic/required/descartes_veitch_1912_meditations_I-VI.pdf", "legacy_cat_id": "CAT-002", "readiness": "partial-nonmatching-locators", "rights": "private-study copy; reassess before redistribution", "quality_note": "AT VII page correspondence not printed in local Veitch edition", "source_page": "current/courses/01.md"
+    },
+    {
+      "id": "LATER-C01-GETTIER", "course_id": "C01", "work": "Gettier, Is Justified True Belief Knowledge?", "edition": "1963 Analysis 23, pp. 121–123; local bilingual reprint requires exact edition check", "range": "whole three-page article, both cases", "local_path": "collection/philosophy-study-collection/texts/introduction_logic/required/gettier_bilingual_disputatio_2013.pdf", "legacy_cat_id": "CAT-003", "readiness": "edition-and-locator-recheck-before-module", "rights": "third-party article, private-study copy; no redistribution asserted", "quality_note": "Do not cite reprint pages as original 1963 pages without concordance", "source_page": "current/courses/01.md"
+    },
+    {
+      "id": "LATER-C01-SINGER", "course_id": "C01", "work": "Singer, Famine, Affluence, and Morality", "edition": "1972 Philosophy and Public Affairs 1", "range": "whole article, original pp. 229–243", "local_path": "collection/philosophy-study-collection/texts/introduction_logic/required/singer_famine_affluence_morality_1972.pdf", "legacy_cat_id": "CAT-004", "readiness": "locator-and-quality-recheck-before-module", "rights": "third-party article, private-study copy; no redistribution asserted", "quality_note": "1972 article, without later postscript", "source_page": "current/courses/01.md"
+    },
+    {
+      "id": "LATER-C01-PRYOR", "course_id": "C01", "work": "Jim Pryor, Guidelines on Writing a Philosophy Paper", "edition": "Author web guide", "range": "whole guide at Course 1 writing stages", "access_url": "https://www.jimpryor.net/teaching/guidelines/writing.html", "legacy_cat_id": "CAT-005", "readiness": "access-recheck-before-module", "rights": "link-only; author retains terms", "quality_note": "Required in the current Course 1 writing stage although historical CAT-005 marked it optional", "source_page": "current/courses/01.md"
+    },
+    {
+      "id": "LATER-C02-FORALLX", "course_id": "C02", "work": "forall x: Calgary", "edition": "Fall 2025 textbook revision c5cb415 and selected solutions revision 80a85da", "range": "Parts I–VII, chapters 1–41; selected solutions only after each attempt", "local_path": "collection/philosophy-study-collection/texts/introduction_logic/required/forallx_calgary_textbook.pdf", "legacy_cat_id": "CAT-006", "readiness": "representative-opening-checked; rest-needs-packet-check", "rights": "CC BY 4.0 per local text and solutions notices; preserve attribution", "quality_note": "Opening chapters inspected; remaining chapter/exercise concordance not yet released", "source_page": "current/courses/02.md"
+    }
+  ]
+}
