@@ -1,5 +1,7 @@
 # Finite briefs for later curriculum additions
 
+**20 October authoring update:** Completed finite packets supersede the seed estimates below where recorded in a course authoring manifest. The final route ledger will count those packets once, keep optional support separate, and state conditional overlap credits. See [authoring progress](PROGRESS_2026-10-20.md).
+
 These PC-25–33 briefs locate the [unified plan's](UNIFIED_PLAN.md) adopted directions without calling them released assignments. The [workload ledger](../data/workload.json) keeps their seeds separate from the 1,890-hour source baseline. Exact edition, range, access, task time and displaced work must be fixed before a packet becomes study-ready. The existing [course evidence grids](../current/assessment.md#outcome-evidence-grids) are the comparison point for new independent samples.
 
 | PC | Proposed location and source boundary | Finite practice and independent evidence | Work still needed |

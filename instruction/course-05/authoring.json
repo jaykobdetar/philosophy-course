@@ -1,0 +1,82 @@
+{
+  "course_number": 5,
+  "authored_on": "2026-10-20",
+  "tracks": [
+    {
+      "id": "C05",
+      "title": "Early modern philosophy",
+      "curriculum_page": "current/courses/05.md",
+      "baseline_hours": 120,
+      "readme": "instruction/course-05/README.md",
+      "outcomes": "instruction/course-05/outcomes.md",
+      "assessment": "instruction/course-05/assessment.md",
+      "examiner": "instruction/course-05/examiner-notes.md",
+      "source_audit": "instruction/course-05/source-audit.md",
+      "modules": [
+        {
+          "id": "C05-M01",
+          "path": "instruction/course-05/modules/01.md",
+          "hours": 12
+        },
+        {
+          "id": "C05-M02",
+          "path": "instruction/course-05/modules/02.md",
+          "hours": 16
+        },
+        {
+          "id": "C05-M03",
+          "path": "instruction/course-05/modules/03.md",
+          "hours": 12
+        },
+        {
+          "id": "C05-M04",
+          "path": "instruction/course-05/modules/04.md",
+          "hours": 16
+        },
+        {
+          "id": "C05-M05",
+          "path": "instruction/course-05/modules/05.md",
+          "hours": 14
+        },
+        {
+          "id": "C05-M06",
+          "path": "instruction/course-05/modules/06.md",
+          "hours": 20
+        },
+        {
+          "id": "C05-M07",
+          "path": "instruction/course-05/modules/07.md",
+          "hours": 22
+        },
+        {
+          "id": "C05-M08",
+          "path": "instruction/course-05/modules/08.md",
+          "hours": 8
+        }
+      ]
+    }
+  ],
+  "additions": [
+    {
+      "id": "C05-A30",
+      "pc_task": "PC-30",
+      "path": "instruction/course-05/additions/pc-30-evil.md",
+      "hours": 10,
+      "replaces_hours": 0,
+      "net_hours": 10,
+      "applies_to": [
+        "C05"
+      ],
+      "credit_rule": "Aquinas ST I q.2 a.3 objection 1 and reply already assigned in C04: zero duplicate hours. Hume Dialogues X–XI and response practice add ten hours; baseline remains 120."
+    }
+  ],
+  "limitations": [
+    "All eight baseline modules and PC-30 are authored; not learner-piloted or externally expert-validated.",
+    "CSM, Shapiro, Curley, Ariew/Garber, Nidditch, Dancy and Beauchamp prescribed editions remain unmatched/access-dependent; inspected alternatives are separately identified.",
+    "No invented Descartes AT crosswalk; local Veitch and Montgomery OCR quotations require page-image checks.",
+    "No reproduction permission, rendered accessibility validation or new tutor calibration claimed.",
+    "Source audit records sampled passages, not a complete collation of every assigned reading."
+  ],
+  "tutor": "instruction/course-05/tutor-notes.md",
+  "verification": "instruction/course-05/verification.md"
+}

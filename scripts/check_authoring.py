@@ -2,6 +2,7 @@
 """Check complete teaching coverage against the preserved curriculum modules."""
 
 import argparse
+import hashlib
 import json
 import re
 from pathlib import Path
@@ -83,14 +84,52 @@ def inspect(partial=False):
     ids = [a["id"] for a in additions]
     if len(ids) != len(set(ids)):
         errors.append("addition IDs overlap between course owners")
+    if not partial:
+        required = {
+            "PC-25": ["C07"], "PC-26": ["C07"], "PC-27": ["C06"],
+            "PC-28": ["C12A", "C12B", "C12C", "C12D"], "PC-29": ["C12A"],
+            "PC-30": ["C04", "C05"], "PC-31": ["C01", "C10"],
+            "PC-32": ["C07", "C08"], "PC-33": ["C06"],
+        }
+        for pc, targets in required.items():
+            for target in targets:
+                if not any(a.get("pc_task") == pc and target in a.get("applies_to", []) for a in additions):
+                    errors.append(f"missing finite addition packet: {pc} for {target}")
     return errors, tracks, additions
+
+
+def review_errors(tracks, require_all=True):
+    """Keep acceptance tied to the exact course files actually reviewed."""
+    path = ROOT / "data/authoring-reviews.json"
+    if not path.exists():
+        return ["independent authoring review records are missing"] if require_all else []
+    records = json.loads(path.read_text())["course_reviews"]
+    errors = []
+    numbers = [record["course_number"] for record in records]
+    if len(numbers) != len(set(numbers)):
+        errors.append("duplicate course review records")
+    if require_all and set(numbers) != {int(t["id"][1:3]) for t in tracks}:
+        errors.append("independent review does not cover every authored course")
+    for record in records:
+        folder = ROOT / f"instruction/course-{record['course_number']:02d}"
+        files = sorted(p for p in folder.rglob("*") if p.is_file() and "__pycache__" not in p.parts and p.suffix != ".pyc")
+        actual = [{"path": str(p.relative_to(ROOT)), "sha256": hashlib.sha256(p.read_bytes()).hexdigest()} for p in files]
+        digest = hashlib.sha256(json.dumps(actual, sort_keys=True, separators=(",", ":")).encode()).hexdigest()
+        if actual != record.get("files") or digest != record.get("inventory_sha256"):
+            errors.append(f"Course {record['course_number']}: files changed since independent review")
+        if record.get("result") != "accepted after fixes" or not (ROOT / record.get("report", "")).is_file():
+            errors.append(f"Course {record['course_number']}: no accepted review report")
+    return errors
 
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--partial", action="store_true", help="check existing course manifests during authoring")
+    parser.add_argument("--reviewed", action="store_true", help="require accepted review of every authored course and exact reviewed file inventories")
     args = parser.parse_args()
     errors, tracks, additions = inspect(args.partial)
+    if args.reviewed:
+        errors += review_errors(tracks)
     if errors:
         raise SystemExit("Authoring coverage failed:\n- " + "\n- ".join(errors))
     unique_modules = {m["path"] for t in tracks for m in t["modules"]}

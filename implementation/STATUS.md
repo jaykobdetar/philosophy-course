@@ -1,5 +1,7 @@
 # Implementation status — 2026-10-13
 
+**20 October execution update:** Full course authoring is now authorized and underway beyond the earlier pilot gate. See [current authoring progress](PROGRESS_2026-10-20.md) and [reviewed checkpoints](PROGRESS_2026-10-20.md#reviewed-checkpoints). The dated table below preserves the 13 October scope; it does not describe the later authored packets. Empirical learner validation remains pending.
+
 This is a scoped progress record against the [unified plan](UNIFIED_PLAN.md). The plan's PC-01–PC-48 identifiers are the only task identifiers used here. The September 30 DOCX, historical collection, and original packages remain recoverable. A complete course release has **not** been certified.
 
 The [PC-by-PC acceptance register](TASK_REGISTER.md) names evidence and remaining work for every plan task. This summary groups the main boundaries.

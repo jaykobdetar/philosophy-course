@@ -1,5 +1,7 @@
 # PC-01–PC-48 scoped acceptance record
 
+**20 October update:** Later teaching work and independent reviews are recorded in [authoring progress](PROGRESS_2026-10-20.md). The historical acceptance snapshot below will be reconciled with the completed course set; its earlier pilot-first authoring stop is superseded.
+
 Snapshot: 2026-10-13. “Opening” means Course 1 Sessions 1–4 and the separately identified practical-reasoning packet. “Specified” is not “piloted” or “released.” The [unified plan](UNIFIED_PLAN.md) has the full acceptance criteria; this table gives the evidence and the concrete next step for each sole task ID. Human evidence is never inferred from a file check.
 
 | ID | Accepted scope and evidence now | Remaining acceptance work |

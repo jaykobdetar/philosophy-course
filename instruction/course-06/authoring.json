@@ -1,0 +1,126 @@
+{
+  "course_number": 6,
+  "authored_on": "2026-10-20",
+  "tracks": [
+    {
+      "id": "C06",
+      "title": "Ethics",
+      "curriculum_page": "current/courses/06.md",
+      "baseline_hours": 120,
+      "readme": "instruction/course-06/README.md",
+      "outcomes": "instruction/course-06/outcomes.md",
+      "assessment": "instruction/course-06/assessment.md",
+      "examiner": "instruction/course-06/examiner-notes.md",
+      "source_audit": "instruction/course-06/source-audit.md",
+      "modules": [
+        {
+          "id": "C06-M01",
+          "path": "instruction/course-06/modules/01.md",
+          "hours": 10
+        },
+        {
+          "id": "C06-M02",
+          "path": "instruction/course-06/modules/02.md",
+          "hours": 18
+        },
+        {
+          "id": "C06-M03",
+          "path": "instruction/course-06/modules/03.md",
+          "hours": 12
+        },
+        {
+          "id": "C06-M04",
+          "path": "instruction/course-06/modules/04.md",
+          "hours": 18
+        },
+        {
+          "id": "C06-M05",
+          "path": "instruction/course-06/modules/05.md",
+          "hours": 16
+        },
+        {
+          "id": "C06-M06",
+          "path": "instruction/course-06/modules/06.md",
+          "hours": 16
+        },
+        {
+          "id": "C06-M07",
+          "path": "instruction/course-06/modules/07.md",
+          "hours": 22
+        },
+        {
+          "id": "C06-M08",
+          "path": "instruction/course-06/modules/08.md",
+          "hours": 8
+        }
+      ]
+    }
+  ],
+  "additions": [
+    {
+      "id": "C06-PC27",
+      "pc_task": "PC-27",
+      "path": "instruction/course-06/additions/pc-27-metaethics.md",
+      "hours": 8,
+      "replaces_hours": 0,
+      "net_hours": 8,
+      "applies_to": [
+        "C06"
+      ],
+      "credit_rule": "Additional to the 120-hour baseline: Moore 2h, Mackie 4h, integration/fresh/delayed checks 2h. Hume/Ayer/Thomson baseline work preserved; existing Hume/Ayer reading log reused without another full reading charge.",
+      "components": [
+        {
+          "name": "Moore Principia Ethica section13",
+          "hours": 2
+        },
+        {
+          "name": "Mackie Ethics chapter1 sections1–3,7–9,12",
+          "hours": 4
+        },
+        {
+          "name": "Integration and independent evidence",
+          "hours": 2
+        }
+      ]
+    },
+    {
+      "id": "C06-PC33",
+      "pc_task": "PC-33",
+      "path": "instruction/course-06/additions/pc-33-sartre.md",
+      "hours": 8,
+      "replaces_hours": 0,
+      "net_hours": 8,
+      "applies_to": [
+        "C06"
+      ],
+      "credit_rule": "C06 charges 8 added hours. The same lecture/context and retained R33 reconstruction may receive 4 hours credit within C12C Module 5 (22 baseline hours), leaving 18 hours of new comparative work there. Credit is conditional on compatible complete lecture scope and satisfactory retained evidence. Mairet evidence does not verify Macomber wording; C12C must recheck cited wording and context in its assigned Macomber edition within the remaining 18 hours. Do not credit 8 hours or bill the shared 4 hours twice.",
+      "shared_credit": {
+        "target_track": "C12C",
+        "target_module": "C12C-M05",
+        "target_baseline_hours": 22,
+        "potential_credit_hours": 4,
+        "new_work_hours": 18,
+        "evidence": [
+          "exact translation and lecture range",
+          "context/reading time log",
+          "R33 reconstruction with source locators and feedback"
+        ],
+        "translation_bridge_required": true
+      }
+    }
+  ],
+  "limitations": [
+    "Not learner-piloted, human-expert-validated, tutor-calibrated, rights-cleared or visually/accessibility-tested.",
+    "Ayer second-edition chapter VI and Van Norden 2008 2A6/6A1–10 were not inspected; exact textual diagnoses remain source-dependent.",
+    "Preferred modern-edition quotation/page checks for Irwin 2019, Gregor–Timmermann 2012, Sher 2001 and SBN/Nidditch 1978 require actual copies; public witnesses are not relabeled.",
+    "Mackie exact section selection established from university-hosted scan; lawful learner access and source availability still required, with affected judgments provisional if absent.",
+    "Mairet web lecture inspected in selected spans, not collated against print. Macomber 2007 bibliographic/context metadata checked only; later wording/context check required."
+  ],
+  "augmented_course_hours": 136,
+  "final_delayed_check": {
+    "minutes": 30,
+    "timing": "roughly 4–6 weeks after course completion or after two later modules",
+    "charged_to": "C06-M08"
+  },
+  "status": "complete_authoring_with_explicit_source_dependencies"
+}

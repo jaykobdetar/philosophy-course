@@ -1,0 +1,47 @@
+{
+  "checked_on": "2026-10-20",
+  "scope": "instruction/course-06/ only",
+  "status": "passed_local_structural_checks",
+  "baseline_module_count": 8,
+  "baseline_hours": 120,
+  "addition_hours": 16,
+  "augmented_course_hours": 136,
+  "module_schedule_minutes": {
+    "1": 600,
+    "2": 1080,
+    "3": 720,
+    "4": 1080,
+    "5": 960,
+    "6": 960,
+    "7": 1320,
+    "8": 480
+  },
+  "pc27_hours": 8,
+  "pc33_hours": 8,
+  "c12c_module5_credit_hours": 4,
+  "c12c_module5_new_hours": 18,
+  "checks": [
+    "Manifest JSON parses; required deliverable and module paths exist.",
+    "Eight module schedule sums equal manifest hours.",
+    "Both finite addition schedules equal 8 hours; replaces_hours is zero.",
+    "C12C conditional credit 4 plus new work 18 equals its unchanged 22-hour Module 5.",
+    "Essential Course 6 grid rows have named practice, fresh alternate and delayed forms.",
+    "Final delayed transfer uses shared roughly 4–6-week/two-later-module interval; shorter module retrieval is separate.",
+    "All relative Markdown link targets exist."
+  ],
+  "not_performed": [
+    "learner pilot",
+    "human expert review",
+    "tutor-model calibration",
+    "rendered visual/accessibility QA",
+    "copyright permission or distribution-rights clearance",
+    "complete assigned-modern-edition collation"
+  ],
+  "source_dependencies": [
+    "Van Norden Mengzi 2A6 and 6A1–10",
+    "Ayer second edition chapter VI",
+    "preferred-edition quotations/pagination",
+    "Mackie lawful learner access if linked scan unavailable",
+    "later C12C Macomber wording/context verification"
+  ]
+}
