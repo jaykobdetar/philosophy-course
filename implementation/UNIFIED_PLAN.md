@@ -1,7 +1,7 @@
 # Philosophy course — unified implementation plan
 
 **Version:** 2.0, 13 October 2026  
-**Status:** proposed implementation specification, not a completed course revision.  
+**Status:** accepted implementation specification; current authored scope and outstanding validation are recorded in [status](STATUS.md). Historical rollout gates below are subject to the 20 October override.
 **Decision:** use this document instead of parallel task lists from `1.md` and `Untitled.md`.
 
 **Execution update, 20 October 2026:** The user has authorized full teaching-material authoring for every course and option now. The earlier pilot-first expansion instruction below no longer stops authoring. Source-access dependencies and empirical validation remain separate, honestly reported conditions. The current work follows the [full-authoring contract](AUTHORING_2026-10-20.md).
@@ -226,7 +226,7 @@ Each item below is open; `M` identifies the predecessor’s same-number PC task 
 
 **Deliver:** Complete Course 1’s execution materials and Course 2’s practice route first, then work through Courses 3–14 along the selected path. A packet includes its guiding question, prior knowledge, exact reading, bounded context, terminology, tasks, outputs, feedback route, independent check, and remediation/next step. Flexible session chunks are preferable to pretending every module fits one week. Release the first four usable sessions and their feedback/checking material first, then complete the remaining Course 1 packets. For later courses, plan the full outcome/assessment structure but author the next module and a clear continuation path before use. A first-four-sessions release must say that later lessons are not yet study-ready. Preserve the existing study cycle and avoid forcing modules into calendar weeks.
 
-**Accept when:** a learner need not invent the assignment or ask an AI to create a syllabus after opening a module. Existing tasks are developed, not described as absent. Full-course expansion follows the first pilot rather than cloning untested lessons across all courses. Status distinguishes specified, study-ready for a named scope, and piloted for that scope; an optional external-review label states what was reviewed. An unfinished course is not advertised as fully authored.
+**Accept when:** a learner need not invent the assignment or ask an AI to create a syllabus after opening a module. Existing tasks are developed, not described as absent. The earlier requirement for a pilot before full-course expansion is superseded by the user’s 20 October instruction; empirical pilot validation remains pending. Status distinguishes specified, study-ready for a named scope, and piloted for that scope; an optional external-review label states what was reviewed. An unfinished course is not advertised as fully authored.
 
 #### PC-16 — Supply bounded, source-checked guidance for difficult readings
 
@@ -439,7 +439,7 @@ Each item below is open; `M` identifies the predecessor’s same-number PC task 
 
 **Accept when:** listening has an optional educational purpose and nonaudio alternatives exist where needed. Audio and transcription permissions are recorded; absence of a transcript does not silently become a required barrier.
 
-#### PC-39 — Run a small learner pilot before mass authoring
+#### PC-39 — Run a small learner pilot (earlier authoring gate superseded)
 
 **Priority:** P1. **Requires:** PC-03, PC-04, PC-05, PC-10, PC-11, PC-15, PC-16, PC-17, PC-18, PC-19, PC-20, PC-22, PC-23, PC-24, for the affected scope.  
 **Source mapping:** M PC-39; C 4.22, 5.6.

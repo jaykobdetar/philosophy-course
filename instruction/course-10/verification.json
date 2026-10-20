@@ -1,0 +1,22 @@
+{
+  "status": "PASS offline structural/arithmetic checks",
+  "module_count": 8,
+  "baseline_hours": 120,
+  "optional_bridge_hours": 6,
+  "with_bridge_hours": 126,
+  "fresh_written_minutes": 100,
+  "final_delayed_minutes_charged_once_to_C10": 30,
+  "essential_rows": 4,
+  "local_markdown_links_checked": 58,
+  "rational_calculations_checked": 21,
+  "hume_comparison_sha256": "647459bc720d0fe09f85ac17b8d7edc2557ff89ba4467151407a4d48228be2cb",
+  "external_links_in_markdown": 7,
+  "external_check_run": false,
+  "not_established": [
+    "learner competence",
+    "passage verification for inaccessible sources",
+    "rights clearance",
+    "human expert review",
+    "rendered accessibility"
+  ]
+}

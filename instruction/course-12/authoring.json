@@ -1,0 +1,313 @@
+{
+  "course_number": 12,
+  "authored_on": "2026-10-20",
+  "tracks": [
+    {
+      "id": "C12A",
+      "title": "Mind and language",
+      "curriculum_page": "current/courses/12a.md",
+      "baseline_hours": 140,
+      "readme": "instruction/course-12/a/README.md",
+      "outcomes": "instruction/course-12/a/outcomes.md",
+      "assessment": "instruction/course-12/a/assessment.md",
+      "examiner": "instruction/course-12/a/examiner-notes.md",
+      "tutor": "instruction/course-12/a/tutor-notes.md",
+      "source_audit": "instruction/course-12/a/source-audit.md",
+      "modules": [
+        {
+          "id": "C12A-M01",
+          "path": "instruction/course-12/a/modules/01.md",
+          "hours": 20
+        },
+        {
+          "id": "C12A-M02",
+          "path": "instruction/course-12/a/modules/02.md",
+          "hours": 16
+        },
+        {
+          "id": "C12A-M03",
+          "path": "instruction/course-12/a/modules/03.md",
+          "hours": 18
+        },
+        {
+          "id": "C12A-M04",
+          "path": "instruction/course-12/a/modules/04.md",
+          "hours": 20
+        },
+        {
+          "id": "C12A-M05",
+          "path": "instruction/course-12/a/modules/05.md",
+          "hours": 20
+        },
+        {
+          "id": "C12A-M06",
+          "path": "instruction/course-12/a/modules/06.md",
+          "hours": 10
+        },
+        {
+          "id": "C12A-M07",
+          "path": "instruction/course-12/a/modules/07.md",
+          "hours": 26
+        },
+        {
+          "id": "C12A-M08",
+          "path": "instruction/course-12/a/modules/08.md",
+          "hours": 10
+        }
+      ]
+    },
+    {
+      "id": "C12B",
+      "title": "Aesthetics and philosophy of art",
+      "curriculum_page": "current/courses/12b.md",
+      "baseline_hours": 120,
+      "readme": "instruction/course-12/b/README.md",
+      "outcomes": "instruction/course-12/b/outcomes.md",
+      "assessment": "instruction/course-12/b/assessment.md",
+      "examiner": "instruction/course-12/b/examiner-notes.md",
+      "tutor": "instruction/course-12/b/tutor-notes.md",
+      "source_audit": "instruction/course-12/b/source-audit.md",
+      "modules": [
+        {
+          "id": "C12B-M01",
+          "path": "instruction/course-12/b/modules/01.md",
+          "hours": 12
+        },
+        {
+          "id": "C12B-M02",
+          "path": "instruction/course-12/b/modules/02.md",
+          "hours": 16
+        },
+        {
+          "id": "C12B-M03",
+          "path": "instruction/course-12/b/modules/03.md",
+          "hours": 22
+        },
+        {
+          "id": "C12B-M04",
+          "path": "instruction/course-12/b/modules/04.md",
+          "hours": 16
+        },
+        {
+          "id": "C12B-M05",
+          "path": "instruction/course-12/b/modules/05.md",
+          "hours": 16
+        },
+        {
+          "id": "C12B-M06",
+          "path": "instruction/course-12/b/modules/06.md",
+          "hours": 28
+        },
+        {
+          "id": "C12B-M07",
+          "path": "instruction/course-12/b/modules/07.md",
+          "hours": 10
+        }
+      ]
+    },
+    {
+      "id": "C12C",
+      "title": "Pragmatism, phenomenology and existential inquiry",
+      "curriculum_page": "current/courses/12c.md",
+      "baseline_hours": 140,
+      "readme": "instruction/course-12/c/README.md",
+      "outcomes": "instruction/course-12/c/outcomes.md",
+      "assessment": "instruction/course-12/c/assessment.md",
+      "examiner": "instruction/course-12/c/examiner-notes.md",
+      "tutor": "instruction/course-12/c/tutor-notes.md",
+      "source_audit": "instruction/course-12/c/source-audit.md",
+      "modules": [
+        {
+          "id": "C12C-M01",
+          "path": "instruction/course-12/c/modules/01.md",
+          "hours": 18
+        },
+        {
+          "id": "C12C-M02",
+          "path": "instruction/course-12/c/modules/02.md",
+          "hours": 14
+        },
+        {
+          "id": "C12C-M03",
+          "path": "instruction/course-12/c/modules/03.md",
+          "hours": 20
+        },
+        {
+          "id": "C12C-M04",
+          "path": "instruction/course-12/c/modules/04.md",
+          "hours": 18
+        },
+        {
+          "id": "C12C-M05",
+          "path": "instruction/course-12/c/modules/05.md",
+          "hours": 22
+        },
+        {
+          "id": "C12C-M06",
+          "path": "instruction/course-12/c/modules/06.md",
+          "hours": 16
+        },
+        {
+          "id": "C12C-M07",
+          "path": "instruction/course-12/c/modules/07.md",
+          "hours": 24
+        },
+        {
+          "id": "C12C-M08",
+          "path": "instruction/course-12/c/modules/08.md",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "id": "C12D",
+      "title": "Social philosophy and applied justice",
+      "curriculum_page": "current/courses/12d.md",
+      "baseline_hours": 140,
+      "readme": "instruction/course-12/d/README.md",
+      "outcomes": "instruction/course-12/d/outcomes.md",
+      "assessment": "instruction/course-12/d/assessment.md",
+      "examiner": "instruction/course-12/d/examiner-notes.md",
+      "tutor": "instruction/course-12/d/tutor-notes.md",
+      "source_audit": "instruction/course-12/d/source-audit.md",
+      "modules": [
+        {
+          "id": "C12D-M01",
+          "path": "instruction/course-12/d/modules/01.md",
+          "hours": 18
+        },
+        {
+          "id": "C12D-M02",
+          "path": "instruction/course-12/d/modules/02.md",
+          "hours": 18
+        },
+        {
+          "id": "C12D-M03",
+          "path": "instruction/course-12/d/modules/03.md",
+          "hours": 18
+        },
+        {
+          "id": "C12D-M04",
+          "path": "instruction/course-12/d/modules/04.md",
+          "hours": 22
+        },
+        {
+          "id": "C12D-M05",
+          "path": "instruction/course-12/d/modules/05.md",
+          "hours": 20
+        },
+        {
+          "id": "C12D-M06",
+          "path": "instruction/course-12/d/modules/06.md",
+          "hours": 12
+        },
+        {
+          "id": "C12D-M07",
+          "path": "instruction/course-12/d/modules/07.md",
+          "hours": 24
+        },
+        {
+          "id": "C12D-M08",
+          "path": "instruction/course-12/d/modules/08.md",
+          "hours": 8
+        }
+      ]
+    }
+  ],
+  "additions": [
+    {
+      "id": "C12-PC28-FOUNDATION",
+      "pc_task": "PC-28",
+      "path": "instruction/course-12/additions/pc28-foundation.md",
+      "hours": 20,
+      "replaces_hours": 0,
+      "net_hours": 20,
+      "applies_to": [
+        "C12B",
+        "C12C",
+        "C12D"
+      ],
+      "credit_rule": "Entire C12A-M01 shared once across routes. Later C12A credits20h with retained reading/practice/independent evidence; no added charge on C12A."
+    },
+    {
+      "id": "C12-PC28-GRICE",
+      "pc_task": "PC-28",
+      "path": "instruction/course-12/additions/pc28-grice.md",
+      "hours": 4,
+      "replaces_hours": 0,
+      "net_hours": 4,
+      "applies_to": [
+        "C12A",
+        "C12B",
+        "C12C",
+        "C12D"
+      ],
+      "credit_rule": "Four new hours once on every route, shared across multiple options; does not replace foundation hours."
+    },
+    {
+      "id": "C12-PC29-SMART",
+      "pc_task": "PC-29",
+      "path": "instruction/course-12/additions/pc29-smart.md",
+      "hours": 5,
+      "replaces_hours": 0,
+      "net_hours": 5,
+      "applies_to": [
+        "C12A"
+      ],
+      "credit_rule": "New five-hour primary Smart packet. Place optional and unassigned; zero automatic extra reading."
+    },
+    {
+      "id": "C12-PC29-LEWIS",
+      "pc_task": "PC-29",
+      "path": "instruction/course-12/additions/pc29-lewis.md",
+      "hours": 5,
+      "replaces_hours": 0,
+      "net_hours": 5,
+      "applies_to": [
+        "C12A"
+      ],
+      "credit_rule": "New five-hour primary Lewis selection; baseline secondary overview is not credited as primary reading. PC29 total10h supersedes provisional6h seed."
+    },
+    {
+      "id": "C12-PC33-CREDIT",
+      "pc_task": "PC-33",
+      "path": "instruction/course-12/additions/pc33-credit.md",
+      "hours": 0,
+      "replaces_hours": 0,
+      "net_hours": 0,
+      "applies_to": [
+        "C12C"
+      ],
+      "credit_rule": "Conditional4h credit within C12C-M05 from retained C06 lecture/conceptual evidence;18h new work including Macomber wording/context recheck. Mairet not interchangeable. Baseline module remains22h."
+    }
+  ],
+  "credit_rules": [
+    {
+      "id": "C12-LANGUAGE-ONCE",
+      "shared_module": "C12A-M01",
+      "hours": 20,
+      "rule": "Credit once; non12A foundation precedes common-core language claim."
+    },
+    {
+      "id": "C12C-SARTRE",
+      "module": "C12C-M05",
+      "conditional_credit_hours": 4,
+      "remaining_new_hours": 18,
+      "requires": [
+        "retained C06 lecture reconstruction",
+        "actual Mairet edition and range",
+        "assistance/exposure and time record",
+        "Macomber wording/context recheck within18 new hours"
+      ]
+    }
+  ],
+  "limitations": [
+    "Fully authored, not learner-piloted or externally validated.",
+    "English Frege Max Black1980 actual assigned copy not inspected; German not substitute.",
+    "Putnam local reprint73\u201379 differs from assigned Cambridge429\u2013440; exact Cambridge copy and crosswalk unresolved.",
+    "Jech2024 ProblemaI access unresolved; Hollander lacks assigned section.",
+    "Exact assigned translations and listed paid readings remain passage/access-dependent; see option and shared audits.",
+    "Grice local license is institution-specific; general copying permission not established.",
+    "No rights clearance or rendered visual/accessibility testing claimed."
+  ]
+}

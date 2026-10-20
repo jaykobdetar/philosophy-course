@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "purpose": "Explicit allowlist for a future teaching-only distribution package; not a permission grant for third-party content",
+  "purpose": "Explicit containment allowlist for a local teaching-only package; not a third-party permission grant or public-release authorization",
   "files": [
     "README.md",
     "current/README.md",
@@ -25,18 +25,30 @@
     "instruction/audio-handoff.md",
     "instruction/examples.md",
     "instruction/constructed-evidence-cycle.md",
-    "instruction/course-01/README.md",
-    "instruction/course-01/examiner-notes.md",
-    "instruction/course-01/outcomes.md",
-    "instruction/course-01/practical-reasoning.md",
-    "instruction/course-02/first-logic-packet.md",
-    "instruction/course-01/assessment.md",
-    "instruction/course-01/review-queue.md",
-    "instruction/PILOT_PROTOCOL.md"
+    "instruction/PILOT_PROTOCOL.md",
+    "instruction/README.md",
+    "instruction/source-status.md",
+    "instruction/workload.md",
+    "data/authoring-index.json",
+    "data/authored-workload.json",
+    "data/authoring-reviews.json"
   ],
   "directories": [
     "current/courses",
-    "instruction/course-01/sessions"
+    "instruction/course-01",
+    "instruction/course-02",
+    "instruction/course-03",
+    "instruction/course-04",
+    "instruction/course-05",
+    "instruction/course-06",
+    "instruction/course-07",
+    "instruction/course-08",
+    "instruction/course-09",
+    "instruction/course-10",
+    "instruction/course-11",
+    "instruction/course-12",
+    "instruction/course-13",
+    "instruction/course-14"
   ],
   "excluded_roots": [
     "collection",
@@ -47,5 +59,5 @@
     "archive",
     "dist"
   ],
-  "warning": "Inspect all included prose, links, attribution and permissions before any public distribution. This allowlist only prevents known private reading bundles from being copied by the builder."
+  "warning": "Keep private. Source archives, reading collections, learner records and Python caches are omitted. Links to omitted repository evidence require the private checkout. Inspect prose, attribution and permissions before any separately authorized sharing; this allowlist grants no rights."
 }

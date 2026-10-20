@@ -43,19 +43,31 @@ def outputs(partial=False):
         label = "AI content review recorded" if review and review.get("result") == "accepted after fixes" else "Content review pending"
         readme = "../" + t["readme"]
         audit = "../" + t["source_audit"]
-        lines.append(f"| {t['id']} | [{t['title']}]({readme}) | {len(t['modules'])} | {t['baseline_hours']} | {label}; [source audit]({audit}) |")
+        lines.append(f"| {t['id']} | [{t['title']}]({readme}); [outcome map](../{t['outcomes']}) | {len(t['modules'])} | {t['baseline_hours']} | {label}; [source audit]({audit}) |")
     lines += [
         "", "## Study and feedback", "",
         "Use [tutor instructions](tutor.md) during practice and the course's separate examiner guidance only after saving an independent attempt. Record [assistance and evidence](learner-record.md), and use the [audio handoff](audio-handoff.md) when listening helps. Each course includes changed-case and delayed checks; public forms are not secure examinations.", "",
         "## Added encounters and shared credit", "",
-        "The hours above are source baselines. Added packets and overlap credits are recorded separately; use [structured teaching records](../data/authoring-index.json) and the [workload ledger](../data/workload.json). Reuse an already demonstrated artifact only where the stated credit rule permits it.", "",
+        "The hours above are source baselines. Added packets and overlap credits are recorded separately in [planned study workload](workload.md) and [structured teaching records](../data/authoring-index.json). Reuse an already demonstrated artifact only where the stated credit rule permits it. Course 13's three routes share one eight-module sequence; take the selected specialist packet within that sequence, not three copies of its hours.", "",
     ]
     for a in additions:
         lines.append(f"- [{a['id']}](../{a['path']}): {a['net_hours']} net planned hours; {a['credit_rule']}")
-    lines += ["", "A source or edition mismatch blocks only the affected reading-dependent task. Preserve the question and access note, continue any independent ready work, and obtain the specified source through an authorized route before claiming that task complete.", ""]
+    lines += ["", "A source or edition mismatch blocks only the affected reading-dependent task. Preserve the question and access note, continue any independent ready work, and obtain the specified source through an authorized route before claiming that task complete. See [source access and validation status](source-status.md) for the consolidated dependency list.", ""]
+    source_lines = [
+        "# Source access and validation status", "",
+        "Teaching packets can be authored while a required edition remains unavailable. The notes below identify the stated limits; the linked audits record actual passages inspected and distinguish them from bibliographic checks or alternate translations. Source access is separate from independent content review.", "",
+        "No course is claimed learner-piloted, certified by a human expert, cleared for third-party redistribution, or tested through rendered accessibility QA. Use lawful access to the exact assigned source before closing a source-dependent task.", "",
+    ]
+    for record in course_limits:
+        number = record["course_number"]
+        audits = sorted({t["source_audit"] for t in tracks if int(t["id"][1:3]) == number})
+        source_lines += [f"## Course {number}", "", " · ".join(f"[Source audit {i + 1}](../{audit})" for i, audit in enumerate(audits)), ""]
+        source_lines += [f"- {limit}" for limit in record["limitations"]]
+        source_lines += [""]
     return {
         ROOT / "data/authoring-index.json": json.dumps(index, ensure_ascii=False, indent=2) + "\n",
         ROOT / "instruction/README.md": "\n".join(lines),
+        ROOT / "instruction/source-status.md": "\n".join(source_lines),
     }
 
 

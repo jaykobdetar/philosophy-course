@@ -1,0 +1,575 @@
+{
+  "schema_version": 1,
+  "authored_on": "2026-10-20",
+  "unit": "planned focused learner hours; not measured or piloted",
+  "source_baseline_version": "2026-10-13-r0",
+  "formula": "source baseline + unique required net additions - only earned named overlap credits; optional support added separately",
+  "additions": [
+    {
+      "id": "C01-M02-PRACTICAL",
+      "pc_task": "PC-31",
+      "path": "instruction/course-01/practical-reasoning.md",
+      "hours": 2,
+      "replaces_hours": 2,
+      "net_hours": 0,
+      "applies_to": [
+        "C01"
+      ],
+      "credit_rule": "Replaces two previously unassigned Module 2 practice hours; included in its eight hours and the 120-hour baseline; retain all six reconstructions and four condition tests.",
+      "budget_role": "planned addition"
+    },
+    {
+      "id": "C04-PC30",
+      "pc_task": "PC-30",
+      "path": "instruction/course-04/pc-30-evil.md",
+      "hours": 2,
+      "replaces_hours": 2,
+      "net_hours": 0,
+      "applies_to": [
+        "C04"
+      ],
+      "credit_rule": "Embedded in C04-M06: replaces two hours of general comparison practice. Aquinas I q.2 a.3 objection 1 and reply 1 already assigned; no duplicate reading charge. Course 5 owns the separate Hume encounter.",
+      "budget_role": "planned addition"
+    },
+    {
+      "id": "C05-A30",
+      "pc_task": "PC-30",
+      "path": "instruction/course-05/additions/pc-30-evil.md",
+      "hours": 10,
+      "replaces_hours": 0,
+      "net_hours": 10,
+      "applies_to": [
+        "C05"
+      ],
+      "credit_rule": "Aquinas ST I q.2 a.3 objection 1 and reply already assigned in C04: zero duplicate hours. Hume Dialogues X–XI and response practice add ten hours; baseline remains 120.",
+      "budget_role": "planned addition"
+    },
+    {
+      "id": "C06-PC27",
+      "pc_task": "PC-27",
+      "path": "instruction/course-06/additions/pc-27-metaethics.md",
+      "hours": 8,
+      "replaces_hours": 0,
+      "net_hours": 8,
+      "applies_to": [
+        "C06"
+      ],
+      "credit_rule": "Additional to the 120-hour baseline: Moore 2h, Mackie 4h, integration/fresh/delayed checks 2h. Hume/Ayer/Thomson baseline work preserved; existing Hume/Ayer reading log reused without another full reading charge.",
+      "components": [
+        {
+          "name": "Moore Principia Ethica section13",
+          "hours": 2
+        },
+        {
+          "name": "Mackie Ethics chapter1 sections1–3,7–9,12",
+          "hours": 4
+        },
+        {
+          "name": "Integration and independent evidence",
+          "hours": 2
+        }
+      ],
+      "budget_role": "planned addition"
+    },
+    {
+      "id": "C06-PC33",
+      "pc_task": "PC-33",
+      "path": "instruction/course-06/additions/pc-33-sartre.md",
+      "hours": 8,
+      "replaces_hours": 0,
+      "net_hours": 8,
+      "applies_to": [
+        "C06"
+      ],
+      "credit_rule": "C06 charges 8 added hours. The same lecture/context and retained R33 reconstruction may receive 4 hours credit within C12C Module 5 (22 baseline hours), leaving 18 hours of new comparative work there. Credit is conditional on compatible complete lecture scope and satisfactory retained evidence. Mairet evidence does not verify Macomber wording; C12C must recheck cited wording and context in its assigned Macomber edition within the remaining 18 hours. Do not credit 8 hours or bill the shared 4 hours twice.",
+      "shared_credit": {
+        "target_track": "C12C",
+        "target_module": "C12C-M05",
+        "target_baseline_hours": 22,
+        "potential_credit_hours": 4,
+        "new_work_hours": 18,
+        "evidence": [
+          "exact translation and lecture range",
+          "context/reading time log",
+          "R33 reconstruction with source locators and feedback"
+        ],
+        "translation_bridge_required": true
+      },
+      "budget_role": "planned addition"
+    },
+    {
+      "id": "C07-A25",
+      "pc_task": "PC-25",
+      "path": "instruction/course-07/additions/pc25.md",
+      "hours": 14,
+      "replaces_hours": 0,
+      "net_hours": 14,
+      "applies_to": [
+        "C07"
+      ],
+      "credit_rule": "Credit exact prior source reading, retained artifact and independent evidence once; otherwise new activity. No baseline replacement.",
+      "budget_minutes": [
+        240,
+        120,
+        180,
+        60,
+        60,
+        120,
+        60
+      ],
+      "budget_role": "planned addition"
+    },
+    {
+      "id": "C07-A26",
+      "pc_task": "PC-26",
+      "path": "instruction/course-07/additions/pc26.md",
+      "hours": 12,
+      "replaces_hours": 0,
+      "net_hours": 12,
+      "applies_to": [
+        "C07"
+      ],
+      "credit_rule": "Credit exact prior source reading, retained artifact and independent evidence once; otherwise new activity. No baseline replacement.",
+      "budget_minutes": [
+        240,
+        120,
+        120,
+        60,
+        60,
+        90,
+        30
+      ],
+      "budget_role": "planned addition"
+    },
+    {
+      "id": "C07-A32",
+      "pc_task": "PC-32",
+      "path": "instruction/course-07/additions/pc32.md",
+      "hours": 6,
+      "replaces_hours": 0,
+      "net_hours": 6,
+      "applies_to": [
+        "C07"
+      ],
+      "credit_rule": "Credit exact prior source reading, retained artifact and independent evidence once; otherwise new activity. No baseline replacement.",
+      "budget_minutes": [
+        120,
+        60,
+        60,
+        30,
+        30,
+        30,
+        30
+      ],
+      "budget_role": "planned addition"
+    },
+    {
+      "id": "C08-H",
+      "pc_task": "PC-32",
+      "path": "instruction/course-08/additions/pc32-haslanger.md",
+      "hours": 8,
+      "replaces_hours": 0,
+      "net_hours": 8,
+      "applies_to": [
+        "C08"
+      ],
+      "credit_rule": "Credit reading and reconstruction once under C08-H; retain evidence for later reuse, billing only distinct new work in C12D or research. No baseline reading replaced.",
+      "activity_hours": {
+        "orientation": 0.5,
+        "reading": 3,
+        "practice": 1,
+        "memo": 1,
+        "feedback": 0.5,
+        "revision": 1,
+        "fresh": 0.5,
+        "retrieval_log": 0.5
+      },
+      "budget_role": "planned addition"
+    },
+    {
+      "id": "C09-PC25-CAUSAL-MODAL",
+      "pc_task": "PC-25",
+      "path": "instruction/course-09/causal-modal-bridge.md",
+      "hours": 1,
+      "replaces_hours": 1,
+      "net_hours": 0,
+      "applies_to": [
+        "C09"
+      ],
+      "credit_rule": "Replaces one hour of C09-M03 practice; credit once. C07 may reference retained evidence but not bill this hour again.",
+      "budget_role": "planned addition"
+    },
+    {
+      "id": "PC-31-C10",
+      "pc_task": "PC-31",
+      "path": "instruction/course-10/probability-bridge.md",
+      "hours": 6,
+      "replaces_hours": 0,
+      "net_hours": 6,
+      "applies_to": [
+        "C10"
+      ],
+      "optional": true,
+      "status": "authored optional support; timing unpiloted",
+      "credit_rule": "Take only if needed; charge once outside C10 baseline. Prior equivalent completed evidence may be credited once. Short PB-D retrieval belongs to this bridge, not the final C10 delayed sample.",
+      "allocation_minutes": {
+        "reading": 60,
+        "worked_examples": 60,
+        "practice": 75,
+        "feedback_revision": 45,
+        "independent": 45,
+        "remediation": 45,
+        "delayed_support": 30
+      },
+      "budget_role": "optional support"
+    },
+    {
+      "id": "C12-PC28-FOUNDATION",
+      "pc_task": "PC-28",
+      "path": "instruction/course-12/additions/pc28-foundation.md",
+      "hours": 20,
+      "replaces_hours": 0,
+      "net_hours": 20,
+      "applies_to": [
+        "C12B",
+        "C12C",
+        "C12D"
+      ],
+      "credit_rule": "Entire C12A-M01 shared once across routes. Later C12A credits20h with retained reading/practice/independent evidence; no added charge on C12A.",
+      "budget_role": "planned addition"
+    },
+    {
+      "id": "C12-PC28-GRICE",
+      "pc_task": "PC-28",
+      "path": "instruction/course-12/additions/pc28-grice.md",
+      "hours": 4,
+      "replaces_hours": 0,
+      "net_hours": 4,
+      "applies_to": [
+        "C12A",
+        "C12B",
+        "C12C",
+        "C12D"
+      ],
+      "credit_rule": "Four new hours once on every route, shared across multiple options; does not replace foundation hours.",
+      "budget_role": "planned addition"
+    },
+    {
+      "id": "C12-PC29-SMART",
+      "pc_task": "PC-29",
+      "path": "instruction/course-12/additions/pc29-smart.md",
+      "hours": 5,
+      "replaces_hours": 0,
+      "net_hours": 5,
+      "applies_to": [
+        "C12A"
+      ],
+      "credit_rule": "New five-hour primary Smart packet. Place optional and unassigned; zero automatic extra reading.",
+      "budget_role": "planned addition"
+    },
+    {
+      "id": "C12-PC29-LEWIS",
+      "pc_task": "PC-29",
+      "path": "instruction/course-12/additions/pc29-lewis.md",
+      "hours": 5,
+      "replaces_hours": 0,
+      "net_hours": 5,
+      "applies_to": [
+        "C12A"
+      ],
+      "credit_rule": "New five-hour primary Lewis selection; baseline secondary overview is not credited as primary reading. PC29 total10h supersedes provisional6h seed.",
+      "budget_role": "planned addition"
+    },
+    {
+      "id": "C12-PC33-CREDIT",
+      "pc_task": "PC-33",
+      "path": "instruction/course-12/additions/pc33-credit.md",
+      "hours": 0,
+      "replaces_hours": 0,
+      "net_hours": 0,
+      "applies_to": [
+        "C12C"
+      ],
+      "credit_rule": "Conditional4h credit within C12C-M05 from retained C06 lecture/conceptual evidence;18h new work including Macomber wording/context recheck. Mairet not interchangeable. Baseline module remains22h.",
+      "budget_role": "planned addition"
+    }
+  ],
+  "routes": [
+    {
+      "options": [
+        "C11A",
+        "C12A",
+        "C13A"
+      ],
+      "source_baseline_hours": 1890,
+      "addition_ids": [
+        "C01-M02-PRACTICAL",
+        "C04-PC30",
+        "C05-A30",
+        "C06-PC27",
+        "C06-PC33",
+        "C07-A25",
+        "C07-A26",
+        "C07-A32",
+        "C08-H",
+        "C09-PC25-CAUSAL-MODAL",
+        "C12-PC28-GRICE",
+        "C12-PC29-SMART",
+        "C12-PC29-LEWIS"
+      ],
+      "net_added_hours": 80,
+      "planned_hours_before_conditional_credit": 1970,
+      "conditional_credits": [],
+      "potential_credit_hours": 0,
+      "planned_hours_if_credit_earned": 1970,
+      "optional_support_ids": [
+        "PC-31-C10"
+      ],
+      "optional_support_hours_if_taken": 6
+    },
+    {
+      "options": [
+        "C11A",
+        "C12A",
+        "C13B"
+      ],
+      "source_baseline_hours": 1890,
+      "addition_ids": [
+        "C01-M02-PRACTICAL",
+        "C04-PC30",
+        "C05-A30",
+        "C06-PC27",
+        "C06-PC33",
+        "C07-A25",
+        "C07-A26",
+        "C07-A32",
+        "C08-H",
+        "C09-PC25-CAUSAL-MODAL",
+        "C12-PC28-GRICE",
+        "C12-PC29-SMART",
+        "C12-PC29-LEWIS"
+      ],
+      "net_added_hours": 80,
+      "planned_hours_before_conditional_credit": 1970,
+      "conditional_credits": [],
+      "potential_credit_hours": 0,
+      "planned_hours_if_credit_earned": 1970,
+      "optional_support_ids": [
+        "PC-31-C10"
+      ],
+      "optional_support_hours_if_taken": 6
+    },
+    {
+      "options": [
+        "C11A",
+        "C12B",
+        "C13B"
+      ],
+      "source_baseline_hours": 1870,
+      "addition_ids": [
+        "C01-M02-PRACTICAL",
+        "C04-PC30",
+        "C05-A30",
+        "C06-PC27",
+        "C06-PC33",
+        "C07-A25",
+        "C07-A26",
+        "C07-A32",
+        "C08-H",
+        "C09-PC25-CAUSAL-MODAL",
+        "C12-PC28-FOUNDATION",
+        "C12-PC28-GRICE"
+      ],
+      "net_added_hours": 90,
+      "planned_hours_before_conditional_credit": 1960,
+      "conditional_credits": [],
+      "potential_credit_hours": 0,
+      "planned_hours_if_credit_earned": 1960,
+      "optional_support_ids": [
+        "PC-31-C10"
+      ],
+      "optional_support_hours_if_taken": 6
+    },
+    {
+      "options": [
+        "C11A",
+        "C12C",
+        "C13B"
+      ],
+      "source_baseline_hours": 1890,
+      "addition_ids": [
+        "C01-M02-PRACTICAL",
+        "C04-PC30",
+        "C05-A30",
+        "C06-PC27",
+        "C06-PC33",
+        "C07-A25",
+        "C07-A26",
+        "C07-A32",
+        "C08-H",
+        "C09-PC25-CAUSAL-MODAL",
+        "C12-PC28-FOUNDATION",
+        "C12-PC28-GRICE",
+        "C12-PC33-CREDIT"
+      ],
+      "net_added_hours": 90,
+      "planned_hours_before_conditional_credit": 1980,
+      "conditional_credits": [
+        {
+          "from": "C06-PC33",
+          "target_track": "C12C",
+          "target_module": "C12C-M05",
+          "target_baseline_hours": 22,
+          "potential_credit_hours": 4,
+          "new_work_hours": 18,
+          "evidence": [
+            "exact translation and lecture range",
+            "context/reading time log",
+            "R33 reconstruction with source locators and feedback"
+          ],
+          "translation_bridge_required": true
+        }
+      ],
+      "potential_credit_hours": 4,
+      "planned_hours_if_credit_earned": 1976,
+      "optional_support_ids": [
+        "PC-31-C10"
+      ],
+      "optional_support_hours_if_taken": 6
+    },
+    {
+      "options": [
+        "C11A",
+        "C12D",
+        "C13B"
+      ],
+      "source_baseline_hours": 1890,
+      "addition_ids": [
+        "C01-M02-PRACTICAL",
+        "C04-PC30",
+        "C05-A30",
+        "C06-PC27",
+        "C06-PC33",
+        "C07-A25",
+        "C07-A26",
+        "C07-A32",
+        "C08-H",
+        "C09-PC25-CAUSAL-MODAL",
+        "C12-PC28-FOUNDATION",
+        "C12-PC28-GRICE"
+      ],
+      "net_added_hours": 90,
+      "planned_hours_before_conditional_credit": 1980,
+      "conditional_credits": [],
+      "potential_credit_hours": 0,
+      "planned_hours_if_credit_earned": 1980,
+      "optional_support_ids": [
+        "PC-31-C10"
+      ],
+      "optional_support_hours_if_taken": 6
+    },
+    {
+      "options": [
+        "C11B",
+        "C12A",
+        "C13A"
+      ],
+      "source_baseline_hours": 1890,
+      "addition_ids": [
+        "C01-M02-PRACTICAL",
+        "C04-PC30",
+        "C05-A30",
+        "C06-PC27",
+        "C06-PC33",
+        "C07-A25",
+        "C07-A26",
+        "C07-A32",
+        "C08-H",
+        "C09-PC25-CAUSAL-MODAL",
+        "C12-PC28-GRICE",
+        "C12-PC29-SMART",
+        "C12-PC29-LEWIS"
+      ],
+      "net_added_hours": 80,
+      "planned_hours_before_conditional_credit": 1970,
+      "conditional_credits": [],
+      "potential_credit_hours": 0,
+      "planned_hours_if_credit_earned": 1970,
+      "optional_support_ids": [
+        "PC-31-C10"
+      ],
+      "optional_support_hours_if_taken": 6
+    },
+    {
+      "options": [
+        "C11B",
+        "C12D",
+        "C13C"
+      ],
+      "source_baseline_hours": 1890,
+      "addition_ids": [
+        "C01-M02-PRACTICAL",
+        "C04-PC30",
+        "C05-A30",
+        "C06-PC27",
+        "C06-PC33",
+        "C07-A25",
+        "C07-A26",
+        "C07-A32",
+        "C08-H",
+        "C09-PC25-CAUSAL-MODAL",
+        "C12-PC28-FOUNDATION",
+        "C12-PC28-GRICE"
+      ],
+      "net_added_hours": 90,
+      "planned_hours_before_conditional_credit": 1980,
+      "conditional_credits": [],
+      "potential_credit_hours": 0,
+      "planned_hours_if_credit_earned": 1980,
+      "optional_support_ids": [
+        "PC-31-C10"
+      ],
+      "optional_support_hours_if_taken": 6
+    }
+  ],
+  "milestones": [
+    {
+      "through_course": 1,
+      "source_baseline_hours": 120,
+      "net_added_hours": 0,
+      "planned_hours": 120,
+      "optional_support_hours": 0
+    },
+    {
+      "through_course": 2,
+      "source_baseline_hours": 270,
+      "net_added_hours": 0,
+      "planned_hours": 270,
+      "optional_support_hours": 0
+    },
+    {
+      "through_course": 6,
+      "source_baseline_hours": 730,
+      "net_added_hours": 26,
+      "planned_hours": 756,
+      "optional_support_hours": 0
+    },
+    {
+      "through_course": 10,
+      "source_baseline_hours": 1270,
+      "net_added_hours": 66,
+      "planned_hours": 1336,
+      "optional_support_hours": 6
+    }
+  ],
+  "common_core_language_extension_hours": 24,
+  "common_core_with_language_hours": 1360,
+  "default_options": [
+    "C11A",
+    "C12A",
+    "C13A"
+  ],
+  "default_planned_hours": 1970,
+  "source_access_note": "An authored budget does not establish access to every required edition. Consult course source audits; unavailable reading-dependent tasks remain pending.",
+  "credit_note": "C12A's 20-hour Frege/Russell foundation is already in its baseline. Other C12 routes add the shared bridge once. If later taking C12A, retain and credit that work once. C06 Sartre credit in C12C requires the specified evidence and Macomber check; no credit is assumed before it is earned."
+}

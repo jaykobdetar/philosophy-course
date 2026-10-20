@@ -2,7 +2,7 @@
   "schema_version": 1,
   "curriculum_version": "2026-10-13-r0",
   "authority": "current/",
-  "status_scope": "Opening four sessions verified; later course pages are converted source, not released lesson packets",
+  "status_scope": "All fourteen courses and twenty option tracks authored; exact content-review scope and source dependencies recorded separately; no learner-pilot or expert-validation claim",
   "courses": [
     {"id":"C01","page":"current/courses/01.md","baseline_hours":120,"prerequisites":[]},
     {"id":"C02","page":"current/courses/02.md","baseline_hours":150,"prerequisites":["C01:argument-and-paragraph-modules"]},

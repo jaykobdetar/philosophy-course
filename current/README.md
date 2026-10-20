@@ -7,8 +7,8 @@ The current course version is `2026-10-13-r0`. The conversion preserves the comp
 ## Begin
 
 1. [First session](start.md): OpenStax 2.5, Plato's *Euthyphro* 2a to before 5d, and a 120-word paraphrase.
-2. [Opening session packets](../instruction/course-01/README.md) provide tasks, feedback criteria, and a next step.
-3. [Course 1](courses/01.md) sets the full 120-hour scope; the first four packets are only its opening six hours.
+2. [Course 1 teaching packets](../instruction/course-01/README.md) provide the complete course, including the four opening sessions.
+3. [All course and option teaching materials](../instruction/README.md) provide readings, instruction, exercises, assessments and feedback. The [Course 1 specification](courses/01.md) sets its 120-hour scope; the first four sessions count as its opening six hours.
 
 ## Current route
 
@@ -33,9 +33,9 @@ The [stopping milestones](milestones.md) state which outcome evidence supports a
 - [Assessment blueprints and operational rubric](assessment.md)
 - [Reading access and edition crosswalk](access.md)
 - [Checked source corrections and unresolved later access](readiness/source-corrections.md)
-- [Later reading acquisition backlog](readiness/later-backlog.md) — candidates only; later packets are not released
+- [Later reading acquisition backlog](readiness/later-backlog.md) — historical candidates; use each teaching packet’s newer source audit
 - [Later assignment catalogue](../data/assignment-catalogue.json) — 135 source module assignments, including the shared Course 13 sequence, and three option paper prompts
 - [Later reading catalogue](../data/later-reading-catalogue.json) — 130 individually identified source assignments in Courses 3–13; editions, access, rights and readiness remain unchecked where not established
 - [Research and review record](review-record.md)
 
-The 1,890-hour default and 1,270-hour common-core figures in these converted pages are **source baselines**. The unified plan's proposed additions do not yet have one verified revised total. Use the [workload ledger](../data/workload.json) for scoped changes; do not add an unverified headline total.
+The 1,890-hour default and 1,270-hour common-core figures in these converted pages are **source baselines**. The [authored workload](../instruction/workload.md) adds finite packets once: 1,970 planned default hours and 1,336 through Course 10, with route-specific bridges, earned overlap credit and optional support separately stated. These are unpiloted estimates. Consult [source status](../instruction/source-status.md) before claiming a reading-dependent task complete.

@@ -1,6 +1,6 @@
 # Opening learner pilot protocol
 
-**Status: pending an actual learner.** No learner responses or time measurements are claimed here. An AI-run walkthrough can check wording and links but cannot complete PC-39 or validate learning. Do not mass-author later lesson packets from this template before reviewing learner evidence.
+**Status: pending an actual learner.** No learner responses or time measurements are claimed here. An AI-run walkthrough can check wording and links but cannot complete PC-39 or validate learning. The user's 20 October instruction authorizes full course authoring before this empirical pilot. This protocol remains the validation task; authoring completion does not complete it.
 
 ## Scope
 

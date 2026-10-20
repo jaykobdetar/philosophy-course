@@ -1,0 +1,3539 @@
+{
+  "schema_version": 1,
+  "authoring_date": "2026-10-20",
+  "scope": "Teaching packets and source-access dependencies; no learner-pilot or expert-validation claim",
+  "tracks": [
+    {
+      "id": "C01",
+      "title": "Reading reasoning and philosophical writing",
+      "curriculum_page": "current/courses/01.md",
+      "baseline_hours": 120,
+      "readme": "instruction/course-01/README.md",
+      "outcomes": "instruction/course-01/outcomes.md",
+      "assessment": "instruction/course-01/assessment.md",
+      "examiner": "instruction/course-01/examiner-notes.md",
+      "source_audit": "instruction/course-01/source-audit.md",
+      "modules": [
+        {
+          "id": "C01-M01",
+          "path": "instruction/course-01/modules/01.md",
+          "hours": 4,
+          "allocation_minutes": {
+            "Opening Session 1, including its independent check": 90,
+            "Read and establish source record": 30,
+            "Practice and discuss learning question": 40,
+            "Independent setup check": 20,
+            "Feedback": 20,
+            "Revise learning plan and schedule retrieval": 40
+          }
+        },
+        {
+          "id": "C01-M02",
+          "path": "instruction/course-01/modules/02.md",
+          "hours": 8,
+          "allocation_minutes": {
+            "Opening Sessions 2–3 credit": 160,
+            "Remaining OpenStax reading and retrieval": 50,
+            "PC-31 practical-reasoning packet": 120,
+            "Remaining reconstructions and condition tests": 55,
+            "Independent changed case": 20,
+            "Feedback": 25,
+            "Write and revise 200-word explanation": 50
+          }
+        },
+        {
+          "id": "C01-M03",
+          "path": "instruction/course-01/modules/03.md",
+          "hours": 8,
+          "allocation_minutes": {
+            "Opening Session 2 paragraph credit": 20,
+            "Read guides and retrieve distinctions": 120,
+            "Practice three paragraphs and source forms": 130,
+            "Feedback": 50,
+            "Independent paragraph": 40,
+            "Revise and audit": 120
+          }
+        },
+        {
+          "id": "C01-M04",
+          "path": "instruction/course-01/modules/04.md",
+          "hours": 14,
+          "allocation_minutes": {
+            "Opening Session 4 credit": 90,
+            "Full dialogue reading and focused rereading": 240,
+            "Practice maps and dialogue": 150,
+            "Draft reconstruction and response": 120,
+            "Opening fresh form": 30,
+            "Independent changed case": 30,
+            "Feedback": 60,
+            "Revision and retrieval": 120
+          }
+        },
+        {
+          "id": "C01-M05",
+          "path": "instruction/course-01/modules/05.md",
+          "hours": 8,
+          "allocation_minutes": {
+            "Read and annotate whole dialogue": 150,
+            "Practice historical/dramatic/argument distinctions": 80,
+            "Draft 500-word explanation and objection": 100,
+            "Independent changed case": 30,
+            "Feedback and discussion": 40,
+            "Revision and retrieval": 80
+          }
+        },
+        {
+          "id": "C01-M06",
+          "path": "instruction/course-01/modules/06.md",
+          "hours": 10,
+          "allocation_minutes": {
+            "Assigned main-text reading": 180,
+            "Maps and geometry practice": 110,
+            "Draft comparison and paradox reconstruction": 100,
+            "Independent changed case": 35,
+            "Feedback and dialogue": 55,
+            "Revision and retrieval": 120
+          }
+        },
+        {
+          "id": "C01-M07",
+          "path": "instruction/course-01/modules/07.md",
+          "hours": 12,
+          "allocation_minutes": {
+            "Read Meditations I–II and source notes": 210,
+            "Practice three maps and wax comparison": 150,
+            "Draft evaluation": 120,
+            "Independent changed case": 40,
+            "Feedback and dialogue": 60,
+            "Revision and retrieval": 140
+          }
+        },
+        {
+          "id": "C01-M08",
+          "path": "instruction/course-01/modules/08.md",
+          "hours": 10,
+          "allocation_minutes": {
+            "Read whole article and annotate two cases": 130,
+            "Practice condition matrix and new case": 120,
+            "Draft 600-word objection and reply": 120,
+            "Independent changed case": 35,
+            "Feedback": 55,
+            "Revision and retrieval": 140
+          }
+        },
+        {
+          "id": "C01-M09",
+          "path": "instruction/course-01/modules/09.md",
+          "hours": 12,
+          "allocation_minutes": {
+            "Read whole article with principle ledger": 180,
+            "Practice reconstruction and changed-feature discussion": 150,
+            "Draft 600-word evaluation": 130,
+            "Independent changed case": 40,
+            "Feedback": 60,
+            "Revision and retrieval": 160
+          }
+        },
+        {
+          "id": "C01-M10",
+          "path": "instruction/course-01/modules/10.md",
+          "hours": 18,
+          "allocation_minutes": {
+            "Choose question, retrieve and reread sources": 180,
+            "Proposal and argument outline": 150,
+            "First draft": 240,
+            "Feedback and review": 120,
+            "Independent changed objection practice": 40,
+            "Substantive revision": 240,
+            "Citation audit and revision memo": 110
+          }
+        },
+        {
+          "id": "C01-M11",
+          "path": "instruction/course-01/modules/11.md",
+          "hours": 10,
+          "allocation_minutes": {
+            "Evidence grid and source preparation": 60,
+            "Fresh argument and conditions task": 30,
+            "Fresh passage interpretation": 60,
+            "New essay objection response": 60,
+            "Dialogue or typed exchange": 20,
+            "Feedback and evidence review": 70,
+            "Targeted remediation": 120,
+            "Fresh retest and revised evidence record": 120,
+            "Plan delayed consolidation": 60
+          }
+        },
+        {
+          "id": "C01-M12",
+          "path": "instruction/course-01/modules/12.md",
+          "hours": 6,
+          "allocation_minutes": {
+            "Retrieval session 1 including opening delayed form": 45,
+            "Retrieval session 2": 45,
+            "Independent new-case application": 60,
+            "Compare with sources and feedback": 60,
+            "Targeted practice": 60,
+            "Revision, fresh recheck and next-course handoff": 90
+          }
+        }
+      ]
+    },
+    {
+      "id": "C02",
+      "title": "Formal logic",
+      "curriculum_page": "current/courses/02.md",
+      "baseline_hours": 150,
+      "readme": "instruction/course-02/README.md",
+      "outcomes": "instruction/course-02/outcomes.md",
+      "assessment": "instruction/course-02/assessment.md",
+      "examiner": "instruction/course-02/examiner-notes.md",
+      "source_audit": "instruction/course-02/source-audit.md",
+      "modules": [
+        {
+          "id": "C02-M01",
+          "path": "instruction/course-02/modules/01.md",
+          "hours": 12
+        },
+        {
+          "id": "C02-M02",
+          "path": "instruction/course-02/modules/02.md",
+          "hours": 18
+        },
+        {
+          "id": "C02-M03",
+          "path": "instruction/course-02/modules/03.md",
+          "hours": 18
+        },
+        {
+          "id": "C02-M04",
+          "path": "instruction/course-02/modules/04.md",
+          "hours": 26
+        },
+        {
+          "id": "C02-M05",
+          "path": "instruction/course-02/modules/05.md",
+          "hours": 18
+        },
+        {
+          "id": "C02-M06",
+          "path": "instruction/course-02/modules/06.md",
+          "hours": 18
+        },
+        {
+          "id": "C02-M07",
+          "path": "instruction/course-02/modules/07.md",
+          "hours": 24
+        },
+        {
+          "id": "C02-M08",
+          "path": "instruction/course-02/modules/08.md",
+          "hours": 16
+        }
+      ]
+    },
+    {
+      "id": "C03",
+      "title": "Ancient philosophy",
+      "curriculum_page": "current/courses/03.md",
+      "baseline_hours": 120,
+      "readme": "instruction/course-03/README.md",
+      "outcomes": "instruction/course-03/outcomes.md",
+      "assessment": "instruction/course-03/assessment.md",
+      "examiner": "instruction/course-03/examiner-notes.md",
+      "source_audit": "instruction/course-03/source-audit.md",
+      "modules": [
+        {
+          "id": "C03-M01",
+          "path": "instruction/course-03/modules/01.md",
+          "hours": 10,
+          "title": "Historical orientation and method"
+        },
+        {
+          "id": "C03-M02",
+          "path": "instruction/course-03/modules/02.md",
+          "hours": 16,
+          "title": "The challenge of justice"
+        },
+        {
+          "id": "C03-M03",
+          "path": "instruction/course-03/modules/03.md",
+          "hours": 18,
+          "title": "Plato’s answer and its limits"
+        },
+        {
+          "id": "C03-M04",
+          "path": "instruction/course-03/modules/04.md",
+          "hours": 18,
+          "title": "Knowledge and the soul"
+        },
+        {
+          "id": "C03-M05",
+          "path": "instruction/course-03/modules/05.md",
+          "hours": 16,
+          "title": "Aristotle on explanation"
+        },
+        {
+          "id": "C03-M06",
+          "path": "instruction/course-03/modules/06.md",
+          "hours": 14,
+          "title": "Aristotle and Hellenistic alternatives"
+        },
+        {
+          "id": "C03-M07",
+          "path": "instruction/course-03/modules/07.md",
+          "hours": 20,
+          "title": "Essay and revision"
+        },
+        {
+          "id": "C03-M08",
+          "path": "instruction/course-03/modules/08.md",
+          "hours": 8,
+          "title": "Independent assessment and later recall"
+        }
+      ]
+    },
+    {
+      "id": "C04",
+      "title": "Medieval philosophy and transmission",
+      "curriculum_page": "current/courses/04.md",
+      "baseline_hours": 100,
+      "readme": "instruction/course-04/README.md",
+      "outcomes": "instruction/course-04/outcomes.md",
+      "assessment": "instruction/course-04/assessment.md",
+      "examiner": "instruction/course-04/examiner-notes.md",
+      "source_audit": "instruction/course-04/source-audit.md",
+      "tutor": "instruction/course-04/tutor-notes.md",
+      "modules": [
+        {
+          "id": "C04-M01",
+          "title": "Context and transmission",
+          "path": "instruction/course-04/modules/01.md",
+          "hours": 10
+        },
+        {
+          "id": "C04-M02",
+          "title": "Time and experience",
+          "path": "instruction/course-04/modules/02.md",
+          "hours": 12
+        },
+        {
+          "id": "C04-M03",
+          "title": "Anselm and Gaunilo",
+          "path": "instruction/course-04/modules/03.md",
+          "hours": 14
+        },
+        {
+          "id": "C04-M04",
+          "title": "Avicenna on self and soul",
+          "path": "instruction/course-04/modules/04.md",
+          "hours": 14
+        },
+        {
+          "id": "C04-M05",
+          "title": "Al-Ghazali and philosophical inquiry",
+          "path": "instruction/course-04/modules/05.md",
+          "hours": 12
+        },
+        {
+          "id": "C04-M06",
+          "title": "Maimonides and Aquinas",
+          "path": "instruction/course-04/modules/06.md",
+          "hours": 14
+        },
+        {
+          "id": "C04-M07",
+          "title": "Essay and revision",
+          "path": "instruction/course-04/modules/07.md",
+          "hours": 18
+        },
+        {
+          "id": "C04-M08",
+          "title": "Assessment and delayed check",
+          "path": "instruction/course-04/modules/08.md",
+          "hours": 6
+        }
+      ]
+    },
+    {
+      "id": "C05",
+      "title": "Early modern philosophy",
+      "curriculum_page": "current/courses/05.md",
+      "baseline_hours": 120,
+      "readme": "instruction/course-05/README.md",
+      "outcomes": "instruction/course-05/outcomes.md",
+      "assessment": "instruction/course-05/assessment.md",
+      "examiner": "instruction/course-05/examiner-notes.md",
+      "source_audit": "instruction/course-05/source-audit.md",
+      "modules": [
+        {
+          "id": "C05-M01",
+          "path": "instruction/course-05/modules/01.md",
+          "hours": 12
+        },
+        {
+          "id": "C05-M02",
+          "path": "instruction/course-05/modules/02.md",
+          "hours": 16
+        },
+        {
+          "id": "C05-M03",
+          "path": "instruction/course-05/modules/03.md",
+          "hours": 12
+        },
+        {
+          "id": "C05-M04",
+          "path": "instruction/course-05/modules/04.md",
+          "hours": 16
+        },
+        {
+          "id": "C05-M05",
+          "path": "instruction/course-05/modules/05.md",
+          "hours": 14
+        },
+        {
+          "id": "C05-M06",
+          "path": "instruction/course-05/modules/06.md",
+          "hours": 20
+        },
+        {
+          "id": "C05-M07",
+          "path": "instruction/course-05/modules/07.md",
+          "hours": 22
+        },
+        {
+          "id": "C05-M08",
+          "path": "instruction/course-05/modules/08.md",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "id": "C06",
+      "title": "Ethics",
+      "curriculum_page": "current/courses/06.md",
+      "baseline_hours": 120,
+      "readme": "instruction/course-06/README.md",
+      "outcomes": "instruction/course-06/outcomes.md",
+      "assessment": "instruction/course-06/assessment.md",
+      "examiner": "instruction/course-06/examiner-notes.md",
+      "source_audit": "instruction/course-06/source-audit.md",
+      "modules": [
+        {
+          "id": "C06-M01",
+          "path": "instruction/course-06/modules/01.md",
+          "hours": 10
+        },
+        {
+          "id": "C06-M02",
+          "path": "instruction/course-06/modules/02.md",
+          "hours": 18
+        },
+        {
+          "id": "C06-M03",
+          "path": "instruction/course-06/modules/03.md",
+          "hours": 12
+        },
+        {
+          "id": "C06-M04",
+          "path": "instruction/course-06/modules/04.md",
+          "hours": 18
+        },
+        {
+          "id": "C06-M05",
+          "path": "instruction/course-06/modules/05.md",
+          "hours": 16
+        },
+        {
+          "id": "C06-M06",
+          "path": "instruction/course-06/modules/06.md",
+          "hours": 16
+        },
+        {
+          "id": "C06-M07",
+          "path": "instruction/course-06/modules/07.md",
+          "hours": 22
+        },
+        {
+          "id": "C06-M08",
+          "path": "instruction/course-06/modules/08.md",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "id": "C07",
+      "title": "Knowledge and reality",
+      "curriculum_page": "current/courses/07.md",
+      "baseline_hours": 140,
+      "readme": "instruction/course-07/README.md",
+      "outcomes": "instruction/course-07/outcomes.md",
+      "assessment": "instruction/course-07/assessment.md",
+      "examiner": "instruction/course-07/examiner-notes.md",
+      "source_audit": "instruction/course-07/source-audit.md",
+      "modules": [
+        {
+          "id": "C07-M01",
+          "title": "Knowledge and justification",
+          "path": "instruction/course-07/modules/01.md",
+          "hours": 16,
+          "budget_minutes": [
+            300,
+            120,
+            240,
+            60,
+            60,
+            120,
+            60
+          ]
+        },
+        {
+          "id": "C07-M02",
+          "title": "Testimony and trust",
+          "path": "instruction/course-07/modules/02.md",
+          "hours": 16,
+          "budget_minutes": [
+            300,
+            120,
+            240,
+            60,
+            60,
+            120,
+            60
+          ]
+        },
+        {
+          "id": "C07-M03",
+          "title": "Epistemic injustice",
+          "path": "instruction/course-07/modules/03.md",
+          "hours": 14,
+          "budget_minutes": [
+            240,
+            120,
+            180,
+            60,
+            60,
+            120,
+            60
+          ]
+        },
+        {
+          "id": "C07-M04",
+          "title": "Persons and continuity",
+          "path": "instruction/course-07/modules/04.md",
+          "hours": 18,
+          "budget_minutes": [
+            360,
+            180,
+            240,
+            60,
+            60,
+            120,
+            60
+          ]
+        },
+        {
+          "id": "C07-M05",
+          "title": "A different inquiry into self",
+          "path": "instruction/course-07/modules/05.md",
+          "hours": 16,
+          "budget_minutes": [
+            300,
+            120,
+            240,
+            60,
+            60,
+            120,
+            60
+          ]
+        },
+        {
+          "id": "C07-M06",
+          "title": "Freedom and responsibility",
+          "path": "instruction/course-07/modules/06.md",
+          "hours": 22,
+          "budget_minutes": [
+            420,
+            240,
+            300,
+            60,
+            60,
+            180,
+            60
+          ]
+        },
+        {
+          "id": "C07-M07",
+          "title": "Essay and revision",
+          "path": "instruction/course-07/modules/07.md",
+          "hours": 28,
+          "budget_minutes": [
+            360,
+            180,
+            480,
+            120,
+            60,
+            360,
+            120
+          ]
+        },
+        {
+          "id": "C07-M08",
+          "title": "Assessment and delayed check",
+          "path": "instruction/course-07/modules/08.md",
+          "hours": 10,
+          "budget_minutes": [
+            60,
+            60,
+            90,
+            20,
+            70,
+            120,
+            90,
+            60,
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C08",
+      "title": "Political philosophy",
+      "curriculum_page": "current/courses/08.md",
+      "baseline_hours": 140,
+      "readme": "instruction/course-08/README.md",
+      "outcomes": "instruction/course-08/outcomes.md",
+      "assessment": "instruction/course-08/assessment.md",
+      "examiner": "instruction/course-08/examiner-notes.md",
+      "source_audit": "instruction/course-08/source-audit.md",
+      "modules": [
+        {
+          "id": "C08-M01",
+          "path": "instruction/course-08/modules/01.md",
+          "hours": 12,
+          "activity_hours": {
+            "reading": 4,
+            "teaching": 1,
+            "practice": 2,
+            "fresh": 1,
+            "feedback": 1,
+            "revision": 2,
+            "retrieval_citations": 1
+          }
+        },
+        {
+          "id": "C08-M02",
+          "path": "instruction/course-08/modules/02.md",
+          "hours": 18,
+          "activity_hours": {
+            "reading": 6,
+            "teaching_practice": 3,
+            "comparison": 3,
+            "fresh": 1,
+            "feedback": 1,
+            "revision": 3,
+            "retrieval_citations": 1
+          }
+        },
+        {
+          "id": "C08-M03",
+          "path": "instruction/course-08/modules/03.md",
+          "hours": 16,
+          "activity_hours": {
+            "reading": 5,
+            "teaching": 2,
+            "practice": 3,
+            "fresh": 1,
+            "feedback": 1,
+            "revision": 3,
+            "retrieval_citations": 1
+          }
+        },
+        {
+          "id": "C08-M04",
+          "path": "instruction/course-08/modules/04.md",
+          "hours": 18,
+          "activity_hours": {
+            "reading": 5,
+            "teaching_annotation": 3,
+            "practice": 4,
+            "fresh": 1,
+            "feedback": 1,
+            "revision": 3,
+            "retrieval_citations": 1
+          }
+        },
+        {
+          "id": "C08-M05",
+          "path": "instruction/course-08/modules/05.md",
+          "hours": 20,
+          "activity_hours": {
+            "reading": 7,
+            "teaching": 3,
+            "practice": 3,
+            "fresh": 1,
+            "feedback": 1,
+            "revision": 4,
+            "retrieval_citations": 1
+          }
+        },
+        {
+          "id": "C08-M06",
+          "path": "instruction/course-08/modules/06.md",
+          "hours": 20,
+          "activity_hours": {
+            "reading": 7,
+            "teaching": 3,
+            "practice": 3,
+            "fresh": 1,
+            "feedback": 1,
+            "revision": 4,
+            "retrieval_citations": 1
+          }
+        },
+        {
+          "id": "C08-M07",
+          "path": "instruction/course-08/modules/07.md",
+          "hours": 28,
+          "activity_hours": {
+            "selection": 3,
+            "reading": 4,
+            "trial_argument": 3,
+            "draft": 7,
+            "feedback": 2,
+            "revision": 5,
+            "citation_audit": 1,
+            "fresh": 1,
+            "memo": 1,
+            "retrieval": 1
+          }
+        },
+        {
+          "id": "C08-M08",
+          "path": "instruction/course-08/modules/08.md",
+          "hours": 8,
+          "activity_hours": {
+            "audit": 1,
+            "fresh_and_dialogue": 1.8333333333333333,
+            "feedback_and_repair": 2.5,
+            "retest": 1.5,
+            "delayed_and_feedback": 1.1666666666666667
+          }
+        }
+      ]
+    },
+    {
+      "id": "C09",
+      "title": "Kant and selected nineteenth century responses",
+      "curriculum_page": "current/courses/09.md",
+      "baseline_hours": 140,
+      "readme": "instruction/course-09/README.md",
+      "outcomes": "instruction/course-09/outcomes.md",
+      "assessment": "instruction/course-09/assessment.md",
+      "examiner": "instruction/course-09/examiner-notes.md",
+      "source_audit": "instruction/course-09/source-audit.md",
+      "modules": [
+        {
+          "id": "C09-M01",
+          "path": "instruction/course-09/modules/01.md",
+          "hours": 12,
+          "budget_minutes": {
+            "reading": 240,
+            "teaching": 120,
+            "practice": 120,
+            "feedback": 60,
+            "independent": 60,
+            "revision_retrieval": 120
+          }
+        },
+        {
+          "id": "C09-M02",
+          "path": "instruction/course-09/modules/02.md",
+          "hours": 18,
+          "budget_minutes": {
+            "reading": 360,
+            "teaching": 180,
+            "practice": 180,
+            "feedback": 120,
+            "independent": 90,
+            "revision_retrieval": 150
+          }
+        },
+        {
+          "id": "C09-M03",
+          "path": "instruction/course-09/modules/03.md",
+          "hours": 26,
+          "budget_minutes": {
+            "reading": 480,
+            "teaching": 240,
+            "practice_including_bridge": 240,
+            "feedback": 180,
+            "independent": 120,
+            "revision_retrieval": 300
+          }
+        },
+        {
+          "id": "C09-M04",
+          "path": "instruction/course-09/modules/04.md",
+          "hours": 12,
+          "budget_minutes": {
+            "reading": 240,
+            "teaching": 120,
+            "practice": 120,
+            "feedback": 60,
+            "independent": 60,
+            "revision_retrieval": 120
+          }
+        },
+        {
+          "id": "C09-M05",
+          "path": "instruction/course-09/modules/05.md",
+          "hours": 18,
+          "budget_minutes": {
+            "reading": 300,
+            "teaching": 180,
+            "practice": 180,
+            "feedback": 120,
+            "independent": 120,
+            "revision_retrieval": 180
+          }
+        },
+        {
+          "id": "C09-M06",
+          "path": "instruction/course-09/modules/06.md",
+          "hours": 22,
+          "budget_minutes": {
+            "reading": 480,
+            "teaching": 180,
+            "practice": 240,
+            "feedback": 120,
+            "independent": 120,
+            "revision_retrieval": 180
+          }
+        },
+        {
+          "id": "C09-M07",
+          "path": "instruction/course-09/modules/07.md",
+          "hours": 24,
+          "budget_minutes": {
+            "reading": 300,
+            "question_dossier_outline": 180,
+            "draft": 360,
+            "feedback": 120,
+            "revision": 300,
+            "independent": 90,
+            "retrieval_submission": 90
+          }
+        },
+        {
+          "id": "C09-M08",
+          "path": "instruction/course-09/modules/08.md",
+          "hours": 8,
+          "budget_minutes": {
+            "evidence_access": 45,
+            "fresh": 90,
+            "explanation": 20,
+            "citations": 45,
+            "feedback": 60,
+            "repair": 90,
+            "resample_or_consolidation": 60,
+            "revision_handoff": 40,
+            "later_delayed": 30
+          }
+        }
+      ]
+    },
+    {
+      "id": "C10",
+      "title": "Philosophy of science",
+      "curriculum_page": "current/courses/10.md",
+      "baseline_hours": 120,
+      "readme": "instruction/course-10/README.md",
+      "outcomes": "instruction/course-10/outcomes.md",
+      "assessment": "instruction/course-10/assessment.md",
+      "examiner": "instruction/course-10/examiner-notes.md",
+      "source_audit": "instruction/course-10/source-audit.md",
+      "modules": [
+        {
+          "id": "C10-M01",
+          "path": "instruction/course-10/modules/01.md",
+          "hours": 14,
+          "allocation_minutes": {
+            "reading": 240,
+            "teaching_practice": 120,
+            "practice": 180,
+            "feedback": 60,
+            "independent": 60,
+            "revision_retrieval": 180
+          }
+        },
+        {
+          "id": "C10-M02",
+          "path": "instruction/course-10/modules/02.md",
+          "hours": 14,
+          "allocation_minutes": {
+            "reading": 240,
+            "teaching_practice": 120,
+            "practice": 180,
+            "feedback": 60,
+            "independent": 60,
+            "revision_retrieval": 180
+          }
+        },
+        {
+          "id": "C10-M03",
+          "path": "instruction/course-10/modules/03.md",
+          "hours": 14,
+          "allocation_minutes": {
+            "reading": 240,
+            "teaching_practice": 120,
+            "practice": 180,
+            "feedback": 60,
+            "independent": 60,
+            "revision_retrieval": 180
+          }
+        },
+        {
+          "id": "C10-M04",
+          "path": "instruction/course-10/modules/04.md",
+          "hours": 18,
+          "allocation_minutes": {
+            "reading": 360,
+            "teaching_practice": 120,
+            "practice": 240,
+            "feedback": 90,
+            "independent": 60,
+            "revision": 180,
+            "retrieval": 30
+          }
+        },
+        {
+          "id": "C10-M05",
+          "path": "instruction/course-10/modules/05.md",
+          "hours": 16,
+          "allocation_minutes": {
+            "reading": 300,
+            "teaching_practice": 120,
+            "practice": 180,
+            "feedback": 60,
+            "independent": 60,
+            "revision_retrieval": 240
+          }
+        },
+        {
+          "id": "C10-M06",
+          "path": "instruction/course-10/modules/06.md",
+          "hours": 14,
+          "allocation_minutes": {
+            "reading": 300,
+            "teaching_practice": 120,
+            "practice": 180,
+            "feedback": 60,
+            "independent": 60,
+            "revision_retrieval": 120
+          }
+        },
+        {
+          "id": "C10-M07",
+          "path": "instruction/course-10/modules/07.md",
+          "hours": 22,
+          "allocation_minutes": {
+            "question_packet": 120,
+            "reading_ledger": 240,
+            "outline": 180,
+            "draft": 300,
+            "feedback": 120,
+            "independent": 60,
+            "revision": 240,
+            "audit": 60
+          }
+        },
+        {
+          "id": "C10-M08",
+          "path": "instruction/course-10/modules/08.md",
+          "hours": 8,
+          "allocation_minutes": {
+            "readiness": 30,
+            "fresh_written": 100,
+            "defense": 20,
+            "feedback": 60,
+            "repair": 150,
+            "alternate_or_consolidation": 50,
+            "audit": 40,
+            "final_delayed": 30
+          }
+        }
+      ],
+      "essential_rows": [
+        {
+          "name": "Induction and testing",
+          "practice": [
+            "P1",
+            "P2"
+          ],
+          "fresh": "F1",
+          "alternate": "A1",
+          "fresh_minutes": 25,
+          "delayed": "D1 or D2 least-secure row"
+        },
+        {
+          "name": "Explanation and scientific change",
+          "practice": [
+            "P3",
+            "P4"
+          ],
+          "fresh": "F2",
+          "alternate": "A2",
+          "fresh_minutes": 25,
+          "delayed": "D1 or D2 least-secure row"
+        },
+        {
+          "name": "Realism",
+          "practice": [
+            "P5"
+          ],
+          "fresh": "F3",
+          "alternate": "A3",
+          "fresh_minutes": 25,
+          "delayed": "D1 or D2 least-secure row"
+        },
+        {
+          "name": "Values and uncertainty",
+          "practice": [
+            "P6",
+            "P7"
+          ],
+          "fresh": "F4",
+          "alternate": "A4",
+          "fresh_minutes": 25,
+          "delayed": "D1 or D2 least-secure row"
+        }
+      ],
+      "assessment_minutes": {
+        "readiness": 30,
+        "fresh_written": 100,
+        "defense": 20,
+        "feedback": 60,
+        "repair": 150,
+        "alternate_or_consolidation": 50,
+        "audit": 40,
+        "final_delayed": 30
+      },
+      "delayed_interval": "roughly four to six weeks or after two later modules",
+      "delayed_charge_course": "C10",
+      "prior_opening_session_credit_hours": 0
+    },
+    {
+      "id": "C11A",
+      "title": "Classical Chinese philosophy",
+      "curriculum_page": "current/courses/11a.md",
+      "baseline_hours": 140,
+      "readme": "instruction/course-11/a/README.md",
+      "outcomes": "instruction/course-11/outcomes.md",
+      "assessment": "instruction/course-11/assessment.md",
+      "examiner": "instruction/course-11/examiner-notes.md",
+      "source_audit": "instruction/course-11/source-audit.md",
+      "modules": [
+        {
+          "id": "C11A-M01",
+          "path": "instruction/course-11/a/modules/01.md",
+          "hours": 10
+        },
+        {
+          "id": "C11A-M02",
+          "path": "instruction/course-11/a/modules/02.md",
+          "hours": 22
+        },
+        {
+          "id": "C11A-M03",
+          "path": "instruction/course-11/a/modules/03.md",
+          "hours": 20
+        },
+        {
+          "id": "C11A-M04",
+          "path": "instruction/course-11/a/modules/04.md",
+          "hours": 16
+        },
+        {
+          "id": "C11A-M05",
+          "path": "instruction/course-11/a/modules/05.md",
+          "hours": 24
+        },
+        {
+          "id": "C11A-M06",
+          "path": "instruction/course-11/a/modules/06.md",
+          "hours": 18
+        },
+        {
+          "id": "C11A-M07",
+          "path": "instruction/course-11/a/modules/07.md",
+          "hours": 22
+        },
+        {
+          "id": "C11A-M08",
+          "path": "instruction/course-11/a/modules/08.md",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "id": "C11B",
+      "title": "Africana philosophy",
+      "curriculum_page": "current/courses/11b.md",
+      "baseline_hours": 140,
+      "readme": "instruction/course-11/b/README.md",
+      "outcomes": "instruction/course-11/outcomes.md",
+      "assessment": "instruction/course-11/assessment.md",
+      "examiner": "instruction/course-11/examiner-notes.md",
+      "source_audit": "instruction/course-11/source-audit.md",
+      "modules": [
+        {
+          "id": "C11B-M01",
+          "path": "instruction/course-11/b/modules/01.md",
+          "hours": 14
+        },
+        {
+          "id": "C11B-M02",
+          "path": "instruction/course-11/b/modules/02.md",
+          "hours": 20
+        },
+        {
+          "id": "C11B-M03",
+          "path": "instruction/course-11/b/modules/03.md",
+          "hours": 24
+        },
+        {
+          "id": "C11B-M04",
+          "path": "instruction/course-11/b/modules/04.md",
+          "hours": 20
+        },
+        {
+          "id": "C11B-M05",
+          "path": "instruction/course-11/b/modules/05.md",
+          "hours": 16
+        },
+        {
+          "id": "C11B-M06",
+          "path": "instruction/course-11/b/modules/06.md",
+          "hours": 14
+        },
+        {
+          "id": "C11B-M07",
+          "path": "instruction/course-11/b/modules/07.md",
+          "hours": 24
+        },
+        {
+          "id": "C11B-M08",
+          "path": "instruction/course-11/b/modules/08.md",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "id": "C12A",
+      "title": "Mind and language",
+      "curriculum_page": "current/courses/12a.md",
+      "baseline_hours": 140,
+      "readme": "instruction/course-12/a/README.md",
+      "outcomes": "instruction/course-12/a/outcomes.md",
+      "assessment": "instruction/course-12/a/assessment.md",
+      "examiner": "instruction/course-12/a/examiner-notes.md",
+      "tutor": "instruction/course-12/a/tutor-notes.md",
+      "source_audit": "instruction/course-12/a/source-audit.md",
+      "modules": [
+        {
+          "id": "C12A-M01",
+          "path": "instruction/course-12/a/modules/01.md",
+          "hours": 20
+        },
+        {
+          "id": "C12A-M02",
+          "path": "instruction/course-12/a/modules/02.md",
+          "hours": 16
+        },
+        {
+          "id": "C12A-M03",
+          "path": "instruction/course-12/a/modules/03.md",
+          "hours": 18
+        },
+        {
+          "id": "C12A-M04",
+          "path": "instruction/course-12/a/modules/04.md",
+          "hours": 20
+        },
+        {
+          "id": "C12A-M05",
+          "path": "instruction/course-12/a/modules/05.md",
+          "hours": 20
+        },
+        {
+          "id": "C12A-M06",
+          "path": "instruction/course-12/a/modules/06.md",
+          "hours": 10
+        },
+        {
+          "id": "C12A-M07",
+          "path": "instruction/course-12/a/modules/07.md",
+          "hours": 26
+        },
+        {
+          "id": "C12A-M08",
+          "path": "instruction/course-12/a/modules/08.md",
+          "hours": 10
+        }
+      ]
+    },
+    {
+      "id": "C12B",
+      "title": "Aesthetics and philosophy of art",
+      "curriculum_page": "current/courses/12b.md",
+      "baseline_hours": 120,
+      "readme": "instruction/course-12/b/README.md",
+      "outcomes": "instruction/course-12/b/outcomes.md",
+      "assessment": "instruction/course-12/b/assessment.md",
+      "examiner": "instruction/course-12/b/examiner-notes.md",
+      "tutor": "instruction/course-12/b/tutor-notes.md",
+      "source_audit": "instruction/course-12/b/source-audit.md",
+      "modules": [
+        {
+          "id": "C12B-M01",
+          "path": "instruction/course-12/b/modules/01.md",
+          "hours": 12
+        },
+        {
+          "id": "C12B-M02",
+          "path": "instruction/course-12/b/modules/02.md",
+          "hours": 16
+        },
+        {
+          "id": "C12B-M03",
+          "path": "instruction/course-12/b/modules/03.md",
+          "hours": 22
+        },
+        {
+          "id": "C12B-M04",
+          "path": "instruction/course-12/b/modules/04.md",
+          "hours": 16
+        },
+        {
+          "id": "C12B-M05",
+          "path": "instruction/course-12/b/modules/05.md",
+          "hours": 16
+        },
+        {
+          "id": "C12B-M06",
+          "path": "instruction/course-12/b/modules/06.md",
+          "hours": 28
+        },
+        {
+          "id": "C12B-M07",
+          "path": "instruction/course-12/b/modules/07.md",
+          "hours": 10
+        }
+      ]
+    },
+    {
+      "id": "C12C",
+      "title": "Pragmatism, phenomenology and existential inquiry",
+      "curriculum_page": "current/courses/12c.md",
+      "baseline_hours": 140,
+      "readme": "instruction/course-12/c/README.md",
+      "outcomes": "instruction/course-12/c/outcomes.md",
+      "assessment": "instruction/course-12/c/assessment.md",
+      "examiner": "instruction/course-12/c/examiner-notes.md",
+      "tutor": "instruction/course-12/c/tutor-notes.md",
+      "source_audit": "instruction/course-12/c/source-audit.md",
+      "modules": [
+        {
+          "id": "C12C-M01",
+          "path": "instruction/course-12/c/modules/01.md",
+          "hours": 18
+        },
+        {
+          "id": "C12C-M02",
+          "path": "instruction/course-12/c/modules/02.md",
+          "hours": 14
+        },
+        {
+          "id": "C12C-M03",
+          "path": "instruction/course-12/c/modules/03.md",
+          "hours": 20
+        },
+        {
+          "id": "C12C-M04",
+          "path": "instruction/course-12/c/modules/04.md",
+          "hours": 18
+        },
+        {
+          "id": "C12C-M05",
+          "path": "instruction/course-12/c/modules/05.md",
+          "hours": 22
+        },
+        {
+          "id": "C12C-M06",
+          "path": "instruction/course-12/c/modules/06.md",
+          "hours": 16
+        },
+        {
+          "id": "C12C-M07",
+          "path": "instruction/course-12/c/modules/07.md",
+          "hours": 24
+        },
+        {
+          "id": "C12C-M08",
+          "path": "instruction/course-12/c/modules/08.md",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "id": "C12D",
+      "title": "Social philosophy and applied justice",
+      "curriculum_page": "current/courses/12d.md",
+      "baseline_hours": 140,
+      "readme": "instruction/course-12/d/README.md",
+      "outcomes": "instruction/course-12/d/outcomes.md",
+      "assessment": "instruction/course-12/d/assessment.md",
+      "examiner": "instruction/course-12/d/examiner-notes.md",
+      "tutor": "instruction/course-12/d/tutor-notes.md",
+      "source_audit": "instruction/course-12/d/source-audit.md",
+      "modules": [
+        {
+          "id": "C12D-M01",
+          "path": "instruction/course-12/d/modules/01.md",
+          "hours": 18
+        },
+        {
+          "id": "C12D-M02",
+          "path": "instruction/course-12/d/modules/02.md",
+          "hours": 18
+        },
+        {
+          "id": "C12D-M03",
+          "path": "instruction/course-12/d/modules/03.md",
+          "hours": 18
+        },
+        {
+          "id": "C12D-M04",
+          "path": "instruction/course-12/d/modules/04.md",
+          "hours": 22
+        },
+        {
+          "id": "C12D-M05",
+          "path": "instruction/course-12/d/modules/05.md",
+          "hours": 20
+        },
+        {
+          "id": "C12D-M06",
+          "path": "instruction/course-12/d/modules/06.md",
+          "hours": 12
+        },
+        {
+          "id": "C12D-M07",
+          "path": "instruction/course-12/d/modules/07.md",
+          "hours": 24
+        },
+        {
+          "id": "C12D-M08",
+          "path": "instruction/course-12/d/modules/08.md",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "id": "C13A",
+      "title": "AI language and consciousness",
+      "curriculum_page": "current/courses/13a.md",
+      "baseline_hours": 160,
+      "readme": "instruction/course-13/README.md",
+      "outcomes": "instruction/course-13/outcomes.md",
+      "assessment": "instruction/course-13/assessment.md",
+      "examiner": "instruction/course-13/examiner-notes.md",
+      "source_audit": "instruction/course-13/source-audit.md",
+      "packet": "instruction/course-13/tracks/13a.md",
+      "modules": [
+        {
+          "id": "C13-M01",
+          "path": "instruction/course-13/modules/01.md",
+          "hours": 10
+        },
+        {
+          "id": "C13-M02",
+          "path": "instruction/course-13/modules/02.md",
+          "hours": 44
+        },
+        {
+          "id": "C13-M03",
+          "path": "instruction/course-13/modules/03.md",
+          "hours": 22
+        },
+        {
+          "id": "C13-M04",
+          "path": "instruction/course-13/modules/04.md",
+          "hours": 16
+        },
+        {
+          "id": "C13-M05",
+          "path": "instruction/course-13/modules/05.md",
+          "hours": 24
+        },
+        {
+          "id": "C13-M06",
+          "path": "instruction/course-13/modules/06.md",
+          "hours": 24
+        },
+        {
+          "id": "C13-M07",
+          "path": "instruction/course-13/modules/07.md",
+          "hours": 10
+        },
+        {
+          "id": "C13-M08",
+          "path": "instruction/course-13/modules/08.md",
+          "hours": 10
+        }
+      ]
+    },
+    {
+      "id": "C13B",
+      "title": "Comparative moral cultivation",
+      "curriculum_page": "current/courses/13b.md",
+      "baseline_hours": 160,
+      "readme": "instruction/course-13/README.md",
+      "outcomes": "instruction/course-13/outcomes.md",
+      "assessment": "instruction/course-13/assessment.md",
+      "examiner": "instruction/course-13/examiner-notes.md",
+      "source_audit": "instruction/course-13/source-audit.md",
+      "packet": "instruction/course-13/tracks/13b.md",
+      "modules": [
+        {
+          "id": "C13-M01",
+          "path": "instruction/course-13/modules/01.md",
+          "hours": 10
+        },
+        {
+          "id": "C13-M02",
+          "path": "instruction/course-13/modules/02.md",
+          "hours": 44
+        },
+        {
+          "id": "C13-M03",
+          "path": "instruction/course-13/modules/03.md",
+          "hours": 22
+        },
+        {
+          "id": "C13-M04",
+          "path": "instruction/course-13/modules/04.md",
+          "hours": 16
+        },
+        {
+          "id": "C13-M05",
+          "path": "instruction/course-13/modules/05.md",
+          "hours": 24
+        },
+        {
+          "id": "C13-M06",
+          "path": "instruction/course-13/modules/06.md",
+          "hours": 24
+        },
+        {
+          "id": "C13-M07",
+          "path": "instruction/course-13/modules/07.md",
+          "hours": 10
+        },
+        {
+          "id": "C13-M08",
+          "path": "instruction/course-13/modules/08.md",
+          "hours": 10
+        }
+      ]
+    },
+    {
+      "id": "C13C",
+      "title": "Social knowledge and justice",
+      "curriculum_page": "current/courses/13c.md",
+      "baseline_hours": 160,
+      "readme": "instruction/course-13/README.md",
+      "outcomes": "instruction/course-13/outcomes.md",
+      "assessment": "instruction/course-13/assessment.md",
+      "examiner": "instruction/course-13/examiner-notes.md",
+      "source_audit": "instruction/course-13/source-audit.md",
+      "packet": "instruction/course-13/tracks/13c.md",
+      "modules": [
+        {
+          "id": "C13-M01",
+          "path": "instruction/course-13/modules/01.md",
+          "hours": 10
+        },
+        {
+          "id": "C13-M02",
+          "path": "instruction/course-13/modules/02.md",
+          "hours": 44
+        },
+        {
+          "id": "C13-M03",
+          "path": "instruction/course-13/modules/03.md",
+          "hours": 22
+        },
+        {
+          "id": "C13-M04",
+          "path": "instruction/course-13/modules/04.md",
+          "hours": 16
+        },
+        {
+          "id": "C13-M05",
+          "path": "instruction/course-13/modules/05.md",
+          "hours": 24
+        },
+        {
+          "id": "C13-M06",
+          "path": "instruction/course-13/modules/06.md",
+          "hours": 24
+        },
+        {
+          "id": "C13-M07",
+          "path": "instruction/course-13/modules/07.md",
+          "hours": 10
+        },
+        {
+          "id": "C13-M08",
+          "path": "instruction/course-13/modules/08.md",
+          "hours": 10
+        }
+      ]
+    },
+    {
+      "id": "C14",
+      "title": "Independent research capstone",
+      "curriculum_page": "current/courses/14.md",
+      "baseline_hours": 180,
+      "readme": "instruction/course-14/README.md",
+      "outcomes": "instruction/course-14/outcomes.md",
+      "assessment": "instruction/course-14/assessment.md",
+      "examiner": "instruction/course-14/examiner-notes.md",
+      "source_audit": "instruction/course-14/source-audit.md",
+      "modules": [
+        {
+          "id": "C14-M01",
+          "path": "instruction/course-14/modules/01.md",
+          "hours": 16
+        },
+        {
+          "id": "C14-M02",
+          "path": "instruction/course-14/modules/02.md",
+          "hours": 26
+        },
+        {
+          "id": "C14-M03",
+          "path": "instruction/course-14/modules/03.md",
+          "hours": 20
+        },
+        {
+          "id": "C14-M04",
+          "path": "instruction/course-14/modules/04.md",
+          "hours": 40
+        },
+        {
+          "id": "C14-M05",
+          "path": "instruction/course-14/modules/05.md",
+          "hours": 16
+        },
+        {
+          "id": "C14-M06",
+          "path": "instruction/course-14/modules/06.md",
+          "hours": 32
+        },
+        {
+          "id": "C14-M07",
+          "path": "instruction/course-14/modules/07.md",
+          "hours": 12
+        },
+        {
+          "id": "C14-M08",
+          "path": "instruction/course-14/modules/08.md",
+          "hours": 18
+        }
+      ]
+    }
+  ],
+  "additions": [
+    {
+      "id": "C01-M02-PRACTICAL",
+      "pc_task": "PC-31",
+      "path": "instruction/course-01/practical-reasoning.md",
+      "hours": 2,
+      "replaces_hours": 2,
+      "net_hours": 0,
+      "applies_to": [
+        "C01"
+      ],
+      "credit_rule": "Replaces two previously unassigned Module 2 practice hours; included in its eight hours and the 120-hour baseline; retain all six reconstructions and four condition tests."
+    },
+    {
+      "id": "C04-PC30",
+      "pc_task": "PC-30",
+      "path": "instruction/course-04/pc-30-evil.md",
+      "hours": 2,
+      "replaces_hours": 2,
+      "net_hours": 0,
+      "applies_to": [
+        "C04"
+      ],
+      "credit_rule": "Embedded in C04-M06: replaces two hours of general comparison practice. Aquinas I q.2 a.3 objection 1 and reply 1 already assigned; no duplicate reading charge. Course 5 owns the separate Hume encounter."
+    },
+    {
+      "id": "C05-A30",
+      "pc_task": "PC-30",
+      "path": "instruction/course-05/additions/pc-30-evil.md",
+      "hours": 10,
+      "replaces_hours": 0,
+      "net_hours": 10,
+      "applies_to": [
+        "C05"
+      ],
+      "credit_rule": "Aquinas ST I q.2 a.3 objection 1 and reply already assigned in C04: zero duplicate hours. Hume Dialogues X–XI and response practice add ten hours; baseline remains 120."
+    },
+    {
+      "id": "C06-PC27",
+      "pc_task": "PC-27",
+      "path": "instruction/course-06/additions/pc-27-metaethics.md",
+      "hours": 8,
+      "replaces_hours": 0,
+      "net_hours": 8,
+      "applies_to": [
+        "C06"
+      ],
+      "credit_rule": "Additional to the 120-hour baseline: Moore 2h, Mackie 4h, integration/fresh/delayed checks 2h. Hume/Ayer/Thomson baseline work preserved; existing Hume/Ayer reading log reused without another full reading charge.",
+      "components": [
+        {
+          "name": "Moore Principia Ethica section13",
+          "hours": 2
+        },
+        {
+          "name": "Mackie Ethics chapter1 sections1–3,7–9,12",
+          "hours": 4
+        },
+        {
+          "name": "Integration and independent evidence",
+          "hours": 2
+        }
+      ]
+    },
+    {
+      "id": "C06-PC33",
+      "pc_task": "PC-33",
+      "path": "instruction/course-06/additions/pc-33-sartre.md",
+      "hours": 8,
+      "replaces_hours": 0,
+      "net_hours": 8,
+      "applies_to": [
+        "C06"
+      ],
+      "credit_rule": "C06 charges 8 added hours. The same lecture/context and retained R33 reconstruction may receive 4 hours credit within C12C Module 5 (22 baseline hours), leaving 18 hours of new comparative work there. Credit is conditional on compatible complete lecture scope and satisfactory retained evidence. Mairet evidence does not verify Macomber wording; C12C must recheck cited wording and context in its assigned Macomber edition within the remaining 18 hours. Do not credit 8 hours or bill the shared 4 hours twice.",
+      "shared_credit": {
+        "target_track": "C12C",
+        "target_module": "C12C-M05",
+        "target_baseline_hours": 22,
+        "potential_credit_hours": 4,
+        "new_work_hours": 18,
+        "evidence": [
+          "exact translation and lecture range",
+          "context/reading time log",
+          "R33 reconstruction with source locators and feedback"
+        ],
+        "translation_bridge_required": true
+      }
+    },
+    {
+      "id": "C07-A25",
+      "pc_task": "PC-25",
+      "path": "instruction/course-07/additions/pc25.md",
+      "hours": 14,
+      "replaces_hours": 0,
+      "net_hours": 14,
+      "applies_to": [
+        "C07"
+      ],
+      "credit_rule": "Credit exact prior source reading, retained artifact and independent evidence once; otherwise new activity. No baseline replacement.",
+      "budget_minutes": [
+        240,
+        120,
+        180,
+        60,
+        60,
+        120,
+        60
+      ]
+    },
+    {
+      "id": "C07-A26",
+      "pc_task": "PC-26",
+      "path": "instruction/course-07/additions/pc26.md",
+      "hours": 12,
+      "replaces_hours": 0,
+      "net_hours": 12,
+      "applies_to": [
+        "C07"
+      ],
+      "credit_rule": "Credit exact prior source reading, retained artifact and independent evidence once; otherwise new activity. No baseline replacement.",
+      "budget_minutes": [
+        240,
+        120,
+        120,
+        60,
+        60,
+        90,
+        30
+      ]
+    },
+    {
+      "id": "C07-A32",
+      "pc_task": "PC-32",
+      "path": "instruction/course-07/additions/pc32.md",
+      "hours": 6,
+      "replaces_hours": 0,
+      "net_hours": 6,
+      "applies_to": [
+        "C07"
+      ],
+      "credit_rule": "Credit exact prior source reading, retained artifact and independent evidence once; otherwise new activity. No baseline replacement.",
+      "budget_minutes": [
+        120,
+        60,
+        60,
+        30,
+        30,
+        30,
+        30
+      ]
+    },
+    {
+      "id": "C08-H",
+      "pc_task": "PC-32",
+      "path": "instruction/course-08/additions/pc32-haslanger.md",
+      "hours": 8,
+      "replaces_hours": 0,
+      "net_hours": 8,
+      "applies_to": [
+        "C08"
+      ],
+      "credit_rule": "Credit reading and reconstruction once under C08-H; retain evidence for later reuse, billing only distinct new work in C12D or research. No baseline reading replaced.",
+      "activity_hours": {
+        "orientation": 0.5,
+        "reading": 3,
+        "practice": 1,
+        "memo": 1,
+        "feedback": 0.5,
+        "revision": 1,
+        "fresh": 0.5,
+        "retrieval_log": 0.5
+      }
+    },
+    {
+      "id": "C09-PC25-CAUSAL-MODAL",
+      "pc_task": "PC-25",
+      "path": "instruction/course-09/causal-modal-bridge.md",
+      "hours": 1,
+      "replaces_hours": 1,
+      "net_hours": 0,
+      "applies_to": [
+        "C09"
+      ],
+      "credit_rule": "Replaces one hour of C09-M03 practice; credit once. C07 may reference retained evidence but not bill this hour again."
+    },
+    {
+      "id": "PC-31-C10",
+      "pc_task": "PC-31",
+      "path": "instruction/course-10/probability-bridge.md",
+      "hours": 6,
+      "replaces_hours": 0,
+      "net_hours": 6,
+      "applies_to": [
+        "C10"
+      ],
+      "optional": true,
+      "status": "authored optional support; timing unpiloted",
+      "credit_rule": "Take only if needed; charge once outside C10 baseline. Prior equivalent completed evidence may be credited once. Short PB-D retrieval belongs to this bridge, not the final C10 delayed sample.",
+      "allocation_minutes": {
+        "reading": 60,
+        "worked_examples": 60,
+        "practice": 75,
+        "feedback_revision": 45,
+        "independent": 45,
+        "remediation": 45,
+        "delayed_support": 30
+      }
+    },
+    {
+      "id": "C12-PC28-FOUNDATION",
+      "pc_task": "PC-28",
+      "path": "instruction/course-12/additions/pc28-foundation.md",
+      "hours": 20,
+      "replaces_hours": 0,
+      "net_hours": 20,
+      "applies_to": [
+        "C12B",
+        "C12C",
+        "C12D"
+      ],
+      "credit_rule": "Entire C12A-M01 shared once across routes. Later C12A credits20h with retained reading/practice/independent evidence; no added charge on C12A."
+    },
+    {
+      "id": "C12-PC28-GRICE",
+      "pc_task": "PC-28",
+      "path": "instruction/course-12/additions/pc28-grice.md",
+      "hours": 4,
+      "replaces_hours": 0,
+      "net_hours": 4,
+      "applies_to": [
+        "C12A",
+        "C12B",
+        "C12C",
+        "C12D"
+      ],
+      "credit_rule": "Four new hours once on every route, shared across multiple options; does not replace foundation hours."
+    },
+    {
+      "id": "C12-PC29-SMART",
+      "pc_task": "PC-29",
+      "path": "instruction/course-12/additions/pc29-smart.md",
+      "hours": 5,
+      "replaces_hours": 0,
+      "net_hours": 5,
+      "applies_to": [
+        "C12A"
+      ],
+      "credit_rule": "New five-hour primary Smart packet. Place optional and unassigned; zero automatic extra reading."
+    },
+    {
+      "id": "C12-PC29-LEWIS",
+      "pc_task": "PC-29",
+      "path": "instruction/course-12/additions/pc29-lewis.md",
+      "hours": 5,
+      "replaces_hours": 0,
+      "net_hours": 5,
+      "applies_to": [
+        "C12A"
+      ],
+      "credit_rule": "New five-hour primary Lewis selection; baseline secondary overview is not credited as primary reading. PC29 total10h supersedes provisional6h seed."
+    },
+    {
+      "id": "C12-PC33-CREDIT",
+      "pc_task": "PC-33",
+      "path": "instruction/course-12/additions/pc33-credit.md",
+      "hours": 0,
+      "replaces_hours": 0,
+      "net_hours": 0,
+      "applies_to": [
+        "C12C"
+      ],
+      "credit_rule": "Conditional4h credit within C12C-M05 from retained C06 lecture/conceptual evidence;18h new work including Macomber wording/context recheck. Mairet not interchangeable. Baseline module remains22h."
+    }
+  ],
+  "course_reviews": [
+    {
+      "course_number": 1,
+      "reviewed_on": "2026-10-20",
+      "reviewer_role": "independent course content reviewer",
+      "requested_model": "gpt-6-astra",
+      "runtime_identity_attested": false,
+      "result": "accepted after fixes",
+      "report": "implementation/reviews/2026-10-20-courses-01-04.md",
+      "inventory_sha256": "5bb67f26b7545e9765df76f7c9628283b56347c80ba4ee9c4f90fcdb468bec4e",
+      "files": [
+        {
+          "path": "instruction/course-01/README.md",
+          "sha256": "da212afe4cb3b0a7a279b7c715448608654e7b2747b1e3038a61acd8b87b26c3"
+        },
+        {
+          "path": "instruction/course-01/assessment.md",
+          "sha256": "a479ca214754fb61f374e3cf5b0fb1b40e3886d6515264e3b13d1e07a2f8a564"
+        },
+        {
+          "path": "instruction/course-01/authoring.json",
+          "sha256": "3acd00d239f7e3dde6944b3545a0d6036b4433e2b0f33a65efbdad0686f1c425"
+        },
+        {
+          "path": "instruction/course-01/examiner-notes.md",
+          "sha256": "1d8368e318492b86b25894aedcf2bd8db9833badbdcb3489017942759560faad"
+        },
+        {
+          "path": "instruction/course-01/modules/01.md",
+          "sha256": "0a237f8184c6e3a901379e9718a572a17704c10e8665734d4306a829cd38761b"
+        },
+        {
+          "path": "instruction/course-01/modules/02.md",
+          "sha256": "42c0657961014bd82d05b58d77e57661423bdb97b353f48d289c16579626df39"
+        },
+        {
+          "path": "instruction/course-01/modules/03.md",
+          "sha256": "ca553c7248445a252abd64104790a79770091bf525eb9bd3fe01969a73a1ba6e"
+        },
+        {
+          "path": "instruction/course-01/modules/04.md",
+          "sha256": "217147369698e13a605bb4234c5e9b99674fcb60f8210eb8bee21ac8b6cc1405"
+        },
+        {
+          "path": "instruction/course-01/modules/05.md",
+          "sha256": "e7e3e88e6ba732ef3622981a139d520b0a294dbc55ed08a6ca95dc548ee4a810"
+        },
+        {
+          "path": "instruction/course-01/modules/06.md",
+          "sha256": "f2ad29d4db7e8b43c685d1f95c97708dfb2f153d7517917883a7a830d9cf0e83"
+        },
+        {
+          "path": "instruction/course-01/modules/07.md",
+          "sha256": "12308172ecd4929f3ee29235bd5e2ffad0164b808a5c16b3b49bc2491ee43067"
+        },
+        {
+          "path": "instruction/course-01/modules/08.md",
+          "sha256": "a2cdd408136fa6467a549fbb0a80fed2ab490b8ca9e0e12b2cb4f4b5b86ff83f"
+        },
+        {
+          "path": "instruction/course-01/modules/09.md",
+          "sha256": "81a539f21312e1aea1f8baa75e28e47e487b711be39c9585273d346c196f71da"
+        },
+        {
+          "path": "instruction/course-01/modules/10.md",
+          "sha256": "f4e2a40c08bedf4233e6ca0238cc52cfad52aa467c887580f1462a5107f2c1cb"
+        },
+        {
+          "path": "instruction/course-01/modules/11.md",
+          "sha256": "7fbf16a04fd25ae6d1522774d248637d570c284057922286e27ef7fd90496077"
+        },
+        {
+          "path": "instruction/course-01/modules/12.md",
+          "sha256": "6395aa6bbeeb71ecf142eb001a8e0307c6d6c0ff66bd959b9d7e847ef78835d0"
+        },
+        {
+          "path": "instruction/course-01/outcomes.md",
+          "sha256": "8574d8eae53004d108240ff9d684ee7efd3fba23e332bb094b3089426bb24553"
+        },
+        {
+          "path": "instruction/course-01/practical-reasoning.md",
+          "sha256": "ef3e66dc302533afcbb41572dc8c461f9fc822d9814a83036a6eac21f3049564"
+        },
+        {
+          "path": "instruction/course-01/review-queue.md",
+          "sha256": "7a45d419a45738f4bd11595fddd80af68a2c7760c32f6fe59ba22c48087aa40f"
+        },
+        {
+          "path": "instruction/course-01/sessions/01.md",
+          "sha256": "32f4cfe66609d897b67577bed0bcf1681f5bfbef72c61f449e4d07a850675964"
+        },
+        {
+          "path": "instruction/course-01/sessions/02.md",
+          "sha256": "5279ad94634b139a42435fc65f9758debca9281cc56dac8e756d2e47ba1b8196"
+        },
+        {
+          "path": "instruction/course-01/sessions/03.md",
+          "sha256": "e260f0f2ec21dec39928adb5959241345b8b5dbcc0a59eeafe6cbada7a0ca244"
+        },
+        {
+          "path": "instruction/course-01/sessions/04.md",
+          "sha256": "ada3398db1d462f91a986a3be7d8d9650c1f93cb2098e4b4c280551dd931362c"
+        },
+        {
+          "path": "instruction/course-01/source-audit.md",
+          "sha256": "9dda6187d889d36ed37a6068ce0922b3c31cb68ca4662a0931f12ecb0f8386af"
+        },
+        {
+          "path": "instruction/course-01/tutor-notes.md",
+          "sha256": "0d5ff85ded16e5c2334d679b9adc7b1f9aabe6c49aeb02e6ca452e232b762937"
+        },
+        {
+          "path": "instruction/course-01/verify.py",
+          "sha256": "aa8d87540fe7afe76903ad441a3ec7430e3e063b6e14c9fd565be11e40eccb41"
+        }
+      ],
+      "limits": "Sampled source verification; no learner pilot, human expert validation, rights clearance or rendered accessibility test."
+    },
+    {
+      "course_number": 2,
+      "reviewed_on": "2026-10-20",
+      "reviewer_role": "independent course content reviewer",
+      "requested_model": "gpt-6-astra",
+      "runtime_identity_attested": false,
+      "result": "accepted after fixes",
+      "report": "implementation/reviews/2026-10-20-courses-01-04.md",
+      "inventory_sha256": "714bdb14cedb89798e25087f01f6d26840b41a65a8500d2f2b47d5cf99e99c14",
+      "files": [
+        {
+          "path": "instruction/course-02/README.md",
+          "sha256": "f9c2f8b13b91e09a0248dd739f53a9768c1091568f5c4a5f2035bac6168f8252"
+        },
+        {
+          "path": "instruction/course-02/assessment.md",
+          "sha256": "08a2bffee5123607695c5a5ec0a5aaa9c7a725f11cdb9106d6a4bc0bf30692e9"
+        },
+        {
+          "path": "instruction/course-02/authoring.json",
+          "sha256": "7bdbf8e497e0bc8ac3c3a127a7352b66438d542c29ef2a8b48056bf930616394"
+        },
+        {
+          "path": "instruction/course-02/checks/README.md",
+          "sha256": "69f1bc4129fb47cd9f1699984472e8be788a610ab31c7c4109163893a3210b1c"
+        },
+        {
+          "path": "instruction/course-02/checks/results.json",
+          "sha256": "0c3d70a6ad0d35cd019feaac6afd392a75b8f44cb608070ac6712b689407e20c"
+        },
+        {
+          "path": "instruction/course-02/checks/verify.py",
+          "sha256": "9e5ee8bd2464b196c39ae9b515cebb83881f5dbe8e3923c8947431cfe9d67b4a"
+        },
+        {
+          "path": "instruction/course-02/examiner-notes.md",
+          "sha256": "7c7d452eab8694798d460463810c06c78275f13f8ff3c1a56bf8804a31e2556b"
+        },
+        {
+          "path": "instruction/course-02/first-logic-packet.md",
+          "sha256": "064de8893b635bb0283fd336a72247e81f5ff1ef79ddb29c08975ba49f9588ff"
+        },
+        {
+          "path": "instruction/course-02/modules/01.md",
+          "sha256": "f11eb58fd7cf120bffa1e81bce1591263eb57c1a8b561caa6c14f772930918ce"
+        },
+        {
+          "path": "instruction/course-02/modules/02.md",
+          "sha256": "97ada84e8bdcc489124add4e7883a98c12709e6fb208f24460e5e76422abe09b"
+        },
+        {
+          "path": "instruction/course-02/modules/03.md",
+          "sha256": "a8232ba4f663c5184126d51ffe44b8033c9152e0cb3755eb428f2f0c46f908e4"
+        },
+        {
+          "path": "instruction/course-02/modules/04.md",
+          "sha256": "5bdd1987d9e2dea317eafb510ea120f8e2b67651d4f0e1d58849b76fccdc27a1"
+        },
+        {
+          "path": "instruction/course-02/modules/05.md",
+          "sha256": "6d89f1c027118ff33baab9490f69095c7ac8c93b9cde8b5c41770c20947b32e4"
+        },
+        {
+          "path": "instruction/course-02/modules/06.md",
+          "sha256": "01943c4294c4d5cafcb7fa793f8990d28e0ed79760777da2e82735243768343e"
+        },
+        {
+          "path": "instruction/course-02/modules/07.md",
+          "sha256": "2f892275876519bb0d774111bfbcbb8e3a274174ed96d694cf3f480f24e83722"
+        },
+        {
+          "path": "instruction/course-02/modules/08.md",
+          "sha256": "72ddb626e5059c38d779eae1755143cc069048f07c91a0260cd5ef7e8b843e6a"
+        },
+        {
+          "path": "instruction/course-02/outcomes.md",
+          "sha256": "4a9904fb0d79e0a220bab4b808e565a280381e9b72ff86a41f3542e31cce4623"
+        },
+        {
+          "path": "instruction/course-02/practice-solutions.md",
+          "sha256": "89a6fcac7ec4659af83892e120a67093828ed2549df1430723ac29fed0186c3a"
+        },
+        {
+          "path": "instruction/course-02/proof-solutions.md",
+          "sha256": "54b8e203505ace5197690a87ab5962f3f6fa7da837e7e05e2167748f99e06b0b"
+        },
+        {
+          "path": "instruction/course-02/source-audit.md",
+          "sha256": "dcc7607da03682a49071971f54ef2c78a71822891866f0af97c59cdc1f61f9a4"
+        }
+      ],
+      "limits": "Sampled source verification; no learner pilot, human expert validation, rights clearance or rendered accessibility test."
+    },
+    {
+      "course_number": 3,
+      "reviewed_on": "2026-10-20",
+      "reviewer_role": "independent course content reviewer",
+      "requested_model": "gpt-6-astra",
+      "runtime_identity_attested": false,
+      "result": "accepted after fixes",
+      "report": "implementation/reviews/2026-10-20-courses-01-04.md",
+      "inventory_sha256": "4a3b1c278ed95c7f49a67fd0325ec9de2822a27e5d958ae08896274cce7540e3",
+      "files": [
+        {
+          "path": "instruction/course-03/README.md",
+          "sha256": "de23f1809a28c11607408764c15700aaabd1014d13e67b19bae3b719672b359a"
+        },
+        {
+          "path": "instruction/course-03/assessment.md",
+          "sha256": "523d2beca71d4801e0daf9ebec7cb62044e1bb3512ab1ee8a58d9f2b96489a7f"
+        },
+        {
+          "path": "instruction/course-03/authoring.json",
+          "sha256": "60e7712eba4f06684cf57701e6428f718c7dc1a41037bc92988c7ea034ab650a"
+        },
+        {
+          "path": "instruction/course-03/examiner-notes.md",
+          "sha256": "49225d9b544f28fd1e5eea0819648d63a7a312fe8d332476d8080a6af94fa59e"
+        },
+        {
+          "path": "instruction/course-03/modules/01.md",
+          "sha256": "e5b14ac8842ee0d3c0c57955432db991bfd8b6a9ab796b6994853af890863b2f"
+        },
+        {
+          "path": "instruction/course-03/modules/02.md",
+          "sha256": "65365f729c2069014addadf92b1dc234ef6baac0feb4d0dc30509ab9bef23936"
+        },
+        {
+          "path": "instruction/course-03/modules/03.md",
+          "sha256": "65414f8a78e212ca2479497230bcff20f23e74dce45d2c6c34ec209d54972129"
+        },
+        {
+          "path": "instruction/course-03/modules/04.md",
+          "sha256": "4db8cf041df468e0eae47a5337d2fbd8f375adb50bea4610c79f4738ceb960b4"
+        },
+        {
+          "path": "instruction/course-03/modules/05.md",
+          "sha256": "257eae98fcaf0c43728b6481e7d214a2015923bc6720247b767c05d8d8943620"
+        },
+        {
+          "path": "instruction/course-03/modules/06.md",
+          "sha256": "b6b78e5322b859c842fa02645f5113baeb9966d6ae423e76188bf0d6bbe88ad6"
+        },
+        {
+          "path": "instruction/course-03/modules/07.md",
+          "sha256": "06621dd4d5ddc6dfaa832e9ec9006e1647a9555005633026736e266f19a383b9"
+        },
+        {
+          "path": "instruction/course-03/modules/08.md",
+          "sha256": "003d36c869506db5082012699f1f02870b2a6f21db89a10fe6035dda174a412a"
+        },
+        {
+          "path": "instruction/course-03/outcomes.md",
+          "sha256": "174cc1ac4f891bcdbb02119f5f70481afa20dbbf2c1eafdf85412b56fe79f482"
+        },
+        {
+          "path": "instruction/course-03/readings.md",
+          "sha256": "4f5580279a0baee8bdd5fa1917d822f39c4419e976ead91b8693d0c1fc386384"
+        },
+        {
+          "path": "instruction/course-03/source-audit.md",
+          "sha256": "51b419838267d60597b356b60e0e8b66cbe593399d4850251ca721c4d3a120a4"
+        },
+        {
+          "path": "instruction/course-03/tutor-notes.md",
+          "sha256": "bc3c012bdc340dd147d2de3e273b652de7f19d6d31b978f817986f5cd05a2ed7"
+        },
+        {
+          "path": "instruction/course-03/verification.json",
+          "sha256": "8b02217191274012a0b7d5475633186415bbaad363e00d89f87a6737385d9c3d"
+        }
+      ],
+      "limits": "Sampled source verification; no learner pilot, human expert validation, rights clearance or rendered accessibility test."
+    },
+    {
+      "course_number": 4,
+      "reviewed_on": "2026-10-20",
+      "reviewer_role": "independent course content reviewer",
+      "requested_model": "gpt-6-astra",
+      "runtime_identity_attested": false,
+      "result": "accepted after fixes",
+      "report": "implementation/reviews/2026-10-20-courses-01-04.md",
+      "inventory_sha256": "6ef38a06401564b701a786b308f28cd0957cf13312a1d6b76396d23728fecad9",
+      "files": [
+        {
+          "path": "instruction/course-04/README.md",
+          "sha256": "697777996fe3d8c0fb8c36e520835b15d4162e65a5b4d0c045536d3dba0f02b5"
+        },
+        {
+          "path": "instruction/course-04/assessment.md",
+          "sha256": "db60fc6f848af62f44f5094e46413c6d0813b8f4f1dc62850c55809ac2409ee2"
+        },
+        {
+          "path": "instruction/course-04/authoring.json",
+          "sha256": "49ed94b5da91ac648c1604556b8bdd7b9010ddcb5d7b128d0259467b2d7c0525"
+        },
+        {
+          "path": "instruction/course-04/examiner-notes.md",
+          "sha256": "dc5a741a347c5c1391722567d8ae055a32d89c4c75edc2a9272ea5eb9a20dffe"
+        },
+        {
+          "path": "instruction/course-04/modules/01.md",
+          "sha256": "e22c466bf5b9c358dd2f0c1d007f6cc7fd436b9d34947de5de3d5d52c19dbc1f"
+        },
+        {
+          "path": "instruction/course-04/modules/02.md",
+          "sha256": "b3831ecfcd43939b9d9007eeaee30302219fc1b0e396c30399f652777a9b3ad2"
+        },
+        {
+          "path": "instruction/course-04/modules/03.md",
+          "sha256": "5a3d32ec4ce6c9fa37eaffcb16b9dcb67ba8a2bccf9104636df4b00a0a513076"
+        },
+        {
+          "path": "instruction/course-04/modules/04.md",
+          "sha256": "c29b7b20c140165d54266e7bb910a9fe6cd967ba736928573cab87b0e968b6da"
+        },
+        {
+          "path": "instruction/course-04/modules/05.md",
+          "sha256": "c970be16d4d4b7a39aaf8bd3d1beb0d2f4ba564c3fb2eb598498144e958ef7d5"
+        },
+        {
+          "path": "instruction/course-04/modules/06.md",
+          "sha256": "ddef0ae516d6405050960a4a85282626b2bf4d4d9d7374dab91e1f8a39c63cc8"
+        },
+        {
+          "path": "instruction/course-04/modules/07.md",
+          "sha256": "dab67d792522218226b3bebe211574a771403cc404318762ba841ec71b4f682c"
+        },
+        {
+          "path": "instruction/course-04/modules/08.md",
+          "sha256": "c8c2f1b8a6446cf7922870a3aa2da846ca2a07d7aad7e7fa9c08b3bfb08fe42b"
+        },
+        {
+          "path": "instruction/course-04/outcomes.md",
+          "sha256": "1bf501e3362993b8a2d7fb7a5446fd73f7e0d44a96887f5b0380dedd1ab97270"
+        },
+        {
+          "path": "instruction/course-04/pc-30-evil.md",
+          "sha256": "32218f2cc515e70aafc9fbe0644055c072cadc94cc57f018ca7effd0d6f4b64e"
+        },
+        {
+          "path": "instruction/course-04/source-audit.md",
+          "sha256": "143a9deb19a9ebc5986b7bee3d46b954ad447e1fe1b3bcebc49962b820abd1ea"
+        },
+        {
+          "path": "instruction/course-04/tutor-notes.md",
+          "sha256": "4c2a9d7b81e2f73d62da643e12d05e296adb2c9bd4fd93e9616055f0e94f85ec"
+        },
+        {
+          "path": "instruction/course-04/verification.json",
+          "sha256": "d2d9f58348f423642b463684eb78e11155107f365eaec4d77b90767af5a2d65d"
+        }
+      ],
+      "limits": "Sampled source verification; no learner pilot, human expert validation, rights clearance or rendered accessibility test."
+    },
+    {
+      "course_number": 5,
+      "reviewed_on": "2026-10-20",
+      "reviewer_role": "independent course content reviewer",
+      "requested_model": "gpt-6-astra",
+      "runtime_identity_attested": false,
+      "result": "accepted after fixes",
+      "report": "implementation/reviews/2026-10-20-courses-05-06.md",
+      "inventory_sha256": "44d6ce91d79e5dc912304b7f5560af9da9101d26df70ab5f23f15bd050a7232e",
+      "files": [
+        {
+          "path": "instruction/course-05/README.md",
+          "sha256": "41a8a1aab3f6521570f3b817ec5350500b870eca9c15cc2c45b2ec19a7a6b73c"
+        },
+        {
+          "path": "instruction/course-05/additions/pc-30-evil.md",
+          "sha256": "d844d171575eb4610c24867786c9d240afb5900409778adcfb02d74bfa0a2a71"
+        },
+        {
+          "path": "instruction/course-05/assessment.md",
+          "sha256": "64a1b89be90aa15a173d239859f5d19bd64b82a60ca696dde6b5fd908c3a773d"
+        },
+        {
+          "path": "instruction/course-05/authoring.json",
+          "sha256": "1b2a47b178c16bf8b00ab83cb1aaaf26e8378dc51b5ec12ea88fe50b6044e2ab"
+        },
+        {
+          "path": "instruction/course-05/examiner-notes.md",
+          "sha256": "d31f87858191d95c0a7564dc0c3df3889099c4d5e062db0841c3b958ccfc2e24"
+        },
+        {
+          "path": "instruction/course-05/modules/01.md",
+          "sha256": "7aceca82e199fd00e89863dfca7b2cdec2cc236b351f3256805236346db78771"
+        },
+        {
+          "path": "instruction/course-05/modules/02.md",
+          "sha256": "9e28d4a53efbf0d1c6758085bdd09924289bc1f6c0a81aeed9620192be4cde9a"
+        },
+        {
+          "path": "instruction/course-05/modules/03.md",
+          "sha256": "82838be79093d4cdade340e0fc827f20d4a5ae1bf23908068ad9d666d0edc416"
+        },
+        {
+          "path": "instruction/course-05/modules/04.md",
+          "sha256": "4081d38506d5761b161c1f9f4820c45f185f3e3c78f89952d4f0407f077976bb"
+        },
+        {
+          "path": "instruction/course-05/modules/05.md",
+          "sha256": "3eef25000c63cefca221401b4a37fb980675fa8ff3760d2ee126d8962b6378ab"
+        },
+        {
+          "path": "instruction/course-05/modules/06.md",
+          "sha256": "41792ccce8ff26c6a3fca74b62488e51f7817ed87612aa4ff4ccc1ed5842af15"
+        },
+        {
+          "path": "instruction/course-05/modules/07.md",
+          "sha256": "3e7ca8ee493d99be35dcd3aa30d9ec229aad7d920ec1316e5dccaa1bdbd9f5b9"
+        },
+        {
+          "path": "instruction/course-05/modules/08.md",
+          "sha256": "942d4d9c4d5e920739a53839284bf1fc7b46f4e22543ec42bcb1126c4cf59ca0"
+        },
+        {
+          "path": "instruction/course-05/outcomes.md",
+          "sha256": "9fec6b05a2c8fe85747d977e20f7fd5082e07b8de1446fb77317eb7f53ba7dcd"
+        },
+        {
+          "path": "instruction/course-05/source-audit.md",
+          "sha256": "c1877686372468ab132887a7dfafc8a85a477e0821e4b55d7a2356f1bdeea12e"
+        },
+        {
+          "path": "instruction/course-05/tutor-notes.md",
+          "sha256": "743d025df0db44e6f6eca996d77d7cf171fbce0585cbcc94a309e26388d7c8ad"
+        },
+        {
+          "path": "instruction/course-05/verification.md",
+          "sha256": "a6e8059a027186a7f7e78ed4510cfd52ca8fe6b21e75b519a0e5ed3011ec90b5"
+        }
+      ],
+      "limits": "Selected primary-source verification; no learner pilot, human expert validation, rights clearance or rendered accessibility test."
+    },
+    {
+      "course_number": 6,
+      "reviewed_on": "2026-10-20",
+      "reviewer_role": "independent course content reviewer",
+      "requested_model": "gpt-6-astra",
+      "runtime_identity_attested": false,
+      "result": "accepted after fixes",
+      "report": "implementation/reviews/2026-10-20-courses-05-06.md",
+      "inventory_sha256": "9c8fa8e3f52ab4867ed96e869105fc2883126b916c138647ff6ff9079084a5d7",
+      "files": [
+        {
+          "path": "instruction/course-06/README.md",
+          "sha256": "147cecfce6ff2b42124d660d3389a97cd11eae65f1142b7f3de1e30b4f52cf35"
+        },
+        {
+          "path": "instruction/course-06/additions/pc-27-metaethics.md",
+          "sha256": "e13cfeddd4314349d88d5b42064e386fb6972313a0b97637ae2d2d5cd474d7a6"
+        },
+        {
+          "path": "instruction/course-06/additions/pc-33-sartre.md",
+          "sha256": "216f60484cf325d5a07dcf93763b47c8401a61363c032a975e53ad6204e7aa31"
+        },
+        {
+          "path": "instruction/course-06/assessment.md",
+          "sha256": "d5a30f17a999f812f1910e5c57098bd9583a6dcfef094150987630309c6fd59c"
+        },
+        {
+          "path": "instruction/course-06/authoring.json",
+          "sha256": "96e4459b52e49a0f985a577140f299a753a0f25578aeb6018e8f59422e85fe9f"
+        },
+        {
+          "path": "instruction/course-06/examiner-notes.md",
+          "sha256": "d8212fb1d928cc9f05e2cb5751ed70e1cc213338ae978f28367c344e071707aa"
+        },
+        {
+          "path": "instruction/course-06/modules/01.md",
+          "sha256": "15269052b90562838a58801b1988d4628f35ce6531d75b1b255e435dc8b206aa"
+        },
+        {
+          "path": "instruction/course-06/modules/02.md",
+          "sha256": "0169b4dae0478faf47ef2da0322786d01837483b462ae41b88eb57bdd548a409"
+        },
+        {
+          "path": "instruction/course-06/modules/03.md",
+          "sha256": "71026cf54cb92831e2a506b82afe5b7beb04e2148ccce4bb7c4358734354cdd6"
+        },
+        {
+          "path": "instruction/course-06/modules/04.md",
+          "sha256": "73670a55d399d2eecc0a722d21256ae3bee3650e217f7df1085190326e2b078b"
+        },
+        {
+          "path": "instruction/course-06/modules/05.md",
+          "sha256": "6a684916526c7473ee1fc1d94a08872ba6200d519a6254f094afeead3ef62070"
+        },
+        {
+          "path": "instruction/course-06/modules/06.md",
+          "sha256": "c46665686485910e986ba10a93087c3d8ce42edd4d4e759bec0067d3821b21b2"
+        },
+        {
+          "path": "instruction/course-06/modules/07.md",
+          "sha256": "89e8ff9f82debe2a6e1a38db63e767ed0746c8a071e8fe713f44f88568078cae"
+        },
+        {
+          "path": "instruction/course-06/modules/08.md",
+          "sha256": "2437e0f14070cea96c9f85cdb69e14d1d31d81309c4bc948a0344826f3c08b0f"
+        },
+        {
+          "path": "instruction/course-06/outcomes.md",
+          "sha256": "4e79029cfa4d028f1b6813c3a0832698a630e7b77fbdf4be96def84dd403fc8d"
+        },
+        {
+          "path": "instruction/course-06/source-audit.md",
+          "sha256": "b6859cf050d601de59790bf250704cb1fb27bb46e2596e0832bfd2476526b2d8"
+        },
+        {
+          "path": "instruction/course-06/tutor-guide.md",
+          "sha256": "80f582783b936b119b29313566cc6177c51166ec7bcd665fe8f1e03fde7e37a1"
+        },
+        {
+          "path": "instruction/course-06/verification.json",
+          "sha256": "3c68d6da2e01aaea69cb28dcf59443c4c654df70fb58f2f6bac95e43b62cebb8"
+        },
+        {
+          "path": "instruction/course-06/worked-comparison.md",
+          "sha256": "a58806e685c6e6e3fc83469349ac3679cf12681137e90afd9cae1eb78027a879"
+        }
+      ],
+      "limits": "Selected primary-source verification; no learner pilot, human expert validation, rights clearance or rendered accessibility test."
+    },
+    {
+      "course_number": 7,
+      "reviewed_on": "2026-10-20",
+      "reviewer_role": "independent course content reviewer",
+      "requested_model": "gpt-6-astra",
+      "runtime_identity_attested": false,
+      "result": "accepted after fixes",
+      "report": "implementation/reviews/2026-10-20-courses-07-08-11-13.md",
+      "inventory_sha256": "9330b8bcdc0afb5d5a4cd7ed655da15ca74cf617b2c7e49f6724b92533ca01d3",
+      "files": [
+        {
+          "path": "instruction/course-07/README.md",
+          "sha256": "fbb645b4dc40f9f56f0d0723ca807e7a0151e997a8f5436b0a6a70e0bf24504d"
+        },
+        {
+          "path": "instruction/course-07/additions/pc25.md",
+          "sha256": "aecf94e728b6f6b55362bbafc5b31fb2098841e108afd25bd1ecf511f9a1365a"
+        },
+        {
+          "path": "instruction/course-07/additions/pc26.md",
+          "sha256": "8fd44a182eba9ef0b89fa34054429f5e13ca0d90d3fbc232f862c4c2785a9f58"
+        },
+        {
+          "path": "instruction/course-07/additions/pc32.md",
+          "sha256": "2483d403f8e51b00c859c903243188521af8c041487195b1944b3a3865e11d3c"
+        },
+        {
+          "path": "instruction/course-07/assessment.md",
+          "sha256": "3f4e8e27dc17aaa1b6aac6590d584533e66dd866f5da75f8c80031d7dba1f6c1"
+        },
+        {
+          "path": "instruction/course-07/authoring.json",
+          "sha256": "6fd24e654d4c174b676739c59a1e0701d41f8c8256fc7a6da006dfa2cf6b2ce8"
+        },
+        {
+          "path": "instruction/course-07/examiner-notes.md",
+          "sha256": "61963b33029f469b6694b89ab6b97c559f9d58b6f57cd2f28c6ddf98ec29b980"
+        },
+        {
+          "path": "instruction/course-07/examples.md",
+          "sha256": "da66989e29473f3ab2eb8b44630f0f8337835e9820fdd958cf66e988f43ccfe7"
+        },
+        {
+          "path": "instruction/course-07/modules/01.md",
+          "sha256": "d35dfe2e7f01473a6ce1891288763cf5681b3901e4b86559f3c499d299397c7e"
+        },
+        {
+          "path": "instruction/course-07/modules/02.md",
+          "sha256": "e1e1c9b4439048364bd9ad2be2151614b378ac6beae9096a9d5f6d1c71bd7b4a"
+        },
+        {
+          "path": "instruction/course-07/modules/03.md",
+          "sha256": "06171e3ddc41387261e43b7f262d6d584ac313e374a959e0b0029ae209c6a308"
+        },
+        {
+          "path": "instruction/course-07/modules/04.md",
+          "sha256": "4bf8ceea75a9d4b8b11665369c2304577ab46bc79ce2c1b632d87fb9af639111"
+        },
+        {
+          "path": "instruction/course-07/modules/05.md",
+          "sha256": "6a934ae3d54858d86a3cff210731beb6f295db6ec526b2926eee7a6224e8dc0a"
+        },
+        {
+          "path": "instruction/course-07/modules/06.md",
+          "sha256": "b6a01533d60270e7bee988dd8316a9c7aa10cedceddf72ecd70e4f01e557a5fe"
+        },
+        {
+          "path": "instruction/course-07/modules/07.md",
+          "sha256": "9912045f987741cc84612eab581fd688c0ec43819da7b0fdec93c1c4b8c4a6a1"
+        },
+        {
+          "path": "instruction/course-07/modules/08.md",
+          "sha256": "d3d57514ab40e4f6e1dafdd2c138bdfa3b117b92cf9bc4c615af93486e007a20"
+        },
+        {
+          "path": "instruction/course-07/outcomes.md",
+          "sha256": "45eebf9e4b536090ae32f3554e039eb1810e1a83123484dc1cb1a305d3063c16"
+        },
+        {
+          "path": "instruction/course-07/readings.md",
+          "sha256": "3f99027ef4c15350708614b6b4d5ad9505cca1bbabffa2c1fdbb65419342dc6a"
+        },
+        {
+          "path": "instruction/course-07/source-audit.md",
+          "sha256": "65eda9bffa98a452288ec0325094d30a9f1952a64c90169b550c73958224caa8"
+        },
+        {
+          "path": "instruction/course-07/source-fingerprints.json",
+          "sha256": "6ca7fa386905e8bebed7caa120cf7eed8043e1e2be47cb19eb237efe7e429bd8"
+        },
+        {
+          "path": "instruction/course-07/tutor-guide.md",
+          "sha256": "89bb32c6029f201e55ab7185aef285a3c407a01898dcb6632ae3a7a96a1de131"
+        },
+        {
+          "path": "instruction/course-07/verification-results.json",
+          "sha256": "9503b0e72c66e8b4071fe70c1b397d1024714921e04034b01e103517b8bc4ece"
+        },
+        {
+          "path": "instruction/course-07/verification.md",
+          "sha256": "28179c765fdff32b504067e6ce78873e00f1f4fba1332b0acbf5a07db6bd9abb"
+        },
+        {
+          "path": "instruction/course-07/verify.py",
+          "sha256": "bcae060dd14b79524d27d18f5bf28183092c5fc9c6af2711e33a1d96c7238e3f"
+        }
+      ],
+      "limits": "Selected primary-source verification and disclosed edition/access dependencies; no learner pilot, human expert validation, rights clearance or rendered accessibility test.",
+      "additional_review": "implementation/reviews/2026-10-20-cross-course.md"
+    },
+    {
+      "course_number": 8,
+      "reviewed_on": "2026-10-20",
+      "reviewer_role": "independent course content reviewer",
+      "requested_model": "gpt-6-astra",
+      "runtime_identity_attested": false,
+      "result": "accepted after fixes",
+      "report": "implementation/reviews/2026-10-20-courses-07-08-11-13.md",
+      "inventory_sha256": "5f2967a86fd33f106ea3bf15a542b6beeffb3c1d835cc2739643809ff34be0d5",
+      "files": [
+        {
+          "path": "instruction/course-08/README.md",
+          "sha256": "01ee1a8a1335bcf3c42b8f97351df6668fb1fd5d699ce62dc643f8da534fd8f2"
+        },
+        {
+          "path": "instruction/course-08/additions/pc32-haslanger.md",
+          "sha256": "28cb90351017237fc18af5c089f34e62506fb1e558b0ea374f6e40d8ffc53f0a"
+        },
+        {
+          "path": "instruction/course-08/assessment.md",
+          "sha256": "b9bdd8451beff9867eec8a6fa112d4c7712c02c278ae653fdc17406db4c5a7e1"
+        },
+        {
+          "path": "instruction/course-08/authoring.json",
+          "sha256": "bd57815c59c9777c5f3485abbc2641d441392bd7c818c2f6b48205d7b0dc10c6"
+        },
+        {
+          "path": "instruction/course-08/check.py",
+          "sha256": "9234eaa4260978fada45e7ae689c9f92bc3c7063b6f1dfe8a0648420ebcb7580"
+        },
+        {
+          "path": "instruction/course-08/examiner-notes.md",
+          "sha256": "afb84efb91fbec712d25db252dcedf72757b66d54c982f05e06d486cc0ebf350"
+        },
+        {
+          "path": "instruction/course-08/examples.md",
+          "sha256": "01b74a593a75eed5511b903427e1674ed1bdc20ba7293362289963913600d3dd"
+        },
+        {
+          "path": "instruction/course-08/modules/01.md",
+          "sha256": "9f41641efea76c08be5e5e6c6d231c592922897946da8f6896f75be0c1b7833f"
+        },
+        {
+          "path": "instruction/course-08/modules/02.md",
+          "sha256": "9c553cd16796b2458267b6cf96e217a534fe2f997b2a2e3b33fd55077ab7b7b3"
+        },
+        {
+          "path": "instruction/course-08/modules/03.md",
+          "sha256": "98a379d5a7dafcc055f5742387d72c390a7d88cd113632df2caceb59c1dc15cc"
+        },
+        {
+          "path": "instruction/course-08/modules/04.md",
+          "sha256": "f2fcc63d3bd481b8dbcae49422a7f745cce50d264535d45fd2792de1b18197d1"
+        },
+        {
+          "path": "instruction/course-08/modules/05.md",
+          "sha256": "ed2e4e6cd2afcf2067872e483565465beac502a653703c8ba3fe48bfeb27c968"
+        },
+        {
+          "path": "instruction/course-08/modules/06.md",
+          "sha256": "2e4762079402d48f90df021a130847b15e6de1f9e009b0d5791a5d04e04a79ba"
+        },
+        {
+          "path": "instruction/course-08/modules/07.md",
+          "sha256": "6c08f0d8b2cc01bea1971979c7aaed3aecf2a04fa68e0aacf3a49b5dce013aa1"
+        },
+        {
+          "path": "instruction/course-08/modules/08.md",
+          "sha256": "06493066f603c5634e0e05b0387af14ac7100575d0645e7eed489e5c200d8326"
+        },
+        {
+          "path": "instruction/course-08/outcomes.md",
+          "sha256": "4feac2e48db1f410bd26084568d3125323c17af1a1f74cfd2521f9f94824fa40"
+        },
+        {
+          "path": "instruction/course-08/source-audit.md",
+          "sha256": "3f80f95a8e01281ccaa937766a193f7c5ef7e2e5e8da02c832a359a681720d56"
+        },
+        {
+          "path": "instruction/course-08/tutor-notes.md",
+          "sha256": "73296acee3a482fcf4e7d341ac4b323d6fca9a7e69b7c720073280e30da0d272"
+        },
+        {
+          "path": "instruction/course-08/verification.md",
+          "sha256": "3ed80c075d8b16af4f7f861d385c1d6f10559736ad9e981204e5d25f5238c69d"
+        }
+      ],
+      "limits": "Selected primary-source verification and disclosed edition/access dependencies; no learner pilot, human expert validation, rights clearance or rendered accessibility test."
+    },
+    {
+      "course_number": 9,
+      "reviewed_on": "2026-10-20",
+      "reviewer_role": "independent course content reviewer",
+      "requested_model": "gpt-6-astra",
+      "runtime_identity_attested": false,
+      "result": "accepted after fixes",
+      "report": "implementation/reviews/2026-10-20-course-09.md",
+      "inventory_sha256": "5e3deab7d88f9c5a0f23101c3afa28716ab704b52bb8e82dc5362ae5f794f3b6",
+      "files": [
+        {
+          "path": "instruction/course-09/README.md",
+          "sha256": "0d5174f363a1f887deb185c54295d274fa70b4af121c07b697b840428db326d9"
+        },
+        {
+          "path": "instruction/course-09/assessment-forms/delayed-a.md",
+          "sha256": "ad8dbd771b78e1e278136e4f5f8c193ed9ae2a8be7feaf017c4842cff6cd65af"
+        },
+        {
+          "path": "instruction/course-09/assessment-forms/delayed-b.md",
+          "sha256": "9d0ef29e61b339f55f3d551380e892832d98808a58776f765aa3e63ec60f0329"
+        },
+        {
+          "path": "instruction/course-09/assessment-forms/fresh-a.md",
+          "sha256": "fab87ae47b27dfb2a97092214f4135c9122ac8e20e4858ec52082e6ed47b9a65"
+        },
+        {
+          "path": "instruction/course-09/assessment-forms/fresh-b.md",
+          "sha256": "cc0efa6af948a8af7d723e81f4818a2d3c5ce65f62332ea557a03b3f860ff17a"
+        },
+        {
+          "path": "instruction/course-09/assessment.md",
+          "sha256": "b9e1eb4c6f1b3489dc7e16b2bf5969ce25981c8cebff4aa1ef469d60c6710ce6"
+        },
+        {
+          "path": "instruction/course-09/authoring.json",
+          "sha256": "7c418d3914879b620ca88630561e32478326cd0118cdce0b47eb26dad4538103"
+        },
+        {
+          "path": "instruction/course-09/causal-modal-bridge.md",
+          "sha256": "e742c9a25e3b50361f330416a61a65c31eef0f88179dfcc309e329d24ac30d3a"
+        },
+        {
+          "path": "instruction/course-09/examiner-notes.md",
+          "sha256": "fb24f97a6dca671ebee965fb9db12f03d303041294b6544f3d5e9e51de6f334d"
+        },
+        {
+          "path": "instruction/course-09/historical-interpretation-examples.md",
+          "sha256": "595d3eea2560dbc392f9acd8f800aeb2ea6864abe89bf764ae6c34e286527754"
+        },
+        {
+          "path": "instruction/course-09/modules/01.md",
+          "sha256": "f0be88a7a721cc0f85cb5ea29e20041be33d862ae85dbfb1bbbd9362be6d7766"
+        },
+        {
+          "path": "instruction/course-09/modules/02.md",
+          "sha256": "ff7677c7f76dfe1ae8d3bd6cc8960a4e56ab9fcd591ea2c672672280aadddba8"
+        },
+        {
+          "path": "instruction/course-09/modules/03.md",
+          "sha256": "8c4d767694617b30c35f40f6f035335d42bc4829a810887acf48753d3eded4cc"
+        },
+        {
+          "path": "instruction/course-09/modules/04.md",
+          "sha256": "42fdbf5dca78587e70ba533cf9e3c2011e3b401b3c31edfdfc77381fdc8ae3f6"
+        },
+        {
+          "path": "instruction/course-09/modules/05.md",
+          "sha256": "bd1a3984cd1bca71806c737e77e016d8f8e35c1b9edcc38c9d5ad13b3e34cdc2"
+        },
+        {
+          "path": "instruction/course-09/modules/06.md",
+          "sha256": "6fadb7390f51e35bb1e515133e23b688ed7ec9606d27534b44ad1124102ad3d3"
+        },
+        {
+          "path": "instruction/course-09/modules/07.md",
+          "sha256": "06c65a1ac836be57c5a1b4c73b97991c87a4e39724b46ba50d3d2a8d00f66b01"
+        },
+        {
+          "path": "instruction/course-09/modules/08.md",
+          "sha256": "3d0b7c0f47fd649fba3602fad280deda97039e51ec5fe8e86beaa9a618e1e15f"
+        },
+        {
+          "path": "instruction/course-09/outcomes.md",
+          "sha256": "41b840848a9089b1d1ac7e5f8d1b7a592ffb1936786882c8d3ac109b4a019fe7"
+        },
+        {
+          "path": "instruction/course-09/source-audit.md",
+          "sha256": "466e8e83c6aca44733e22219f129ec69c3ea8e6c8de267439e8491de424482ff"
+        },
+        {
+          "path": "instruction/course-09/tutor-notes.md",
+          "sha256": "e112d39d911672d5dfccd5ad8abd29fe16765b12caabdbfbeb4a70c993489a93"
+        },
+        {
+          "path": "instruction/course-09/verification.md",
+          "sha256": "8e01d4bd395ff5d589aeed1aff11a588219527eda5c089d44e9a3f3ddd4cb70d"
+        },
+        {
+          "path": "instruction/course-09/verify.py",
+          "sha256": "add54ceb65a346a968f7cd33e2b7bad818a1ef22cdaa8962a415d8728b26ff05"
+        }
+      ],
+      "limits": "Selected primary-source verification, exact modern-edition dependencies; no learner pilot, human expert validation, rights clearance or rendered accessibility test."
+    },
+    {
+      "course_number": 10,
+      "reviewed_on": "2026-10-20",
+      "reviewer_role": "independent course content reviewer",
+      "requested_model": "gpt-6-astra",
+      "runtime_identity_attested": false,
+      "result": "accepted after fixes",
+      "report": "implementation/reviews/2026-10-20-course-10.md",
+      "inventory_sha256": "36700eb7bdab370225b3fead417add8c8a9e6a6e4cddb788fd7b8f4829e3eb14",
+      "files": [
+        {
+          "path": "instruction/course-10/README.md",
+          "sha256": "fdb31df29d35f8e737be4251e471941c62c6cc5ae949f62969a39a87e6e80724"
+        },
+        {
+          "path": "instruction/course-10/assessment.md",
+          "sha256": "f3c16cdfe6acaf896a701f0420871a5da93fadc96c4abd2ca971a03fadc0c08e"
+        },
+        {
+          "path": "instruction/course-10/authoring.json",
+          "sha256": "18d25f863609a1394a246da71874bd3c5534acba893d82dbb4a671a8a50e92e2"
+        },
+        {
+          "path": "instruction/course-10/case-packet.md",
+          "sha256": "2ba095e8664392c7775c28d586c76586936448ec41d5f55f415b033e476a0f4b"
+        },
+        {
+          "path": "instruction/course-10/check.py",
+          "sha256": "3cb4a33634e7e9212a5e66d2dcc17bfad9dd47429286e91ef6020c10f7fc5ac2"
+        },
+        {
+          "path": "instruction/course-10/checks.md",
+          "sha256": "2e4a81435c5966d24dda1792f37416a68c3233ad78da1ffa53265ab81dcfc77f"
+        },
+        {
+          "path": "instruction/course-10/examiner-notes.md",
+          "sha256": "93a94c663cf51c779eafeb84ee1cecfa7ca5d325674404d7a27d7a40aa51dad0"
+        },
+        {
+          "path": "instruction/course-10/modules/01.md",
+          "sha256": "f4f251444b28ea1c006014dedc24bbd982804446dab6842577bdb3c757add643"
+        },
+        {
+          "path": "instruction/course-10/modules/02.md",
+          "sha256": "3fe97128bac401e919e8df8ea7baa2c5adc15a124cc80a86b337e97941036c72"
+        },
+        {
+          "path": "instruction/course-10/modules/03.md",
+          "sha256": "4d37b5eeb746c0fb5411ec0d6f307da830859e5c819917c56d79f896c6014b01"
+        },
+        {
+          "path": "instruction/course-10/modules/04.md",
+          "sha256": "859a5f52527b9d575da7c31b17b2b08ef0dab2a571c5173e34f710261cfb645e"
+        },
+        {
+          "path": "instruction/course-10/modules/05.md",
+          "sha256": "acd7850e7b2060a4a112061133915b8ec3cc0d72612a2175e45b13938cd16674"
+        },
+        {
+          "path": "instruction/course-10/modules/06.md",
+          "sha256": "b8ddf7e47c138397a9915bda64e46c7bb70529613b44320f546a886d088fe0a1"
+        },
+        {
+          "path": "instruction/course-10/modules/07.md",
+          "sha256": "41ba58413b5bb42ac9cc9a2d2779785d3038b0695897bf3698ce29dcfc8973b7"
+        },
+        {
+          "path": "instruction/course-10/modules/08.md",
+          "sha256": "137f16bdfc289f0193b08f4522aef34a644b16e1a44197c13848362c0ac8d4c2"
+        },
+        {
+          "path": "instruction/course-10/outcomes.md",
+          "sha256": "079b6627df83dafed2345446f9376c93fba4e09cc6f90b1755bd21e658e34f5d"
+        },
+        {
+          "path": "instruction/course-10/probability-bridge.md",
+          "sha256": "532a1bc679980dcac162074b56fe6aa6335e5d249b922e8a3d0145d0a65c57d1"
+        },
+        {
+          "path": "instruction/course-10/source-audit.md",
+          "sha256": "59009840d9608f7c76c2f73b1f8178061ac682877f962fd331ff8093ec32a36e"
+        },
+        {
+          "path": "instruction/course-10/tutor-notes.md",
+          "sha256": "2cfc397b08690ff300eeb9eb246bc648bc2d6b0daaeefc5291f81b22f1859dfd"
+        },
+        {
+          "path": "instruction/course-10/verification.json",
+          "sha256": "754616bb6155dc42f313ffc0d38a76ca29d7902990b9f0517b81e688359b498c"
+        },
+        {
+          "path": "instruction/course-10/worked-examples.md",
+          "sha256": "a85eb957d66d8813a2a477a2e4c5749b5e2cdbb4ee8cf973307db363bb9bdd58"
+        }
+      ],
+      "limits": "Bounded Hume/OpenStax source checks; assigned books and scientific packet access dependencies remain. No learner pilot, human expert validation, rights clearance or rendered accessibility test."
+    },
+    {
+      "course_number": 11,
+      "reviewed_on": "2026-10-20",
+      "reviewer_role": "independent course content reviewer",
+      "requested_model": "gpt-6-astra",
+      "runtime_identity_attested": false,
+      "result": "accepted after fixes",
+      "report": "implementation/reviews/2026-10-20-courses-07-08-11-13.md",
+      "inventory_sha256": "bbf11512b702b9b7e25554d8ff026880fb2f48bbace9282ebd6fd8bb2886094d",
+      "files": [
+        {
+          "path": "instruction/course-11/README.md",
+          "sha256": "d891d6b915003c81106cd0af83b7a0da663cacc76a19278d018d6bd509d9c6a4"
+        },
+        {
+          "path": "instruction/course-11/a/README.md",
+          "sha256": "f6dfdd6416587a1980083e018d2ba6809e424508752a35336cc0163bafa0d444"
+        },
+        {
+          "path": "instruction/course-11/a/modules/01.md",
+          "sha256": "3c33435cb46ec54d059658e81fd94077f881a4e8d19ae88856344ee80055939d"
+        },
+        {
+          "path": "instruction/course-11/a/modules/02.md",
+          "sha256": "aca11a8fd2f2a93c347afadfc31337b2cffa3c1827d6f16932a1a69ae8bdcdae"
+        },
+        {
+          "path": "instruction/course-11/a/modules/03.md",
+          "sha256": "a1a09c48c5e5ce98cde03019c810257d8e1fd289e3b439bc244f1c3d1ef3c335"
+        },
+        {
+          "path": "instruction/course-11/a/modules/04.md",
+          "sha256": "15be52c418bc1faddbb6c9d079125091d1520101d6576f926547c4e628b0194a"
+        },
+        {
+          "path": "instruction/course-11/a/modules/05.md",
+          "sha256": "0d1a8cdf3d7d25f7ccd8edc8a92e1976f6dfb5d82509ca468c8528adc631c1a5"
+        },
+        {
+          "path": "instruction/course-11/a/modules/06.md",
+          "sha256": "3b1547b7c03dd7a62b7b816ee61cc467689524443373d426e89d5d49db5b081e"
+        },
+        {
+          "path": "instruction/course-11/a/modules/07.md",
+          "sha256": "9df4f03789ba727822f4f71caab5c49da6f8c9a4514946ac2848afab1a2b7299"
+        },
+        {
+          "path": "instruction/course-11/a/modules/08.md",
+          "sha256": "c2ff1a4a453f8f4aa3dabb5f680bacb5eac76579ff09b07f75ebb506e2f0fc2d"
+        },
+        {
+          "path": "instruction/course-11/assessment.md",
+          "sha256": "6c276389189cc0aa1ee90aa2cf6b145677eea65e7c2094ebefdd067e5c85d1de"
+        },
+        {
+          "path": "instruction/course-11/authoring.json",
+          "sha256": "e75510ca03c55c460e10493a5c0f0676807188d0b947fb2ce6652068a1baa69c"
+        },
+        {
+          "path": "instruction/course-11/b/README.md",
+          "sha256": "ae846c4433bdde6be0c5df51a00231df79cfd50ff431e9ff1f88b2bf99febb5b"
+        },
+        {
+          "path": "instruction/course-11/b/modules/01.md",
+          "sha256": "6233293ec54146f65b509c113e7c9f078eef12d8e497f81174bf5661ac662f30"
+        },
+        {
+          "path": "instruction/course-11/b/modules/02.md",
+          "sha256": "66a212e4bd22a844c12a7e96f5e2f7af39bcb5a6f206ceb9522e378fcc28f4dc"
+        },
+        {
+          "path": "instruction/course-11/b/modules/03.md",
+          "sha256": "238bfdbc9aec18a1dd2b9192bb9ed64b27e9b1d99178a61ede41a81080559e4e"
+        },
+        {
+          "path": "instruction/course-11/b/modules/04.md",
+          "sha256": "dcbcf126fb406329183cc580c475d0553abc59f9434085d5dfdbbdcc103447c6"
+        },
+        {
+          "path": "instruction/course-11/b/modules/05.md",
+          "sha256": "b3bf8a4336bd3b269b40ef5eedffaa58c64e89a2bad0f2537909e5dea2cac589"
+        },
+        {
+          "path": "instruction/course-11/b/modules/06.md",
+          "sha256": "fa1120b133d468c40dbe5096e76f487afe279b77b0fe8b7efdd092ffaebaf31d"
+        },
+        {
+          "path": "instruction/course-11/b/modules/07.md",
+          "sha256": "dfbb6916467a88102e944741661cc192fd4e5ddfd02e4c398fea163cde9b2afc"
+        },
+        {
+          "path": "instruction/course-11/b/modules/08.md",
+          "sha256": "99194979f2bb1f9d348121784aeff3aecc0065855bf75204053379ada6bce676"
+        },
+        {
+          "path": "instruction/course-11/checks/timing.json",
+          "sha256": "be6a53dec6032a8000d46187a1b39e0a5c05d57581d1cddf61c5f5ee65bd2235"
+        },
+        {
+          "path": "instruction/course-11/checks/verify.py",
+          "sha256": "e90bafa964bfb13c24566e9f495a945e257b774edc5178102d56e59cfef20624"
+        },
+        {
+          "path": "instruction/course-11/examiner-notes.md",
+          "sha256": "7732d30fd386b3c8ffa9d9d7b739f73d53aa88a7c784015f120ee5e7c6f8ad41"
+        },
+        {
+          "path": "instruction/course-11/outcomes.md",
+          "sha256": "e6f3392fc24cef197cc400821d4d2bf17cdc37f14ba99200d734cab6f12ed501"
+        },
+        {
+          "path": "instruction/course-11/response-examples.md",
+          "sha256": "32cb949ea4f107d1352f04988dd6a89fb92bad639aed8a7c1f726193b5d4ccb6"
+        },
+        {
+          "path": "instruction/course-11/source-audit.md",
+          "sha256": "e502c4dde5a122e3a21b09aff32726fac8f231f8ddc941bca71e520f45a1632f"
+        },
+        {
+          "path": "instruction/course-11/tutor-notes.md",
+          "sha256": "22369679b1e848e753d795c10a59e567457f482cde4a277c03bf24f25f96a4a2"
+        },
+        {
+          "path": "instruction/course-11/verification.md",
+          "sha256": "b73c4485d04484f294de0b88786c9f4ff6d7b8ad93553642c6a238d185841faa"
+        }
+      ],
+      "limits": "Selected primary-source verification and disclosed edition/access dependencies; no learner pilot, human expert validation, rights clearance or rendered accessibility test."
+    },
+    {
+      "course_number": 12,
+      "reviewed_on": "2026-10-20",
+      "reviewer_role": "independent course content reviewer",
+      "requested_model": "gpt-6-astra",
+      "runtime_identity_attested": false,
+      "result": "accepted after fixes",
+      "report": "implementation/reviews/2026-10-20-course-12.md",
+      "inventory_sha256": "c079ed14baf4760d3425ffb24a2665267193bdc2861e0d3e96ffd9a404defa9e",
+      "files": [
+        {
+          "path": "instruction/course-12/README.md",
+          "sha256": "6ac31e0887439e677a3a92c1b74f8aadd5dd8d9f1ef13268fecc719a6b6825fa"
+        },
+        {
+          "path": "instruction/course-12/a/README.md",
+          "sha256": "5771687ec41a09bc7ca7b2f4ae64f1133db4c288d838b69727bed5520b374900"
+        },
+        {
+          "path": "instruction/course-12/a/assessment.md",
+          "sha256": "19607157e19acbabfaf136877504ceb5044537f8a0159828745f49815f0d92a1"
+        },
+        {
+          "path": "instruction/course-12/a/examiner-notes.md",
+          "sha256": "733d27b51109a200c062f40d21daf29f7c7f4d06eb45da9cfc8cd3d9bb67657f"
+        },
+        {
+          "path": "instruction/course-12/a/modules/01.md",
+          "sha256": "e62f66f0df2e875280e543d43bd5d95a0864cc1122d835edcba3676e6e4241e5"
+        },
+        {
+          "path": "instruction/course-12/a/modules/02.md",
+          "sha256": "f472bdc12b18ccb72b4602a8493d5b40c29b0cd84168072d9aba94f30f8e5391"
+        },
+        {
+          "path": "instruction/course-12/a/modules/03.md",
+          "sha256": "39d02b8b9cce541cc1f13eba32bb2f7c225234b37e21224779a579fb5461e894"
+        },
+        {
+          "path": "instruction/course-12/a/modules/04.md",
+          "sha256": "833f085ee238489ae800a157ac7d14792ebe742bbeccbf25ce2fdc68a80605f1"
+        },
+        {
+          "path": "instruction/course-12/a/modules/05.md",
+          "sha256": "b37129f051a58b73071bbdc5c233d21aa29d2ebe347cabfdeea2748ec8d77379"
+        },
+        {
+          "path": "instruction/course-12/a/modules/06.md",
+          "sha256": "2ebdd36ae0e499feadf9160daf887928c43e3818de706f1909d1f2109d6be77d"
+        },
+        {
+          "path": "instruction/course-12/a/modules/07.md",
+          "sha256": "09f6e496b81a70b489fafeb5a9dff0745234f8e3c631d8d46073bba7e1852a22"
+        },
+        {
+          "path": "instruction/course-12/a/modules/08.md",
+          "sha256": "5d6bda5bff9d15d1a4d9360dad2feaf2f7939131d8430568ee823ab1e526aa8a"
+        },
+        {
+          "path": "instruction/course-12/a/outcomes.md",
+          "sha256": "2136cd6bcff2a8d64a7a9d4db2d9c111d807c39c40fc7d43cb6c0b02ac86ae96"
+        },
+        {
+          "path": "instruction/course-12/a/source-audit.md",
+          "sha256": "1dbc4f77842b914811c8fd00d6a2cd4a0dbacb24ca58ccf945b220a805c1cc20"
+        },
+        {
+          "path": "instruction/course-12/a/tutor-notes.md",
+          "sha256": "8151f84b15e4ecf751f081111790c6ca9b75c464a76e2c1498ef8d3a9ef2c39e"
+        },
+        {
+          "path": "instruction/course-12/additions/examiner-notes.md",
+          "sha256": "7b8e0a3b4f5120ec0aeb0c62a304572523197ecfc0c341fb5196ee857901cc81"
+        },
+        {
+          "path": "instruction/course-12/additions/pc28-foundation.md",
+          "sha256": "09aca9cd39b7c5350053ea5409a626ffd85c9eedbb9b3c9ef4cfec81500d0367"
+        },
+        {
+          "path": "instruction/course-12/additions/pc28-grice.md",
+          "sha256": "3493b72d44737ea7202f3766901e1e96f585005393cfe5f08bcb3e500d51bfda"
+        },
+        {
+          "path": "instruction/course-12/additions/pc29-lewis.md",
+          "sha256": "9e63042e09f2154ac5323a465ae97cac2ce47ca33493f3821cbfd66722f568c5"
+        },
+        {
+          "path": "instruction/course-12/additions/pc29-smart.md",
+          "sha256": "f6498970eacd251aaf9ad70f2fe6655a729cf3b4ac238359457accc5801d2d0f"
+        },
+        {
+          "path": "instruction/course-12/additions/pc33-credit.md",
+          "sha256": "4153e4d9d429aaff7ebd4efd5d08de4b6e25aed4679017f1216c4a9613fddacc"
+        },
+        {
+          "path": "instruction/course-12/authoring.json",
+          "sha256": "16fc19ae66acf547007e57d27c03992eddc3546ed67cba0beea8938a2bb7e482"
+        },
+        {
+          "path": "instruction/course-12/b/README.md",
+          "sha256": "b82289798df9559483c7643118372f7c1e78bafdab73a528725eb1b83971e649"
+        },
+        {
+          "path": "instruction/course-12/b/artwork-dossier.md",
+          "sha256": "2c1806b71eae8ac4110557046f08bb41857f30fe338d9e2137f552670d1192d7"
+        },
+        {
+          "path": "instruction/course-12/b/assessment.md",
+          "sha256": "d8bd393bb6903878d78e6c31ce26fa42e438e0b51f653074dd25e4a17b15eaa3"
+        },
+        {
+          "path": "instruction/course-12/b/examiner-notes.md",
+          "sha256": "21a1c66b68bc5ad901c199fbf829c82fa9fbb438825675d1b66392381ba4a45c"
+        },
+        {
+          "path": "instruction/course-12/b/modules/01.md",
+          "sha256": "e8b6145a3936cdb6b114cf6d7d39387e5c110fdea8da96d007b3397b16b1ba6e"
+        },
+        {
+          "path": "instruction/course-12/b/modules/02.md",
+          "sha256": "cb53b5c48381a5c6c777d2dcbeb9646e0bf18c13ec315365dcc4254f9a8d10ce"
+        },
+        {
+          "path": "instruction/course-12/b/modules/03.md",
+          "sha256": "c971b45adda37959abcd9e1cacbfd87a8009ad45f2ee08cd7cb21c0fc98f95a1"
+        },
+        {
+          "path": "instruction/course-12/b/modules/04.md",
+          "sha256": "a4d2ec20840c187e462aae4d9d24a0f3382745662cfb871a719924c6b66a3a4f"
+        },
+        {
+          "path": "instruction/course-12/b/modules/05.md",
+          "sha256": "48806f04161242fba6de74f94b3b811d9b5c5208b5d48282d9e3e9c6861f5c98"
+        },
+        {
+          "path": "instruction/course-12/b/modules/06.md",
+          "sha256": "b5bf7f8227aea050a0c7e6e309e3a9beb753b15861d5b9aec0a5ad4f0980ee2d"
+        },
+        {
+          "path": "instruction/course-12/b/modules/07.md",
+          "sha256": "7618d42b0ae74dcdd5d19a54ac5db9e7b77e04c6d82b6558f8c2cd5792911121"
+        },
+        {
+          "path": "instruction/course-12/b/outcomes.md",
+          "sha256": "84d42ba6f8a6ae65a64b0a0015c8dd868c16465058ceb74ffbc1f804b78183c5"
+        },
+        {
+          "path": "instruction/course-12/b/source-audit.md",
+          "sha256": "0e12649d6a44225a9a1658a67eeec3d8ab165ea4f033048c62152ca96d349a4b"
+        },
+        {
+          "path": "instruction/course-12/b/tutor-notes.md",
+          "sha256": "5cef333c5f2d524011e3fa612ea37036245849443dcb9355c345248411194875"
+        },
+        {
+          "path": "instruction/course-12/c/README.md",
+          "sha256": "ba25307aa0da426969bf1bac39a2c83bf4c442bc82cfb3e9151e3f329f404d02"
+        },
+        {
+          "path": "instruction/course-12/c/assessment.md",
+          "sha256": "f12f8305acf78535db6d17b125b01bca2d99c990a116f25757fd38c39586ca56"
+        },
+        {
+          "path": "instruction/course-12/c/examiner-notes.md",
+          "sha256": "e1dcff978ca126d4211a77f7eb552357532481a8332e506942fda989526a3fa2"
+        },
+        {
+          "path": "instruction/course-12/c/modules/01.md",
+          "sha256": "d5fe6d03a184b7e73bcc289fb7ae94c3ce7e6a5fb97729d2c685369b9f2da317"
+        },
+        {
+          "path": "instruction/course-12/c/modules/02.md",
+          "sha256": "7ab26adbe4eea748102c0100ecaef7480eb42091f6aa2224280501b58b585cd9"
+        },
+        {
+          "path": "instruction/course-12/c/modules/03.md",
+          "sha256": "6dfac1064a37fd7385f968641ab36a8563fe24e53eda0d7e5f66cfb844109918"
+        },
+        {
+          "path": "instruction/course-12/c/modules/04.md",
+          "sha256": "d5aa05a54213090628740ed42af75927f9d0c01fceb16a15e1453bc2f9dd1325"
+        },
+        {
+          "path": "instruction/course-12/c/modules/05.md",
+          "sha256": "58bf5f7625d4212eba5b4af01c8a010828c28ab075820dcfc88bf0774d91c31f"
+        },
+        {
+          "path": "instruction/course-12/c/modules/06.md",
+          "sha256": "47c916d644fcf3e4dab2ce53f080f3cb9e1fe83f9c5b8e4fe2ea47f5f0bd1e8c"
+        },
+        {
+          "path": "instruction/course-12/c/modules/07.md",
+          "sha256": "e0ab4d2fdf2538278b55ceb604a8b93b24a62ec057a221d83fc800f91df4d719"
+        },
+        {
+          "path": "instruction/course-12/c/modules/08.md",
+          "sha256": "be6ecd7b8a0a7102eeb58033ab9cb0889229fca6c64d32acfdadbe3a636c084a"
+        },
+        {
+          "path": "instruction/course-12/c/outcomes.md",
+          "sha256": "0c3f55af2fa0c6d3808dd391df7396c6adf1caa7d416ffff03b51a07b91fbe6a"
+        },
+        {
+          "path": "instruction/course-12/c/source-audit.md",
+          "sha256": "3a75dcc03136fd8c801cde2ba4861250c21779b805cfa98227b1722ee5805939"
+        },
+        {
+          "path": "instruction/course-12/c/tutor-notes.md",
+          "sha256": "c14ba238d43f7c3325653f412f088b2401845cf8c971dbe4f49007db85004017"
+        },
+        {
+          "path": "instruction/course-12/comparison-progression.md",
+          "sha256": "06cae75ff3fc07ec593852da94cc2a665947616b92ec34e1aa4458beef1d4d8a"
+        },
+        {
+          "path": "instruction/course-12/d/README.md",
+          "sha256": "af8ddfbd5e33a9997bf99fc1b4a823804e031301e7aa36de858e492fe78a5d26"
+        },
+        {
+          "path": "instruction/course-12/d/assessment.md",
+          "sha256": "7e96c99c0b26ed7c6105f2607f2b12140eacb24afb21e0373461f9cc48e8e420"
+        },
+        {
+          "path": "instruction/course-12/d/examiner-notes.md",
+          "sha256": "fec33c8878565641c8a0fa8ec63b48d26bf78b1dc7ed07b2501adb0db0a1eceb"
+        },
+        {
+          "path": "instruction/course-12/d/modules/01.md",
+          "sha256": "cfc231b98b66f13ba8c964865039bb0710c4e4f9d3bb2feb8f656e0499c2985c"
+        },
+        {
+          "path": "instruction/course-12/d/modules/02.md",
+          "sha256": "355deea7dc5ce9985cf8f55af45ae3a72ef5d926ef8d232822fee99bec7c8d65"
+        },
+        {
+          "path": "instruction/course-12/d/modules/03.md",
+          "sha256": "a3a5f9bc8736067cad0fd580185c0e2b6fc3e7a8d417fe54271166d7d1d43bf0"
+        },
+        {
+          "path": "instruction/course-12/d/modules/04.md",
+          "sha256": "0362a554d353e096b48a9eb3388c549b90ea726a81df3a75157c23f16f32916a"
+        },
+        {
+          "path": "instruction/course-12/d/modules/05.md",
+          "sha256": "1c6ff7978615fe48e01e1a3aa2c5492c58a5ef9f412b3c400c8c896cf61d0480"
+        },
+        {
+          "path": "instruction/course-12/d/modules/06.md",
+          "sha256": "9a9406640e3fc3630cfac86dce7462121d738e6c88adaf9ab8705c11492e12fc"
+        },
+        {
+          "path": "instruction/course-12/d/modules/07.md",
+          "sha256": "daf38dcda21726db0b4c2dcf39f1b5a58e0b368f7ee0d24fb0476a9959bd1ba2"
+        },
+        {
+          "path": "instruction/course-12/d/modules/08.md",
+          "sha256": "04d8f0be1bc096362f1762c57e693d20d2bb03e91b8008a10fdf2a0232839951"
+        },
+        {
+          "path": "instruction/course-12/d/outcomes.md",
+          "sha256": "369a35ab99490022d99bbef5587c323255593fad7ffd227ce6ab3d9ccb27bda1"
+        },
+        {
+          "path": "instruction/course-12/d/source-audit.md",
+          "sha256": "dcb4c407fa1cecd528204480dd58182627bf750d4e237e6a965efd2301deb7a5"
+        },
+        {
+          "path": "instruction/course-12/d/tutor-notes.md",
+          "sha256": "a02391feed82447d90605ec2c4f3d5d9cda452edbd3a8adfaf3118dcbd39b1ee"
+        },
+        {
+          "path": "instruction/course-12/repair-matrix.md",
+          "sha256": "a339e76fad22de061fad9376f0c67ecd57bdf553848879494e9218e5e3f9c280"
+        },
+        {
+          "path": "instruction/course-12/source-audit.md",
+          "sha256": "8e9949f79b96d45596d4dc22bca2e30fb64745519279079fedc704c68ca160ee"
+        },
+        {
+          "path": "instruction/course-12/study-protocol.md",
+          "sha256": "12aa1db13bddc99a295b9a705821ade5ffd040aec65b73615766b248d02618c5"
+        },
+        {
+          "path": "instruction/course-12/validation.md",
+          "sha256": "3ef8de2abbe8c85db8d8fc35bf7eca24b4b7a5538a92b779432776e8ee392323"
+        }
+      ],
+      "limits": "Selected primary/artwork-source inspection and explicit exact-edition dependencies; no learner pilot, human expert validation, rights clearance or rendered accessibility test."
+    },
+    {
+      "course_number": 13,
+      "reviewed_on": "2026-10-20",
+      "reviewer_role": "independent course content reviewer",
+      "requested_model": "gpt-6-astra",
+      "runtime_identity_attested": false,
+      "result": "accepted after fixes",
+      "report": "implementation/reviews/2026-10-20-courses-07-08-11-13.md",
+      "inventory_sha256": "cdeb6ea9e45c429df3911cee0d5affb9f397580135e8d4d230a8d6a016af4318",
+      "files": [
+        {
+          "path": "instruction/course-13/README.md",
+          "sha256": "2e1474abbf24a52c154ad6cb44d872133ff8d04be43185f4df0c077bc9365610"
+        },
+        {
+          "path": "instruction/course-13/assessment.md",
+          "sha256": "8a908e110271e7e43ac523de629b7b0aa7eaad13f2851bf7b10498f9a22f675e"
+        },
+        {
+          "path": "instruction/course-13/authoring.json",
+          "sha256": "fdc760d0decbcc238a204d7255246fbb94a33b8b55c4f6a6a006566f1af95403"
+        },
+        {
+          "path": "instruction/course-13/check_authoring.py",
+          "sha256": "a2a67bfab9be9c110eb45574e7c73c1db4589f4fcfbf92f5724fc3b37ebf375d"
+        },
+        {
+          "path": "instruction/course-13/examiner-notes.md",
+          "sha256": "5b33f4af92c48fd01278b726f20358dd689bd21d5769263dee3458c0d63174ee"
+        },
+        {
+          "path": "instruction/course-13/exemplars.md",
+          "sha256": "52e715feaa265ddc3cf9cb1ebd11d4041d64da7d5d76c7511f825a376d80eeb0"
+        },
+        {
+          "path": "instruction/course-13/modules/01.md",
+          "sha256": "0455ebaaf531543de234096eaadfdc3401f519b71db9cdfed684e32689ebddbb"
+        },
+        {
+          "path": "instruction/course-13/modules/02.md",
+          "sha256": "9525bd6a8c06ea0b586d6a5a5e53e02fc179f7e68fe23db608983e31db732526"
+        },
+        {
+          "path": "instruction/course-13/modules/03.md",
+          "sha256": "13abb20e0b11929c9cb02480019ef850e8e5251e3406bfcfca48ffecedd8d389"
+        },
+        {
+          "path": "instruction/course-13/modules/04.md",
+          "sha256": "f2d2a7b5d5d2854ce86deb87f5ec514a646da475f53aeec870cea24a9b9f8831"
+        },
+        {
+          "path": "instruction/course-13/modules/05.md",
+          "sha256": "6f5df67eea86d67a9cf5c0c5b5000a6294c49cedfa5cb7ba71d09d5bb17593a9"
+        },
+        {
+          "path": "instruction/course-13/modules/06.md",
+          "sha256": "42fb28949703ffe28fa06ae5c8602050f990b4a2e17b2cdbb952690afb9166b0"
+        },
+        {
+          "path": "instruction/course-13/modules/07.md",
+          "sha256": "5cf4d4754469aaf7f4126fcf67c567f841be9df07a830ca945099d3470e0736c"
+        },
+        {
+          "path": "instruction/course-13/modules/08.md",
+          "sha256": "a587c609415a87b3939421b11fd7ef067e4512b6aab54ea3425a3f022d42fac9"
+        },
+        {
+          "path": "instruction/course-13/outcomes.md",
+          "sha256": "bcc2df4d85d6b37dc48142b94dcb74079b31b5330529097d51f8b32459ed4a16"
+        },
+        {
+          "path": "instruction/course-13/source-audit.md",
+          "sha256": "0ac1cce81b53af3bd263a215572893c8c3239015a2912e76ba1f2226de33d878"
+        },
+        {
+          "path": "instruction/course-13/sources.md",
+          "sha256": "84840a646d42291751dcb6b8f17b43dd316f5f63b409ea3d05842c472605b33e"
+        },
+        {
+          "path": "instruction/course-13/tracks/13a.md",
+          "sha256": "27cb2c67163b97c0f969907c8641ea96673e96798fc71098125f643fd7f07169"
+        },
+        {
+          "path": "instruction/course-13/tracks/13b.md",
+          "sha256": "046c470c7516f7f5f03d6a23b8b0f13598bf8711336592863f1457bf90a8996b"
+        },
+        {
+          "path": "instruction/course-13/tracks/13c.md",
+          "sha256": "3b9bcc5eb4080285f71b97394adee49fe67a92ba99fb072710fcc57734e96132"
+        },
+        {
+          "path": "instruction/course-13/verification.md",
+          "sha256": "8af8a5d86e0960d96b3e740ef26e5fecfbe0c067d41561442959726f618175d3"
+        }
+      ],
+      "limits": "Selected primary-source verification and disclosed edition/access dependencies; no learner pilot, human expert validation, rights clearance or rendered accessibility test."
+    },
+    {
+      "course_number": 14,
+      "reviewed_on": "2026-10-20",
+      "reviewer_role": "independent course content reviewer",
+      "requested_model": "gpt-6-astra",
+      "runtime_identity_attested": false,
+      "result": "accepted after fixes",
+      "report": "implementation/reviews/2026-10-20-course-14.md",
+      "inventory_sha256": "1f9be616e341c244d66c2400009a578915da0fac400b9db394f8749e5ba6daea",
+      "files": [
+        {
+          "path": "instruction/course-14/README.md",
+          "sha256": "51129dd6901a35ac8b8196027558ee7f3ef437c6177c436ddc9ff1da50dde5dd"
+        },
+        {
+          "path": "instruction/course-14/assessment.md",
+          "sha256": "e8aa1e77540fd90cfda4dcd7821ceab4ca7ec13f414bf7d19c3b424915c62547"
+        },
+        {
+          "path": "instruction/course-14/authoring.json",
+          "sha256": "5e075f87cd4e1765f695c47f14ffbc303f8dfa4c2cf1a52440de0dc86cf42fe5"
+        },
+        {
+          "path": "instruction/course-14/examiner-notes.md",
+          "sha256": "cb56c691f416f6eca0edf1601d8f714da20733259dc1a9300cf22c57f5bf71fe"
+        },
+        {
+          "path": "instruction/course-14/modules/01.md",
+          "sha256": "63445cbea4af5d162d095ad7944328d438355e36bfcfbec417fbfc68c166cfc8"
+        },
+        {
+          "path": "instruction/course-14/modules/02.md",
+          "sha256": "c3f601c869703c13426072dc54915d85b18bf0005cd2bc66bf676b8c3d2fbe6f"
+        },
+        {
+          "path": "instruction/course-14/modules/03.md",
+          "sha256": "e9c0d14fc36d14316f91e60fbcf0e940a30174fa673ef38e8cd76fffdb114490"
+        },
+        {
+          "path": "instruction/course-14/modules/04.md",
+          "sha256": "cd238415a4b5b20a9c71c3f99f5912f7a7fcf309392a12310dac2a8e3cf4137f"
+        },
+        {
+          "path": "instruction/course-14/modules/05.md",
+          "sha256": "8e88955bf725598f436fea6d3b87f277071050c6fd813fed568695ef607de7ed"
+        },
+        {
+          "path": "instruction/course-14/modules/06.md",
+          "sha256": "3241bf9d4d1a0b3f2c2e32c3e1025d225bffe629c482d5379eeee62cae67361c"
+        },
+        {
+          "path": "instruction/course-14/modules/07.md",
+          "sha256": "0102c33c7867277a1f55c72586f14eea69650bdb47d4e8a455db5033324b928c"
+        },
+        {
+          "path": "instruction/course-14/modules/08.md",
+          "sha256": "e1b974b86eede1e56a81002b0b0ef6aa8b9b250b2f288b583762b2e2489aeb4b"
+        },
+        {
+          "path": "instruction/course-14/outcomes.md",
+          "sha256": "655ed742d26ee2b1638858aaf550c998b6678bac7cb49e0f141a0520c3f93cbb"
+        },
+        {
+          "path": "instruction/course-14/source-audit.md",
+          "sha256": "45ac8d69311ca4789e0f6d747315d0b62effb6ca03800a0110302ff72530a197"
+        },
+        {
+          "path": "instruction/course-14/source-fingerprints.json",
+          "sha256": "80fa6fb0de75ef7571bd3fde4f22ba206d51a3ea2cb3bdce0b063fcb5cd8b5bd"
+        },
+        {
+          "path": "instruction/course-14/source-selection.md",
+          "sha256": "7b725e5889d4aa2ef7f36a2e027eae040bdee7d7b58d27a3c255740ec550153a"
+        },
+        {
+          "path": "instruction/course-14/templates.md",
+          "sha256": "4e3aad8ab6ce17d068803bb6dfa6c08d6a0ca1ed27cb7207a24551dce35dca55"
+        },
+        {
+          "path": "instruction/course-14/tutor-notes.md",
+          "sha256": "c4c0042bd5157dc94fb867dde7239f6631e7b58ffe286b409bfc3f5c507f17a9"
+        },
+        {
+          "path": "instruction/course-14/validate.py",
+          "sha256": "0d581e250a5a9e62ec37fa7e0fa5400544a360f1718943258dc8a9f161b63774"
+        },
+        {
+          "path": "instruction/course-14/verification.md",
+          "sha256": "31af6b83f5a9bd3f32cd0d13afd1720196a560745d9286cbcc0b1de07f6d1208"
+        },
+        {
+          "path": "instruction/course-14/worked-examples.md",
+          "sha256": "c0f9c9ef68dba22d2764e3883575c94a884ebff951d4b8ba8328b6b1ae18ec75"
+        }
+      ],
+      "limits": "Topic-specific research sources require learner selection/access; no learner pilot, human expert validation, rights clearance or rendered accessibility test."
+    }
+  ],
+  "course_limitations": [
+    {
+      "course_number": 1,
+      "limitations": [
+        "Authored complete; no learner pilot, external expert validation, rights clearance, or rendered visual/accessibility QA claimed.",
+        "Preferred modern Plato and Descartes editions not inspected; named provisional routes support ordinary assignments. Translation-sensitive judgments require the exact disputed edition.",
+        "Descartes OCR has defects and no AT markers; verify quotations in page image and cite printed Veitch pages.",
+        "Gettier external download unconfirmed; full English local republication inspected. Singer publisher page did not expose full text; existing local complete scan inspected, with no redistribution clearance.",
+        "Public assessment prompts require exposure declarations and an unexposed replacement when rehearsed."
+      ]
+    },
+    {
+      "course_number": 2,
+      "limitations": [
+        "Authored completion does not constitute a learner pilot or expert validation.",
+        "Local PDF sources are inspected in their pinned revisions; no live source replacement is assumed.",
+        "Carnap is optional and untested; the required route uses written Calgary proofs.",
+        "The semantic verifier is not a natural-deduction checker; bounded FOL search does not establish validity.",
+        "Block/parallel scheduling is a reversible design trial, with learner sequencing evidence pending.",
+        "Audio/text alternatives are authored; rendered accessibility and assistive technology behavior remain untested."
+      ]
+    },
+    {
+      "course_number": 3,
+      "limitations": [
+        "Barnes Complete Works 1984 assigned Aristotle texts not inspected: exact wording and Bekker references remain pending; local older translations support provisional practice only.",
+        "Annas/Barnes Outlines of Scepticism 2000 I.1–30 unavailable: required reading and edition-specific Sextus criteria remain pending; Patrick is not a substitute.",
+        "Authorized marked Plato alternatives inspected selectively, not fully collated against preferred modern translations or every subletter boundary.",
+        "Yonge complete Letter to Menoeceus inspected, but local edition lacks per-paragraph X.122–135 numbering; no concordance invented.",
+        "Learner pilot, timing calibration, expert review, actual tutor calibration, rights clearance and rendered accessibility testing not performed."
+      ]
+    },
+    {
+      "course_number": 4,
+      "limitations": [
+        "Teaching materials authored; no learner pilot, expert validation, rendered accessibility test or rights clearance claimed.",
+        "Khalidi general and source introductions, Avicenna pp.27–58 and al-Ghazali pp.59–98 were not inspected; exact contextual claims and mathematics/logic source cards require actual assigned copy.",
+        "Flying-person formulation has not been located in the assigned Book of Salvation excerpt. M04 source-dependent interpretation and Avicenna essay option remain blocked until confirmed or a finite source amendment resolves a mismatch; no automatic substitution of another work.",
+        "Chadwick, Williams and Pines wording/pages were not inspected. Pusey, Deane and selected Friedlander passages are identified reading aids, not silently substituted assigned editions.",
+        "Local Deane Proslogion 2 contains suspect transcription wording; quotations require checking against the assigned edition.",
+        "Hackett direct publisher-page fetch returned 403; publisher search snippet is metadata only.",
+        "Final E3 comparison requires exact Khalidi and Pines passages inspected by assessor; unavailable sources leave criteria pending.",
+        "Final delayed task 30 minutes and delayed feedback 30 minutes remain charged to Course 4 even when delivered during a later course."
+      ]
+    },
+    {
+      "course_number": 5,
+      "limitations": [
+        "All eight baseline modules and PC-30 are authored; not learner-piloted or externally expert-validated.",
+        "CSM, Shapiro, Curley, Ariew/Garber, Nidditch, Dancy and Beauchamp prescribed editions remain unmatched/access-dependent; inspected alternatives are separately identified.",
+        "No invented Descartes AT crosswalk; local Veitch and Montgomery OCR quotations require page-image checks.",
+        "No reproduction permission, rendered accessibility validation or new tutor calibration claimed.",
+        "Source audit records sampled passages, not a complete collation of every assigned reading."
+      ]
+    },
+    {
+      "course_number": 6,
+      "limitations": [
+        "Not learner-piloted, human-expert-validated, tutor-calibrated, rights-cleared or visually/accessibility-tested.",
+        "Ayer second-edition chapter VI and Van Norden 2008 2A6/6A1–10 were not inspected; exact textual diagnoses remain source-dependent.",
+        "Preferred modern-edition quotation/page checks for Irwin 2019, Gregor–Timmermann 2012, Sher 2001 and SBN/Nidditch 1978 require actual copies; public witnesses are not relabeled.",
+        "Mackie exact section selection established from university-hosted scan; lawful learner access and source availability still required, with affected judgments provisional if absent.",
+        "Mairet web lecture inspected in selected spans, not collated against print. Macomber 2007 bibliographic/context metadata checked only; later wording/context check required."
+      ]
+    },
+    {
+      "course_number": 7,
+      "limitations": [
+        "Reid Brookes VI.24, Fricker chapter 1 and Parfit pp.3–27 passages not inspected; authorized access required.",
+        "Goldman local reprint pp.89–104 selected images inspected; original-page crosswalk and anthology identity unresolved.",
+        "Moore HTML has transcription warnings; original-page source required for definitive citations.",
+        "Nyaya 1913 I.i.1–8 including attached notes finite but primary passage/notes not retrieved; A32 source criterion pending.",
+        "No learner pilot, expert review, rights clearance, full accessible-text/visual validation or observed workload validation.",
+        "Astra requested upstream; independent runtime identity unattested. FE8/UIT paused and untouched."
+      ]
+    },
+    {
+      "course_number": 8,
+      "limitations": [
+        "Authored, not piloted or externally validated.",
+        "Rawls, Nozick and Mills assigned primary passages not inspected; lawful exact-edition access and source-bound verification pending.",
+        "Hobbes/Locke companion passages inspected selectively; exact Tuck/Laslett editions and remaining assigned ranges not verified.",
+        "Haslanger exact full article specified, targeted passages inspected only; no redistribution or rendered accessibility claim.",
+        "No learner exposure assurance, current-model calibration or screen-reader/render QA claimed. FE8/UIT paused; no browser rendering attempted.",
+        "Astra requested by delegation; runtime identity not independently attested."
+      ]
+    },
+    {
+      "course_number": 9,
+      "limitations": [
+        "Assigned modern translations not passage-verified; lawful source access and exact edition endpoints/quotations remain dependencies.",
+        "Marx Theses version differences require a checked comparison before edition-sensitive marking.",
+        "Learner pilot, human specialist review, empirical timing, actual tutor calibration and rendered accessibility QA pending.",
+        "Astra was requested; independent runtime model attestation unavailable.",
+        "FE8/UIT remains paused; no local-file browser render or workaround attempted."
+      ]
+    },
+    {
+      "course_number": 10,
+      "limitations": [
+        "Assigned Popper, Hempel, Kuhn and van Fraassen passages not inspected; interpretation/quotation checks require lawful copies.",
+        "Hume inspected in local Selby-Bigge comparison edition, not assigned Beauchamp 1999.",
+        "Longino inspected as metadata and chapter opening preview; full assigned chapter inaccessible.",
+        "IPCC SPM HTML/PDF returned 403; Nature abstract route hit inaccessible authorization redirect. Packet-specific comprehension unresolved until accessed.",
+        "No learner pilot, human expert review, rights clearance or rendered accessibility validation claimed.",
+        "FE8/UIT remain paused; local navigator was not rendered.",
+        "Baseline and optional timing are planning allocations, not measured learner hours."
+      ]
+    },
+    {
+      "course_number": 11,
+      "limitations": [
+        "Primary commercial assignments remain access-dependent; exact unsighted editions/ranges listed in source-audit.md.",
+        "Goldin short Xunzi23.1a comparison inspected; paired Hutton passage still needs lawful access and exact citation check.",
+        "McCarthy specialist review for Mills paper is metadata-verified, full text not inspected.",
+        "No learner pilot, specialist validation, rendered accessibility or runtime model attestation. FE8/UIT remain paused."
+      ]
+    },
+    {
+      "course_number": 12,
+      "limitations": [
+        "Fully authored, not learner-piloted or externally validated.",
+        "English Frege Max Black1980 actual assigned copy not inspected; German not substitute.",
+        "Putnam local reprint73–79 differs from assigned Cambridge429–440; exact Cambridge copy and crosswalk unresolved.",
+        "Jech2024 ProblemaI access unresolved; Hollander lacks assigned section.",
+        "Exact assigned translations and listed paid readings remain passage/access-dependent; see option and shared audits.",
+        "Grice local license is institution-specific; general copying permission not established.",
+        "No rights clearance or rendered visual/accessibility testing claimed."
+      ]
+    },
+    {
+      "course_number": 13,
+      "limitations": [
+        "Source-dependent tasks remain access/inspection-dependent as source-audit.md details.",
+        "M3 sources and alternate SA source must be fixed and inspected at use time.",
+        "No learner pilot, expert validation, rendered accessibility QA, full rights clearance or runtime-model attestation.",
+        "FE8/UIT paused; no browser rendering or workaround."
+      ]
+    },
+    {
+      "course_number": 14,
+      "limitations": [
+        "Topic-specific editions, source ranges, legal access and permission checks remain learner-project dependencies.",
+        "Actual learner work, independent outcome evidence and the delayed 4–6-week sample remain pending execution.",
+        "Tutor calibration, learner pilot, human/specialist review and rendered accessibility validation are not claimed.",
+        "Astra requested; independent runtime model attestation unavailable. FE8/UIT and local-browser rendered QA remain paused."
+      ]
+    }
+  ]
+}

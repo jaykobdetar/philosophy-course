@@ -20,7 +20,7 @@ Start with [readings and access](readings.md), then [Module 1](modules/01.md). U
 | 10 | [Essay and revision](modules/07.md) | 28 | P7 1,800–2,200-word paper and revision record |
 | 11 | [Assessment and delayed transfer](modules/08.md) | 10 | F1–F3, oral/access-equivalent defense, delayed D task |
 
-No Course 7 opening sessions existed in this directory at authoring. Earlier Course 1 Gettier work supplies prerequisite knowledge; this course's explicit rereading, changed cases and reassessment are new activities, not a second charge for that earlier artifact. No addition's hours are hidden inside a baseline module. A learner who has already done an exact addition submits the source, work, independent evidence and time log for one credit, rather than repeating it automatically. The final delayed check occurs roughly 4–6 weeks after assessment or after two later modules, normally during science or the selected area course; its 30 minutes remain charged to Course 7 Module 8 once.
+No Course 7 opening sessions existed in this directory at authoring. Earlier Course 1 Gettier work supplies prerequisite knowledge; this course's explicit rereading, changed cases and reassessment are new activities, not a second charge for that earlier artifact. No addition's hours are hidden inside a baseline module. A learner who has already done an exact addition submits the source, work, independent evidence and time log for one credit, rather than repeating it automatically. The final delayed check occurs roughly 4–6 weeks after assessment or after two later modules, normally during Course 8 on the default route; its 30 minutes remain charged to Course 7 Module 8 once.
 
 ## Entry check and working conventions
 

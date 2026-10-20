@@ -1,6 +1,6 @@
 # Course 1 reading readiness
 
-Generated from `data/course.json` (803c95abdc09); run `python3 scripts/build_views.py` after changing readings.
+Generated from `data/course.json` (07d318ff46cc); run `python3 scripts/build_views.py` after changing readings.
 
 **Scope:** Opening four sessions and the Course 1 practical-reasoning packet. Later readings in the full course remain unverified here. `ready-online` requires internet access. An unmarked local copy is not a substitute for a marked locator.
 

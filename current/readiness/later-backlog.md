@@ -1,6 +1,6 @@
 # Later reading acquisition backlog
 
-These records extend the catalogue beyond the verified opening. They are **not** a release or a claim that later modules have exact accessible readings and packets. Recheck edition, locator, access and rights before the relevant module.
+These earlier acquisition candidates supplement the opening reading catalogue. Their original readiness labels are retained; they do not incorporate every later course source audit. Consult the teaching packet's audit for newer passage checks and remaining edition dependencies. Recheck edition, locator, access and rights before the relevant module.
 
 | ID | Work and assigned range | Candidate access | Readiness |
 | --- | --- | --- | --- |

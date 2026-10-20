@@ -1,0 +1,15 @@
+{
+  "inspected_on": "2026-10-20",
+  "scope": "Local authority inputs; hashes identify bytes, not truth or rights",
+  "sha256": {
+    "implementation/AUTHORING_2026-10-20.md": "00b12e1b86a8a730cefec11a2d6e1d4432b56f3a9686fa24b4c3bc873db710a4",
+    "current/courses/14.md": "6f0cec46765971dda3c41f1c3862ab5161ed106500e9d52e57ca58f55b3495f0",
+    "current/assessment.md": "9872c96df607fea437d7f445ea3774fba56069ee4012693a5b602c8ef29b2e03",
+    "current/reference.md": "ffdcf92e5d75f82f43dc61007192ed6a2a739e30e29b438d3c9f4d2f731b34e0",
+    "current/evidence.md": "efbf558e93970817aeb74ad0493fce85045e1cdc5e7b5e8bb1987fe22e8d3c9b",
+    "implementation/UNIFIED_PLAN.md": "cdbef37d8861fac12e69b2fe00c3ce91d804c913336ac1371fc6f7d856e59d7f",
+    "instruction/tutor.md": "d0724e2e062fb716ced661ec9f9df10eb8985ea5623ec93d9cfd2b961cf63079",
+    "collection/philosophy-study-collection/source-curriculum/curriculum/units/research-thesis.md": "c97accf60fc88636bdd462495fe8f5607bb8e92f5b6e34605cb92da4922c4878",
+    "current/access.md": "6a3a2e1687ddd1a4c1127affe76517ce1c0d63fc33576a92e9455bbab7cf3e86"
+  }
+}

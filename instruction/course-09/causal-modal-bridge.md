@@ -1,0 +1,13 @@
+# C09-PC25 — Causal and modal comparison
+
+**Budget: 1 hour, replacing 1 hour of M03's 4-hour practice block; net 0.** It uses already assigned Kant material and Course 5 Hume notes. It does not add Quine or Lewis reading or duplicate Course 7's ontology addition. Credit this packet once in Course 9; Course 7 can reference the evidence, not bill the hour again.
+
+**Read/retrieve, 10 minutes:** Revisit Kant *Prolegomena* §29–30, Hatfield 2004, and your existing Course 5 notes on Hume's induction/necessary-connection argument. If those notes are absent, use M03's explanation for orientation and flag the comparison as needing a check against the previously assigned Hume passage, rather than inventing its locator.
+
+**Teaching, 10 minutes:** Logical inconsistency, causal impossibility under specified laws, and an agent's inability to do otherwise are different claims. A causal rule could constrain events without a contradiction being present in the bare description of its violation. Conversely, imagining a described outcome does not establish that it is physically possible. Neither distinction alone settles moral responsibility; a responsibility conclusion needs premises concerning agency and control.
+
+**Worked practice, 15 minutes:** A seal melts when heated in a specified apparatus. The argument “Every tested seal melted; therefore its not melting is logically contradictory” overstates the evidence. The data may support an empirical regularity under conditions; logical impossibility needs an inconsistency in the description. Kant's necessary causal principle does not supply this seal's exact melting threshold a priori. Write 120 words distinguishing these claims and one Humean worry about extrapolation.
+
+**Independent changed case, 15 minutes, source-open/no hints:** A machine is physically constrained to open only after two authorized signals, but its operator voluntarily chooses to send both. A manager argues that the causal constraint proves the operator bears no responsibility. Write 150–200 words identifying the modal claim, whether the inference to responsibility follows, and how neither Kant's causal principle nor observed repetition alone supplies the missing ethical premise. Criteria: distinguish physical constraint and agential choice, identify the normative bridge, avoid claiming all causal determination eliminates responsibility.
+
+**Feedback/retrieval, 10 minutes:** Compare your distinctions with the separate examiner anchor, then rewrite one conflated claim. This hour's tiny independent task supports the comparison; the full fresh K task remains required. Audio/dictation plus text locators is equivalent. Retain artifact **P03-CM** and its independent response.

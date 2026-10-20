@@ -1,0 +1,222 @@
+{
+  "course_number": 10,
+  "authored_on": "2026-10-20",
+  "status": "complete authored sequence; source-dependent tasks partly access-dependent; empirical validation pending",
+  "model_request": "gpt-6-astra requested; runtime identity not independently attested",
+  "tracks": [
+    {
+      "id": "C10",
+      "title": "Philosophy of science",
+      "curriculum_page": "current/courses/10.md",
+      "baseline_hours": 120,
+      "readme": "instruction/course-10/README.md",
+      "outcomes": "instruction/course-10/outcomes.md",
+      "assessment": "instruction/course-10/assessment.md",
+      "examiner": "instruction/course-10/examiner-notes.md",
+      "source_audit": "instruction/course-10/source-audit.md",
+      "modules": [
+        {
+          "id": "C10-M01",
+          "path": "instruction/course-10/modules/01.md",
+          "hours": 14,
+          "allocation_minutes": {
+            "reading": 240,
+            "teaching_practice": 120,
+            "practice": 180,
+            "feedback": 60,
+            "independent": 60,
+            "revision_retrieval": 180
+          }
+        },
+        {
+          "id": "C10-M02",
+          "path": "instruction/course-10/modules/02.md",
+          "hours": 14,
+          "allocation_minutes": {
+            "reading": 240,
+            "teaching_practice": 120,
+            "practice": 180,
+            "feedback": 60,
+            "independent": 60,
+            "revision_retrieval": 180
+          }
+        },
+        {
+          "id": "C10-M03",
+          "path": "instruction/course-10/modules/03.md",
+          "hours": 14,
+          "allocation_minutes": {
+            "reading": 240,
+            "teaching_practice": 120,
+            "practice": 180,
+            "feedback": 60,
+            "independent": 60,
+            "revision_retrieval": 180
+          }
+        },
+        {
+          "id": "C10-M04",
+          "path": "instruction/course-10/modules/04.md",
+          "hours": 18,
+          "allocation_minutes": {
+            "reading": 360,
+            "teaching_practice": 120,
+            "practice": 240,
+            "feedback": 90,
+            "independent": 60,
+            "revision": 180,
+            "retrieval": 30
+          }
+        },
+        {
+          "id": "C10-M05",
+          "path": "instruction/course-10/modules/05.md",
+          "hours": 16,
+          "allocation_minutes": {
+            "reading": 300,
+            "teaching_practice": 120,
+            "practice": 180,
+            "feedback": 60,
+            "independent": 60,
+            "revision_retrieval": 240
+          }
+        },
+        {
+          "id": "C10-M06",
+          "path": "instruction/course-10/modules/06.md",
+          "hours": 14,
+          "allocation_minutes": {
+            "reading": 300,
+            "teaching_practice": 120,
+            "practice": 180,
+            "feedback": 60,
+            "independent": 60,
+            "revision_retrieval": 120
+          }
+        },
+        {
+          "id": "C10-M07",
+          "path": "instruction/course-10/modules/07.md",
+          "hours": 22,
+          "allocation_minutes": {
+            "question_packet": 120,
+            "reading_ledger": 240,
+            "outline": 180,
+            "draft": 300,
+            "feedback": 120,
+            "independent": 60,
+            "revision": 240,
+            "audit": 60
+          }
+        },
+        {
+          "id": "C10-M08",
+          "path": "instruction/course-10/modules/08.md",
+          "hours": 8,
+          "allocation_minutes": {
+            "readiness": 30,
+            "fresh_written": 100,
+            "defense": 20,
+            "feedback": 60,
+            "repair": 150,
+            "alternate_or_consolidation": 50,
+            "audit": 40,
+            "final_delayed": 30
+          }
+        }
+      ],
+      "essential_rows": [
+        {
+          "name": "Induction and testing",
+          "practice": [
+            "P1",
+            "P2"
+          ],
+          "fresh": "F1",
+          "alternate": "A1",
+          "fresh_minutes": 25,
+          "delayed": "D1 or D2 least-secure row"
+        },
+        {
+          "name": "Explanation and scientific change",
+          "practice": [
+            "P3",
+            "P4"
+          ],
+          "fresh": "F2",
+          "alternate": "A2",
+          "fresh_minutes": 25,
+          "delayed": "D1 or D2 least-secure row"
+        },
+        {
+          "name": "Realism",
+          "practice": [
+            "P5"
+          ],
+          "fresh": "F3",
+          "alternate": "A3",
+          "fresh_minutes": 25,
+          "delayed": "D1 or D2 least-secure row"
+        },
+        {
+          "name": "Values and uncertainty",
+          "practice": [
+            "P6",
+            "P7"
+          ],
+          "fresh": "F4",
+          "alternate": "A4",
+          "fresh_minutes": 25,
+          "delayed": "D1 or D2 least-secure row"
+        }
+      ],
+      "assessment_minutes": {
+        "readiness": 30,
+        "fresh_written": 100,
+        "defense": 20,
+        "feedback": 60,
+        "repair": 150,
+        "alternate_or_consolidation": 50,
+        "audit": 40,
+        "final_delayed": 30
+      },
+      "delayed_interval": "roughly four to six weeks or after two later modules",
+      "delayed_charge_course": "C10",
+      "prior_opening_session_credit_hours": 0
+    }
+  ],
+  "additions": [
+    {
+      "id": "PC-31-C10",
+      "pc_task": "PC-31",
+      "path": "instruction/course-10/probability-bridge.md",
+      "hours": 6,
+      "replaces_hours": 0,
+      "net_hours": 6,
+      "applies_to": [
+        "C10"
+      ],
+      "optional": true,
+      "status": "authored optional support; timing unpiloted",
+      "credit_rule": "Take only if needed; charge once outside C10 baseline. Prior equivalent completed evidence may be credited once. Short PB-D retrieval belongs to this bridge, not the final C10 delayed sample.",
+      "allocation_minutes": {
+        "reading": 60,
+        "worked_examples": 60,
+        "practice": 75,
+        "feedback_revision": 45,
+        "independent": 45,
+        "remediation": 45,
+        "delayed_support": 30
+      }
+    }
+  ],
+  "limitations": [
+    "Assigned Popper, Hempel, Kuhn and van Fraassen passages not inspected; interpretation/quotation checks require lawful copies.",
+    "Hume inspected in local Selby-Bigge comparison edition, not assigned Beauchamp 1999.",
+    "Longino inspected as metadata and chapter opening preview; full assigned chapter inaccessible.",
+    "IPCC SPM HTML/PDF returned 403; Nature abstract route hit inaccessible authorization redirect. Packet-specific comprehension unresolved until accessed.",
+    "No learner pilot, human expert review, rights clearance or rendered accessibility validation claimed.",
+    "FE8/UIT remain paused; local navigator was not rendered.",
+    "Baseline and optional timing are planning allocations, not measured learner hours."
+  ]
+}

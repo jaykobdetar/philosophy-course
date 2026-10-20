@@ -12,6 +12,9 @@ from urllib.parse import unquote, urlsplit
 from audit_conversion import audit as audit_conversion
 from build_assignment_catalogue import build as build_assignment_catalogue
 from build_later_readings import build as build_later_readings
+from check_authoring import inspect as inspect_authoring, review_errors
+from build_instruction_views import outputs as instruction_outputs
+from build_workload import outputs as workload_outputs
 from course_model import COMMON, OPTIONS, base, requirements_met, route_records
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -231,8 +234,19 @@ def check_data():
         fail("proposal seed hours must be positive or explicitly unknown")
     if any("proposal" not in p["status"] for p in proposals):
         fail("later addition falsely marked adopted in proposal register")
-    if workload["revised_default_total"] is not None:
-        fail("revised total asserted before later route additions are specified")
+    authoring_errors, tracks, _ = inspect_authoring()
+    for error in authoring_errors:
+        fail(error)
+    if not authoring_errors:
+        for error in review_errors(tracks):
+            fail(error)
+        for generator in (instruction_outputs, workload_outputs):
+            try:
+                for path, content in generator().items():
+                    if not path.is_file() or path.read_text() != content:
+                        fail(f"stale teaching/workload view: {path.relative_to(ROOT)}")
+            except (KeyError, ValueError) as exc:
+                fail(f"teaching/workload data: {exc}")
     cap = (ROOT / "current/courses/14.md").read_text()
     cap_hours = [int(x) for x in re.findall(r"^\*\*[1-8]\. .*?, (\d+) hours\.\*\*", cap, flags=re.M)]
     if cap_hours != [16, 26, 20, 40, 16, 32, 12, 18] or sum(cap_hours) != 180:
@@ -306,7 +320,7 @@ def main():
         for error in ERRORS:
             print("-", error)
         raise SystemExit(1)
-    print("Course check passed: current IDs, route hours, capstone, baselines, links, private-path rules and generated views.")
+    print("Course check passed: complete teaching coverage and review inventories, current IDs, route hours, capstone, baselines, links, private-path rules and generated views.")
 
 
 if __name__ == "__main__":

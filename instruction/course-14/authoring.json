@@ -1,0 +1,66 @@
+{
+  "course_number": 14,
+  "authored_on": "2026-10-20",
+  "tracks": [
+    {
+      "id": "C14",
+      "title": "Independent research capstone",
+      "curriculum_page": "current/courses/14.md",
+      "baseline_hours": 180,
+      "readme": "instruction/course-14/README.md",
+      "outcomes": "instruction/course-14/outcomes.md",
+      "assessment": "instruction/course-14/assessment.md",
+      "examiner": "instruction/course-14/examiner-notes.md",
+      "source_audit": "instruction/course-14/source-audit.md",
+      "modules": [
+        {
+          "id": "C14-M01",
+          "path": "instruction/course-14/modules/01.md",
+          "hours": 16
+        },
+        {
+          "id": "C14-M02",
+          "path": "instruction/course-14/modules/02.md",
+          "hours": 26
+        },
+        {
+          "id": "C14-M03",
+          "path": "instruction/course-14/modules/03.md",
+          "hours": 20
+        },
+        {
+          "id": "C14-M04",
+          "path": "instruction/course-14/modules/04.md",
+          "hours": 40
+        },
+        {
+          "id": "C14-M05",
+          "path": "instruction/course-14/modules/05.md",
+          "hours": 16
+        },
+        {
+          "id": "C14-M06",
+          "path": "instruction/course-14/modules/06.md",
+          "hours": 32
+        },
+        {
+          "id": "C14-M07",
+          "path": "instruction/course-14/modules/07.md",
+          "hours": 12
+        },
+        {
+          "id": "C14-M08",
+          "path": "instruction/course-14/modules/08.md",
+          "hours": 18
+        }
+      ]
+    }
+  ],
+  "additions": [],
+  "limitations": [
+    "Topic-specific editions, source ranges, legal access and permission checks remain learner-project dependencies.",
+    "Actual learner work, independent outcome evidence and the delayed 4\u20136-week sample remain pending execution.",
+    "Tutor calibration, learner pilot, human/specialist review and rendered accessibility validation are not claimed.",
+    "Astra requested; independent runtime model attestation unavailable. FE8/UIT and local-browser rendered QA remain paused."
+  ]
+}

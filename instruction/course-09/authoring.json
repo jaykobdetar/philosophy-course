@@ -1,0 +1,154 @@
+{
+  "course_number": 9,
+  "authored_on": "2026-10-20",
+  "tracks": [
+    {
+      "id": "C09",
+      "title": "Kant and selected nineteenth century responses",
+      "curriculum_page": "current/courses/09.md",
+      "baseline_hours": 140,
+      "readme": "instruction/course-09/README.md",
+      "outcomes": "instruction/course-09/outcomes.md",
+      "assessment": "instruction/course-09/assessment.md",
+      "examiner": "instruction/course-09/examiner-notes.md",
+      "source_audit": "instruction/course-09/source-audit.md",
+      "modules": [
+        {
+          "id": "C09-M01",
+          "path": "instruction/course-09/modules/01.md",
+          "hours": 12,
+          "budget_minutes": {
+            "reading": 240,
+            "teaching": 120,
+            "practice": 120,
+            "feedback": 60,
+            "independent": 60,
+            "revision_retrieval": 120
+          }
+        },
+        {
+          "id": "C09-M02",
+          "path": "instruction/course-09/modules/02.md",
+          "hours": 18,
+          "budget_minutes": {
+            "reading": 360,
+            "teaching": 180,
+            "practice": 180,
+            "feedback": 120,
+            "independent": 90,
+            "revision_retrieval": 150
+          }
+        },
+        {
+          "id": "C09-M03",
+          "path": "instruction/course-09/modules/03.md",
+          "hours": 26,
+          "budget_minutes": {
+            "reading": 480,
+            "teaching": 240,
+            "practice_including_bridge": 240,
+            "feedback": 180,
+            "independent": 120,
+            "revision_retrieval": 300
+          }
+        },
+        {
+          "id": "C09-M04",
+          "path": "instruction/course-09/modules/04.md",
+          "hours": 12,
+          "budget_minutes": {
+            "reading": 240,
+            "teaching": 120,
+            "practice": 120,
+            "feedback": 60,
+            "independent": 60,
+            "revision_retrieval": 120
+          }
+        },
+        {
+          "id": "C09-M05",
+          "path": "instruction/course-09/modules/05.md",
+          "hours": 18,
+          "budget_minutes": {
+            "reading": 300,
+            "teaching": 180,
+            "practice": 180,
+            "feedback": 120,
+            "independent": 120,
+            "revision_retrieval": 180
+          }
+        },
+        {
+          "id": "C09-M06",
+          "path": "instruction/course-09/modules/06.md",
+          "hours": 22,
+          "budget_minutes": {
+            "reading": 480,
+            "teaching": 180,
+            "practice": 240,
+            "feedback": 120,
+            "independent": 120,
+            "revision_retrieval": 180
+          }
+        },
+        {
+          "id": "C09-M07",
+          "path": "instruction/course-09/modules/07.md",
+          "hours": 24,
+          "budget_minutes": {
+            "reading": 300,
+            "question_dossier_outline": 180,
+            "draft": 360,
+            "feedback": 120,
+            "revision": 300,
+            "independent": 90,
+            "retrieval_submission": 90
+          }
+        },
+        {
+          "id": "C09-M08",
+          "path": "instruction/course-09/modules/08.md",
+          "hours": 8,
+          "budget_minutes": {
+            "evidence_access": 45,
+            "fresh": 90,
+            "explanation": 20,
+            "citations": 45,
+            "feedback": 60,
+            "repair": 90,
+            "resample_or_consolidation": 60,
+            "revision_handoff": 40,
+            "later_delayed": 30
+          }
+        }
+      ]
+    }
+  ],
+  "additions": [
+    {
+      "id": "C09-PC25-CAUSAL-MODAL",
+      "pc_task": "PC-25",
+      "path": "instruction/course-09/causal-modal-bridge.md",
+      "hours": 1,
+      "replaces_hours": 1,
+      "net_hours": 0,
+      "applies_to": [
+        "C09"
+      ],
+      "credit_rule": "Replaces one hour of C09-M03 practice; credit once. C07 may reference retained evidence but not bill this hour again."
+    }
+  ],
+  "limitations": [
+    "Assigned modern translations not passage-verified; lawful source access and exact edition endpoints/quotations remain dependencies.",
+    "Marx Theses version differences require a checked comparison before edition-sensitive marking.",
+    "Learner pilot, human specialist review, empirical timing, actual tutor calibration and rendered accessibility QA pending.",
+    "Astra was requested; independent runtime model attestation unavailable.",
+    "FE8/UIT remains paused; no local-file browser render or workaround attempted."
+  ],
+  "source_sha256": {
+    "current/courses/09.md": "4e4f6a06d01b7c27b28784c690fa2ec3ced059ffc21c70cafaaabd9a8e56f6dd",
+    "current/assessment.md": "9872c96df607fea437d7f445ea3774fba56069ee4012693a5b602c8ef29b2e03",
+    "data/later-reading-catalogue.json": "8d264aa5a90bf4212a440afb6d62bceb90af9d7cd6248337230c4a3531acf6a8",
+    "implementation/AUTHORING_2026-10-20.md": "00b12e1b86a8a730cefec11a2d6e1d4432b56f3a9686fa24b4c3bc873db710a4"
+  }
+}

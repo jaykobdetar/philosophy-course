@@ -18,6 +18,8 @@ def selected():
     result = []
     for path in paths:
         rel = path.relative_to(ROOT)
+        if "__pycache__" in rel.parts or path.suffix == ".pyc":
+            continue
         if not path.is_file() or path.is_symlink() or rel.parts[0] in forbidden:
             raise ValueError(f"Unsafe or missing allowlist path: {rel}")
         result.append(path)

@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-20",
+  "scope": "Mechanical checks only; independent content reviews and source/empirical limitations are separate",
+  "checks": [
+    {
+      "command": [
+        "python3",
+        "scripts/check_course.py"
+      ],
+      "returncode": 0,
+      "stdout": "Course check passed: complete teaching coverage and review inventories, current IDs, route hours, capstone, baselines, links, private-path rules and generated views.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "python3",
+        "instruction/course-01/verify.py"
+      ],
+      "returncode": 0,
+      "stdout": "PASS: 12 modules; 120 hours; allocations 7200 minutes; opening credit 360 minutes; PC-31 net 0; 97 local links and anchors; all contract paths.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "python3",
+        "instruction/course-02/checks/verify.py"
+      ],
+      "returncode": 0,
+      "stdout": "{\n  \"date\": \"2026-10-20\",\n  \"status\": \"pass\",\n  \"counts\": {\n    \"tfl_claims\": 58,\n    \"tfl_valuations\": 296,\n    \"fol_model_assertions\": 254,\n    \"fol_bounded_claims\": 25,\n    \"fol_bounded_interpretations\": 780,\n    \"local_links\": 55\n  },\n  \"baseline_hours\": 150,\n  \"assessment_minutes\": {\n    \"translation\": 30,\n    \"semantics\": 30,\n    \"proof\": 60,\n    \"limits\": 20,\n    \"total\": 140\n  },\n  \"source_sha256\": {\n    \"collection/philosophy-study-collection/texts/introduction_logic/required/forallx_calgary_textbook.pdf\": \"9eca9e08ad6380b00a783536f8a16abc94d13d9561f05baa7fc0a2b762e48ef0\",\n    \"collection/philosophy-study-collection/texts/introduction_logic/solutions/forallx_calgary_solutions.pdf\": \"dc435f02bc0beffc37fef26154999bcf3bb690e2d4a3d79033b5dcebbd0911e7\"\n  },\n  \"limitations\": [\n    \"Not a natural-deduction proof checker: derivation lines require direct rule/scope review.\",\n    \"FOL valid-goal enumeration covers only domains of size 1 and 2; it is not a proof of FOL validity.\",\n    \"Explicit countermodels and cardinality checks use their stated finite domains, including sizes 3 and 4.\",\n    \"No learner pilot, expert review, live Carnap test, or rendered accessibility QA.\"\n  ]\n}\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "python3",
+        "instruction/course-07/verify.py"
+      ],
+      "returncode": 0,
+      "stdout": "{\n  \"status\": \"pass\",\n  \"checks_passed\": 191,\n  \"errors\": [],\n  \"baseline_hours\": 140,\n  \"addition_net_hours\": 32,\n  \"planned_total_hours\": 172,\n  \"modules\": 8,\n  \"additions\": 3,\n  \"markdown_files\": 20,\n  \"local_links_checked\": 59,\n  \"external_links_enumerated_not_retested\": 10,\n  \"source_fingerprints_checked\": 9,\n  \"limits\": [\n    \"Structural/link/contract arithmetic only; no learner evidence or pedagogical certification.\",\n    \"External source access outcomes are manually recorded in source-audit.md; no HTTP success inferred.\",\n    \"No browser/rendered accessibility, FE8/UIT, rights, expert or model-identity validation.\"\n  ]\n}\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "python3",
+        "instruction/course-08/check.py"
+      ],
+      "returncode": 0,
+      "stdout": "PASS: 8 modules, baseline 140h, PC-32 +8h, total 148h; Module 8 480min.\nPASS: 3 outcome rows; 12 final/alternate/delayed items with examiner anchors; F1-F7 and H-F/H-A.\nPASS: 32 local Markdown links resolve; manifest paths and activity allocations agree.\nLIMITS: no remote-link uptime, semantic accuracy, source rights, exposure, rendering or learner validation certified.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "python3",
+        "instruction/course-09/verify.py"
+      ],
+      "returncode": 0,
+      "stdout": "PASS: C09, 8 modules, 140 baseline hours, 0 net added hours; 56 local Markdown links; 21 Markdown files; source hashes unchanged.\nPASS: budget minutes reconcile; fresh and delayed IDs have separate examiner anchors.\nLIMIT: structural checks do not verify philosophical accuracy, source rights, rendering, runtime identity or learner outcomes.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "python3",
+        "instruction/course-10/check.py"
+      ],
+      "returncode": 0,
+      "stdout": "{\n  \"status\": \"PASS offline structural/arithmetic checks\",\n  \"module_count\": 8,\n  \"baseline_hours\": 120,\n  \"optional_bridge_hours\": 6,\n  \"with_bridge_hours\": 126,\n  \"fresh_written_minutes\": 100,\n  \"final_delayed_minutes_charged_once_to_C10\": 30,\n  \"essential_rows\": 4,\n  \"local_markdown_links_checked\": 58,\n  \"rational_calculations_checked\": 21,\n  \"hume_comparison_sha256\": \"647459bc720d0fe09f85ac17b8d7edc2557ff89ba4467151407a4d48228be2cb\",\n  \"external_links_in_markdown\": 7,\n  \"external_check_run\": false,\n  \"not_established\": [\n    \"learner competence\",\n    \"passage verification for inaccessible sources\",\n    \"rights clearance\",\n    \"human expert review\",\n    \"rendered accessibility\"\n  ]\n}\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "python3",
+        "instruction/course-11/checks/verify.py"
+      ],
+      "returncode": 0,
+      "stdout": "Tracks: 2; modules: 16; baseline: C11A=140h, C11B=140h; additions: 0h\nChecked 72 local Markdown links and 24 final-form IDs; all 16 minute allocations reconciled.\nPASS: structure, referenced files, internal links, task coverage, timing ledger.\nNot tested: source accuracy, external URLs, learner timing, rendering, accessibility or empirical learning.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "python3",
+        "instruction/course-13/check_authoring.py"
+      ],
+      "returncode": 0,
+      "stdout": "PASS: 3 tracks; shared 8-module sequence; each 160h; 43 local links; 12 route transfer forms with examiner anchors.\nNOT TESTED: source accuracy/access, permissions, learner outcomes, expert review, rendering/accessibility, runtime model.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "python3",
+        "instruction/course-14/validate.py"
+      ],
+      "returncode": 0,
+      "stdout": "PASS: 191 structural checks; 75 local Markdown links; 8 milestones; 180 hours.\nNo learner, rights, external-review, or rendered-accessibility validation is implied.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "python3",
+        "scripts/check_authoring.py",
+        "--reviewed"
+      ],
+      "returncode": 0,
+      "stdout": "Authoring coverage passed: 20 tracks, 147 distinct module packets, 16 additions. Source and learner validation remain separate.\n",
+      "stderr": ""
+    }
+  ],
+  "teaching_package": {
+    "files": 396,
+    "sha256": "14cc7c0761f434bc469796ab41030ad585a2e6e05129d029a078eee349059e44",
+    "all_14_manifests_present": true,
+    "all_packaged_bytes_match_current_files": true,
+    "excluded_roots_absent": [
+      "collection",
+      "source-packages",
+      "learner",
+      ".private_readings",
+      "research",
+      "archive",
+      "dist"
+    ],
+    "python_caches_absent": true,
+    "limitations": "Local containment/integrity test only; no public sharing or third-party rights clearance."
+  }
+}

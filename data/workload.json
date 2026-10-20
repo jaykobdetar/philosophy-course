@@ -2,22 +2,96 @@
   "schema_version": 1,
   "curriculum_version": "2026-10-13-r0",
   "unit": "focused learner hours",
-  "baseline": {"default_route": 1890, "common_core_through_C10": 1270, "C01": 120, "C14": 180, "source": "September 30 revised DOCX; arithmetic reproduced from route table"},
+  "baseline": {
+    "default_route": 1890,
+    "common_core_through_C10": 1270,
+    "C01": 120,
+    "C14": 180,
+    "source": "September 30 revised DOCX; arithmetic reproduced from route table"
+  },
   "route_formula": "baseline + unique adopted additions - named replacements + selected bridges; credit shared work once",
   "adopted_additions": [
-    {"task":"PC-31","course":"C01","description":"OpenStax 5.5 practical reasoning packet within Module 2","reading_hours":0.5,"practice_hours":1.0,"feedback_and_revision_hours":0.5,"gross_hours":2,"replaced_hours":2,"net_hours":0,"replacement":"two of Module 2's previously unassigned 320 remaining minutes after opening Sessions 2–3; six reconstructions and four condition tests remain required","status":"specified packet, study-ready before module use; actual time not yet piloted"}
+    {
+      "task": "PC-31",
+      "course": "C01",
+      "description": "OpenStax 5.5 practical reasoning packet within Module 2",
+      "reading_hours": 0.5,
+      "practice_hours": 1.0,
+      "feedback_and_revision_hours": 0.5,
+      "gross_hours": 2,
+      "replaced_hours": 2,
+      "net_hours": 0,
+      "replacement": "two of Module 2's previously unassigned 320 remaining minutes after opening Sessions 2–3; six reconstructions and four condition tests remain required",
+      "status": "specified packet, study-ready before module use; actual time not yet piloted"
+    }
   ],
   "specified_proposals": [
-    {"task":"PC-25","course":"C07","description":"Quine ontology and conceptual causal/modal work","seed_hours":14,"status":"proposal; source edition, range, tasks and replacement budget pending"},
-    {"task":"PC-26","course":"C07","description":"BonJour/Goldman and Moore skeptical-response sequence","seed_hours":null,"status":"proposal; +4 and +16 in predecessor plan had incompatible scopes; exact packet and budget pending"},
-    {"task":"PC-27","course":"C06","description":"Moore §13 plus contextualized Mackie chapter 1; preserve Hume/Ayer and Thomson","seed_hours":null,"status":"proposal; Moore-only +2 is not the whole treatment; exact Mackie extent and budget pending"},
-    {"task":"PC-28","course":"non-12A route","description":"Frege/Russell language bridge with one Grice context exercise","seed_hours":20,"status":"route-dependent proposal; source and added Grice work pending; shared 12A work credited once"},
-    {"task":"PC-29","course":"C12A","description":"Smart identity argument and Lewis reply to Jackson; Place optional","seed_hours":6,"status":"proposal; primary passage boundaries and combined budget pending"},
-    {"task":"PC-30","course":"C05","description":"Hume Dialogues X–XI problem-of-evil reply; Aquinas objection/reply already inside C04","seed_hours":10,"status":"proposal; Aquinas gets zero duplicate hours; Hume packet budget pending"},
-    {"task":"PC-31","course":"C10","description":"needs-based probability bridge","seed_hours":6,"status":"optional support proposal; outside baseline if taken; packet pending"},
-    {"task":"PC-32","course":"C07/C08","description":"Nyāya testimony and Haslanger Gender and Race encounters","seed_hours":null,"status":"proposal; separate +6/+8 seeds need exact passages, context, task and replacement budgets"},
-    {"task":"PC-33","course":"C06","description":"Sartre Existentialism Is a Humanism encounter","seed_hours":8,"status":"proposal; translation, extent, assessment and overlap with 12C pending"}
+    {
+      "task": "PC-25",
+      "course": "C07",
+      "description": "Quine ontology and conceptual causal/modal work",
+      "seed_hours": 14,
+      "status": "proposal; source edition, range, tasks and replacement budget pending"
+    },
+    {
+      "task": "PC-26",
+      "course": "C07",
+      "description": "BonJour/Goldman and Moore skeptical-response sequence",
+      "seed_hours": null,
+      "status": "proposal; +4 and +16 in predecessor plan had incompatible scopes; exact packet and budget pending"
+    },
+    {
+      "task": "PC-27",
+      "course": "C06",
+      "description": "Moore §13 plus contextualized Mackie chapter 1; preserve Hume/Ayer and Thomson",
+      "seed_hours": null,
+      "status": "proposal; Moore-only +2 is not the whole treatment; exact Mackie extent and budget pending"
+    },
+    {
+      "task": "PC-28",
+      "course": "non-12A route",
+      "description": "Frege/Russell language bridge with one Grice context exercise",
+      "seed_hours": 20,
+      "status": "route-dependent proposal; source and added Grice work pending; shared 12A work credited once"
+    },
+    {
+      "task": "PC-29",
+      "course": "C12A",
+      "description": "Smart identity argument and Lewis reply to Jackson; Place optional",
+      "seed_hours": 6,
+      "status": "proposal; primary passage boundaries and combined budget pending"
+    },
+    {
+      "task": "PC-30",
+      "course": "C05",
+      "description": "Hume Dialogues X–XI problem-of-evil reply; Aquinas objection/reply already inside C04",
+      "seed_hours": 10,
+      "status": "proposal; Aquinas gets zero duplicate hours; Hume packet budget pending"
+    },
+    {
+      "task": "PC-31",
+      "course": "C10",
+      "description": "needs-based probability bridge",
+      "seed_hours": 6,
+      "status": "optional support proposal; outside baseline if taken; packet pending"
+    },
+    {
+      "task": "PC-32",
+      "course": "C07/C08",
+      "description": "Nyāya testimony and Haslanger Gender and Race encounters",
+      "seed_hours": null,
+      "status": "proposal; separate +6/+8 seeds need exact passages, context, task and replacement budgets"
+    },
+    {
+      "task": "PC-33",
+      "course": "C06",
+      "description": "Sartre Existentialism Is a Humanism encounter",
+      "seed_hours": 8,
+      "status": "proposal; translation, extent, assessment and overlap with 12C pending"
+    }
   ],
-  "revised_default_total": null,
-  "note": "1,936 and +46 are source-plan estimates with different scope, not adopted totals. Reading, context, practice, feedback, revision, assessment and delayed work must be budgeted before any proposal is adopted."
+  "revised_default_total": 1970,
+  "note": "The revised default total is an authored planning allocation, not measured learner time. 1,936/+46 remains a superseded estimate with different scope. Route-specific bridges, conditional credits and optional support are reconciled in authored-workload.json.",
+  "authored_workload_source": "data/authored-workload.json",
+  "proposal_history_note": "specified_proposals preserves the earlier seed estimates and pending labels as historical planning evidence; the authored-workload source supersedes them for current packet budgets. Do not add both ledgers."
 }
