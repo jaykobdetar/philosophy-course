@@ -1,0 +1,214 @@
+{
+  "C11A-M01": {
+    "total_hours": 10.0,
+    "minutes": {
+      "reading": 180,
+      "map_glossary": 120,
+      "practice": 120,
+      "independent": 30,
+      "feedback": 60,
+      "revision_retrieval": 90
+    },
+    "source": "Corresponding module prose budget; estimates pending learner logs."
+  },
+  "C11A-M02": {
+    "total_hours": 22.0,
+    "minutes": {
+      "reading": 540,
+      "practice": 180,
+      "draft": 180,
+      "feedback": 120,
+      "independent": 45,
+      "revision": 180,
+      "retrieval": 75
+    },
+    "source": "Corresponding module prose budget; estimates pending learner logs."
+  },
+  "C11A-M03": {
+    "total_hours": 20.0,
+    "minutes": {
+      "reading": 480,
+      "practice": 180,
+      "draft": 180,
+      "feedback": 90,
+      "independent": 45,
+      "revision": 150,
+      "retrieval": 75
+    },
+    "source": "Corresponding module prose budget; estimates pending learner logs."
+  },
+  "C11A-M04": {
+    "total_hours": 16.0,
+    "minutes": {
+      "reading": 360,
+      "practice": 180,
+      "draft": 120,
+      "feedback": 90,
+      "independent": 45,
+      "revision": 105,
+      "retrieval": 60
+    },
+    "source": "Corresponding module prose budget; estimates pending learner logs."
+  },
+  "C11A-M05": {
+    "total_hours": 24.0,
+    "minutes": {
+      "reading": 600,
+      "practice": 240,
+      "draft": 180,
+      "feedback": 120,
+      "independent": 60,
+      "revision": 180,
+      "retrieval": 60
+    },
+    "source": "Corresponding module prose budget; estimates pending learner logs."
+  },
+  "C11A-M06": {
+    "total_hours": 18.0,
+    "minutes": {
+      "reading": 360,
+      "practice": 180,
+      "translation": 120,
+      "draft": 120,
+      "feedback": 90,
+      "independent": 60,
+      "revision": 90,
+      "retrieval": 60
+    },
+    "source": "Corresponding module prose budget; estimates pending learner logs."
+  },
+  "C11A-M07": {
+    "total_hours": 22.0,
+    "minutes": {
+      "dossier": 120,
+      "reading": 180,
+      "argument_practice": 180,
+      "draft": 360,
+      "feedback": 120,
+      "revision": 240,
+      "independent": 30,
+      "audit_retrieval": 90
+    },
+    "source": "Corresponding module prose budget; estimates pending learner logs."
+  },
+  "C11B-M01": {
+    "total_hours": 14.0,
+    "minutes": {
+      "reading": 300,
+      "cards": 120,
+      "practice_draft": 120,
+      "feedback": 90,
+      "independent": 30,
+      "revision": 120,
+      "retrieval": 60
+    },
+    "source": "Corresponding module prose budget; estimates pending learner logs."
+  },
+  "C11B-M02": {
+    "total_hours": 20.0,
+    "minutes": {
+      "reading": 360,
+      "maps": 180,
+      "practice_draft": 180,
+      "feedback": 120,
+      "independent": 45,
+      "revision": 180,
+      "retrieval_audit": 135
+    },
+    "source": "Corresponding module prose budget; estimates pending learner logs."
+  },
+  "C11B-M03": {
+    "total_hours": 24.0,
+    "minutes": {
+      "reading": 600,
+      "maps": 180,
+      "practice_draft": 240,
+      "feedback": 120,
+      "independent": 60,
+      "revision": 180,
+      "retrieval": 60
+    },
+    "source": "Corresponding module prose budget; estimates pending learner logs."
+  },
+  "C11B-M04": {
+    "total_hours": 20.0,
+    "minutes": {
+      "reading": 480,
+      "reconstruction": 180,
+      "practice": 120,
+      "feedback": 120,
+      "independent": 60,
+      "revision": 180,
+      "retrieval": 60
+    },
+    "source": "Corresponding module prose budget; estimates pending learner logs."
+  },
+  "C11B-M05": {
+    "total_hours": 16.0,
+    "minutes": {
+      "reading": 360,
+      "practice": 120,
+      "draft": 120,
+      "feedback": 90,
+      "independent": 45,
+      "revision": 165,
+      "retrieval": 60
+    },
+    "source": "Corresponding module prose budget; estimates pending learner logs."
+  },
+  "C11B-M06": {
+    "total_hours": 14.0,
+    "minutes": {
+      "reading": 180,
+      "audit": 180,
+      "rewrite": 120,
+      "feedback": 90,
+      "independent": 45,
+      "revision": 165,
+      "retrieval": 60
+    },
+    "source": "Corresponding module prose budget; estimates pending learner logs."
+  },
+  "C11B-M07": {
+    "total_hours": 24.0,
+    "minutes": {
+      "dossier": 120,
+      "reading": 180,
+      "argument_practice": 180,
+      "draft": 420,
+      "feedback": 120,
+      "revision": 240,
+      "independent": 30,
+      "audit_retrieval": 150
+    },
+    "source": "Corresponding module prose budget; estimates pending learner logs."
+  },
+  "C11A-M08": {
+    "total_hours": 8.0,
+    "minutes": {
+      "audit": 45,
+      "fresh": 90,
+      "dialogue": 20,
+      "feedback": 60,
+      "repair": 90,
+      "alternate_reserve": 60,
+      "delayed": 25,
+      "final_revision_audit": 90
+    },
+    "source": "Corresponding module prose budget; estimates pending learner logs."
+  },
+  "C11B-M08": {
+    "total_hours": 8.0,
+    "minutes": {
+      "audit": 45,
+      "fresh": 90,
+      "dialogue": 20,
+      "feedback": 60,
+      "repair": 90,
+      "alternate_reserve": 60,
+      "delayed": 25,
+      "final_revision_audit": 90
+    },
+    "source": "Corresponding module prose budget; estimates pending learner logs."
+  }
+}

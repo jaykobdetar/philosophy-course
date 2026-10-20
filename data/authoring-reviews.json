@@ -542,6 +542,430 @@
         }
       ],
       "limits": "Selected primary-source verification; no learner pilot, human expert validation, rights clearance or rendered accessibility test."
+    },
+    {
+      "course_number": 7,
+      "reviewed_on": "2026-10-20",
+      "reviewer_role": "independent course content reviewer",
+      "requested_model": "gpt-6-astra",
+      "runtime_identity_attested": false,
+      "result": "accepted after fixes",
+      "report": "implementation/reviews/2026-10-20-courses-07-08-11-13.md",
+      "inventory_sha256": "bd36ef671ad83c6f05985b7cf905c7e0006691e0e74ebfce574fe654c6ef9256",
+      "files": [
+        {
+          "path": "instruction/course-07/README.md",
+          "sha256": "7b08ca71bcdf472aa5ca3846dbb4cd705ffe68d3a7717ffcfb56387e9574ba45"
+        },
+        {
+          "path": "instruction/course-07/additions/pc25.md",
+          "sha256": "aecf94e728b6f6b55362bbafc5b31fb2098841e108afd25bd1ecf511f9a1365a"
+        },
+        {
+          "path": "instruction/course-07/additions/pc26.md",
+          "sha256": "8fd44a182eba9ef0b89fa34054429f5e13ca0d90d3fbc232f862c4c2785a9f58"
+        },
+        {
+          "path": "instruction/course-07/additions/pc32.md",
+          "sha256": "2483d403f8e51b00c859c903243188521af8c041487195b1944b3a3865e11d3c"
+        },
+        {
+          "path": "instruction/course-07/assessment.md",
+          "sha256": "3f4e8e27dc17aaa1b6aac6590d584533e66dd866f5da75f8c80031d7dba1f6c1"
+        },
+        {
+          "path": "instruction/course-07/authoring.json",
+          "sha256": "6fd24e654d4c174b676739c59a1e0701d41f8c8256fc7a6da006dfa2cf6b2ce8"
+        },
+        {
+          "path": "instruction/course-07/examiner-notes.md",
+          "sha256": "61963b33029f469b6694b89ab6b97c559f9d58b6f57cd2f28c6ddf98ec29b980"
+        },
+        {
+          "path": "instruction/course-07/examples.md",
+          "sha256": "da66989e29473f3ab2eb8b44630f0f8337835e9820fdd958cf66e988f43ccfe7"
+        },
+        {
+          "path": "instruction/course-07/modules/01.md",
+          "sha256": "d35dfe2e7f01473a6ce1891288763cf5681b3901e4b86559f3c499d299397c7e"
+        },
+        {
+          "path": "instruction/course-07/modules/02.md",
+          "sha256": "e1e1c9b4439048364bd9ad2be2151614b378ac6beae9096a9d5f6d1c71bd7b4a"
+        },
+        {
+          "path": "instruction/course-07/modules/03.md",
+          "sha256": "06171e3ddc41387261e43b7f262d6d584ac313e374a959e0b0029ae209c6a308"
+        },
+        {
+          "path": "instruction/course-07/modules/04.md",
+          "sha256": "4bf8ceea75a9d4b8b11665369c2304577ab46bc79ce2c1b632d87fb9af639111"
+        },
+        {
+          "path": "instruction/course-07/modules/05.md",
+          "sha256": "6a934ae3d54858d86a3cff210731beb6f295db6ec526b2926eee7a6224e8dc0a"
+        },
+        {
+          "path": "instruction/course-07/modules/06.md",
+          "sha256": "b6a01533d60270e7bee988dd8316a9c7aa10cedceddf72ecd70e4f01e557a5fe"
+        },
+        {
+          "path": "instruction/course-07/modules/07.md",
+          "sha256": "9912045f987741cc84612eab581fd688c0ec43819da7b0fdec93c1c4b8c4a6a1"
+        },
+        {
+          "path": "instruction/course-07/modules/08.md",
+          "sha256": "47861f69ffa2563732e7c14a9cd5589dbb704d9829bdd97663016d1b131d14a9"
+        },
+        {
+          "path": "instruction/course-07/outcomes.md",
+          "sha256": "45eebf9e4b536090ae32f3554e039eb1810e1a83123484dc1cb1a305d3063c16"
+        },
+        {
+          "path": "instruction/course-07/readings.md",
+          "sha256": "3f99027ef4c15350708614b6b4d5ad9505cca1bbabffa2c1fdbb65419342dc6a"
+        },
+        {
+          "path": "instruction/course-07/source-audit.md",
+          "sha256": "65eda9bffa98a452288ec0325094d30a9f1952a64c90169b550c73958224caa8"
+        },
+        {
+          "path": "instruction/course-07/source-fingerprints.json",
+          "sha256": "6ca7fa386905e8bebed7caa120cf7eed8043e1e2be47cb19eb237efe7e429bd8"
+        },
+        {
+          "path": "instruction/course-07/tutor-guide.md",
+          "sha256": "89bb32c6029f201e55ab7185aef285a3c407a01898dcb6632ae3a7a96a1de131"
+        },
+        {
+          "path": "instruction/course-07/verification-results.json",
+          "sha256": "9503b0e72c66e8b4071fe70c1b397d1024714921e04034b01e103517b8bc4ece"
+        },
+        {
+          "path": "instruction/course-07/verification.md",
+          "sha256": "28179c765fdff32b504067e6ce78873e00f1f4fba1332b0acbf5a07db6bd9abb"
+        },
+        {
+          "path": "instruction/course-07/verify.py",
+          "sha256": "bcae060dd14b79524d27d18f5bf28183092c5fc9c6af2711e33a1d96c7238e3f"
+        }
+      ],
+      "limits": "Selected primary-source verification and disclosed edition/access dependencies; no learner pilot, human expert validation, rights clearance or rendered accessibility test."
+    },
+    {
+      "course_number": 8,
+      "reviewed_on": "2026-10-20",
+      "reviewer_role": "independent course content reviewer",
+      "requested_model": "gpt-6-astra",
+      "runtime_identity_attested": false,
+      "result": "accepted after fixes",
+      "report": "implementation/reviews/2026-10-20-courses-07-08-11-13.md",
+      "inventory_sha256": "5f2967a86fd33f106ea3bf15a542b6beeffb3c1d835cc2739643809ff34be0d5",
+      "files": [
+        {
+          "path": "instruction/course-08/README.md",
+          "sha256": "01ee1a8a1335bcf3c42b8f97351df6668fb1fd5d699ce62dc643f8da534fd8f2"
+        },
+        {
+          "path": "instruction/course-08/additions/pc32-haslanger.md",
+          "sha256": "28cb90351017237fc18af5c089f34e62506fb1e558b0ea374f6e40d8ffc53f0a"
+        },
+        {
+          "path": "instruction/course-08/assessment.md",
+          "sha256": "b9bdd8451beff9867eec8a6fa112d4c7712c02c278ae653fdc17406db4c5a7e1"
+        },
+        {
+          "path": "instruction/course-08/authoring.json",
+          "sha256": "bd57815c59c9777c5f3485abbc2641d441392bd7c818c2f6b48205d7b0dc10c6"
+        },
+        {
+          "path": "instruction/course-08/check.py",
+          "sha256": "9234eaa4260978fada45e7ae689c9f92bc3c7063b6f1dfe8a0648420ebcb7580"
+        },
+        {
+          "path": "instruction/course-08/examiner-notes.md",
+          "sha256": "afb84efb91fbec712d25db252dcedf72757b66d54c982f05e06d486cc0ebf350"
+        },
+        {
+          "path": "instruction/course-08/examples.md",
+          "sha256": "01b74a593a75eed5511b903427e1674ed1bdc20ba7293362289963913600d3dd"
+        },
+        {
+          "path": "instruction/course-08/modules/01.md",
+          "sha256": "9f41641efea76c08be5e5e6c6d231c592922897946da8f6896f75be0c1b7833f"
+        },
+        {
+          "path": "instruction/course-08/modules/02.md",
+          "sha256": "9c553cd16796b2458267b6cf96e217a534fe2f997b2a2e3b33fd55077ab7b7b3"
+        },
+        {
+          "path": "instruction/course-08/modules/03.md",
+          "sha256": "98a379d5a7dafcc055f5742387d72c390a7d88cd113632df2caceb59c1dc15cc"
+        },
+        {
+          "path": "instruction/course-08/modules/04.md",
+          "sha256": "f2fcc63d3bd481b8dbcae49422a7f745cce50d264535d45fd2792de1b18197d1"
+        },
+        {
+          "path": "instruction/course-08/modules/05.md",
+          "sha256": "ed2e4e6cd2afcf2067872e483565465beac502a653703c8ba3fe48bfeb27c968"
+        },
+        {
+          "path": "instruction/course-08/modules/06.md",
+          "sha256": "2e4762079402d48f90df021a130847b15e6de1f9e009b0d5791a5d04e04a79ba"
+        },
+        {
+          "path": "instruction/course-08/modules/07.md",
+          "sha256": "6c08f0d8b2cc01bea1971979c7aaed3aecf2a04fa68e0aacf3a49b5dce013aa1"
+        },
+        {
+          "path": "instruction/course-08/modules/08.md",
+          "sha256": "06493066f603c5634e0e05b0387af14ac7100575d0645e7eed489e5c200d8326"
+        },
+        {
+          "path": "instruction/course-08/outcomes.md",
+          "sha256": "4feac2e48db1f410bd26084568d3125323c17af1a1f74cfd2521f9f94824fa40"
+        },
+        {
+          "path": "instruction/course-08/source-audit.md",
+          "sha256": "3f80f95a8e01281ccaa937766a193f7c5ef7e2e5e8da02c832a359a681720d56"
+        },
+        {
+          "path": "instruction/course-08/tutor-notes.md",
+          "sha256": "73296acee3a482fcf4e7d341ac4b323d6fca9a7e69b7c720073280e30da0d272"
+        },
+        {
+          "path": "instruction/course-08/verification.md",
+          "sha256": "3ed80c075d8b16af4f7f861d385c1d6f10559736ad9e981204e5d25f5238c69d"
+        }
+      ],
+      "limits": "Selected primary-source verification and disclosed edition/access dependencies; no learner pilot, human expert validation, rights clearance or rendered accessibility test."
+    },
+    {
+      "course_number": 11,
+      "reviewed_on": "2026-10-20",
+      "reviewer_role": "independent course content reviewer",
+      "requested_model": "gpt-6-astra",
+      "runtime_identity_attested": false,
+      "result": "accepted after fixes",
+      "report": "implementation/reviews/2026-10-20-courses-07-08-11-13.md",
+      "inventory_sha256": "bbf11512b702b9b7e25554d8ff026880fb2f48bbace9282ebd6fd8bb2886094d",
+      "files": [
+        {
+          "path": "instruction/course-11/README.md",
+          "sha256": "d891d6b915003c81106cd0af83b7a0da663cacc76a19278d018d6bd509d9c6a4"
+        },
+        {
+          "path": "instruction/course-11/a/README.md",
+          "sha256": "f6dfdd6416587a1980083e018d2ba6809e424508752a35336cc0163bafa0d444"
+        },
+        {
+          "path": "instruction/course-11/a/modules/01.md",
+          "sha256": "3c33435cb46ec54d059658e81fd94077f881a4e8d19ae88856344ee80055939d"
+        },
+        {
+          "path": "instruction/course-11/a/modules/02.md",
+          "sha256": "aca11a8fd2f2a93c347afadfc31337b2cffa3c1827d6f16932a1a69ae8bdcdae"
+        },
+        {
+          "path": "instruction/course-11/a/modules/03.md",
+          "sha256": "a1a09c48c5e5ce98cde03019c810257d8e1fd289e3b439bc244f1c3d1ef3c335"
+        },
+        {
+          "path": "instruction/course-11/a/modules/04.md",
+          "sha256": "15be52c418bc1faddbb6c9d079125091d1520101d6576f926547c4e628b0194a"
+        },
+        {
+          "path": "instruction/course-11/a/modules/05.md",
+          "sha256": "0d1a8cdf3d7d25f7ccd8edc8a92e1976f6dfb5d82509ca468c8528adc631c1a5"
+        },
+        {
+          "path": "instruction/course-11/a/modules/06.md",
+          "sha256": "3b1547b7c03dd7a62b7b816ee61cc467689524443373d426e89d5d49db5b081e"
+        },
+        {
+          "path": "instruction/course-11/a/modules/07.md",
+          "sha256": "9df4f03789ba727822f4f71caab5c49da6f8c9a4514946ac2848afab1a2b7299"
+        },
+        {
+          "path": "instruction/course-11/a/modules/08.md",
+          "sha256": "c2ff1a4a453f8f4aa3dabb5f680bacb5eac76579ff09b07f75ebb506e2f0fc2d"
+        },
+        {
+          "path": "instruction/course-11/assessment.md",
+          "sha256": "6c276389189cc0aa1ee90aa2cf6b145677eea65e7c2094ebefdd067e5c85d1de"
+        },
+        {
+          "path": "instruction/course-11/authoring.json",
+          "sha256": "e75510ca03c55c460e10493a5c0f0676807188d0b947fb2ce6652068a1baa69c"
+        },
+        {
+          "path": "instruction/course-11/b/README.md",
+          "sha256": "ae846c4433bdde6be0c5df51a00231df79cfd50ff431e9ff1f88b2bf99febb5b"
+        },
+        {
+          "path": "instruction/course-11/b/modules/01.md",
+          "sha256": "6233293ec54146f65b509c113e7c9f078eef12d8e497f81174bf5661ac662f30"
+        },
+        {
+          "path": "instruction/course-11/b/modules/02.md",
+          "sha256": "66a212e4bd22a844c12a7e96f5e2f7af39bcb5a6f206ceb9522e378fcc28f4dc"
+        },
+        {
+          "path": "instruction/course-11/b/modules/03.md",
+          "sha256": "238bfdbc9aec18a1dd2b9192bb9ed64b27e9b1d99178a61ede41a81080559e4e"
+        },
+        {
+          "path": "instruction/course-11/b/modules/04.md",
+          "sha256": "dcbcf126fb406329183cc580c475d0553abc59f9434085d5dfdbbdcc103447c6"
+        },
+        {
+          "path": "instruction/course-11/b/modules/05.md",
+          "sha256": "b3bf8a4336bd3b269b40ef5eedffaa58c64e89a2bad0f2537909e5dea2cac589"
+        },
+        {
+          "path": "instruction/course-11/b/modules/06.md",
+          "sha256": "fa1120b133d468c40dbe5096e76f487afe279b77b0fe8b7efdd092ffaebaf31d"
+        },
+        {
+          "path": "instruction/course-11/b/modules/07.md",
+          "sha256": "dfbb6916467a88102e944741661cc192fd4e5ddfd02e4c398fea163cde9b2afc"
+        },
+        {
+          "path": "instruction/course-11/b/modules/08.md",
+          "sha256": "99194979f2bb1f9d348121784aeff3aecc0065855bf75204053379ada6bce676"
+        },
+        {
+          "path": "instruction/course-11/checks/timing.json",
+          "sha256": "be6a53dec6032a8000d46187a1b39e0a5c05d57581d1cddf61c5f5ee65bd2235"
+        },
+        {
+          "path": "instruction/course-11/checks/verify.py",
+          "sha256": "e90bafa964bfb13c24566e9f495a945e257b774edc5178102d56e59cfef20624"
+        },
+        {
+          "path": "instruction/course-11/examiner-notes.md",
+          "sha256": "7732d30fd386b3c8ffa9d9d7b739f73d53aa88a7c784015f120ee5e7c6f8ad41"
+        },
+        {
+          "path": "instruction/course-11/outcomes.md",
+          "sha256": "e6f3392fc24cef197cc400821d4d2bf17cdc37f14ba99200d734cab6f12ed501"
+        },
+        {
+          "path": "instruction/course-11/response-examples.md",
+          "sha256": "32cb949ea4f107d1352f04988dd6a89fb92bad639aed8a7c1f726193b5d4ccb6"
+        },
+        {
+          "path": "instruction/course-11/source-audit.md",
+          "sha256": "e502c4dde5a122e3a21b09aff32726fac8f231f8ddc941bca71e520f45a1632f"
+        },
+        {
+          "path": "instruction/course-11/tutor-notes.md",
+          "sha256": "22369679b1e848e753d795c10a59e567457f482cde4a277c03bf24f25f96a4a2"
+        },
+        {
+          "path": "instruction/course-11/verification.md",
+          "sha256": "b73c4485d04484f294de0b88786c9f4ff6d7b8ad93553642c6a238d185841faa"
+        }
+      ],
+      "limits": "Selected primary-source verification and disclosed edition/access dependencies; no learner pilot, human expert validation, rights clearance or rendered accessibility test."
+    },
+    {
+      "course_number": 13,
+      "reviewed_on": "2026-10-20",
+      "reviewer_role": "independent course content reviewer",
+      "requested_model": "gpt-6-astra",
+      "runtime_identity_attested": false,
+      "result": "accepted after fixes",
+      "report": "implementation/reviews/2026-10-20-courses-07-08-11-13.md",
+      "inventory_sha256": "cdeb6ea9e45c429df3911cee0d5affb9f397580135e8d4d230a8d6a016af4318",
+      "files": [
+        {
+          "path": "instruction/course-13/README.md",
+          "sha256": "2e1474abbf24a52c154ad6cb44d872133ff8d04be43185f4df0c077bc9365610"
+        },
+        {
+          "path": "instruction/course-13/assessment.md",
+          "sha256": "8a908e110271e7e43ac523de629b7b0aa7eaad13f2851bf7b10498f9a22f675e"
+        },
+        {
+          "path": "instruction/course-13/authoring.json",
+          "sha256": "fdc760d0decbcc238a204d7255246fbb94a33b8b55c4f6a6a006566f1af95403"
+        },
+        {
+          "path": "instruction/course-13/check_authoring.py",
+          "sha256": "a2a67bfab9be9c110eb45574e7c73c1db4589f4fcfbf92f5724fc3b37ebf375d"
+        },
+        {
+          "path": "instruction/course-13/examiner-notes.md",
+          "sha256": "5b33f4af92c48fd01278b726f20358dd689bd21d5769263dee3458c0d63174ee"
+        },
+        {
+          "path": "instruction/course-13/exemplars.md",
+          "sha256": "52e715feaa265ddc3cf9cb1ebd11d4041d64da7d5d76c7511f825a376d80eeb0"
+        },
+        {
+          "path": "instruction/course-13/modules/01.md",
+          "sha256": "0455ebaaf531543de234096eaadfdc3401f519b71db9cdfed684e32689ebddbb"
+        },
+        {
+          "path": "instruction/course-13/modules/02.md",
+          "sha256": "9525bd6a8c06ea0b586d6a5a5e53e02fc179f7e68fe23db608983e31db732526"
+        },
+        {
+          "path": "instruction/course-13/modules/03.md",
+          "sha256": "13abb20e0b11929c9cb02480019ef850e8e5251e3406bfcfca48ffecedd8d389"
+        },
+        {
+          "path": "instruction/course-13/modules/04.md",
+          "sha256": "f2d2a7b5d5d2854ce86deb87f5ec514a646da475f53aeec870cea24a9b9f8831"
+        },
+        {
+          "path": "instruction/course-13/modules/05.md",
+          "sha256": "6f5df67eea86d67a9cf5c0c5b5000a6294c49cedfa5cb7ba71d09d5bb17593a9"
+        },
+        {
+          "path": "instruction/course-13/modules/06.md",
+          "sha256": "42fb28949703ffe28fa06ae5c8602050f990b4a2e17b2cdbb952690afb9166b0"
+        },
+        {
+          "path": "instruction/course-13/modules/07.md",
+          "sha256": "5cf4d4754469aaf7f4126fcf67c567f841be9df07a830ca945099d3470e0736c"
+        },
+        {
+          "path": "instruction/course-13/modules/08.md",
+          "sha256": "a587c609415a87b3939421b11fd7ef067e4512b6aab54ea3425a3f022d42fac9"
+        },
+        {
+          "path": "instruction/course-13/outcomes.md",
+          "sha256": "bcc2df4d85d6b37dc48142b94dcb74079b31b5330529097d51f8b32459ed4a16"
+        },
+        {
+          "path": "instruction/course-13/source-audit.md",
+          "sha256": "0ac1cce81b53af3bd263a215572893c8c3239015a2912e76ba1f2226de33d878"
+        },
+        {
+          "path": "instruction/course-13/sources.md",
+          "sha256": "84840a646d42291751dcb6b8f17b43dd316f5f63b409ea3d05842c472605b33e"
+        },
+        {
+          "path": "instruction/course-13/tracks/13a.md",
+          "sha256": "27cb2c67163b97c0f969907c8641ea96673e96798fc71098125f643fd7f07169"
+        },
+        {
+          "path": "instruction/course-13/tracks/13b.md",
+          "sha256": "046c470c7516f7f5f03d6a23b8b0f13598bf8711336592863f1457bf90a8996b"
+        },
+        {
+          "path": "instruction/course-13/tracks/13c.md",
+          "sha256": "3b9bcc5eb4080285f71b97394adee49fe67a92ba99fb072710fcc57734e96132"
+        },
+        {
+          "path": "instruction/course-13/verification.md",
+          "sha256": "8af8a5d86e0960d96b3e740ef26e5fecfbe0c067d41561442959726f618175d3"
+        }
+      ],
+      "limits": "Selected primary-source verification and disclosed edition/access dependencies; no learner pilot, human expert validation, rights clearance or rendered accessibility test."
     }
   ]
 }

@@ -1,0 +1,55 @@
+# C08 examiner guidance — withhold until independent submission
+
+These are diagnostic anchors, not a single political answer. Give the learner only the selected prompts from the module packet or assessment file. Record prior exposure and assistance first. The sources allowed are those assigned; no AI content help, answer keys or prepared responses. A tutor may clarify administration, not the answer. These local files are not a secure examination system.
+
+A competent response accurately identifies the relevant author/premise, explains an inference, marks an empirical uncertainty and limits the conclusion to supplied facts. Strong work tests a significant assumption or rival reading. Developing work labels theories without connecting them to a verdict, conflates empirical and normative claims, or depends on a material misreading. Integrity failures require correction, not a merely lower grade. Assess every essential row separately; the 20-minute explanation clarifies evidence and is counted once. Source-dependent anchors below remain provisional where the exact text was not inspected.
+
+## Module independent anchors
+
+**F1 radio network:** The long record weakens a claim that only permanent centralized control can secure cooperation. It does not show coordination never needs authority. Rescue benefit and emergency need do not themselves establish unlimited permanent jurisdiction. Look for a specified inference and evidence about reliability, alternatives and scope; do not require a libertarian or authoritarian conclusion.
+
+**F2 irrigation:** Repair is labor, but title to all water needs a bridge and attention to what remains for others. A majority among an existing association does not itself establish the founding consent of outsiders. Hobbes's authorized representative addresses common action; don't accept “both say consent, so identical.” Competence requires two separately assessed inferences with section references.
+
+**F3 microphone:** Occupation of a scarce channel and the content of a harmless proposal are separable. A neutral allocation rule can facilitate others' speech; a criticism ban raises a different justification. Require possible selective enforcement to be an empirical issue, not a fact asserted without evidence. Mill's reasons for discussion support analysis but do not by themselves specify a unique time limit.
+
+**F4 interview:** The first specified paragraph contains both double-consciousness and two-ness; the second describes the aim of a self that preserves both affiliations and encounters open opportunity. The answer should connect seeing oneself through an external standard with divided self-relation, retaining social/narrative context. Merely “two identities” is inadequate. The analogy needs evidence about evaluation practices and experiences; similarity does not establish causal identity or generalize to every applicant.
+
+**F5 inventor:** Voluntary transfers from just holdings support an entitlement argument for that transfer, under the stipulation. An unexplained legal privilege introduces a separate provenance/institutional question. A future advantage to the least advantaged bears on a Rawlsian institutional comparison under its other conditions. Do not award competence for “14>10, therefore levy proven” or “voluntary, therefore all future institutions forbidden.” Check exact Rawls/Nozick passages before definitive attribution.
+
+**F6 guild:** An ancestry-neutral reference rule can reproduce access barriers; the mechanism is not proved merely by unequal outcomes. Ask for evidence about reference networks, admission histories and the effects of alternative rules. A defender can keep an ideal equality principle while accepting criticism of the model's application. Require checked Mills evidence; no personal condemnation substitutes for analysis.
+
+**F7 essay objection:** Authority essay: new entrants expose founding agreement and scope. Mill essay: new participants expose fair access/enforcement and who bears a restriction. Distribution essay: entrants expose institutional inheritance and applicability of the stipulated starting holdings. Mills essay: entrants expose membership, historical position and whether the critique changes the defended ideal. Accept different well-supported revisions; require the exact premise and a reply to the strongest version of the objection. A generic sentence about inclusion does not suffice.
+
+**H-F coastal-origin category:** The stipulated perceived feature, presumed ancestry, ideology and systematic housing position are relevant. Actual ancestry need not match the presumption; overall wealth does not automatically remove subordination along a specified dimension. Structural assignment does not settle self-identification. Strong work tests context and the definition's purpose. A real-world application requires evidence of how classification affects housing and status. **H-A care obligation:** The learner must distinguish the bodily marker, ideology and care institution; high professional rank does not settle every dimension. Require caution about the relation to personal identity and evidence of systematic positioning. Do not require endorsing the definition.
+
+## Final fresh forms
+
+| Item | Task-specific competent anchors | Material error/repair |
+| --- | --- | --- |
+| A1 | Scope of delegated/elected authority needs argument; criticism causing noncooperation is an unverified causal premise; sabotage changes the proposed harmful conduct, not every critical opinion | Repair benefit→unlimited authority or offense→harm. Reconstruct one authority source and Mill's distinct speech claim. |
+| A2 | A patterned aim need not entail coercive maintenance: the stipulated conditional transfers occur voluntarily from just holdings. Actual informed agreement does not reproduce Rawls’s original position or establish all institutional principles. Nonrenewal raises durability/coverage questions without retroactively invalidating the completed transfers | Repair inference from the label “redistribution” to injustice, or from actual consent to full Rawlsian justification. Require the unmet-assurance condition and the annual authorization to be distinguished from perpetual commitment; do not invent a duty to renew. |
+| A3 | The demand for obedience is reported as Rousseau’s view; Wollstonecraft’s reply argues for the same quality/principles/aim of virtue while retaining qualifications about degree and duties. The case changes appraisal of demonstrated reasoning, not its development. Equal scores can leave different grounds of recognition intact | Repair attribution of the reported obedience demand to Wollstonecraft, explanation through a training deficit excluded by the case, or equation of numerical parity with recognition of reasons. Require a bounded analogy and evidence comparing how equivalent arguments are evaluated. |
+| B1 | Locke's majority presupposes joining a political body; outsiders remain a separate question. Mill's false-opinion branch concerns understanding grounds for truth. Scarcity requires a justified access procedure | Repair assumption that majority binds anyone or falsehood removes every speech reason. |
+| B2 | T's greater total cannot cancel its liberty defect. Nightly resets supply a patterned-rule problem for voluntary transfers; coercion directly changes the transfer premise | Repair treating Rawls as simple equality or Nozick as current-holdings entitlement regardless of history. |
+| B3 | Both double-consciousness and two-ness occur in the first selected paragraph; the next develops the aspiration to preserve both affiliations. Socially mediated self-relation and narrative have explanatory force. Removing explicit questions may leave old scoring practices intact | Repair factual certainty about effects; require distinction between the source's account, analogy and empirical test. |
+
+A3/B3 are fresh **interpretive tasks** on assigned material. If the learner's essay centered on precisely that selected passage, use the other author or a genuinely new verified passage with equivalent scope. Do not certify fresh evidence by changing a date or place name. The assessor must check actual passage text in the learner's edition.
+
+For the 20-minute explanation, look for identification of an actual textual claim versus inference; a precise conditional change when the empirical premise fails; and a serious competing principle or explanation. A mistaken factual premise may be withdrawn without requiring the whole moral principle to be abandoned. Conversely, merely repeating the initial conclusion is insufficient responsiveness. Typed, dictated or spoken delivery is equivalent.
+
+## Final delayed forms
+
+Choose one least secure row after the recorded 4–6-week/two-later-module interval; 30 minutes plus feedback from the reserved 40. Do not add three delayed examinations. A developing result stays pending and triggers targeted repair/new independent evidence, with additional time logged when needed.
+
+| Item | Anchor and diagnostic |
+| --- | --- |
+| D1 | Gratitude is not automatically a transfer of jurisdiction; distinguish rescue effectiveness from newspaper authority. Accept a bounded obligation argument with a genuine scope premise. Reject automatic perpetual rule. |
+| D2 | Impartial chances do not confer authority to reassign entitled holdings. Rawls’s original position selects principles under informational constraints; it is not a random draw of homes. Authorized donation changes which resources may be distributed through the procedure, without proving the wider basic structure just |
+| D3 | Du Bois's joined work/culture/liberty challenges a single isolated remedy; formal admission may omit necessary material opportunity. Keep this a qualified analogy, not an attribution of exam policy to Du Bois. Need evidence about equipment's effect. |
+| E1 | Consent to noise jurisdiction differs from censorship. Noisy delivery can be regulated under a justified conduct rule without establishing grounds to suppress criticism as such. |
+| E2 | W improves the stipulated minimum 12→14; solidarity preference needs further argument, not automatic theoretical authority. Coerced resources introduce entitlement/history rather than simply changing the sum. |
+| E3 | The educational mechanism differs from continuing licensing exclusion. Equal training removes one proposed cause without proving fair access. Require checks on training outcomes and license rules separately. |
+
+## Recording and decisions
+
+Record row, evidence sentence, relevant criterion, checked source or explicit limitation, status and next step. No exact-edition access means no fabricated source verification; case reasoning may be evaluated provisionally. A source-bound reassessment is required before that interpretation row is complete. The final course status also requires revised P7, citation integrity and PC-32's separate evidence. Do not claim pilot, expert review, calibration success or rights clearance because these anchors exist.

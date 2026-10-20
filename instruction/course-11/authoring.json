@@ -1,0 +1,125 @@
+{
+  "course_number": 11,
+  "authored_on": "2026-10-20",
+  "tracks": [
+    {
+      "id": "C11A",
+      "title": "Classical Chinese philosophy",
+      "curriculum_page": "current/courses/11a.md",
+      "baseline_hours": 140,
+      "readme": "instruction/course-11/a/README.md",
+      "outcomes": "instruction/course-11/outcomes.md",
+      "assessment": "instruction/course-11/assessment.md",
+      "examiner": "instruction/course-11/examiner-notes.md",
+      "source_audit": "instruction/course-11/source-audit.md",
+      "modules": [
+        {
+          "id": "C11A-M01",
+          "path": "instruction/course-11/a/modules/01.md",
+          "hours": 10
+        },
+        {
+          "id": "C11A-M02",
+          "path": "instruction/course-11/a/modules/02.md",
+          "hours": 22
+        },
+        {
+          "id": "C11A-M03",
+          "path": "instruction/course-11/a/modules/03.md",
+          "hours": 20
+        },
+        {
+          "id": "C11A-M04",
+          "path": "instruction/course-11/a/modules/04.md",
+          "hours": 16
+        },
+        {
+          "id": "C11A-M05",
+          "path": "instruction/course-11/a/modules/05.md",
+          "hours": 24
+        },
+        {
+          "id": "C11A-M06",
+          "path": "instruction/course-11/a/modules/06.md",
+          "hours": 18
+        },
+        {
+          "id": "C11A-M07",
+          "path": "instruction/course-11/a/modules/07.md",
+          "hours": 22
+        },
+        {
+          "id": "C11A-M08",
+          "path": "instruction/course-11/a/modules/08.md",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "id": "C11B",
+      "title": "Africana philosophy",
+      "curriculum_page": "current/courses/11b.md",
+      "baseline_hours": 140,
+      "readme": "instruction/course-11/b/README.md",
+      "outcomes": "instruction/course-11/outcomes.md",
+      "assessment": "instruction/course-11/assessment.md",
+      "examiner": "instruction/course-11/examiner-notes.md",
+      "source_audit": "instruction/course-11/source-audit.md",
+      "modules": [
+        {
+          "id": "C11B-M01",
+          "path": "instruction/course-11/b/modules/01.md",
+          "hours": 14
+        },
+        {
+          "id": "C11B-M02",
+          "path": "instruction/course-11/b/modules/02.md",
+          "hours": 20
+        },
+        {
+          "id": "C11B-M03",
+          "path": "instruction/course-11/b/modules/03.md",
+          "hours": 24
+        },
+        {
+          "id": "C11B-M04",
+          "path": "instruction/course-11/b/modules/04.md",
+          "hours": 20
+        },
+        {
+          "id": "C11B-M05",
+          "path": "instruction/course-11/b/modules/05.md",
+          "hours": 16
+        },
+        {
+          "id": "C11B-M06",
+          "path": "instruction/course-11/b/modules/06.md",
+          "hours": 14
+        },
+        {
+          "id": "C11B-M07",
+          "path": "instruction/course-11/b/modules/07.md",
+          "hours": 24
+        },
+        {
+          "id": "C11B-M08",
+          "path": "instruction/course-11/b/modules/08.md",
+          "hours": 8
+        }
+      ]
+    }
+  ],
+  "additions": [],
+  "limitations": [
+    "Primary commercial assignments remain access-dependent; exact unsighted editions/ranges listed in source-audit.md.",
+    "Goldin short Xunzi23.1a comparison inspected; paired Hutton passage still needs lawful access and exact citation check.",
+    "McCarthy specialist review for Mills paper is metadata-verified, full text not inspected.",
+    "No learner pilot, specialist validation, rendered accessibility or runtime model attestation. FE8/UIT remain paused."
+  ],
+  "addition_decisions": [
+    {
+      "pc_task": "PC-32",
+      "decision": "Preserve both Course11 tracks. New Nyaya/Haslanger work belongs to Courses7/8; zero added/replaced Course11 hours."
+    }
+  ]
+}

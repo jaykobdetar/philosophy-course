@@ -1,0 +1,51 @@
+{
+  "checked_on": "2026-10-20",
+  "scope": "Local inspected source bytes; inspect source-audit.md for exact limited passages and method. Hashes do not imply rights or accuracy.",
+  "sources": [
+    {
+      "path": "collection/philosophy-study-collection/texts/introduction_logic/required/gettier_bilingual_disputatio_2013.pdf",
+      "sha256": "ae16a1a569ee4f6b573e307cafefe151e88b227bac35d0f0131b49139ef669fc",
+      "bytes": 282591
+    },
+    {
+      "path": "collection/philosophy-study-collection/texts/recovered_articles/goldman.pdf",
+      "sha256": "e3bf34b348fd8c126732aea23249db16cddc97e5990194182fa68ead97099475",
+      "bytes": 1788191
+    },
+    {
+      "path": "collection/philosophy-study-collection/texts/recovered_articles/frankfurt.pdf",
+      "sha256": "a03109b54b6bd14d34fbc879a6f5c45a38917aa923fc6770ca07fbaf6a19f879",
+      "bytes": 1138957
+    },
+    {
+      "path": "collection/philosophy-study-collection/texts/recovered_articles/van_inwagen.pdf",
+      "sha256": "9673651ec0301b1c3cb0032f58f67a5097edd70fd255d03886fa756cae6b733d",
+      "bytes": 838915
+    },
+    {
+      "path": "collection/philosophy-study-collection/texts/recovered_articles/quine_what_there_is.pdf",
+      "sha256": "8292c77763144acd075de870e4f59f3787fc2333d44959b77fb0303d99ba71a9",
+      "bytes": 1937490
+    },
+    {
+      "path": "collection/philosophy-study-collection/texts/recovered_articles/bonjour.pdf",
+      "sha256": "bbff50913b8a8bef960c00101415029ad112a761c7e334d64d99b04968d18a8c",
+      "bytes": 1381254
+    },
+    {
+      "path": "collection/philosophy-study-collection/texts/recovered_articles/moore.html",
+      "sha256": "623459106ae4b0a99e61e1321dad72fe0cc1aac05c11377ebac21fcd08885a80",
+      "bytes": 66070
+    },
+    {
+      "path": "collection/philosophy-study-collection/texts/gutenberg/pg9662-an-enquiry-concerning-human-understanding.txt",
+      "sha256": "647459bc720d0fe09f85ac17b8d7edc2557ff89ba4467151407a4d48228be2cb",
+      "bytes": 373357
+    },
+    {
+      "path": "collection/philosophy-study-collection/texts/gutenberg/pg10615-an-essay-concerning-humane-understanding-volume-1-mdcxc-based-on-the-2nd-edition-books-1-and-2.txt",
+      "sha256": "a12707722f72598adffbe3a211403ff9351b3c24db44d009c5debefb10cbc5e2",
+      "bytes": 869788
+    }
+  ]
+}

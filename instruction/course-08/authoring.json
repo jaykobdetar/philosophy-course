@@ -1,0 +1,175 @@
+{
+  "course_number": 8,
+  "authored_on": "2026-10-20",
+  "tracks": [
+    {
+      "id": "C08",
+      "title": "Political philosophy",
+      "curriculum_page": "current/courses/08.md",
+      "baseline_hours": 140,
+      "readme": "instruction/course-08/README.md",
+      "outcomes": "instruction/course-08/outcomes.md",
+      "assessment": "instruction/course-08/assessment.md",
+      "examiner": "instruction/course-08/examiner-notes.md",
+      "source_audit": "instruction/course-08/source-audit.md",
+      "modules": [
+        {
+          "id": "C08-M01",
+          "path": "instruction/course-08/modules/01.md",
+          "hours": 12,
+          "activity_hours": {
+            "reading": 4,
+            "teaching": 1,
+            "practice": 2,
+            "fresh": 1,
+            "feedback": 1,
+            "revision": 2,
+            "retrieval_citations": 1
+          }
+        },
+        {
+          "id": "C08-M02",
+          "path": "instruction/course-08/modules/02.md",
+          "hours": 18,
+          "activity_hours": {
+            "reading": 6,
+            "teaching_practice": 3,
+            "comparison": 3,
+            "fresh": 1,
+            "feedback": 1,
+            "revision": 3,
+            "retrieval_citations": 1
+          }
+        },
+        {
+          "id": "C08-M03",
+          "path": "instruction/course-08/modules/03.md",
+          "hours": 16,
+          "activity_hours": {
+            "reading": 5,
+            "teaching": 2,
+            "practice": 3,
+            "fresh": 1,
+            "feedback": 1,
+            "revision": 3,
+            "retrieval_citations": 1
+          }
+        },
+        {
+          "id": "C08-M04",
+          "path": "instruction/course-08/modules/04.md",
+          "hours": 18,
+          "activity_hours": {
+            "reading": 5,
+            "teaching_annotation": 3,
+            "practice": 4,
+            "fresh": 1,
+            "feedback": 1,
+            "revision": 3,
+            "retrieval_citations": 1
+          }
+        },
+        {
+          "id": "C08-M05",
+          "path": "instruction/course-08/modules/05.md",
+          "hours": 20,
+          "activity_hours": {
+            "reading": 7,
+            "teaching": 3,
+            "practice": 3,
+            "fresh": 1,
+            "feedback": 1,
+            "revision": 4,
+            "retrieval_citations": 1
+          }
+        },
+        {
+          "id": "C08-M06",
+          "path": "instruction/course-08/modules/06.md",
+          "hours": 20,
+          "activity_hours": {
+            "reading": 7,
+            "teaching": 3,
+            "practice": 3,
+            "fresh": 1,
+            "feedback": 1,
+            "revision": 4,
+            "retrieval_citations": 1
+          }
+        },
+        {
+          "id": "C08-M07",
+          "path": "instruction/course-08/modules/07.md",
+          "hours": 28,
+          "activity_hours": {
+            "selection": 3,
+            "reading": 4,
+            "trial_argument": 3,
+            "draft": 7,
+            "feedback": 2,
+            "revision": 5,
+            "citation_audit": 1,
+            "fresh": 1,
+            "memo": 1,
+            "retrieval": 1
+          }
+        },
+        {
+          "id": "C08-M08",
+          "path": "instruction/course-08/modules/08.md",
+          "hours": 8,
+          "activity_hours": {
+            "audit": 1,
+            "fresh_and_dialogue": 1.8333333333333333,
+            "feedback_and_repair": 2.5,
+            "retest": 1.5,
+            "delayed_and_feedback": 1.1666666666666667
+          }
+        }
+      ]
+    }
+  ],
+  "additions": [
+    {
+      "id": "C08-H",
+      "pc_task": "PC-32",
+      "path": "instruction/course-08/additions/pc32-haslanger.md",
+      "hours": 8,
+      "replaces_hours": 0,
+      "net_hours": 8,
+      "applies_to": [
+        "C08"
+      ],
+      "credit_rule": "Credit reading and reconstruction once under C08-H; retain evidence for later reuse, billing only distinct new work in C12D or research. No baseline reading replaced.",
+      "activity_hours": {
+        "orientation": 0.5,
+        "reading": 3,
+        "practice": 1,
+        "memo": 1,
+        "feedback": 0.5,
+        "revision": 1,
+        "fresh": 0.5,
+        "retrieval_log": 0.5
+      }
+    }
+  ],
+  "assessment_minutes": {
+    "audit": 60,
+    "fresh_written": 90,
+    "dialogue": 20,
+    "feedback": 50,
+    "repair": 100,
+    "retest": 90,
+    "final_delayed": 30,
+    "delayed_feedback_record": 40
+  },
+  "delayed_interval": "Roughly 4\u20136 weeks or two later modules; charged once to C08-M08; earlier retrieval distinct.",
+  "limitations": [
+    "Authored, not piloted or externally validated.",
+    "Rawls, Nozick and Mills assigned primary passages not inspected; lawful exact-edition access and source-bound verification pending.",
+    "Hobbes/Locke companion passages inspected selectively; exact Tuck/Laslett editions and remaining assigned ranges not verified.",
+    "Haslanger exact full article specified, targeted passages inspected only; no redistribution or rendered accessibility claim.",
+    "No learner exposure assurance, current-model calibration or screen-reader/render QA claimed. FE8/UIT paused; no browser rendering attempted.",
+    "Astra requested by delegation; runtime identity not independently attested."
+  ]
+}

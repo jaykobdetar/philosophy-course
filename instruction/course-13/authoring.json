@@ -1,0 +1,175 @@
+{
+  "course_number": 13,
+  "authored_on": "2026-10-20",
+  "tracks": [
+    {
+      "id": "C13A",
+      "title": "AI language and consciousness",
+      "curriculum_page": "current/courses/13a.md",
+      "baseline_hours": 160,
+      "readme": "instruction/course-13/README.md",
+      "outcomes": "instruction/course-13/outcomes.md",
+      "assessment": "instruction/course-13/assessment.md",
+      "examiner": "instruction/course-13/examiner-notes.md",
+      "source_audit": "instruction/course-13/source-audit.md",
+      "packet": "instruction/course-13/tracks/13a.md",
+      "modules": [
+        {
+          "id": "C13-M01",
+          "path": "instruction/course-13/modules/01.md",
+          "hours": 10
+        },
+        {
+          "id": "C13-M02",
+          "path": "instruction/course-13/modules/02.md",
+          "hours": 44
+        },
+        {
+          "id": "C13-M03",
+          "path": "instruction/course-13/modules/03.md",
+          "hours": 22
+        },
+        {
+          "id": "C13-M04",
+          "path": "instruction/course-13/modules/04.md",
+          "hours": 16
+        },
+        {
+          "id": "C13-M05",
+          "path": "instruction/course-13/modules/05.md",
+          "hours": 24
+        },
+        {
+          "id": "C13-M06",
+          "path": "instruction/course-13/modules/06.md",
+          "hours": 24
+        },
+        {
+          "id": "C13-M07",
+          "path": "instruction/course-13/modules/07.md",
+          "hours": 10
+        },
+        {
+          "id": "C13-M08",
+          "path": "instruction/course-13/modules/08.md",
+          "hours": 10
+        }
+      ]
+    },
+    {
+      "id": "C13B",
+      "title": "Comparative moral cultivation",
+      "curriculum_page": "current/courses/13b.md",
+      "baseline_hours": 160,
+      "readme": "instruction/course-13/README.md",
+      "outcomes": "instruction/course-13/outcomes.md",
+      "assessment": "instruction/course-13/assessment.md",
+      "examiner": "instruction/course-13/examiner-notes.md",
+      "source_audit": "instruction/course-13/source-audit.md",
+      "packet": "instruction/course-13/tracks/13b.md",
+      "modules": [
+        {
+          "id": "C13-M01",
+          "path": "instruction/course-13/modules/01.md",
+          "hours": 10
+        },
+        {
+          "id": "C13-M02",
+          "path": "instruction/course-13/modules/02.md",
+          "hours": 44
+        },
+        {
+          "id": "C13-M03",
+          "path": "instruction/course-13/modules/03.md",
+          "hours": 22
+        },
+        {
+          "id": "C13-M04",
+          "path": "instruction/course-13/modules/04.md",
+          "hours": 16
+        },
+        {
+          "id": "C13-M05",
+          "path": "instruction/course-13/modules/05.md",
+          "hours": 24
+        },
+        {
+          "id": "C13-M06",
+          "path": "instruction/course-13/modules/06.md",
+          "hours": 24
+        },
+        {
+          "id": "C13-M07",
+          "path": "instruction/course-13/modules/07.md",
+          "hours": 10
+        },
+        {
+          "id": "C13-M08",
+          "path": "instruction/course-13/modules/08.md",
+          "hours": 10
+        }
+      ]
+    },
+    {
+      "id": "C13C",
+      "title": "Social knowledge and justice",
+      "curriculum_page": "current/courses/13c.md",
+      "baseline_hours": 160,
+      "readme": "instruction/course-13/README.md",
+      "outcomes": "instruction/course-13/outcomes.md",
+      "assessment": "instruction/course-13/assessment.md",
+      "examiner": "instruction/course-13/examiner-notes.md",
+      "source_audit": "instruction/course-13/source-audit.md",
+      "packet": "instruction/course-13/tracks/13c.md",
+      "modules": [
+        {
+          "id": "C13-M01",
+          "path": "instruction/course-13/modules/01.md",
+          "hours": 10
+        },
+        {
+          "id": "C13-M02",
+          "path": "instruction/course-13/modules/02.md",
+          "hours": 44
+        },
+        {
+          "id": "C13-M03",
+          "path": "instruction/course-13/modules/03.md",
+          "hours": 22
+        },
+        {
+          "id": "C13-M04",
+          "path": "instruction/course-13/modules/04.md",
+          "hours": 16
+        },
+        {
+          "id": "C13-M05",
+          "path": "instruction/course-13/modules/05.md",
+          "hours": 24
+        },
+        {
+          "id": "C13-M06",
+          "path": "instruction/course-13/modules/06.md",
+          "hours": 24
+        },
+        {
+          "id": "C13-M07",
+          "path": "instruction/course-13/modules/07.md",
+          "hours": 10
+        },
+        {
+          "id": "C13-M08",
+          "path": "instruction/course-13/modules/08.md",
+          "hours": 10
+        }
+      ]
+    }
+  ],
+  "additions": [],
+  "limitations": [
+    "Source-dependent tasks remain access/inspection-dependent as source-audit.md details.",
+    "M3 sources and alternate SA source must be fixed and inspected at use time.",
+    "No learner pilot, expert validation, rendered accessibility QA, full rights clearance or runtime-model attestation.",
+    "FE8/UIT paused; no browser rendering or workaround."
+  ]
+}

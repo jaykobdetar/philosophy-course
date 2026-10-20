@@ -1,0 +1,19 @@
+{
+  "status": "pass",
+  "checks_passed": 191,
+  "errors": [],
+  "baseline_hours": 140,
+  "addition_net_hours": 32,
+  "planned_total_hours": 172,
+  "modules": 8,
+  "additions": 3,
+  "markdown_files": 20,
+  "local_links_checked": 59,
+  "external_links_enumerated_not_retested": 10,
+  "source_fingerprints_checked": 9,
+  "limits": [
+    "Structural/link/contract arithmetic only; no learner evidence or pedagogical certification.",
+    "External source access outcomes are manually recorded in source-audit.md; no HTTP success inferred.",
+    "No browser/rendered accessibility, FE8/UIT, rights, expert or model-identity validation."
+  ]
+}

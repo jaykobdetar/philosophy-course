@@ -1,0 +1,229 @@
+{
+  "course_number": 7,
+  "authored_on": "2026-10-20",
+  "authoring_status": "complete",
+  "source_readiness": "conditional; see source-audit.md",
+  "tracks": [
+    {
+      "id": "C07",
+      "title": "Knowledge and reality",
+      "curriculum_page": "current/courses/07.md",
+      "baseline_hours": 140,
+      "readme": "instruction/course-07/README.md",
+      "outcomes": "instruction/course-07/outcomes.md",
+      "assessment": "instruction/course-07/assessment.md",
+      "examiner": "instruction/course-07/examiner-notes.md",
+      "source_audit": "instruction/course-07/source-audit.md",
+      "modules": [
+        {
+          "id": "C07-M01",
+          "title": "Knowledge and justification",
+          "path": "instruction/course-07/modules/01.md",
+          "hours": 16,
+          "budget_minutes": [
+            300,
+            120,
+            240,
+            60,
+            60,
+            120,
+            60
+          ]
+        },
+        {
+          "id": "C07-M02",
+          "title": "Testimony and trust",
+          "path": "instruction/course-07/modules/02.md",
+          "hours": 16,
+          "budget_minutes": [
+            300,
+            120,
+            240,
+            60,
+            60,
+            120,
+            60
+          ]
+        },
+        {
+          "id": "C07-M03",
+          "title": "Epistemic injustice",
+          "path": "instruction/course-07/modules/03.md",
+          "hours": 14,
+          "budget_minutes": [
+            240,
+            120,
+            180,
+            60,
+            60,
+            120,
+            60
+          ]
+        },
+        {
+          "id": "C07-M04",
+          "title": "Persons and continuity",
+          "path": "instruction/course-07/modules/04.md",
+          "hours": 18,
+          "budget_minutes": [
+            360,
+            180,
+            240,
+            60,
+            60,
+            120,
+            60
+          ]
+        },
+        {
+          "id": "C07-M05",
+          "title": "A different inquiry into self",
+          "path": "instruction/course-07/modules/05.md",
+          "hours": 16,
+          "budget_minutes": [
+            300,
+            120,
+            240,
+            60,
+            60,
+            120,
+            60
+          ]
+        },
+        {
+          "id": "C07-M06",
+          "title": "Freedom and responsibility",
+          "path": "instruction/course-07/modules/06.md",
+          "hours": 22,
+          "budget_minutes": [
+            420,
+            240,
+            300,
+            60,
+            60,
+            180,
+            60
+          ]
+        },
+        {
+          "id": "C07-M07",
+          "title": "Essay and revision",
+          "path": "instruction/course-07/modules/07.md",
+          "hours": 28,
+          "budget_minutes": [
+            360,
+            180,
+            480,
+            120,
+            60,
+            360,
+            120
+          ]
+        },
+        {
+          "id": "C07-M08",
+          "title": "Assessment and delayed check",
+          "path": "instruction/course-07/modules/08.md",
+          "hours": 10,
+          "budget_minutes": [
+            60,
+            60,
+            90,
+            20,
+            70,
+            120,
+            90,
+            60,
+            30
+          ]
+        }
+      ]
+    }
+  ],
+  "additions": [
+    {
+      "id": "C07-A25",
+      "pc_task": "PC-25",
+      "path": "instruction/course-07/additions/pc25.md",
+      "hours": 14,
+      "replaces_hours": 0,
+      "net_hours": 14,
+      "applies_to": [
+        "C07"
+      ],
+      "credit_rule": "Credit exact prior source reading, retained artifact and independent evidence once; otherwise new activity. No baseline replacement.",
+      "budget_minutes": [
+        240,
+        120,
+        180,
+        60,
+        60,
+        120,
+        60
+      ]
+    },
+    {
+      "id": "C07-A26",
+      "pc_task": "PC-26",
+      "path": "instruction/course-07/additions/pc26.md",
+      "hours": 12,
+      "replaces_hours": 0,
+      "net_hours": 12,
+      "applies_to": [
+        "C07"
+      ],
+      "credit_rule": "Credit exact prior source reading, retained artifact and independent evidence once; otherwise new activity. No baseline replacement.",
+      "budget_minutes": [
+        240,
+        120,
+        120,
+        60,
+        60,
+        90,
+        30
+      ]
+    },
+    {
+      "id": "C07-A32",
+      "pc_task": "PC-32",
+      "path": "instruction/course-07/additions/pc32.md",
+      "hours": 6,
+      "replaces_hours": 0,
+      "net_hours": 6,
+      "applies_to": [
+        "C07"
+      ],
+      "credit_rule": "Credit exact prior source reading, retained artifact and independent evidence once; otherwise new activity. No baseline replacement.",
+      "budget_minutes": [
+        120,
+        60,
+        60,
+        30,
+        30,
+        30,
+        30
+      ]
+    }
+  ],
+  "limitations": [
+    "Reid Brookes VI.24, Fricker chapter 1 and Parfit pp.3–27 passages not inspected; authorized access required.",
+    "Goldman local reprint pp.89–104 selected images inspected; original-page crosswalk and anthology identity unresolved.",
+    "Moore HTML has transcription warnings; original-page source required for definitive citations.",
+    "Nyaya 1913 I.i.1–8 including attached notes finite but primary passage/notes not retrieved; A32 source criterion pending.",
+    "No learner pilot, expert review, rights clearance, full accessible-text/visual validation or observed workload validation.",
+    "Astra requested upstream; independent runtime identity unattested. FE8/UIT paused and untouched."
+  ],
+  "assessment_minutes": {
+    "fresh_rows": [
+      35,
+      30,
+      25
+    ],
+    "written_total": 90,
+    "explanation": 20,
+    "delayed": 30,
+    "delayed_interval": "4–6 weeks or two later modules",
+    "charged_to": "C07-M08"
+  },
+  "planned_amended_hours": 172
+}
