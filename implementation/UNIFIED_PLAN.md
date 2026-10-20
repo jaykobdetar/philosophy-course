@@ -4,6 +4,8 @@
 **Status:** proposed implementation specification, not a completed course revision.  
 **Decision:** use this document instead of parallel task lists from `1.md` and `Untitled.md`.
 
+**Execution update, 20 October 2026:** The user has authorized full teaching-material authoring for every course and option now. The earlier pilot-first expansion instruction below no longer stops authoring. Source-access dependencies and empirical validation remain separate, honestly reported conditions. The current work follows the [full-authoring contract](AUTHORING_2026-10-20.md).
+
 ## Executive decision
 
 Keep the revised 14-course curriculum, writing-first entry and criterion-based learning evidence. Use the 48-task plan’s educational and verification structure, the compact plan’s concrete reading/housekeeping proposals, and the six refinements from the preceding comparison. Preserve **PC-01–PC-48** as the only actionable task IDs. The compact plan’s 65 entries map into those tasks in Appendix A; they are not 65 additional jobs.

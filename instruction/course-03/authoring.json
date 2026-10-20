@@ -1,0 +1,82 @@
+{
+  "course_number": 3,
+  "authored_on": "2026-10-20",
+  "status": "fully-authored; exact-edition access and validation pending",
+  "tracks": [
+    {
+      "id": "C03",
+      "title": "Ancient philosophy",
+      "curriculum_page": "current/courses/03.md",
+      "baseline_hours": 120,
+      "readme": "instruction/course-03/README.md",
+      "outcomes": "instruction/course-03/outcomes.md",
+      "assessment": "instruction/course-03/assessment.md",
+      "examiner": "instruction/course-03/examiner-notes.md",
+      "source_audit": "instruction/course-03/source-audit.md",
+      "modules": [
+        {
+          "id": "C03-M01",
+          "path": "instruction/course-03/modules/01.md",
+          "hours": 10,
+          "title": "Historical orientation and method"
+        },
+        {
+          "id": "C03-M02",
+          "path": "instruction/course-03/modules/02.md",
+          "hours": 16,
+          "title": "The challenge of justice"
+        },
+        {
+          "id": "C03-M03",
+          "path": "instruction/course-03/modules/03.md",
+          "hours": 18,
+          "title": "Plato’s answer and its limits"
+        },
+        {
+          "id": "C03-M04",
+          "path": "instruction/course-03/modules/04.md",
+          "hours": 18,
+          "title": "Knowledge and the soul"
+        },
+        {
+          "id": "C03-M05",
+          "path": "instruction/course-03/modules/05.md",
+          "hours": 16,
+          "title": "Aristotle on explanation"
+        },
+        {
+          "id": "C03-M06",
+          "path": "instruction/course-03/modules/06.md",
+          "hours": 14,
+          "title": "Aristotle and Hellenistic alternatives"
+        },
+        {
+          "id": "C03-M07",
+          "path": "instruction/course-03/modules/07.md",
+          "hours": 20,
+          "title": "Essay and revision"
+        },
+        {
+          "id": "C03-M08",
+          "path": "instruction/course-03/modules/08.md",
+          "hours": 8,
+          "title": "Independent assessment and later recall"
+        }
+      ]
+    }
+  ],
+  "additions": [],
+  "limitations": [
+    "Barnes Complete Works 1984 assigned Aristotle texts not inspected: exact wording and Bekker references remain pending; local older translations support provisional practice only.",
+    "Annas/Barnes Outlines of Scepticism 2000 I.1–30 unavailable: required reading and edition-specific Sextus criteria remain pending; Patrick is not a substitute.",
+    "Authorized marked Plato alternatives inspected selectively, not fully collated against preferred modern translations or every subletter boundary.",
+    "Yonge complete Letter to Menoeceus inspected, but local edition lacks per-paragraph X.122–135 numbering; no concordance invented.",
+    "Learner pilot, timing calibration, expert review, actual tutor calibration, rights clearance and rendered accessibility testing not performed."
+  ],
+  "credit_notes": {
+    "opening_sessions": "Course 1 only; no additional Course 3 credit",
+    "delayed_assessment": "0.5 hour inside Module 8; taken after roughly four to six weeks or two later modules, charged only to Course 3",
+    "pc_25_33": "No addition assigned to Course 3",
+    "net_added_hours": 0
+  }
+}

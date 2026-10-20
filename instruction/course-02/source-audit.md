@@ -1,0 +1,34 @@
+# Course 2 source audit — 20 October 2026
+
+## Inspected sources and limits
+
+**Textbook:** P. D. Magnus, Tim Button, Robert Trueman and Richard Zach, with contributions by J. Robert Loftis and Aaron Thomas-Bolduc, *forall x: Calgary: An Introduction to Formal Logic*, title label **Fall 2025**, revision **c5cb415 (2026-09-27)**. Inspected local [PDF](../../collection/philosophy-study-collection/texts/introduction_logic/required/forallx_calgary_textbook.pdf) through `pdftotext -layout`, including title/copyright/revision/contents pages and the passages below. Printed page locators were read from that extraction, not inferred from PDF page indices. File SHA-256 is recorded in [results](checks/results.json). The title label does not imply the file was last changed in 2025.
+
+**Selected solutions:** the matching Fall 2025 *Solutions to Selected Exercises*, credited to Magnus, Button and Zach with contributions from Trueman, Loftis and Thomas-Bolduc; revision **80a85da (2026-09-15)**. Inspected local [PDF](../../collection/philosophy-study-collection/texts/introduction_logic/solutions/forallx_calgary_solutions.pdf), front matter, contents and chapter/item labels plus required chapter 1–3 solution passages. Its revision is distinct from the textbook's and explicitly recorded. “Matching” here means the assigned prompts/labels were compared, not that every exercise in the whole book was checked. This course requires only the specified chapter 1–3 textbook exercises; later exercise banks are original.
+
+Both files state CC BY 4.0 and preserve their contributor notices. The course links the existing files and supplies original explanatory material; no new full-text copy or alteration of their notices was made. The [official project URL](https://forallx.openlogicproject.org/) is printed in the source front matter; its live contents were not inspected in this authoring pass. No separate legal review, global rights clearance or newly downloaded edition is claimed.
+
+## Passage-level record
+
+| Source section actually inspected | Supports in these packets | Locator/quotation status and limits |
+| --- | --- | --- |
+| Textbook front matter/contents, Parts I–IX | Revision pin; exact chapter boundaries 1–41; optional 42–48 distinction | Extracted printed contents checked. No live edition substitution. |
+| Chapter 2 §§2.1–2.2; chapter 3 §§3.1–3.3 and exercise sets | Countercase definition, joint possibility, necessity/contingency/equivalence | Definitions and chapter 3 A1/A4/E2/G4 inspected. Original explanations, no long quotations. |
+| Textbook chapter 1 exercise list; solutions chapter 1 pp. 1 and chapter 2 pp. 2–3; textbook chapter 2 exercise list | Opening packet's exact labels and feedback route | Existing packet retained; named exercise labels compared with extracted local text. |
+| Solutions chapter 3 pp. 4–6 | Feedback for A1/A4/E2/G4 | Relevant answer passages inspected, not all optional answers. |
+| Chapters 4–5 opening explanations; chapter 6 formation/scope/bracket sections pp. 49–54; chapter 7 scope ambiguity pp. 59–60; chapter 8 opening use/mention discussion | TFL symbolization, formation, scope and metalinguistic distinction | Assigned chapters remain whole; inspection was targeted, not a claim to reread every page. |
+| Chapters 9–10 characteristic tables/truth-functionality; chapter 12 entailment/turnstile discussion pp. 87–90; chapters 13–15 opening limitations/shortcuts/partial-table explanations | Semantics tasks, force of countervaluation, limits of TFL | Source concepts inspected; original task results independently enumerated by local script. |
+| Chapter 16 introduction; chapter 17 conjunction examples pp. 118–120, subproof restrictions, biconditional/disjunction/negation/IP/explosion pp. 130–139; chapter 18 backward strategy | Basic Calgary rules and proof dependence | Rule schemes inspected, including `¬E` to ⊥ and `X` explosion. Printed proof formatting not visually QA-tested. |
+| Chapter 19 DS/MT/DNE/LEM/DeM pp. 162–167; chapters 20–22 opening theorem/derived-rule/soundness/completeness discussions | Exact additional rules, especially two-subproof LEM; ⊢ vs ⊨ | No claim of independently proving completeness; no Carnap system assumed. |
+| Chapters 23–29 opening sections, including domain restriction, relation places, identity, FOL symbols, descriptions and ambiguity | Original FOL translations, distinctness, uniqueness and scope | Exact chapter/printed-page boundaries checked; coverage authored from inspected concepts, not an exhaustive commentary on each page. |
+| Chapters 30–35 opening extensionality, truth, entailment, construction, general interpretation reasoning and relation-property discussions | Finite models, bounded-search limitation, transitivity premise | Original models are computed locally; no conclusion of general FOL validity from finite enumeration. |
+| Chapter 36 ∀E/∃I discussion pp. 297–300; ∀I restrictions pp. 302–304; ∃E pp. 305–306; chapter 37 opening strategy | Substitution, complete replacement for ∀I, fresh-witness restrictions | Exact eigenname and scope restrictions inspected. |
+| Chapter 38 CQ pp. 323–324; chapter 39 =I/=E pp. 326–328; chapter 40 CQ derivation pp. 330–331; chapter 41 pp. 332–335 | CQ, identity, derived rules and proof/semantic distinction | Permitted selective identity replacement and direction checked. |
+
+## Assignment scope and evidence status
+
+Required reading is all of Parts I–VII, chapters 1–41, as prescribed by the current curriculum. Source inspection here is targeted passage verification, accurately listed above; it is not a claim that every assigned page or every optional exercise was revalidated. All assigned readings are locally available. Every mandatory original exercise has a feedback route in the practice/proof/examiner files. Every essential outcome has practice plus a concrete independent task, and Course 2's fresh form retains 140 minutes.
+
+Mechanical checks verify 150 baseline hours, manifest paths/local link targets, exhaustive TFL claims and explicit finite model values. See the report for actual check counts and the [check README](checks/README.md) for limits. Written proof lines were reviewed against the inspected Calgary schemes; there is no independent human proof review or machine natural-deduction acceptance claim. English faithfulness requires judgment beyond the formula evaluator.
+
+No required reading is blocked. Pending validation: real learner timing/pilot, parallel-route sequencing trial, actual deployed tutor calibration, optional qualified expert review and rendered accessibility/audio tests. Optional metatheory has no mandatory or silently allocated hours. No PC-25–33 packet is assigned to Course 2; PC-36 scheduling guidance is included inside the existing budget, with its empirical test still pending.

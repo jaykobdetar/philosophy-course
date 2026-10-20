@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-20",
+  "status": "pass",
+  "counts": {
+    "tfl_claims": 58,
+    "tfl_valuations": 296,
+    "fol_model_assertions": 254,
+    "fol_bounded_claims": 25,
+    "fol_bounded_interpretations": 780,
+    "local_links": 55
+  },
+  "baseline_hours": 150,
+  "assessment_minutes": {
+    "translation": 30,
+    "semantics": 30,
+    "proof": 60,
+    "limits": 20,
+    "total": 140
+  },
+  "source_sha256": {
+    "collection/philosophy-study-collection/texts/introduction_logic/required/forallx_calgary_textbook.pdf": "9eca9e08ad6380b00a783536f8a16abc94d13d9561f05baa7fc0a2b762e48ef0",
+    "collection/philosophy-study-collection/texts/introduction_logic/solutions/forallx_calgary_solutions.pdf": "dc435f02bc0beffc37fef26154999bcf3bb690e2d4a3d79033b5dcebbd0911e7"
+  },
+  "limitations": [
+    "Not a natural-deduction proof checker: derivation lines require direct rule/scope review.",
+    "FOL valid-goal enumeration covers only domains of size 1 and 2; it is not a proof of FOL validity.",
+    "Explicit countermodels and cardinality checks use their stated finite domains, including sizes 3 and 4.",
+    "No learner pilot, expert review, live Carnap test, or rendered accessibility QA."
+  ]
+}

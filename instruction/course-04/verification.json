@@ -1,0 +1,22 @@
+{
+  "checked_on": "2026-10-20",
+  "scope": "instruction/course-04 only",
+  "manifest_paths": "pass",
+  "module_count": 8,
+  "baseline_hours": 100,
+  "pc30_hours": 2,
+  "pc30_replaces_hours": 2,
+  "net_added_hours": 0,
+  "local_markdown_links_checked": 38,
+  "missing_local_links": [],
+  "module8_minutes": 360,
+  "module8_final_samples_minutes": 75,
+  "delayed_attempt_minutes": 30,
+  "delayed_feedback_minutes": 30,
+  "delayed_time_charged_to": "C04",
+  "limits": "Structural and authoring checks only. No learner execution, expert validation, rendered accessibility QA or blanket external-link availability claim.",
+  "module_time_breakdowns": "pass; each teaching-page allocation sums to its manifest hours",
+  "whitespace_scan": "pass",
+  "file_count": 17,
+  "markdown_word_count": 13052
+}

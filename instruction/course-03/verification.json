@@ -1,0 +1,35 @@
+{
+  "checked_on": "2026-10-20",
+  "scope": "instruction/course-03 only",
+  "module_count": 8,
+  "baseline_hours": 120,
+  "module_phase_hours": [
+    10.0,
+    16,
+    18,
+    18,
+    16,
+    14,
+    20,
+    8.0
+  ],
+  "assessment_minutes": 480,
+  "delayed_minutes_included": 30,
+  "local_markdown_links_checked": 62,
+  "required_range_strings_checked": [
+    "327a–354c",
+    "357a–367e",
+    "427d–445e",
+    "509d–511e",
+    "514a–521b",
+    "577c–580c",
+    "64a–69e; 72e–84b",
+    "II.1–3 and II.8",
+    "X.122–135",
+    "I.1–30"
+  ],
+  "errors": [],
+  "limits": "Static local path/hour/range checks only. No learner pilot, expert validation, external-link revalidation, rendered accessibility or live tutor calibration.",
+  "markdown_files": 15,
+  "whitespace_check": "All owned Markdown lines checked; no trailing whitespace"
+}

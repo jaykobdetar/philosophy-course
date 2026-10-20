@@ -1,0 +1,92 @@
+{
+  "course_number": 4,
+  "authored_on": "2026-10-20",
+  "tracks": [
+    {
+      "id": "C04",
+      "title": "Medieval philosophy and transmission",
+      "curriculum_page": "current/courses/04.md",
+      "baseline_hours": 100,
+      "readme": "instruction/course-04/README.md",
+      "outcomes": "instruction/course-04/outcomes.md",
+      "assessment": "instruction/course-04/assessment.md",
+      "examiner": "instruction/course-04/examiner-notes.md",
+      "source_audit": "instruction/course-04/source-audit.md",
+      "tutor": "instruction/course-04/tutor-notes.md",
+      "modules": [
+        {
+          "id": "C04-M01",
+          "title": "Context and transmission",
+          "path": "instruction/course-04/modules/01.md",
+          "hours": 10
+        },
+        {
+          "id": "C04-M02",
+          "title": "Time and experience",
+          "path": "instruction/course-04/modules/02.md",
+          "hours": 12
+        },
+        {
+          "id": "C04-M03",
+          "title": "Anselm and Gaunilo",
+          "path": "instruction/course-04/modules/03.md",
+          "hours": 14
+        },
+        {
+          "id": "C04-M04",
+          "title": "Avicenna on self and soul",
+          "path": "instruction/course-04/modules/04.md",
+          "hours": 14
+        },
+        {
+          "id": "C04-M05",
+          "title": "Al-Ghazali and philosophical inquiry",
+          "path": "instruction/course-04/modules/05.md",
+          "hours": 12
+        },
+        {
+          "id": "C04-M06",
+          "title": "Maimonides and Aquinas",
+          "path": "instruction/course-04/modules/06.md",
+          "hours": 14
+        },
+        {
+          "id": "C04-M07",
+          "title": "Essay and revision",
+          "path": "instruction/course-04/modules/07.md",
+          "hours": 18
+        },
+        {
+          "id": "C04-M08",
+          "title": "Assessment and delayed check",
+          "path": "instruction/course-04/modules/08.md",
+          "hours": 6
+        }
+      ]
+    }
+  ],
+  "additions": [
+    {
+      "id": "C04-PC30",
+      "pc_task": "PC-30",
+      "path": "instruction/course-04/pc-30-evil.md",
+      "hours": 2,
+      "replaces_hours": 2,
+      "net_hours": 0,
+      "applies_to": [
+        "C04"
+      ],
+      "credit_rule": "Embedded in C04-M06: replaces two hours of general comparison practice. Aquinas I q.2 a.3 objection 1 and reply 1 already assigned; no duplicate reading charge. Course 5 owns the separate Hume encounter."
+    }
+  ],
+  "limitations": [
+    "Teaching materials authored; no learner pilot, expert validation, rendered accessibility test or rights clearance claimed.",
+    "Khalidi general and source introductions, Avicenna pp.27–58 and al-Ghazali pp.59–98 were not inspected; exact contextual claims and mathematics/logic source cards require actual assigned copy.",
+    "Flying-person formulation has not been located in the assigned Book of Salvation excerpt. M04 source-dependent interpretation and Avicenna essay option remain blocked until confirmed or a finite source amendment resolves a mismatch; no automatic substitution of another work.",
+    "Chadwick, Williams and Pines wording/pages were not inspected. Pusey, Deane and selected Friedlander passages are identified reading aids, not silently substituted assigned editions.",
+    "Local Deane Proslogion 2 contains suspect transcription wording; quotations require checking against the assigned edition.",
+    "Hackett direct publisher-page fetch returned 403; publisher search snippet is metadata only.",
+    "Final E3 comparison requires exact Khalidi and Pines passages inspected by assessor; unavailable sources leave criteria pending.",
+    "Final delayed task 30 minutes and delayed feedback 30 minutes remain charged to Course 4 even when delivered during a later course."
+  ]
+}

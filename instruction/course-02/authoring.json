@@ -1,0 +1,34 @@
+{
+  "course_number": 2,
+  "authored_on": "2026-10-20",
+  "tracks": [{
+    "id": "C02",
+    "title": "Formal logic",
+    "curriculum_page": "current/courses/02.md",
+    "baseline_hours": 150,
+    "readme": "instruction/course-02/README.md",
+    "outcomes": "instruction/course-02/outcomes.md",
+    "assessment": "instruction/course-02/assessment.md",
+    "examiner": "instruction/course-02/examiner-notes.md",
+    "source_audit": "instruction/course-02/source-audit.md",
+    "modules": [
+      {"id": "C02-M01", "path": "instruction/course-02/modules/01.md", "hours": 12},
+      {"id": "C02-M02", "path": "instruction/course-02/modules/02.md", "hours": 18},
+      {"id": "C02-M03", "path": "instruction/course-02/modules/03.md", "hours": 18},
+      {"id": "C02-M04", "path": "instruction/course-02/modules/04.md", "hours": 26},
+      {"id": "C02-M05", "path": "instruction/course-02/modules/05.md", "hours": 18},
+      {"id": "C02-M06", "path": "instruction/course-02/modules/06.md", "hours": 18},
+      {"id": "C02-M07", "path": "instruction/course-02/modules/07.md", "hours": 24},
+      {"id": "C02-M08", "path": "instruction/course-02/modules/08.md", "hours": 16}
+    ]
+  }],
+  "additions": [],
+  "limitations": [
+    "Authored completion does not constitute a learner pilot or expert validation.",
+    "Local PDF sources are inspected in their pinned revisions; no live source replacement is assumed.",
+    "Carnap is optional and untested; the required route uses written Calgary proofs.",
+    "The semantic verifier is not a natural-deduction checker; bounded FOL search does not establish validity.",
+    "Block/parallel scheduling is a reversible design trial, with learner sequencing evidence pending.",
+    "Audio/text alternatives are authored; rendered accessibility and assistive technology behavior remain untested."
+  ]
+}

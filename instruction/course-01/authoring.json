@@ -1,0 +1,203 @@
+{
+  "course_number": 1,
+  "authored_on": "2026-10-20",
+  "tracks": [
+    {
+      "id": "C01",
+      "title": "Reading reasoning and philosophical writing",
+      "curriculum_page": "current/courses/01.md",
+      "baseline_hours": 120,
+      "readme": "instruction/course-01/README.md",
+      "outcomes": "instruction/course-01/outcomes.md",
+      "assessment": "instruction/course-01/assessment.md",
+      "examiner": "instruction/course-01/examiner-notes.md",
+      "source_audit": "instruction/course-01/source-audit.md",
+      "modules": [
+        {
+          "id": "C01-M01",
+          "path": "instruction/course-01/modules/01.md",
+          "hours": 4,
+          "allocation_minutes": {
+            "Opening Session 1, including its independent check": 90,
+            "Read and establish source record": 30,
+            "Practice and discuss learning question": 40,
+            "Independent setup check": 20,
+            "Feedback": 20,
+            "Revise learning plan and schedule retrieval": 40
+          }
+        },
+        {
+          "id": "C01-M02",
+          "path": "instruction/course-01/modules/02.md",
+          "hours": 8,
+          "allocation_minutes": {
+            "Opening Sessions 2\u20133 credit": 160,
+            "Remaining OpenStax reading and retrieval": 50,
+            "PC-31 practical-reasoning packet": 120,
+            "Remaining reconstructions and condition tests": 55,
+            "Independent changed case": 20,
+            "Feedback": 25,
+            "Write and revise 200-word explanation": 50
+          }
+        },
+        {
+          "id": "C01-M03",
+          "path": "instruction/course-01/modules/03.md",
+          "hours": 8,
+          "allocation_minutes": {
+            "Opening Session 2 paragraph credit": 20,
+            "Read guides and retrieve distinctions": 120,
+            "Practice three paragraphs and source forms": 130,
+            "Feedback": 50,
+            "Independent paragraph": 40,
+            "Revise and audit": 120
+          }
+        },
+        {
+          "id": "C01-M04",
+          "path": "instruction/course-01/modules/04.md",
+          "hours": 14,
+          "allocation_minutes": {
+            "Opening Session 4 credit": 90,
+            "Full dialogue reading and focused rereading": 240,
+            "Practice maps and dialogue": 150,
+            "Draft reconstruction and response": 120,
+            "Opening fresh form": 30,
+            "Independent changed case": 30,
+            "Feedback": 60,
+            "Revision and retrieval": 120
+          }
+        },
+        {
+          "id": "C01-M05",
+          "path": "instruction/course-01/modules/05.md",
+          "hours": 8,
+          "allocation_minutes": {
+            "Read and annotate whole dialogue": 150,
+            "Practice historical/dramatic/argument distinctions": 80,
+            "Draft 500-word explanation and objection": 100,
+            "Independent changed case": 30,
+            "Feedback and discussion": 40,
+            "Revision and retrieval": 80
+          }
+        },
+        {
+          "id": "C01-M06",
+          "path": "instruction/course-01/modules/06.md",
+          "hours": 10,
+          "allocation_minutes": {
+            "Assigned main-text reading": 180,
+            "Maps and geometry practice": 110,
+            "Draft comparison and paradox reconstruction": 100,
+            "Independent changed case": 35,
+            "Feedback and dialogue": 55,
+            "Revision and retrieval": 120
+          }
+        },
+        {
+          "id": "C01-M07",
+          "path": "instruction/course-01/modules/07.md",
+          "hours": 12,
+          "allocation_minutes": {
+            "Read Meditations I\u2013II and source notes": 210,
+            "Practice three maps and wax comparison": 150,
+            "Draft evaluation": 120,
+            "Independent changed case": 40,
+            "Feedback and dialogue": 60,
+            "Revision and retrieval": 140
+          }
+        },
+        {
+          "id": "C01-M08",
+          "path": "instruction/course-01/modules/08.md",
+          "hours": 10,
+          "allocation_minutes": {
+            "Read whole article and annotate two cases": 130,
+            "Practice condition matrix and new case": 120,
+            "Draft 600-word objection and reply": 120,
+            "Independent changed case": 35,
+            "Feedback": 55,
+            "Revision and retrieval": 140
+          }
+        },
+        {
+          "id": "C01-M09",
+          "path": "instruction/course-01/modules/09.md",
+          "hours": 12,
+          "allocation_minutes": {
+            "Read whole article with principle ledger": 180,
+            "Practice reconstruction and changed-feature discussion": 150,
+            "Draft 600-word evaluation": 130,
+            "Independent changed case": 40,
+            "Feedback": 60,
+            "Revision and retrieval": 160
+          }
+        },
+        {
+          "id": "C01-M10",
+          "path": "instruction/course-01/modules/10.md",
+          "hours": 18,
+          "allocation_minutes": {
+            "Choose question, retrieve and reread sources": 180,
+            "Proposal and argument outline": 150,
+            "First draft": 240,
+            "Feedback and review": 120,
+            "Independent changed objection practice": 40,
+            "Substantive revision": 240,
+            "Citation audit and revision memo": 110
+          }
+        },
+        {
+          "id": "C01-M11",
+          "path": "instruction/course-01/modules/11.md",
+          "hours": 10,
+          "allocation_minutes": {
+            "Evidence grid and source preparation": 60,
+            "Fresh argument and conditions task": 30,
+            "Fresh passage interpretation": 60,
+            "New essay objection response": 60,
+            "Dialogue or typed exchange": 20,
+            "Feedback and evidence review": 70,
+            "Targeted remediation": 120,
+            "Fresh retest and revised evidence record": 120,
+            "Plan delayed consolidation": 60
+          }
+        },
+        {
+          "id": "C01-M12",
+          "path": "instruction/course-01/modules/12.md",
+          "hours": 6,
+          "allocation_minutes": {
+            "Retrieval session 1 including opening delayed form": 45,
+            "Retrieval session 2": 45,
+            "Independent new-case application": 60,
+            "Compare with sources and feedback": 60,
+            "Targeted practice": 60,
+            "Revision, fresh recheck and next-course handoff": 90
+          }
+        }
+      ]
+    }
+  ],
+  "additions": [
+    {
+      "id": "C01-M02-PRACTICAL",
+      "pc_task": "PC-31",
+      "path": "instruction/course-01/practical-reasoning.md",
+      "hours": 2,
+      "replaces_hours": 2,
+      "net_hours": 0,
+      "applies_to": [
+        "C01"
+      ],
+      "credit_rule": "Replaces two previously unassigned Module 2 practice hours; included in its eight hours and the 120-hour baseline; retain all six reconstructions and four condition tests."
+    }
+  ],
+  "limitations": [
+    "Authored complete; no learner pilot, external expert validation, rights clearance, or rendered visual/accessibility QA claimed.",
+    "Preferred modern Plato and Descartes editions not inspected; named provisional routes support ordinary assignments. Translation-sensitive judgments require the exact disputed edition.",
+    "Descartes OCR has defects and no AT markers; verify quotations in page image and cite printed Veitch pages.",
+    "Gettier external download unconfirmed; full English local republication inspected. Singer publisher page did not expose full text; existing local complete scan inspected, with no redistribution clearance.",
+    "Public assessment prompts require exposure declarations and an unexposed replacement when rehearsed."
+  ]
+}
