@@ -1,10 +1,16 @@
 # Philosophy course
 
-This private repository holds the current self-directed philosophy curriculum and its preserved source collection. **Start with [Session 1](instruction/course-01/sessions/01.md):** read [OpenStax 2.5](https://openstax.org/books/introduction-philosophy/pages/2-5-reading-philosophy) and Plato's *Euthyphro* [2a up to before 5d](https://persweb.wabash.edu/facstaff/helmang/phi110-1516F/phi110-handouts/Euthyphro.pdf), then write a 120-word paraphrase of Euthyphro's reason for prosecuting his father. The marked reading is online and requires internet access; use the visible Stephanus markers. Save your own untouched attempt and one question for next time.
+**Start in the [Study desk](course/index.html).** Open `course/index.html` in a browser to browse the current fourteen-course curriculum, read teaching packets, search the materials, and bookmark your place locally. It works offline after checkout, with no account or server. External readings still need their stated access route. The authored curriculum, not the browser's bookmark, governs learning evidence and completion.
 
-The [complete teaching index](instruction/README.md) covers **all fourteen courses and every option: 20 tracks and 147 distinct baseline modules**, plus the finite additions. Each course has specific readings, explanations, exercises, independent and delayed assessments, outcome maps, and separate tutor/examiner guidance. Course 13's three routes share one eight-module sequence. The [Course 1 guide](instruction/course-01/README.md) preserves the first four sessions and their six-hour credit within its complete twelve-module course.
+![Study desk overview with first-session launch and course cards](course/screenshots/overview.png)
 
-Use [review progress](implementation/PROGRESS_2026-10-20.md) for accepted checkpoints and [source access/status](instruction/source-status.md) before reading-dependent work. AI content review does not establish a real learner pilot, human expert validation, exact-edition access, rights clearance or rendered accessibility testing. The [current curriculum](current/README.md) preserves the accepted scope; the [navigator](current/navigation.html) links both curriculum pages and teaching packets.
+![Course 1 first-session teaching packet in the Study desk](course/screenshots/session.png)
+
+The Study desk presents all **20 tracks and 147 distinct baseline modules**, plus four opening sessions and reference material. Choose one option in each of Courses 11, 12, and 13. Course 13 options share the same eight-module sequence. The [teaching index](instruction/README.md) and [current curriculum](current/README.md) remain the editable sources; the [older fifteen-unit collection](collection/README.md) is preserved for historical use.
+
+To launch from a checkout, double-click `course/index.html`, or run `xdg-open course/index.html` on Linux. To rebuild the browser content after editing Markdown, run `python3 scripts/build_course_ui.py` (requires Pandoc), then `python3 scripts/check_course.py` and commit the updated `course/content.js`. The browser itself has no runtime dependency. A bookmark stores only the page path in your browser's local storage; clear it in the reading sidebar. Personal work belongs in the ignored `learner/` directory.
+
+The first session assigns [OpenStax 2.5](https://openstax.org/books/introduction-philosophy/pages/2-5-reading-philosophy) and Plato's *Euthyphro* [2a up to before 5d](https://persweb.wabash.edu/facstaff/helmang/phi110-1516F/phi110-handouts/Euthyphro.pdf), then a 120-word paraphrase. Keep your untouched attempt and one question. [Source access/status](instruction/source-status.md) matters before reading-dependent work. AI content review does not establish a real learner pilot, human expert validation, exact-edition access, rights clearance, or rendered accessibility testing. The program awards no credit or external certification.
 
 ## Which rules apply
 

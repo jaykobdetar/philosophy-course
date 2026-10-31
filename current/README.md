@@ -1,5 +1,7 @@
 # Current philosophy curriculum
 
+For day-to-day study, open the [Study desk](../course/index.html) to read and navigate the teaching packets in a browser. This Markdown remains the curriculum authority.
+
 **Authority:** The Markdown pages in this directory are the editable curriculum source, converted from the September 30 revised DOCX. The [original DOCX](../Philosophy%20curriculum%20and%20writing%20foundations.docx) and [conversion baseline](../archive/revised-curriculum-pandoc-baseline.md) are preserved for comparison. The old fifteen-unit material in `collection/` is historical source material; its gates and tutor prompts do not govern current study.
 
 The current course version is `2026-10-13-r0`. The conversion preserves the complete revised plan, including all options, assessment material, access cautions, and eight capstone milestones. Later changes must be logged in [decisions](../implementation/DECISIONS.md) and reflected in structured reading and workload records. PDF and DOCX views are exports, not separate syllabi.
